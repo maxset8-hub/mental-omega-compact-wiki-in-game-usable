@@ -8,7 +8,7 @@ mental omega compact wiki overlay
 4. comparing feature.
 5. user feedback errors or bugs or UI issues or imrpovement's suggestions needed.
 6. made with Ai GLM 4.6 and potato ai vibe coder.
-
+7. Click The ! in page to view tips
 <img width="794" height="692" alt="image" src="https://github.com/user-attachments/assets/cf7b7e2f-077c-4621-9fb1-84b7e41dc015" />
 
 
