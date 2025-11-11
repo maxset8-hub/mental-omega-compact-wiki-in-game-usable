@@ -1,0 +1,13 @@
+{
+  "unit_name": "Chronoboost",
+  "infobox_data": {
+    "Affiliation": "Allied Nations",
+    "Cost": "$800",
+    "Cooldown": "7:30",
+    "Called from": "Chronosphere",
+    "Effect": "Increases the speed of Siegfried, Suppressors, ground vehicles and naval vessels (exceptepic units) in a radius of 4.3 by 50% for 450 frames (30 in-game seconds)",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/e0/Cbooicon.png/revision/latest",
+  "icon_filename": "Cbooicon.png"
+}

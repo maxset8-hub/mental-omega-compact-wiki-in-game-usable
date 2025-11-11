@@ -1,0 +1,77 @@
+{
+  "unit_name": "Abrams Tank",
+  "infobox_data": {
+    "Faction": "United States",
+    "Role": [
+      "Anti-armor",
+      "Anti-infantry"
+    ],
+    "Armament": [
+      "125mm cannon",
+      "2x \"Saturn\" laser cannons"
+    ],
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "500",
+    "Armor type": "Heavy",
+    "Speed": "6",
+    "Turn rate": "6",
+    "Sight radius": "6",
+    "Cost": "$1500",
+    "Estimated build time": "0:54",
+    "Build time multiplier(s)": "0.9 (multiple factory)",
+    "Built at": "Allied War Factory",
+    "Requires": [
+      "Mercury Uplink",
+      "Tech Center"
+    ],
+    "Ground": [
+      "130-65 (cannon)",
+      "15 * 2 (30 total) (laser cannons)"
+    ],
+    "Ground modifiers": [
+      "Cannon:",
+      "90% vs. Medium/Harvester and Heavy",
+      "85% vs. (Big) Light Structure",
+      "65% vs. (Big) Heavy Structure and (Big) Defensive Structure",
+      "60% vs. Light and Very Big Defensive Structure",
+      "20% vs. Archelons",
+      "Laser cannons:",
+      "100% vs. all infantry armor types and Drone",
+      "75% vs. all vehicle armor types",
+      "50% vs. all structure armor types"
+    ],
+    "Cooldown": [
+      "75 frames (5 in-game seconds) (cannon)",
+      "15 frames (1 in-game seconds) (laser cannons)"
+    ],
+    "Range": [
+      "7.5 (both weapons)",
+      "0.3 (cannon radius)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Can fire while moving",
+      "Fire both weapons in order at a single target",
+      "Can crush infantry",
+      "Cannot be depiloted",
+      "Can enterTank Bunkers",
+      "Takes 6 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "Voice actor": "SquareWhale",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/57/Abrmicon.png/revision/latest",
+  "icon_filename": "Abrmicon.png"
+}

@@ -1,0 +1,19 @@
+{
+  "unit_name": "Spy Plane",
+  "infobox_data": {
+    "Affiliation": "Soviet Union",
+    "Cost": "Free",
+    "Cooldown": "4:00",
+    "Called from": "Radar Dish",
+    "Effect": "Call in a supersonic spy plane that removes shroud as it flies over the target location",
+    "Notes": [
+      "The spy plane flies at a speed of 45 (jet) and cannot be attacked",
+      "A red flare will be displayed at designated zone right after support power deployment"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "_section_Support Power": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/0/06/Camicon.png/revision/latest",
+  "icon_filename": "Camicon.png"
+}

@@ -1,0 +1,88 @@
+{
+  "unit_name": "Chemplug",
+  "infobox_data": {
+    "Faction": "Scorpion Cell",
+    "Parent building": "Pandora Hub",
+    "Role": [
+      "High tech access",
+      "Support powers"
+    ],
+    "Tier": "3",
+    "Tech level": "8",
+    "Cost": [
+      "$3000",
+      "$1000 inInfantry Only,Tech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Estimated build time": [
+      "2:13",
+      "0:43 inInfantry Only,Tech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Build time multiplier(s)": "1.25 (all buildings)",
+    "Built by": "Epsilon Construction Yard",
+    "Requires": [
+      "Radar Spire",
+      "Pandora Hub"
+    ],
+    "Power": [
+      "-200",
+      "-150 inInfantry Only,Tech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Allows": [
+      "Fake Construction Yard",
+      "Cloning Vats",
+      "Rage Inductor",
+      "Psychic Dominator(Fake)",
+      "Chimera Core",
+      "Antares Battery",
+      "Scourge",
+      "Malver",
+      "Tyrant",
+      "Plague Splatter",
+      "Oxidizer",
+      "Scavenger",
+      "Wormqueen",
+      "Basilisk",
+      "Dybbuk-Seizer",
+      "Salamander",
+      "Nautilus Magnetic Sub",
+      "Resheph Ballistic Sub",
+      "Speeder Trike(unconditionally)"
+    ],
+    "Ability": [
+      "Shadow Ring",
+      "Bloatick Trap",
+      "Toxic Strike",
+      "Hijackers"
+    ],
+    "Artist(s)": "Orac",
+    "_section_Add-on": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/6/62/Cplugicon.png/revision/latest",
+  "icon_filename": "Cplugicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Reinforcement PowerCost: $1000Recharge Time: 5:00Deploys a temporary Bloatick Tunnel that periodically releases up to 8 BloaticksLess Bloaticks spawn if Bloatick Tunnel is damaged by enemiesCannot be repaired or rendered invulnerableLeft-click icon then left-click on target location (cannot be targeted on water)"
+        ],
+        [
+          "",
+          "Type: Offensive PowerCost: $1000Recharge Time: 6:30Calls in 4 Dybbuk-Strikers to bombard a targeted location with explosive toxic shellsStrong vs. Infantry, Light VehiclesLeft-click icon then left-click on target location"
+        ],
+        [
+          "",
+          "Type: Reinforcement PowerCost: $1200Recharge Time: 6:00Deploys 3 Hijackers on a target locationHijackers can disguise as enemy infantry and steal most enemy vehiclesLeft-click icon then left-click on target location (cannot be targeted on water)"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "unit_name": "Blasticade",
+  "infobox_data": {
+    "Affiliation": "Foehn Revolt",
+    "Cooldown": "4:00",
+    "Called from": "Blast Furnace",
+    "Effect": [
+      "Causes allBlast Trenchesto generate a steam barrier for 1800 frames (120 in-game seconds) which instantly destroys any units (exceptepic unitsandHunter-Seekerdrones) that comes in contact with the barrier, neutralizes any attacks directed at targets inside the barrier from the outside, and prevents ground units from passing through",
+      "The Blast Trenches will become indestructible while Blasticade is active"
+    ],
+    "Notes": [
+      "The Blasticade will end prematurely (if active at the moment) and have to be charged all over again if the Blast Furnace is disabled or the owner's base is on low power"
+    ],
+    "Artist(s)": "Apollo",
+    "_section_Superweapon": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/c/c2/Blasicon.png/revision/latest",
+  "icon_filename": "Blasicon.png"
+}

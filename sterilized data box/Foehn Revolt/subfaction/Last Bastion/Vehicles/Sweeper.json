@@ -1,0 +1,63 @@
+{
+  "unit_name": "Sweeper",
+  "infobox_data": {
+    "Faction": "Last Bastion",
+    "Role": "Anti-unit ambush",
+    "Armament": "Golden Rocket multilauncher",
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "275",
+    "Armor type": "Light",
+    "Speed": "7; 12 when boosted",
+    "Turn rate": "12",
+    "Sight radius": "7",
+    "Cost": "$1050",
+    "Estimated build time": "0:36",
+    "Built at": "Foehn War Factory",
+    "Requires": "Nanofiber LoomorNanofiber Loom Expansion(unconditionally)",
+    "Ground": "100-50 * 3 (300-150 total)",
+    "Ground modifiers": [
+      "100% vs. Basic/Animal and Drone",
+      "90% vs. Light",
+      "85% vs. Flak and Medium",
+      "75% vs. Heavy",
+      "70% vs. Plate/Cyborg"
+    ],
+    "Cooldown": "240 frames (16 in-game seconds)",
+    "Range": "8.5, minimum 2, radius 0.8",
+    "Ability": [
+      "Amphibious",
+      "Cloaked when deployed"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can crush infantry",
+      "Uncrushable when deployed",
+      "Immune to radiation and poison",
+      "Cannot be mind-controlled, hijacked and depiloted",
+      "Does not sink when disabled while in water",
+      "Receives a speed buff while inside aSpinblade's radius",
+      "Receives a 15% firepower buff while inside a deployedSODAR Array's radius",
+      "Must be deployed to fire",
+      "Unaffected by speed buffs/debuffs when deployed",
+      "Takes 3 slots in transports"
+    ],
+    "Artist(s)": [
+      "Mevitar (voxel)",
+      "Nooze (cameo)"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/7/7f/Swpricon.png/revision/latest",
+  "icon_filename": "Swpricon.png"
+}

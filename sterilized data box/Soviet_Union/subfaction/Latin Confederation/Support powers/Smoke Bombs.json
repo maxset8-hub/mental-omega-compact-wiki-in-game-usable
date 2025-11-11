@@ -1,0 +1,29 @@
+{
+  "unit_name": "Smoke Bombs",
+  "infobox_data": {
+    "Affiliation": "Latin Confederation",
+    "Cost": "$1000",
+    "Cooldown": "6:00",
+    "Called from": "Battle Lab",
+    "Effect": [
+      "Call in a Sandstorm bomber that carpet-bombs the target location with smoke bombs four times in each run",
+      "The smoke bombs halves the firepower of units for 180 frames (12 in-game seconds)",
+      "Lasts for 12 runs"
+    ],
+    "Notes": [
+      "A red flare will be displayed at designated zone right after support power deployment",
+      "Sandstorm stats:Hit points: 1125Armor type: Medium AircraftSpeed: 28 (jet)Turn rate: 1Cooldown: 12 frames (0.8 in-game seconds)Range: 13, radius 4",
+      "Hit points: 1125",
+      "Armor type: Medium Aircraft",
+      "Speed: 28 (jet)",
+      "Turn rate: 1",
+      "Cooldown: 12 frames (0.8 in-game seconds)",
+      "Range: 13, radius 4"
+    ],
+    "Artist(s)": "B.A.Znd (Sandstorm voxel)",
+    "_section_Support Power": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/0/0b/Smokicon.png/revision/latest",
+  "icon_filename": "Smokicon.png"
+}

@@ -1,0 +1,14 @@
+{
+  "unit_name": "Psychic Flash",
+  "infobox_data": {
+    "Affiliation": "Epsilon Army",
+    "Cost": "$800",
+    "Cooldown": "6:00",
+    "Called from": "Pandora Hub",
+    "Requires": "Inferno TowerorAntares Battery",
+    "Effect": "Increases the firepower and range of allInferno TowersandAntares Batteriesby 50% and 1, respectively, for 1350 frames (1.5 in-game minutes)",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/f/f0/Pblzicon.png/revision/latest",
+  "icon_filename": "Pblzicon.png"
+}

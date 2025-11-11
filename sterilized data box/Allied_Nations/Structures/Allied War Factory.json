@@ -1,0 +1,183 @@
+{
+  "unit_name": "Allied War Factory",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Vehicle production",
+    "Tier": "1",
+    "Tech level": "3",
+    "Hit points": "1200",
+    "Armor type": "Big Light Structure",
+    "Sight radius": "4",
+    "Cost": "$2000",
+    "Estimated build time": "1:30",
+    "Build time multiplier(s)": "1.25",
+    "Built by": "Allied Construction Yard",
+    "Requires": [
+      "Power Plant",
+      "Allied Ore Refinery"
+    ],
+    "Placement radius": "2",
+    "Power": "-100",
+    "Produces": [
+      "Allied vehicles",
+      "Stallion Transport",
+      "Warhawk",
+      "Thor Gunship",
+      "Cryocopter"
+    ],
+    "Allows": [
+      "Provided along withRobot Ops Control Center:",
+      "Hunter-Seeker"
+    ],
+    "Ability": "Can be toggled as the primary vehicle production structure (if the player have multiplewar factoriesat the same time)",
+    "Notes": [
+      "The more war factories the player have, the faster vehicles are produced",
+      "Can be infiltrated for veteran vehicle production"
+    ],
+    "Select sound": "From theChinese War Factory(Generals)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/1/18/Gwepicon.png/revision/latest",
+  "icon_filename": "Gwepicon.png",
+  "article_tables": [
+    {
+      "title": "Standard vehicles",
+      "headers": [
+        "Unit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Resource Vehicle. Unarmed.\nRequires Allied Ore Refinery\nAbilities:\nHarvests ore with a capacity of 500 ores/750 gems\nTeleports into Ore Refineries when ordered or fully loaded"
+        ],
+        [
+          "",
+          "Unmanned Light Vehicle. Strong vs. Infantry.\nAbilities:\nDetects cloaked and disguised units\nAmphibious"
+        ],
+        [
+          "",
+          "Light Vehicle. Strong vs. Infantry.\nAbilities:\nTransports infantry with 2 passenger slots\nReplaces Robot Tank in Act One Allied campaign."
+        ],
+        [
+          "",
+          "Multirole Light Vehicle. Strong vs. Aircraft.\nAbilities:\nTransports infantry with 1 passenger slot\nWeapon changes depending on the transported infantry\nRepairs vehicles when an Engineer is onboard"
+        ],
+        [
+          "Bulldog Light Tank",
+          "Main Battle Tank. Strong vs. Armor.\nAbilities:\nDeploy to switch between cannon and target painter modes\nTarget painter weakens the armor of enemy targets by 15%, but cannot directly harm them"
+        ],
+        [
+          "",
+          "Multirole Medium Vehicle. Strong vs. Aircraft.\nAbilities:\nTransports infantry with 1 passenger slot\nWeapon changes depending on the transported infantry\nRepairs vehicles when an Engineer is onboard"
+        ],
+        [
+          "Cavalier Medium Battle Tank",
+          "Main Battle Tank. Strong vs. Armor.\nAbilities:\nFires faster the longer it attacks a target"
+        ],
+        [
+          "Tsurugi Powersuit",
+          "Multirole Light Walker. Strong vs. Aircraft.\nAbilities:\nTransports infantry with 1 passenger slot\nWeapon changes depending on the transported infantry\nRepairs vehicles when an Engineer is onboard\nImmune to poison and radiation"
+        ],
+        [
+          "Kappa Hover Tank",
+          "Main Battle Tank. Strong vs. Armor.\nAbilities:\nAmphibious"
+        ],
+        [
+          "Allied Mobile Construction Vehicle",
+          "Construction Vehicle. Unarmed.\nRequires Air Force Command Headquarters\nAbilities:\nDeploy into an Allied Construction Yard"
+        ],
+        [
+          "",
+          "Advanced Tank. Strong vs. Armor.\nRequires  Shield Command\nAbilities:\nDisguised as a tree when stationary"
+        ],
+        [
+          "",
+          "Artillery. Strong vs. Armor.\nRequires  Robot Ops Control Center\nAbilities:\nPerforms a long-range attack with Zephyrobot"
+        ],
+        [
+          "",
+          "Advanced Artillery. Strong vs. Structures.\nRequires Tech Center and  Mercury Network Uplink\nAbilities:\nUsing a Mercury Strike near it boosts its firepower by 25%\nDeploy to switch between auto attack or hold fire modes"
+        ],
+        [
+          "",
+          "Monster Tank. Strong vs. Ground Targets.\nRequires Tech Center and  Mercury Network Uplink"
+        ],
+        [
+          "",
+          "Medium Vehicle. Strong vs. Aircraft (no ground attack).\nRequires Tech Center and  Mercury Network Uplink\nDeploy to switch between regular and sniper modes"
+        ],
+        [
+          "",
+          "Advanced Artillery. Strong vs. Infantry, Structures.\nRequires Tech Center and  Shield Command"
+        ],
+        [
+          "",
+          "Monster Tank. Strong vs. Infantry, Armor.\nRequires Tech Center and  Shield Command\nAbilities:\nInstantly erases most ground units\nDeploy to switch between auto attack or hold fire modes"
+        ],
+        [
+          "",
+          "Advanced Artillery. Strong vs. Structures.\nRequires Tech Center and  Robot Ops Control Center\nCarries a Hailjet to attack"
+        ],
+        [
+          "",
+          "Medium Vehicle. Strong vs. Infantry, Aircraft.\nRequires Tech Center and  Robot Ops Control Center\nAbilities:\nReduces the speed of enemy infantry and Soviet drones by 50%"
+        ],
+        [
+          "",
+          "Monster Tank. Strong vs. Everything.\nRequires Tech Center and  Robot Ops Control Center\nAbilities:\nTransports infantry with 4 passenger slots\nInfantry can fire out of the Battle Tortoise\nCrushes all infantry and most vehicles"
+        ]
+      ]
+    },
+    {
+      "title": "Standard aircraft",
+      "headers": [
+        "Unit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Transport Aircraft. Unarmed.\nRequires Air Force Command Headquarters\nAbilities:\nTransports infantry with 6 passenger slots\nInvisible on radar"
+        ],
+        [
+          "",
+          "Medium Aircraft. Strong vs. Infantry, Armor.\nRequires  Mercury Network Uplink\nAbilities:\nHeals nearby friendly airborne infantry"
+        ],
+        [
+          "",
+          "Heavy Aircraft. Strong vs. Infantry, Aircraft.\nRequires Tech Center and  Shield Command\nAbilities:\nDeploy to boost the armor of nearby friendly units by 50%, but reduces their speed by 50% and stops the Thor from firing\nReceives a 25% firepower boost when near a Lightning Rod"
+        ],
+        [
+          "",
+          "Advanced Support Aircraft.\nRequires Tech Center\nAbilities:\nSlowly freezes ground targets, reducing their speed up to 100% and armor up to 95%\nTarget is disabled when completely frozen"
+        ]
+      ]
+    },
+    {
+      "title": "Stolen Tech",
+      "headers": [
+        "Unit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Stolen Tech Vehicle. Strong vs. Infantry, Armor, Aircraft.\nRequires infiltration of Tech Center and Allied Construction Yard\nRequires Mercury Network Uplink/Shield Command/Robot Ops Control Center and Tech Center\nAbilities:\nTeleport\nTransports 1 infantry who cannot exit until it is fully teleported"
+        ],
+        [
+          "",
+          "Stolen Tech Vehicle.\nRequires infiltration of Pandora Hub and Epsilon Construction Yard\nRequires Mercury Network Uplink/Shield Command/Robot Ops Control Center and Tech Center\nAbilities:\nAbducts enemy vehicles\nAbducted enemy vehicles will fight for the Chrono Prison's owner."
+        ],
+        [
+          "",
+          "Unmanned Stolen Tech Vehicle. Strong vs. Ground Targets.\nRequires infiltration of Cloud Piercer and Foehn Construction Yard\nRequires Mercury Network Uplink/Shield Command/Robot Ops Control Center and Tech Center\nAbilities:\nDetects cloaked units\nInvisible on radar\nDeploy to switch between lasers/grenade launchers and particle collider modes"
+        ]
+      ]
+    }
+  ]
+}

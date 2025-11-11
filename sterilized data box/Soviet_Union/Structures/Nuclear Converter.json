@@ -1,0 +1,70 @@
+{
+  "unit_name": "Nuclear Converter",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Parent building": "Nuclear Reactor",
+    "Role": "Nuclear support",
+    "Tier": "2",
+    "Tech level": "9",
+    "Cost": "$800",
+    "Estimated build time": "0:43",
+    "Build time multiplier(s)": [
+      "1.25 (all structures)",
+      "1.25 (individual)"
+    ],
+    "Built by": "Soviet Construction Yard",
+    "Requires": [
+      "Radar Dish",
+      "Nuclear Reactor"
+    ],
+    "Power": "-400",
+    "Ability": [
+      "Irradiation Beta",
+      "Irradiation Gamma",
+      "Rad Attack(requiresAirbase)",
+      "Pack Attack(requiresAirbase)",
+      "Disruptor(requiresPalace)",
+      "Nuclear Path(requiresAtomheart)"
+    ],
+    "_section_Add-on": true,
+    "_section_Construction": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/55/Convicon.png/revision/latest",
+  "icon_filename": "Convicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Offensive PowerCost: $1000Recharge Time: 6:30Available to  Russia and  Latin ConfederationCovers friendly mechanical units in a radiation aura for 30 secondsRadiation aura damages nearby enemy unitsLeft-click icon then left-click on target location"
+        ],
+        [
+          "",
+          "Type: Offensive PowerCost: $800Recharge Time: 5:00Available to  ChinaCovers friendly mechanical units in a radiation aura for 36 secondsRadiation aura damages nearby enemy unitsLeft-click icon then left-click on target location"
+        ],
+        [
+          "",
+          "Type: Offensive PowerCost: $1200Recharge Time: 7:00Requires AirbaseAvailable to  Russia and  Latin ConfederationCall in 2 unmanned Wastelot kamikaze jets to crash into a designated areaLeaves radiation when destroyedStrong vs. Infantry, Light VehiclesLeft-click icon then left-click on target location"
+        ],
+        [
+          "",
+          "Type: Offensive PowerCost: $1500Recharge Time: 7:30Requires AirbaseAvailable to  ChinaCall in 4 unmanned Wastelot kamikaze jets to crash into a designated areaLeaves radiation when destroyedStrong vs. Infantry, Light VehiclesLeft-click icon then left-click on target location"
+        ],
+        [
+          "",
+          "Type: Defensive PowerCost: $800Recharge Time: 6:00Requires  PalaceDeploys a temporary Disruptor on the battlefieldDamages and weakens the firepower of enemy aircraft by 20% around itselfCannot be repaired or rendered invulnerable, but does not require power to operateStrong vs. AircraftLeft-click icon then left-click on target location (cannot be targeted near enemy airfields)"
+        ],
+        [
+          "",
+          "Type: Offensive PowerCost: $800Recharge Time: 7:00Requires  AtomheartIncreases the firepower and speed of friendly vehicles by 25%Decreases armor of friendly vehicles by 25%Lasts for 180 secondsLeft-click icon then left-click on target location"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "unit_name": "Libra",
+  "infobox_data": {
+    "Faction": "PsiCorps",
+    "Role": [
+      "Assault",
+      "Anti-air"
+    ],
+    "Armament": [
+      "Custom explosive darts",
+      "Anti-gravity field"
+    ],
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": [
+      "300",
+      "1750 inMachinehead",
+      "3000 inDance of BloodandUnthinkable",
+      "2500 inObsidian Sands",
+      "5000 inBlood Rage"
+    ],
+    "Armor type": "Flak",
+    "Speed": [
+      "10",
+      "11 inDance of Blood,Obsidian SandsandUnthinkable"
+    ],
+    "Sight radius": [
+      "9",
+      "11 inObsidian Sands",
+      "12 inUnthinkable"
+    ],
+    "Cost": "$1500",
+    "Estimated train time": "1:08",
+    "Train time multiplier(s)": [
+      "0.65 (all infantry)",
+      "2 (all heroes)",
+      "1.0 (multiple factory)"
+    ],
+    "Trained at": "Epsilon Barracks",
+    "Requires": "Psychplug",
+    "Ground": "140 * 3 (420 total); 15 * 3 (45 total) inBlood Rage; 180 * 3 (540 total) inObsidian Sands; 300 * 3 (900 total) inDance of BloodandUnthinkable; 340 * 3 (1020 total) inMachinehead",
+    "Ground modifiers": [
+      "150% vs. Basic/Animal",
+      "140% vs. Flak",
+      "130% vs. Plate/Cyborg",
+      "85% vs. Light",
+      "80% vs. Medium/Harvester",
+      "75% vs. Heavy",
+      "50% vs. Drone",
+      "30% vs. all structure armor types"
+    ],
+    "Air": "140 * 3 (420 total); 15 * 3 (45 total) inBlood Rage; 180 * 3 (540 total) inObsidian Sands; 300 * 3 (900 total) inDance of BloodandUnthinkable; 340 * 3 (1020 total) inMachinehead",
+    "Air modifiers": [
+      "150% vs.Scout Ravens",
+      "140% vs.Rocketeers,Norio,Gyrocopters,Cosmonauts,NeonwaspsandUragan",
+      "85% vs. Light Aircraft",
+      "80% vs. Medium Aircraft",
+      "75% vs. Heavy Aircraft"
+    ],
+    "Cooldown": [
+      "90 frames (6 in-game seconds)",
+      "1 frame (0.1 in-game seconds) inBlood Rage",
+      "30 frames (2 in-game seconds) inDance of BloodandUnthinkable",
+      "90 frames (6 in-game seconds) inObsidian Sands"
+    ],
+    "Range": [
+      "10, minimum and radius 1 (ground)12 inObsidian Sands14 inBlood Rage16 inDance of BloodandUnthinkable",
+      "12 inObsidian Sands",
+      "14 inBlood Rage",
+      "16 inDance of BloodandUnthinkable",
+      "11, radius 1 (air)"
+    ],
+    "Ability": [
+      "Amphibious",
+      "Detects cloaked/submerged enemies (range 9)",
+      "Deploy to use the anti-gravity field for 140 frames (9.3 in-game seconds) which flips vehicles in a radius of 1 around Libra and instantly destroy them once they are overturnedUsing anti-gravity field increases Libra's armor by 150%Has a cooldown of 135 frames (9 in-game seconds)",
+      "Using anti-gravity field increases Libra's armor by 150%",
+      "Has a cooldown of 135 frames (9 in-game seconds)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "+24% anti-gravity field duration"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Build time is unaffected by multiple Barracks",
+      "Self-healing",
+      "Uncrushable",
+      "Cannot be mind-controlled and abducted",
+      "Immune to confusion rays",
+      "More resistant to bullets",
+      "Cannot fire fromopentopped transports",
+      "Explodes when killedThe explosion detonates a custom explosive dart on Libra's position",
+      "The explosion detonates a custom explosive dart on Libra's position"
+    ],
+    "Artist(s)": [
+      "ImP_RuLz (SHP)",
+      "Hell-Kitty(cameo)",
+      "Gia(concept art)"
+    ],
+    "Voice actress": "Aimee Smith(credited as \"ATheatricalSongBird\")",
+    "_section_Hero": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/a/a0/Libricon.png/revision/latest",
+  "icon_filename": "Libricon.png"
+}

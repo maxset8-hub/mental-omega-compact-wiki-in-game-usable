@@ -1,0 +1,49 @@
+{
+  "unit_name": "Netrunner Protocol",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Parent building": "Foehn Barracks",
+    "Role": "Combat support",
+    "Tier": "1",
+    "Tech level": "3",
+    "Cost": "$900",
+    "Estimated build time": "0:43",
+    "Build time multiplier(s)": "1.25 (all structures)1.1 (individual)",
+    "Built by": "Foehn Construction Yard",
+    "Requires": "Foehn Barracks",
+    "Power": "-50",
+    "Allows": [
+      "Provided along withCyberkernel:",
+      "Syncronin"
+    ],
+    "Ability": [
+      "Decoy Team",
+      "Chaos Touch(requiresCyberkernel)",
+      "Decoy Squadron(requiresCloud Piercer)"
+    ],
+    "_section_Add-on": true,
+    "_section_Construction": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/5d/Fbrdicon.png/revision/latest",
+  "icon_filename": "Fbrdicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Intelligence PowerCost: $1200Recharge Time: 5:00Deploys 5 decoy Knightframes and 5 decoy Lancers anywhere on the battlefieldDecoy units act like the original units but cannot deal damage and has half of the original unit's hit pointsLeft-click icon then left-click on target location"
+        ],
+        [
+          "",
+          "Type: Offensive PowerCost: $1000Recharge Time: 7:00Requires CyberkernelApplies confusion to enemy units briefly in regular intervalsConfusion duration is too short to cause friendly fire, but interrupts current orders from the enemyLasts for 24 secondsLeft-click icon then left-click on target location"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "unit_name": "Pandora Hub",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": [
+      "Tech access",
+      "Support powers"
+    ],
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "1500",
+    "Armor type": "Light Structure",
+    "Sight radius": "6",
+    "Cost": [
+      "$1800",
+      "$1400 inInfantry Only,Tech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Estimated build time": [
+      "1:19",
+      "1:01 inInfantry Only,Tech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Build time multiplier(s)": "1.25 (all buildings)",
+    "Built by": "Epsilon Construction Yard",
+    "Requires": [
+      "Bio Reactor",
+      "Epsilon Ore Refinery"
+    ],
+    "Placement radius": "2",
+    "Power": "-150",
+    "Allows": [
+      "Grinder",
+      "Epsilon Adept",
+      "Epsilon Elite",
+      "Marauder",
+      "Speeder Trike",
+      "Shadow Tank",
+      "Psychplug",
+      "Chemplug",
+      "Geneplug"
+    ],
+    "Add-ons": [
+      "Psychplug",
+      "Chemplug",
+      "Geneplug"
+    ],
+    "Ability": [
+      "Risen Monolith",
+      "Psychic Flash(requiresInferno TowerorAntares Battery)"
+    ],
+    "Notes": "Can be infiltrated to unlockstolen tech units",
+    "Select sound": "From theInternet Center(Zero Hour)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/7/7c/Ytchicon.png/revision/latest",
+  "icon_filename": "Ytchicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Defensive PowerCost: $800Recharge Time: 6:00Deploys a temporary Risen Monolith on the battlefieldRisen Monolith attacks ground and air targets from a long rangeCannot be repaired or rendered invulnerable, but does not require power to operateStrong vs. Infantry, AircraftLeft-click icon then left-click on target location (cannot be targeted on water)"
+        ],
+        [
+          "",
+          "Type: Defensive PowerCost: $800Recharge Time: 6:00\nRequires: Inferno Tower or Antares BatteryIncreases firepower and range of all Inferno Towers and Antares Batteries for 90 secondsLeft-click icon to activate"
+        ],
+        [
+          "",
+          "Type: Utility PowerCost: $800Recharge Time: 6:00Requires: Synthesis VaultCloaks friendly ground and naval units for 50 secondsEpic units are unaffectedLeft-click icon then left-click on target location"
+        ]
+      ]
+    }
+  ]
+}

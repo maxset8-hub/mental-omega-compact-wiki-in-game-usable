@@ -1,0 +1,43 @@
+{
+  "unit_name": "Psychic Tower",
+  "infobox_data": {
+    "Faction": "PsiCorps",
+    "Role": "Mind control defense",
+    "Armament": "3x mind control",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "1050",
+    "Armor type": "Defensive Structure",
+    "Sight radius": "10",
+    "Cost": "$1500",
+    "Estimated build time": "1:05",
+    "Build time multiplier(s)": [
+      "1.2 (all defenses)",
+      "0.95 (multiple Construction Yards)"
+    ],
+    "Built by": "Epsilon Construction Yard",
+    "Requires": "Psychplug",
+    "Placement radius": "5",
+    "Ground attack": "0(dummy)",
+    "Cooldown": "90 frames (6 in-game seconds)",
+    "Attack range": "8",
+    "Power": "-100",
+    "Upgraded bonus": "+40% armor",
+    "Fully upgraded bonus": [
+      "+33% firing rate",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Gains 75% of the experience earned by the Psychic Tower's mind-controlled victims",
+      "The mind-controlled units will be freed when the Psychic Tower is disabled",
+      "Takes 50% more damage fromLightning Storm"
+    ],
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/50/Psyticon.png/revision/latest",
+  "icon_filename": "Psyticon.png"
+}

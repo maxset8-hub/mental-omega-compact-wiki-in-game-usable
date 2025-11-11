@@ -1,0 +1,13 @@
+{
+  "unit_name": "Force Shield",
+  "infobox_data": {
+    "Affiliation": "European Alliance",
+    "Cost": "Free",
+    "Cooldown": "6:00",
+    "Called from": "Shield Command",
+    "Effect": "Friendly structures in a radius of 4 become indestructible for 450 frames (30 in-game seconds)",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/1/1d/Forcicon.png/revision/latest",
+  "icon_filename": "Forcicon.png"
+}

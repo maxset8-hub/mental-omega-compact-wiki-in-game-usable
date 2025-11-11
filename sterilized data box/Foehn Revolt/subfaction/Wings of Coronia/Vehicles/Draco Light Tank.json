@@ -1,0 +1,81 @@
+{
+  "unit_name": "Draco Light Tank",
+  "infobox_data": {
+    "Faction": "Wings of Coronia",
+    "Role": "Anti-armor",
+    "Armament": "100mm cannon",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": [
+      "420 (Draco Tank)",
+      "180 (Draco Autoturret)"
+    ],
+    "Armor type": [
+      "Medium (Draco Tank)",
+      "Light Aircraft (Draco Autoturret)"
+    ],
+    "Speed": [
+      "5; 9 when boosted (Draco Tank)",
+      "36 (flying) (Draco Autoturret)"
+    ],
+    "Turn rate": [
+      "11 (Draco Tank)",
+      "16 (Draco Autoturret)"
+    ],
+    "Sight radius": "6",
+    "Cost": [
+      "$750 (Draco Tank)",
+      "$400(DracoAutoturret)"
+    ],
+    "Estimated build time": "0:25",
+    "Built at": "Foehn War Factory",
+    "Ground": [
+      "60-30 (Draco Tank)",
+      "45-22.5 (Draco Autoturret)"
+    ],
+    "Ground modifiers": [
+      "Draco Tank and Autoturret:",
+      "100% vs. Light",
+      "90% vs. Medium/Harvester",
+      "80% vs. Heavy, Dolphin, Giant Squid",
+      "55% vs. Heavy Structure and Light Structure",
+      "30% vs. Drone and Defensive Structure",
+      "25% vs. Cyborg andFoehninfantry",
+      "20% vs. all infantry armor types andTech Concrete Fortresses",
+      "10% vs.Archelons"
+    ],
+    "Cooldown": "40 frames (2.7 in-game seconds)",
+    "Range": [
+      "6",
+      "2 (Draco Autoturret minimum range)",
+      "0.3 (radius)"
+    ],
+    "Ability": "Will release its turret as a controllable flying unit when the Draco Tank is destroyed",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Autoturret has self-repair",
+      "Can fire while moving",
+      "Can crush infantry",
+      "Receives a speed buff while inside aSpinblade's radius",
+      "Takes 3 slots in transports"
+    ],
+    "Artist(s)": [
+      "ONEX (voxel)",
+      "Nooze (cameo)"
+    ],
+    "Voice actor": "Falloutman",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/9/93/Dracicon.png/revision/latest",
+  "icon_filename": "Dracicon.png"
+}

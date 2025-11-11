@@ -1,0 +1,24 @@
+{
+  "unit_name": "Wallbuster",
+  "infobox_data": {
+    "Affiliation": "China",
+    "Cost": "$1200",
+    "Cooldown": [
+      "8:30",
+      "9:30 inFortress"
+    ],
+    "Called from": "Atomheart",
+    "Effect": [
+      "Launch a Wallbuster missile to the target location that causes320-208damage in a radius of 6",
+      "Instantly destroys walls and gates, and severely damages defenses",
+      "Ineffective against anything other than walls, gates and defenses"
+    ],
+    "Notes": [
+      "Has a minimum range of 4",
+      "A red flare will be displayed at designated zone right after support power deployment"
+    ],
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/6/65/Wbsticon.png/revision/latest",
+  "icon_filename": "Wbsticon.png"
+}

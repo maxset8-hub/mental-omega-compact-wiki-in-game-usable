@@ -1,0 +1,46 @@
+{
+  "unit_name": "Foehn Ore Refinery",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": "Resource gathering",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "1000",
+    "Armor type": "Big Heavy Structure",
+    "Sight radius": "6",
+    "Cost": [
+      "$1500",
+      "$1000 inInfantry Only"
+    ],
+    "Estimated build time": [
+      "1:05",
+      "0:43 inInfantry Only"
+    ],
+    "Build time multiplier(s)": "1.25 (all structures)",
+    "Built by": "Foehn Construction Yard",
+    "Placement radius": "2",
+    "Power": "-40",
+    "Allows": [
+      "Provided along withWindtrap:",
+      "Foehn War Factory",
+      "Foehn Naval Shipyard",
+      "Cyberkernel",
+      "Cloud Piercer",
+      "Nanofiber Loom"
+    ],
+    "Ability": "Drop-off point forminers",
+    "Notes": [
+      "Comes with aMinermite",
+      "Can be infiltrated to steal up to $5000 from the owner",
+      "Industrial Plantaffects the cost"
+    ],
+    "Artist(s)": "Nooze (cameo and building artwork)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/f/f5/Freficon.png/revision/latest",
+  "icon_filename": "Freficon.png"
+}

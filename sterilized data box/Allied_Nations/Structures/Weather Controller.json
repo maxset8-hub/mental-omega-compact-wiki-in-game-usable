@@ -1,0 +1,52 @@
+{
+  "unit_name": "Weather Controller",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Offensive superweapon",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "1350",
+    "Armor type": "Big Heavy Structure",
+    "Sight radius": "5",
+    "Cost": "$5000",
+    "Estimated build time": "3:43",
+    "Built by": "Allied Construction Yard",
+    "Requires": [
+      "Mercury Network Uplink",
+      "Shield Command",
+      "Robot Ops Control Center",
+      "Tech Center"
+    ],
+    "Placement radius": "2",
+    "Power": "-400",
+    "Ability": "Lightning Storm",
+    "Notes": [
+      "Limited to one for each player",
+      "Cannot be captured",
+      "Can be infiltrated to reset the superweapon's timer"
+    ],
+    "Select sound": "From theChronosphere(Red Alert 3)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/e3/Wethicon.png/revision/latest",
+  "icon_filename": "Wethicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Superweapon",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Offensive SuperweaponRecharge Time: 10:00 (15:00 in Infantry Only)Creates a catastrophic lightning storm on the battlefield that significantly damages ground targets in the target area.Temporarily disables enemy radar after the storm manifests for 28 seconds.Left-click icon then left-click the target location."
+        ]
+      ]
+    }
+  ]
+}

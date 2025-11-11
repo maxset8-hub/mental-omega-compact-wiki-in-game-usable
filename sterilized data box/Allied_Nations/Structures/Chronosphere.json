@@ -1,0 +1,61 @@
+{
+  "unit_name": "Chronosphere",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Support superweapon",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "1300",
+    "Armor type": "Big Heavy Structure",
+    "Sight radius": "5",
+    "Cost": "$3000",
+    "Estimated build time": "2:13",
+    "Built by": "Allied Construction Yard",
+    "Requires": [
+      "Mercury Network Uplink",
+      "Shield Command",
+      "Robot Ops Control Center",
+      "Tech Center"
+    ],
+    "Placement radius": "2",
+    "Power": "-200",
+    "Allows": [
+      "Provided withExperimental Warpshop:",
+      "Chronolift"
+    ],
+    "Ability": [
+      "Chronoshift",
+      "Chronoboost"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Cannot be captured",
+      "Can be infiltrated to reset the superweapon's timer"
+    ],
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/9/95/Csphicon.png/revision/latest",
+  "icon_filename": "Csphicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Superweapon",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Support SuperweaponRecharge time: 6:30Teleports friendly vehicles and naval vessels (except epic units) around the battlefieldLeft-click icon then left-click on vehicles to teleport, then left-click on target location"
+        ],
+        [
+          "",
+          "Type: Utility PowerCost: $800Recharge Time: 7:00Temporarily increases the speed of Siegfried, friendly vehicles and naval vessels (except epic units) in the target area by 50% for 30 secondsLeft-click icon then left-click on target location"
+        ]
+      ]
+    }
+  ]
+}

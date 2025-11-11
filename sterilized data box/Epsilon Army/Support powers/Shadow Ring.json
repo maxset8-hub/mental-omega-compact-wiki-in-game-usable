@@ -1,0 +1,18 @@
+{
+  "unit_name": "Shadow Ring",
+  "infobox_data": {
+    "Affiliation": "Epsilon Army",
+    "Cost": "$800",
+    "Cooldown": "6:00",
+    "Called from": "Pandora Hub",
+    "Requires": "Synthesis Vault",
+    "Effect": [
+      "Cloaks friendly units in a radius of 3 for 750 frames (50 in-game seconds)",
+      "The cloaked units will be revealed when attacking"
+    ],
+    "Notes": "Cannot cloak epic units",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/9/98/Ringicon.png/revision/latest",
+  "icon_filename": "Ringicon.png"
+}

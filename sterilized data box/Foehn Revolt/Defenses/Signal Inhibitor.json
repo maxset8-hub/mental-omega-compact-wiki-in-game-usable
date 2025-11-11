@@ -1,0 +1,39 @@
+{
+  "unit_name": "Signal Inhibitor",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": "Support power jamming",
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": "650",
+    "Armor type": "Defensive Structure",
+    "Sight radius": "5",
+    "Cost": "$2500",
+    "Estimated build time": "1:48",
+    "Build time multiplier(s)": [
+      "1.2 (all defenses)",
+      "0.90 (multiple Construction Yards)"
+    ],
+    "Built by": "Foehn Construction Yard",
+    "Requires": [
+      "Cyberkernel Expansion",
+      "Cloud Piercer Expansion",
+      "Nanofiber Loom Expansion"
+    ],
+    "Placement radius": "2",
+    "Power": "-300",
+    "Ability": "Blocks the use of support powers (except reconnaissance ones) in a radius of 10 around the Signal Inhibitor",
+    "Notes": [
+      "Limited to three for each player",
+      "Cannot be captured"
+    ],
+    "Artist(s)": "Nooze (cameo and artwork)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/3/3d/Inhiicon.png/revision/latest",
+  "icon_filename": "Inhiicon.png"
+}

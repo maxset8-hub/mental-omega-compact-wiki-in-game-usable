@@ -1,0 +1,25 @@
+{
+  "theme": {
+    "bg": "#1e1e1e",
+    "fg": "#ffffff",
+    "select_bg": "#404040",
+    "select_fg": "#ffffff",
+    "button_bg": "#2d2d2d",
+    "button_fg": "#ffffff",
+    "button_active_bg": "#505050",
+    "title_bg": "#2d2d30",
+    "title_fg": "#ffffff",
+    "border": "#3c3c3c",
+    "accent": "#007acc",
+    "hover": "#505050"
+  },
+  "custom": {
+    "opacity": 0.9,
+    "font_family": "Segoe UI",
+    "font_size": 10,
+    "font_weight": "normal",
+    "icon_scale": 1.0,
+    "ui_scale": 1.0,
+    "bold_text": false
+  }
+}

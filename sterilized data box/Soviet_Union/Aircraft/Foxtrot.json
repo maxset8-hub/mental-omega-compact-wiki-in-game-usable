@@ -1,0 +1,56 @@
+{
+  "unit_name": "Foxtrot",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": "Precision strikes",
+    "Armament": "\"Scorch\" missiles",
+    "Tier": "1",
+    "Tech level": "5",
+    "Hit points": "230",
+    "Armor type": "Light Aircraft",
+    "Speed": "24 (jet)",
+    "Turn rate": "4",
+    "Sight radius": "8",
+    "Cost": "$1350",
+    "Estimated build time": "0:47",
+    "Built at": "Airbase",
+    "Ground": "70 * 2 (140 total)",
+    "Ground modifiers": [
+      "115% vs. Basic/Animal",
+      "105% vs. Flak",
+      "100% vs. Plate/Cyborg",
+      "55% vs. all navy armor types (except naval transports) and Medium",
+      "50% vs. Light and Heavy",
+      "40% vs. Harvester, Demolition Trucks and Bomb Buggies",
+      "30% vs.Power PlantsandBio Reactors",
+      "25% vs.Tesla Reactors",
+      "20% vs. Light Structure andWindtraps",
+      "15% vs. ((Very) Big) Defensive Structure and Big Light Structure",
+      "10% vs. (Big) Heavy Structure and Drone"
+    ],
+    "Cooldown": "15 frames (1 in-game second)",
+    "Range": "9, radius 0.5",
+    "Ability": "Missiles randomly pick 2 additional targets and start fires which lingers for a short time",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Can attack submerged units",
+      "Has 2 ammunitionEach ammunition takes 18 in-game seconds to reload",
+      "Each ammunition takes 18 in-game seconds to reload"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "Voice actor": "Ki \"ComradeCrimson\" McKenzie",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/5b/Foxicon.png/revision/latest",
+  "icon_filename": "Foxicon.png"
+}

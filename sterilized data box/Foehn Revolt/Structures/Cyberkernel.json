@@ -1,0 +1,70 @@
+{
+  "unit_name": "Cyberkernel",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": [
+      "Tech access",
+      "Radar",
+      "Reconnaissance"
+    ],
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "1500",
+    "Armor type": "Big Light Structure",
+    "Sight radius": "9",
+    "Cost": "$1500",
+    "Estimated build time": "1:23",
+    "Build time multiplier(s)": [
+      "1.25 (individual)",
+      "1.25 (all buildings)"
+    ],
+    "Built by": "Foehn Construction Yard",
+    "Requires": [
+      "Windtrap",
+      "Foehn Ore Refinery"
+    ],
+    "Placement radius": "2",
+    "Power": "-150",
+    "Allows": [
+      "Turmoil Grid",
+      "Stun Grid",
+      "Raccoon",
+      "Hovracoon",
+      "Irritator",
+      "Angelshark",
+      "Cyberkernel Expansion",
+      "Cloud Piercer Expansion",
+      "Nanofiber Loom Expansion"
+    ],
+    "Add-ons": "Cyberkernel Expansion",
+    "Ability": [
+      "Providesradar",
+      "Recon Sortie"
+    ],
+    "Notes": "Can be infiltrated to reshroud the owner's view",
+    "Select sound": "Modified (higher-pitched) from theTechnology Assembler(Tiberium Wars)",
+    "Artist(s)": "Nooze (cameo and building artwork)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/ee/Cbrkicon.png/revision/latest",
+  "icon_filename": "Cbrkicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Scout Power Cost: FreeRecharge Time: 4:00 Deploys 2 uncontrollable Recon Probes anywhere on the battlefield Recon Probes reveal shroud immediately on deploymentLeft-click icon then left-click on target location"
+        ]
+      ]
+    }
+  ]
+}

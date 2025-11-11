@@ -1,0 +1,99 @@
+{
+  "unit_name": "Boidmachine",
+  "infobox_data": {
+    "Faction": "Last Bastion",
+    "Role": "Full Range artillery strike",
+    "Armament": "Particle collider artillery",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "2000",
+    "Armor type": "Heavy",
+    "Speed": "4",
+    "Turn rate": "2",
+    "Sight radius": "6",
+    "Cost": "$3000",
+    "Estimated build time": "3:00",
+    "Build time multiplier(s)": "1.67 (all epic units)1.0 (multiple factory)",
+    "Built at": "Foehn War Factory",
+    "Requires": "Nanofiber Loom Expansion",
+    "Ground": "420-84 (Boid Blitz)",
+    "Ground modifiers": [
+      "200% vs. Light",
+      "190% vs. Medium/Harvester",
+      "175% vs. Heavy",
+      "120% vs. Defensive Structure, Tank Bunkers and Lightning Rods",
+      "100% vs. Basic/Animal and Drone",
+      "90% vs. Big Defensive Structure",
+      "80% vs. Flak and Boidmachines",
+      "70% vs. Tech Concrete Fortresses",
+      "60% vs. Plate/Cyborg and Very Big Defensive Structure",
+      "50% vs. Deployed Boidmachines",
+      "40% vs. Light Structure",
+      "16% vs. Heavy Structure",
+      "10% vs. Big Light Structure and Big Heavy Structure"
+    ],
+    "Air": "420-84 (Boid Blitz)",
+    "Air modifiers": [
+      "200% vs. Light Aircraft",
+      "190% vs. Medium Aircraft",
+      "175% vs. Heavy Aircraft",
+      "150% vs. Jets",
+      "100% vs. Scout Ravens",
+      "80% vs. Rocketeers, Norio, Gyrocopters, Cosmonauts and Uragan"
+    ],
+    "Cooldown": "5:30 (Boid Blitz)",
+    "Range": "64, minimum 12, radius 5 (Boid Blitz)",
+    "Ability": [
+      "Boid Blitz",
+      "M.A.D. Mine",
+      "Reduced EMP duration by 75%"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Build time is unaffected by multiple War Factories",
+      "Self-repair (in mobile and deployed form)",
+      "Can crush infantry",
+      "Uncrushable",
+      "Cannot be attacked byChrono LegionnairesandCharon Tanks",
+      "Cannot be mind-controlled, hijacked, depiloted, abducted andchronoshifted",
+      "Immune to confusion rays",
+      "Unaffected byBlasticade,Shadow Ringand firepower buffs/debuffs",
+      "Resistant to EMP",
+      "Must be deployed to charge the support powersThe support powers have to be charged all over again if the Boidmachine is undeployed",
+      "The support powers have to be charged all over again if the Boidmachine is undeployed",
+      "Takes 12 slots in transports"
+    ],
+    "Artist(s)": [
+      "Moder.U (voxel)",
+      "Nooze (cameo)"
+    ],
+    "Voice actor": "George \"Seòras\" Exley",
+    "_section_Epic Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/a/a1/Boidicon.png/revision/latest",
+  "icon_filename": "Boidicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Offensive PowerCost: FreeRecharge Time: 5:30Launches a particle collider artillery strike at the target location.Strong vs. Infantry, Armor, AircraftLeft-click the icon then left-click on target location within the Boidmachine's range"
+        ],
+        [
+          "",
+          "Type: Defensive PowerCost: $500Recharge Time: 3:00Deploys an invisible M.A.D. Mine on the target location.Strong vs. ArmorLeft-click icon then left-click on target location within the Boidmachine's range"
+        ]
+      ]
+    }
+  ]
+}

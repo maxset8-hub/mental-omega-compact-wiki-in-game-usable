@@ -1,0 +1,53 @@
+{
+  "unit_name": "Siege Cadre",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Anti-structure",
+    "Armament": "Comet Prism Rifle 00",
+    "Tier": "1",
+    "Tech level": "5",
+    "Hit points": "155",
+    "Armor type": "Plate",
+    "Speed": "7",
+    "Sight radius": "8",
+    "Cost": "$450",
+    "Estimated train time": "0:07",
+    "Train time multiplier(s)": "0.65",
+    "Trained at": "Allied Barracks",
+    "Requires": "Arsenal Depot",
+    "Ground": "40",
+    "Ground modifiers": [
+      "120% vs. (Big) Light Structure",
+      "115% vs. ((Very) Big) Defensive Structure",
+      "80% vs. (Big) Heavy Structure",
+      "75% vs. Basic/Animal",
+      "55% vs. Flak",
+      "50% vs. Light and Drone",
+      "45% vs. Plate/Cyborg",
+      "30% vs. Medium/Harvester",
+      "25% vs. Heavy"
+    ],
+    "Cooldown": "50 frames (3.3 in-game seconds)",
+    "Range": "9",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "Notes": [
+      "Cannot be attacked byAttack DogsandSpooks",
+      "Vulnerable to magnetic weapons"
+    ],
+    "Artist(s)": "ImP_RuLz",
+    "Voice actor": "Colonel Magus",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/9/94/Enfoicon.png/revision/latest",
+  "icon_filename": "Enfoicon.png"
+}

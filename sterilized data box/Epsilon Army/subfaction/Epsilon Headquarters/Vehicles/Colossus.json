@@ -1,0 +1,85 @@
+{
+  "unit_name": "Colossus",
+  "infobox_data": {
+    "Faction": "Epsilon Headquarters",
+    "Role": [
+      "Anti-armor",
+      "Anti-air"
+    ],
+    "Armament": [
+      "2x psionic blasters",
+      "Heavy AA gun"
+    ],
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "670",
+    "Armor type": "Heavy",
+    "Speed": "5",
+    "Turn rate": [
+      "5 (unit)",
+      "8 (turret)"
+    ],
+    "Sight radius": "7",
+    "Cost": "$1550",
+    "Estimated build time": "0:54",
+    "Build time multiplier(s)": "0.9 (multiple factory)",
+    "Built at": "Epsilon War Factory",
+    "Requires": "Geneplug",
+    "Ground": "40-8 * 8 (320-64 total) (psychic blasters)",
+    "Ground modifiers": [
+      "110% vs. Light",
+      "100% vs. Medium/Harvester",
+      "90% vs. Heavy",
+      "50% vs. (Big) Light Structure",
+      "45% vs. ((Very) Big) Defensive Structure",
+      "30% vs. (Big) Heavy Structure",
+      "20% vs. Drone and Basic/Animal",
+      "15% vs. Flak and Plate/Cyborg"
+    ],
+    "Air": "16-6 * 2 (32-12 total) (heavy AA gun)",
+    "Air modifiers": [
+      "175% vs. Medium Aircraft, Heavy Aircraft,Diverbees",
+      "150% vs. Light Aircraft,Rocketeers,Gyrocopters,Cosmonauts",
+      "125% vs.Norio,Uragan,Scout Ravens"
+    ],
+    "Cooldown": [
+      "65 frames (4.3 in-game seconds) (psychic blasters)",
+      "1 frame (0.07 in-game seconds) (heavy AA gun)"
+    ],
+    "Range": [
+      "7, radius 1.3 (psychic blasters)",
+      "12, radius 0.3 (heavy AA gun)"
+    ],
+    "Ability": [
+      "Deploy to switch to heavy AA gun",
+      "Heavy AA gun deals up to about 3x damage to close and stationary targets"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Can enterTank Bunkers",
+      "Self-repair",
+      "Can fire while moving",
+      "Can crush infantry",
+      "Uncrushable",
+      "Cannot be depiloted",
+      "Takes 6 slots in transports"
+    ],
+    "Artist(s)": [
+      "Azri_Apoc",
+      "snaplat(concept art)"
+    ],
+    "Voice actor": "BouncyTEM",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/d/d3/Colsicon.png/revision/latest",
+  "icon_filename": "Colsicon.png"
+}

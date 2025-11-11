@@ -1,0 +1,110 @@
+{
+  "unit_name": "José Arcadio Morales",
+  "infobox_data": {
+    "Faction": "Latin Confederation",
+    "Role": [
+      "All-purpose sniper",
+      "Siege"
+    ],
+    "Armament": [
+      "Dragunov incendiary rifle (against infantry and vehicles)",
+      "Laser designator (against structures)"
+    ],
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": [
+      "240",
+      "500 inArchetype",
+      "350 inHappy BirthdayandPower Hunger",
+      "400 inCombustion",
+      "1000 inExist to Exit",
+      "360 inJuggernaut",
+      "750 inThread of Dread"
+    ],
+    "Armor type": "Flak",
+    "Speed": [
+      "7",
+      "9 inArchetypeandHappy Birthday",
+      "10 inPower Hunger",
+      "8 inThread of Dread"
+    ],
+    "Sight radius": [
+      "9",
+      "10 inUnshakeable"
+    ],
+    "Cost": "$1500",
+    "Estimated train time": "1:08",
+    "Train time multiplier(s)": [
+      "0.65 (all infantry)",
+      "2 (all heroes)",
+      "1.0 (multiple factory)"
+    ],
+    "Trained at": "Soviet Barracks",
+    "Requires": "Battle Lab",
+    "Ground": [
+      "300 (rifle)",
+      "0(dummy)(laser designator)"
+    ],
+    "Ground modifiers": [
+      "Rifle:",
+      "100% vs. Basic/Animal, Flak and Drone",
+      "85% vs. Plate/Cyborg",
+      "30% vs. all vehicle armor types"
+    ],
+    "Cooldown": [
+      "180 frames (12 in-game seconds) (rifle)110 frames (7.3 in-game seconds) inHappy Birthday100 frames (6.7 in-game seconds) inCombustion95 frames (6.3 in-game seconds) inJuggernaut60 frames (4 in-game seconds) inPower HungerandThread of Dread",
+      "110 frames (7.3 in-game seconds) inHappy Birthday",
+      "100 frames (6.7 in-game seconds) inCombustion",
+      "95 frames (6.3 in-game seconds) inJuggernaut",
+      "60 frames (4 in-game seconds) inPower HungerandThread of Dread",
+      "60 frames (4 in-game seconds) (laser designator)"
+    ],
+    "Range": [
+      "15 (both weapons)",
+      "16 (rifle) inArchetype"
+    ],
+    "Ability": [
+      "Dragunov incendiary rifle damages infantry in a line (radius 0.3) and depilots Tier 1 and Tier 2 vehicles",
+      "Laser designator marks targets for a tactical nuclear airstrike by 2 X-MiGsThe X-MiGs take 50 frames (3.3 in-game seconds) to enter the map once called in",
+      "The X-MiGs take 50 frames (3.3 in-game seconds) to enter the map once called in",
+      "Detects cloaked/submerged enemies (range 9)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "+2 X-MiGs",
+      "-50% X-MiGs arrival delay"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Build time is unaffected by multiple Barracks",
+      "Self-healing",
+      "Uncrushable by normal vehicles",
+      "Cannot be mind-controlled and abducted",
+      "Immune to confusion rays",
+      "Cannot fire fromopentopped transports",
+      "X-MiG stats:Hit points: 450Armor type: Light AircraftSpeed: 36 (jet)Turn rate: 2Ground attack: 1000-500100% vs. all structure armor types50% vs. all vehicle armor types10% vs. all infantry armor typesRange: 9, radius 2Airstrikes leave behind a small radiation field",
+      "Hit points: 450",
+      "Armor type: Light Aircraft",
+      "Speed: 36 (jet)",
+      "Turn rate: 2",
+      "Ground attack: 1000-500100% vs. all structure armor types50% vs. all vehicle armor types10% vs. all infantry armor types",
+      "100% vs. all structure armor types",
+      "50% vs. all vehicle armor types",
+      "10% vs. all infantry armor types",
+      "Range: 9, radius 2",
+      "Airstrikes leave behind a small radiation field"
+    ],
+    "Artist(s)": "MooMan",
+    "Voice actor": "SenatorJohnDean",
+    "_section_Hero": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/e1/Moralesicon.png/revision/latest",
+  "icon_filename": "Moralesicon.png"
+}

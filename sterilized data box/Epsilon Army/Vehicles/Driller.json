@@ -1,0 +1,33 @@
+{
+  "unit_name": "Driller APC",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": "Transport",
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "240",
+    "Armor type": "Light",
+    "Transport slots": "3",
+    "Speed": "4 (1 when underground)",
+    "Turn rate": "4",
+    "Sight radius": "4",
+    "Cost": "$1000",
+    "Estimated build time": "0:36",
+    "Built at": "Epsilon War Factory",
+    "Requires": "Radar Spire",
+    "Ability": "Subterranean",
+    "Notes": [
+      "Movement can be heard while underground",
+      "Level 2/medium passenger survivability rate (70% rookie, 80% veteran, 90% elite)",
+      "Takes 6 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/3/35/Drilicon.png/revision/latest",
+  "icon_filename": "Drilicon.png"
+}

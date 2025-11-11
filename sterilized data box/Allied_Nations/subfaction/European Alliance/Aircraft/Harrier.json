@@ -1,0 +1,54 @@
+{
+  "unit_name": "Harrier",
+  "infobox_data": {
+    "Faction": "European Alliance",
+    "Role": "Precision strikes",
+    "Armament": "HEAT missiles",
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "230",
+    "Armor type": "Light Aircraft",
+    "Speed": "25 (jet)",
+    "Turn rate": "5",
+    "Sight radius": "8",
+    "Cost": "$1200",
+    "Estimated build time": "0:43",
+    "Built at": "Air Force Command Headquarters",
+    "Requires": "Shield Command(unconditionally)",
+    "Ground": "95 * 2 (190 total)",
+    "Ground modifiers": [
+      "130% vs. Medium and Naval Units",
+      "120% vs. Harvester",
+      "115% vs. Light and Heavy",
+      "105% vs. Basic/Animal",
+      "100% vs. Flak, Plate/Cyborg and Drone",
+      "80% vsDemolition TrucksandBomb Buggies",
+      "50% vs.heroes",
+      "40% vs. (Big) Light Structure",
+      "30% vs. ((Very) Big) Defensive Structure",
+      "25% vs. (Big) Heavy Structure"
+    ],
+    "Cooldown": "10 frames (0.7 in-game seconds)",
+    "Range": "8, radius 0.4",
+    "Ability": "Weapon reduces the (Unit) target's armor by 30% for 60 frames (4 in-game seconds)",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Has 1 ammunitionEach ammunition takes 18 in-game seconds to reload",
+      "Each ammunition takes 18 in-game seconds to reload"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/3/3d/Falcicon.png/revision/latest",
+  "icon_filename": "Falcicon.png"
+}

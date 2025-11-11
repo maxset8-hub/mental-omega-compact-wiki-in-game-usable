@@ -1,0 +1,85 @@
+{
+  "unit_name": "Experimental Warpshop",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": [
+      "Support powers",
+      "Tech access"
+    ],
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "1000",
+    "Armor type": "Light Structure",
+    "Sight radius": "4",
+    "Cost": "$1500",
+    "Estimated build time": "1:05",
+    "Build time multiplier(s)": "1.25",
+    "Built by": "Allied Construction Yard",
+    "Requires": [
+      "Mercury Network Uplink",
+      "Shield Command",
+      "Robot Ops Control Center",
+      "Tech Center"
+    ],
+    "Placement radius": "2",
+    "Power": "-150",
+    "Allows": [
+      "Warpnode",
+      "Chrono Legionnaire",
+      "Hummingbird",
+      "Siren Frigate"
+    ],
+    "Ability": [
+      "Backwarp(requiresTech Center)",
+      "Ultra Miner(requiresOre Purifier)",
+      "Chronolift(requiresChronosphere)",
+      "Kingsnakes(requiresAir Force Command Headquarters)",
+      "Paladin Aid(requires Allied War Factory)"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Uncapturable",
+      "Cannot bechronolifted",
+      "Can be infiltrated to reset the support powers' timer"
+    ],
+    "Artist(s)": "Nooze",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/c/c5/Ewrpicon.png/revision/latest",
+  "icon_filename": "Ewrpicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Reinforcement PowerCost: $1600Recharge Time: 7:30Requires Ore PurifierDeploys an Ultra Miner anywhere on the battlefieldUltra Miner is amphibious, more durable, has twice the capacity of Chrono Miners, and is armed with a negation fieldLeft-click icon then left-click on target location (cannot be used on water)"
+        ],
+        [
+          "",
+          "Type: Utility PowerCost: $800Recharge Time: 5:00Requires Tech CenterRestores hit points of friendly units and buildings in a targeted area for 5 instancesEvery instance restores 50 hit points for structures, 100 hit points for infantry, and 200 hit points for vehiclesRemoves EMP from affected unitsDoes not remove Terror DronesLeft-click icon then left-click on target location"
+        ],
+        [
+          "",
+          "Type: Utility PowerRecharge Time: 1:00Requires ChronosphereTeleports friendly structures to and from an area around the Experimental Warpshop or a WarpnodeCannot be used on the Experimental Warpshop itself, Warpnodes, and the PlasmerizerLeft-click icon then left-click on structures to teleport, then left-click on target location near an Experimental Warpshop or Warpnode"
+        ],
+        [
+          "",
+          "Type: Defensive PowerCost: $1000Recharge Time: 6:30Requires Air Force Command HeadquartersUnique to  United StatesCreates a temporary portal around the Experimental Warpshop or a Warpnode that warps in Kingsnake jet fighters which patrol the vicinity and engage enemiesLost Kingsnakes are quickly replaced while the portal lastsStrong vs. Armor, AircraftLeft-click icon then left-click on target location near an Experimental Warpshop or Warpnode"
+        ],
+        [
+          "",
+          "Type: Reinforcement PowerCost: $2600Recharge Time: 7:30Requires Allied War FactoryUnique to  European AllianceDeploys two Paladin Tank Hunters near the Experimental WarpshopStrong vs. ArmorLeft-click to activate"
+        ]
+      ]
+    }
+  ]
+}

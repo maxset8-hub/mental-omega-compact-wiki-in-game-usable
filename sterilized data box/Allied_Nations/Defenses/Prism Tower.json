@@ -1,0 +1,58 @@
+{
+  "unit_name": "Prism Tower",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Advanced defense",
+    "Armament": "Prism cannon",
+    "Tier": "2",
+    "Tech level": "6",
+    "Hit points": "850",
+    "Armor type": "Defensive Structure",
+    "Sight radius": "8",
+    "Cost": [
+      "$1200",
+      "$1500 inInfantry Only"
+    ],
+    "Estimated build time": [
+      "0:50",
+      "1:05 inInfantry Only"
+    ],
+    "Build time multiplier(s)": "1.2 (all defenses)",
+    "Built by": "Allied Construction Yard",
+    "Requires": "Air Force Command Headquarters",
+    "Placement radius": "5",
+    "Ground attack": "110",
+    "Ground attack modifiers": [
+      "200% vs. Basic/Animal and Drone",
+      "120% vs. Flak and Plate/Cyborg",
+      "100% vs. all vehicle armor types",
+      "50% vs. all structure armor types"
+    ],
+    "Cooldown": "50 frames (3.3 in-game seconds)",
+    "Attack range": "8",
+    "Power": "-75",
+    "Ability": [
+      "Can link with other friendly Prism Towers in a radius of 9, increasing the Prism Tower's firepower by 125% for each Prism Towers in the link",
+      "Stacks up to a maximum of 8 Prism Towers or 2 relays"
+    ],
+    "Upgraded bonus": "+40% armor",
+    "Fully upgraded bonus": [
+      "+40% firepower",
+      "Weapon disperses 3 beams that hits additional targets in a radius of 5 around the main target, causing40damage to each",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can gain experience",
+      "Takes 50% more damage fromLightning Storm"
+    ],
+    "Select sound": "From theSpectrum Tower(Red Alert 3)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/c/c6/Prisicon.png/revision/latest",
+  "icon_filename": "Prisicon.png"
+}

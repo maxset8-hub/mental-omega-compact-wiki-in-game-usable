@@ -1,0 +1,25 @@
+{
+  "unit_name": "Rad Attack",
+  "infobox_data": {
+    "Affiliation": "RussiaLatin ConfederationChina(campaign only)",
+    "Cost": "$1200",
+    "Cooldown": "7:00",
+    "Called from": "Nuclear Converter",
+    "Requires": "Airbase",
+    "Effect": "Call in 2 Wastelots for a kamikaze attack at the target location",
+    "Notes": [
+      "A red flare will be displayed at designated zone right after support power deployment",
+      "Wastelot stats:Hit points: 180Armor: Light AircraftSpeed: 34 (Jet)Turn rate: 10Crashes upon reaching the target, dealing250-125damage over a radius of 5 and leaves behind a medium radiation field",
+      "Hit points: 180",
+      "Armor: Light Aircraft",
+      "Speed: 34 (Jet)",
+      "Turn rate: 10",
+      "Crashes upon reaching the target, dealing250-125damage over a radius of 5 and leaves behind a medium radiation field"
+    ],
+    "Artist(s)": "Salted_Old (Wastelot voxel)",
+    "_section_Support Power": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/2/2e/Radsicon.png/revision/latest",
+  "icon_filename": "Radsicon.png"
+}

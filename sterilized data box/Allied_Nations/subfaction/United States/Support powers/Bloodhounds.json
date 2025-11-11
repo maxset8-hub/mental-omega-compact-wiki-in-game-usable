@@ -1,0 +1,17 @@
+{
+  "unit_name": "Bloodhounds",
+  "infobox_data": {
+    "Affiliation": "United States",
+    "Cost": "$1500",
+    "Cooldown": "5:00",
+    "Called from": "Drop Control",
+    "Effect": "Call in aCargo Planeto drop 3Humveesand 2Strykerson the target location",
+    "Notes": [
+      "A blue flare will be displayed at designated zone right after support power deployment",
+      "Industrial Plantdoes not affect the cost"
+    ],
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/a/a5/Bldhicon.png/revision/latest",
+  "icon_filename": "Bldhicon.png"
+}

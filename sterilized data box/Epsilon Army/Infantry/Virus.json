@@ -1,0 +1,63 @@
+{
+  "unit_name": "Virus",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": "Anti-infantry",
+    "Armament": "Sniper Rifle with Toxin Bullet",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "180",
+    "Armor type": "Flak",
+    "Speed": "4",
+    "Sight radius": "8",
+    "Cost": "$1500",
+    "Estimated train time": "0:40",
+    "Train time multiplier(s)": [
+      "0.65 (all infantry)",
+      "1.2 (individual)"
+    ],
+    "Trained at": "Epsilon Barracks",
+    "Requires": [
+      "Cloning Vats",
+      "Chimera CoreinBounty HuntandOil Control",
+      "Psychplug,ChemplugorGenepluginInfantry Only"
+    ],
+    "Ground": "200 (virus bomb)",
+    "Ground modifiers": [
+      "175% vs. Basic/Animal",
+      "150% vs. Flak",
+      "120% vs. Plate/Cyborg, Heroes",
+      "110% vs.Kingsframes,RailguneersandGodsbanes",
+      "100% vs. Drone andGiantsbanes",
+      "10% vs. all vehicle armor types"
+    ],
+    "Cooldown": "165 frames (11 in-game seconds)",
+    "Range": [
+      "11",
+      "13 inSingularity"
+    ],
+    "Ability": [
+      "Absorbs damage from poison clouds",
+      "Weapon injects a pathogen that is released after 160 frames (10.7 in-game seconds), causing 200-60 damage over a radius of 1Infantry killed by the pathogen release poison clouds",
+      "Infantry killed by the pathogen release poison clouds"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "Notes": [
+      "Does not reveal position when attacking",
+      "Does not automatically attack enemies inSingularity",
+      "Cannot fire fromopentopped transports"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/b/b5/Vrusicon.png/revision/latest",
+  "icon_filename": "Vrusicon.png"
+}

@@ -1,0 +1,71 @@
+{
+  "unit_name": "Athena Cannon",
+  "infobox_data": {
+    "Faction": "United States",
+    "Role": "Siege",
+    "Armament": "Mobile Mercury Uplink",
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": "370",
+    "Armor type": "Medium",
+    "Speed": "4",
+    "Turn rate": [
+      "3 (unit)",
+      "6 (turret)"
+    ],
+    "Sight radius": "6",
+    "Cost": "$1600",
+    "Estimated build time": "0:58",
+    "Build time multiplier(s)": "0.9 (multiple factory)",
+    "Built at": "Allied War Factory",
+    "Requires": [
+      "Mercury Network Uplink",
+      "Tech Center"
+    ],
+    "Ground": "175",
+    "Ground modifiers": [
+      "160% vs. Defensive Structure and Lightning Rods",
+      "120% vs. Tank Bunkers",
+      "110% vs. Basic/Animal",
+      "100% vs. (Very) Big Defensive Structure and Drone",
+      "90% vs. Heavy Structure",
+      "85% vs. Flak and Light Structure",
+      "75% vs. Plate/Cyborg and Tech Concrete Fortresses",
+      "65% vs. Light",
+      "60% vs. Medium/Harvester",
+      "55% vs. Heavy",
+      "50% vs. Big Light Structure and Big Heavy Structure"
+    ],
+    "Cooldown": [
+      "30 frames (2 in-game seconds) (impact delay)",
+      "320 frames (21.3 in-game seconds) (reload)"
+    ],
+    "Range": "15, minimum 3, radius 2",
+    "Ability": [
+      "Using aMercury Strikenear Athena Cannons gives them a 25% firepower buff for 300 frames (20 in-game seconds)",
+      "Deploy to toggle between free fire and hold fire mode"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% armor",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Invisible on enemy radar",
+      "Can crush infantry",
+      "Can enterTank Bunkers",
+      "Cannot be depiloted",
+      "Takes 6 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/6/62/Bassicon.png/revision/latest",
+  "icon_filename": "Bassicon.png"
+}

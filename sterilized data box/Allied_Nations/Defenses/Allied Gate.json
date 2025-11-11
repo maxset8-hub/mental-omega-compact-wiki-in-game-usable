@@ -1,0 +1,41 @@
+{
+  "unit_name": "Gates",
+  "infobox_data": {
+    "Faction": "Allied NationsSoviet UnionEpsilon Army",
+    "Role": "Passive defense",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "400",
+    "Armor type": "Heavy Structure",
+    "Cost": "$250",
+    "Estimated build time": "0:11 (base 0:09)",
+    "Build time multiplier(s)": "1.2",
+    "Built by": [
+      "Allied Construction Yard",
+      "Soviet Construction Yard",
+      "Epsilon Construction Yard"
+    ],
+    "Requires": [
+      "Allied Barracks",
+      "Soviet Barracks",
+      "Epsilon Barracks"
+    ],
+    "Placement radius": "8",
+    "Ability": [
+      "Allows friendly units to pass through",
+      "Blocks enemy units from passing through"
+    ],
+    "Artist(s)": [
+      "Nooze (Allied Gates)",
+      "Gangster (Soviet Gates)",
+      "Vinifera7 (Epsilon Gates)"
+    ],
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/7/7d/Agaticon-0.png/revision/latest",
+  "icon_filename": "Agaticon-0.png"
+}

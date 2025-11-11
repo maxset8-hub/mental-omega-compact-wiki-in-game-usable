@@ -1,0 +1,130 @@
+{
+  "unit_name": "Tank Bunker",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": "Garrisonable defense",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "975",
+    "Armor type": "Big Defensive Structure",
+    "Garrisonslots": "1 vehicle",
+    "Sight radius": "6",
+    "Cost": "$300",
+    "Estimated build time": "0:14",
+    "Build time multiplier(s)": [
+      "1.2 (all defenses)",
+      "1.35 (individual)"
+    ],
+    "Built by": "Epsilon Construction Yard",
+    "Requires": "Synthesis Vault",
+    "Placement radius": "7",
+    "Ability": [
+      "Increases the garrisoned vehicle's firepower by 40% and range by 2",
+      "Protects the garrisoned vehicle from ground-based weapons"
+    ],
+    "Select sound": "From theGDI Outpost(Tiberium Wars)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/9/95/Tbnkicon.png/revision/latest",
+  "icon_filename": "Tbnkicon.png",
+  "article_tables": [
+    {
+      "title": "Eligible units",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "Campaign-exclusive",
+          "",
+          ""
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "unit_name": "Arsenal Depot",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Combat support",
+    "Tier": "1",
+    "Tech level": "3",
+    "Hit points": "1000",
+    "Armor type": "Light Structure",
+    "Sight radius": "6",
+    "Cost": "$800",
+    "Estimated build time": "0:40",
+    "Build time multiplier(s)": [
+      "1.25 (all buildings)",
+      "1.15 (individual)"
+    ],
+    "Built by": "Allied Construction Yard",
+    "Requires": "Allied Barracks",
+    "Placement radius": "2",
+    "Power": "-50",
+    "Allows": [
+      "Gun Turret",
+      "Field Medic",
+      "Siege Cadre"
+    ],
+    "Ability": "Cryoshot/Cryospear",
+    "Notes": [
+      "Can be infiltrated to reset the support power's timer",
+      "Comes with 2Field Medicswhen built (skirmish)"
+    ],
+    "Artist(s)": "Nooze",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/e3/Gdpoicon.png/revision/latest",
+  "icon_filename": "Gdpoicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Offensive PowerCost: $800Recharge Time: 4:00Fires a cryobeam that immobilizes infantry and light vehicles for 15 secondsLeft-click icon then left-click on target location"
+        ],
+        [
+          "",
+          "Type: Offensive PowerCost: $1000Recharge Time: 5:00Replaces Cryoshot when a Tech Center is builtFires a stronger cryobeam that immobilizes ground and naval units for 18 secondsLeft-click icon then left-click on target location"
+        ]
+      ]
+    }
+  ]
+}

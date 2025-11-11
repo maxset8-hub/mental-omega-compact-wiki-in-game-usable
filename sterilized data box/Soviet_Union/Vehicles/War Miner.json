@@ -1,0 +1,56 @@
+{
+  "unit_name": "War Miner",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": "Resource collection",
+    "Armament": "KPV 14.5mm machine gun",
+    "Tier": "1",
+    "Tech level": "1",
+    "Hit points": "1200",
+    "Armor type": "Harvester",
+    "Speed": "4",
+    "Turn rate": "12",
+    "Sight radius": "5",
+    "Cost": "$1400",
+    "Estimated build time": "0:58",
+    "Build time multiplier(s)": "1.2",
+    "Built at": "Soviet War Factory",
+    "Requires": "Soviet Ore Refinery",
+    "Ground": "30",
+    "Ground modifiers": [
+      "500% vs. Drone",
+      "100% vs. Basic/Animal",
+      "85% vs. Flak",
+      "70% vs. Plate/Cyborg",
+      "40% vs. Light",
+      "20% vs. Medium/Harvester",
+      "15% vs. Heavy",
+      "1% vs. all structure armor types"
+    ],
+    "Cooldown": "20 frames (1.3 in-game seconds)",
+    "Range": "6",
+    "Ability": "Gatherores(max. $1000 worth of ores/$1500 worth of gems)",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Can crush infantry",
+      "Cannot be mind-controlled, hijacked and depiloted",
+      "Immune to confusion rays",
+      "Does not automatically attack enemy miners",
+      "Takes 3 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/52/Harvicon.png/revision/latest",
+  "icon_filename": "Harvicon.png"
+}

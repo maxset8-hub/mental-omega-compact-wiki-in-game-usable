@@ -1,0 +1,47 @@
+{
+  "unit_name": "Stun Grid",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": "Hidden defense",
+    "Armament": "Stun field",
+    "Tier": "2",
+    "Tech level": "6",
+    "Hit points": "120",
+    "Armor type": "Defensive Structure",
+    "Turn rate": "10",
+    "Sight radius": "2",
+    "Cost": "$500",
+    "Estimated build time": "0:22",
+    "Build time multiplier(s)": "1.2 (all defenses)",
+    "Built by": "Foehn Construction Yard",
+    "Requires": "Cyberkernel",
+    "Placement radius": "8",
+    "Ground attack": "1",
+    "Ground attack modifiers": [
+      "200% vs. Engineers and espionage agents",
+      "100% vs. other infantry armor types"
+    ],
+    "Cooldown": "22 frames (1.47 in-game seconds)",
+    "Attack range": "1.03, radius 0.9",
+    "Power": "-1",
+    "Ability": [
+      "Cloaked",
+      "Detects cloaked/submerged enemies (range 2)",
+      "Detects disguised enemies",
+      "Weapon stuns enemy infantry for 25 frames (1.7 in-game seconds)"
+    ],
+    "Notes": [
+      "Self-repair",
+      "8 more Stun Grids will appear around the Stun Grid itself after being placed"
+    ],
+    "Artist(s)": "Nooze (cameo and artwork)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/57/Fildicon.png/revision/latest",
+  "icon_filename": "Fildicon.png"
+}

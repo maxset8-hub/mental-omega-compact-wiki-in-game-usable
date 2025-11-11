@@ -1,0 +1,53 @@
+{
+  "unit_name": "Rage Inductor",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": "Support superweapon",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "1150",
+    "Armor type": "Big Heavy Structure",
+    "Sight radius": "5",
+    "Cost": "$3000",
+    "Estimated build time": "2:13",
+    "Build time multiplier(s)": "1.25 (all buildings)",
+    "Built by": "Epsilon Construction Yard",
+    "Requires": [
+      "Psychplug",
+      "Chemplug",
+      "Geneplug"
+    ],
+    "Placement radius": "2",
+    "Power": "-200",
+    "Allows": "War Rig",
+    "Ability": "Rage",
+    "Notes": [
+      "Limited to one for each player",
+      "Cannot be captured",
+      "Can be infiltrated to reset the superweapon's timer"
+    ],
+    "Select sound": "From theInstant Generator(Red Alert 3)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/51/Gntcicon.png/revision/latest",
+  "icon_filename": "Gntcicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Superweapon",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Support SuperweaponCost: FreeRecharge Time: 5:30Increases firepower of friendly ground and naval units in a large radius by 60% for 60 secondsRestores 100 hit points on infantry and 200 hit points on vehicles upon activationLeft-click icon then left-click on target location"
+        ]
+      ]
+    }
+  ]
+}

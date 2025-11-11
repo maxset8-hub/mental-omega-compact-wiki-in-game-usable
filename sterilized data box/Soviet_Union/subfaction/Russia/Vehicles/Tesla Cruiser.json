@@ -1,0 +1,75 @@
+{
+  "unit_name": "Tesla Cruiser",
+  "infobox_data": {
+    "Faction": "Russia",
+    "Role": [
+      "Anti-armor",
+      "Anti-infantry"
+    ],
+    "Armament": "2x Tesla coils",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "540",
+    "Armor type": "Heavy",
+    "Speed": "6",
+    "Turn rate": "6",
+    "Sight radius": "6",
+    "Cost": "$1500",
+    "Estimated build time": "0:54",
+    "Build time multiplier(s)": "0.9 (multiple factory)",
+    "Built at": "Soviet War Factory",
+    "Requires": "Palace",
+    "Ground": [
+      "45 * 2 (90 total)",
+      "20 (weapon shrapnel)"
+    ],
+    "Ground modifiers": [
+      "Main attack:",
+      "200% vs. Drone",
+      "115% vs. Basic/Animal",
+      "110% vs. Flak and Heavy",
+      "95% vs. Medium/Harvester",
+      "95% vs. Plate/Cyborg",
+      "85% vs. Light",
+      "30% vs. ((Very) Big) Defensive Structure",
+      "25% vs. (Big) Light Structure and (Big) Heavy Structure",
+      "Elite tesla fragments:",
+      "200% vs. Drone",
+      "105% vs. Heavy",
+      "100% vs. None, Flak, Medium/Harvester and Basic/Animal",
+      "90% vs. Light",
+      "80% vs. Plate/Cyborg",
+      "15% vs. all structure armor types"
+    ],
+    "Cooldown": "55 frames (3.7 in-game seconds)",
+    "Range": "7, radius 0.3",
+    "Ability": [
+      "Weapon disables vehicles and infantry vulnerable to EMP for 10 frames (0.7 in-game seconds)",
+      "Weapon arcs to an additional target in a radius of 1 around the main target, causing20damage"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "Weapon arcs to 2 additional targets in a radius of 3 around the main target, causing 30 damage to each",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Can fire while moving",
+      "Can crush infantry",
+      "Can enterTank Bunkers",
+      "Cannot be depiloted",
+      "Affected byOvercharge",
+      "Takes 6 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/4/42/Ttnkicon.png/revision/latest",
+  "icon_filename": "Ttnkicon.png"
+}

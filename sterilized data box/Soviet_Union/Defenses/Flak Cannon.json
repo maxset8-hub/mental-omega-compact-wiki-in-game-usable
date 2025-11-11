@@ -1,0 +1,45 @@
+{
+  "unit_name": "Flak Cannon",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": "Anti-air defense",
+    "Armament": "Flak cannons",
+    "Tier": "1",
+    "Tech level": "5",
+    "Hit points": "800",
+    "Armor type": "Defensive Structure",
+    "Turn rate": "14",
+    "Sight radius": "10",
+    "Cost": "$700",
+    "Estimated build time": "0:29",
+    "Build time multiplier(s)": "1.2",
+    "Built by": "Soviet Construction Yard",
+    "Requires": "Soviet Barracks",
+    "Placement radius": "7",
+    "Air attack": "24-12 * 2 (48-12 total)",
+    "Air attack modifiers": [
+      "100% vs. jets",
+      "80% vs. Light Aircraft, Medium Aircraft,Rocketeers,Norio,Gyrocopters,Cosmonauts,Aerial Fortresses Irkalla,Scout RavensandUragan",
+      "60% vs. Heavy Aircraft andBlack Widow"
+    ],
+    "Cooldown": "20 frames (1.3 in-game seconds)",
+    "Attack range": "12, radius 0.6",
+    "Power": "-50",
+    "Upgraded bonus": "+40% armor",
+    "Fully upgraded bonus": [
+      "+40% firepower",
+      "Self-repair"
+    ],
+    "Notes": "Can gain experience",
+    "Select sound": "From theFlak cannon(Red Alert 3)",
+    "Artist(s)": "Bu7loos",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/a/a4/Flakicon.png/revision/latest",
+  "icon_filename": "Flakicon.png"
+}

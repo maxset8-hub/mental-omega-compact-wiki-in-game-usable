@@ -1,0 +1,77 @@
+{
+  "unit_name": "Clairvoyant",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": [
+      "Infiltration",
+      "Infantry stun",
+      "Bridge demolition"
+    ],
+    "Armament": [
+      "Stun beam",
+      "Demolition set"
+    ],
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": "200",
+    "Armor type": "Plate",
+    "Speed": "6; 10 when boosted",
+    "Sight radius": "8",
+    "Cost": [
+      "$400",
+      "$500 inInfantry Only"
+    ],
+    "Estimated train time": [
+      "0:11",
+      "0:11 inInfantry Only"
+    ],
+    "Train time multiplier(s)": [
+      "0.65 (all infantry)",
+      "1.20 (individual)"
+    ],
+    "Trained at": "Foehn Barracks",
+    "Requires": [
+      "Cyberkernel Expansion",
+      "Cloud Piercer Expansion",
+      "Nanofiber Loom Expansion"
+    ],
+    "Ground": "1",
+    "Ground modifiers": [
+      "200% vs.Engineersand espionage agents",
+      "100% vs. other infantry armor types"
+    ],
+    "Cooldown": "105 frames (7 in-game seconds)",
+    "Range": "5.5",
+    "Upgrades to": "Duplicant",
+    "Ability": [
+      "Amphibious",
+      "Infiltrates enemy structures",
+      "Detects disguised enemies (range 7)",
+      "Weapon immobilizes target infantry for 120 frames (8 in-game seconds)",
+      "Can destroybridgesby using the demolition set on its repair hutThe demolition set takes 400 frames (26.7 in-game seconds) to detonateHas a range of 1.5 and a cooldown of 100 frames (6.7 in-game seconds)",
+      "The demolition set takes 400 frames (26.7 in-game seconds) to detonate",
+      "Has a range of 1.5 and a cooldown of 100 frames (6.7 in-game seconds)"
+    ],
+    "Notes": [
+      "Cannot be attacked byAttack Dogs,Spooks,Desolators/Eradicators,SycklesandZorbtrotters/Zorbfloaters",
+      "Immune to radiation, poison andAlanqa Skystation's tornado",
+      "Cannot be mind-controlled",
+      "Receives a speed buff while inside aSpinblade's radius",
+      "Vulnerable to EMP and magnetic weapons",
+      "Unaffected by firepower buffs/debuffs"
+    ],
+    "Artist(s)": [
+      "Starkku (SHP)",
+      "Nooze (cameo)"
+    ],
+    "Voice actor": "De'Lante Capers(previously credited as \"Rhys_Dallows\")",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/8/85/Clrvicon.png/revision/latest",
+  "icon_filename": "Clrvicon.png"
+}

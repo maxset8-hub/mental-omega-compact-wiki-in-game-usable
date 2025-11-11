@@ -1,0 +1,13 @@
+{
+  "unit_name": "Target Painter",
+  "infobox_data": {
+    "Affiliation": "United States",
+    "Cost": "Free",
+    "Cooldown": "4:30",
+    "Called from": "Mercury Network Uplink",
+    "Effect": "Reduces the armor of enemies in a radius of 4 by 20% for 600 frames (40 in-game seconds)",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/e6/Painicon.png/revision/latest",
+  "icon_filename": "Painicon.png"
+}

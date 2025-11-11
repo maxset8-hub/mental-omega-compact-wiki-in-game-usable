@@ -1,0 +1,94 @@
+{
+  "unit_name": "Shield Command",
+  "infobox_data": {
+    "Faction": "European Alliance",
+    "Role": [
+      "Support powers",
+      "Tech access"
+    ],
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "1000",
+    "Armor type": "Light Structure",
+    "Sight radius": "10",
+    "Cost": [
+      "$1500",
+      "$1000 inInfantry Only,Tech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Estimated build time": [
+      "1:23",
+      "0:54 inInfantry Only,Tech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Build time multiplier(s)": [
+      "1.25 (all buildings)",
+      "1.25 (individual)"
+    ],
+    "Built by": "Allied Construction Yard",
+    "Requires": [
+      "Power Plant",
+      "Allied Ore Refinery"
+    ],
+    "Placement radius": "2",
+    "Power": [
+      "-150",
+      "-50 inTech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Allows": [
+      "Camo Pillbox",
+      "Mirage Tank",
+      "Harrier(unconditionally)",
+      "Tech Center",
+      "Experimental Warpshop",
+      "Ore Purifier",
+      "Chronosphere",
+      "Weather Controller",
+      "Grand Cannon",
+      "Ultra Dome",
+      "Gap Generator",
+      "Sniper",
+      "Siegfried",
+      "Prism Tank",
+      "Charon Tank",
+      "Quickshifter",
+      "Chrono Prison",
+      "Future Tank Alpha",
+      "Thor Gunship",
+      "Black Widow",
+      "Lionheart",
+      "Enterprise Aircraft Carrier",
+      "Trident Battleship"
+    ],
+    "Ability": [
+      "Force Shield",
+      "Lightning Rod"
+    ],
+    "Notes": "Can be infiltrated to reset the support powers' timer",
+    "Select sound": "From theCombat Support Airfield(Kane's Wrath)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/8/8d/Sceaicon.png/revision/latest",
+  "icon_filename": "Sceaicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Defensive PowerRecharge Time: 6:00Shields friendly structures in the target area, making them invulnerable for 30 secondsLeft-click icon then left-click on target location"
+        ],
+        [
+          "",
+          "Type: Utility PowerCost: $1000Recharge Time: 5:00Deploy a temporary Lightning Rod on the battlefieldProvides emergency +1000 power that decreases over timeBoosts the firepower of Thor Gunships around itself by 25%Cannot be repaired or rendered invulnerable, but does not require power to operateCan be used while base is in low powerLeft-click icon then left-click on target location (cannot be targeted on water)"
+        ]
+      ]
+    }
+  ]
+}

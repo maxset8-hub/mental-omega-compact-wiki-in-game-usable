@@ -1,0 +1,17 @@
+{
+  "unit_name": "Geneburst",
+  "infobox_data": {
+    "Affiliation": "Epsilon Headquarters",
+    "Cost": "$1000",
+    "Cooldown": "7:00",
+    "Called from": "Geneplug",
+    "Effect": [
+      "Causes200-100damage to enemy infantry in a radius of 3.6",
+      "Does not affect animals, cyborgs, andClairvoyants/Duplicants"
+    ],
+    "Notes": "Infantry killed by the Geneburst will turn intoBrutes",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/51/Muteicon.png/revision/latest",
+  "icon_filename": "Muteicon.png"
+}

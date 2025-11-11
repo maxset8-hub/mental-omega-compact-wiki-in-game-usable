@@ -1,0 +1,33 @@
+{
+  "unit_name": "Disruptor",
+  "infobox_data": {
+    "Faction": "Russia",
+    "Role": "Timed area denial",
+    "Armament": "Aerial irradiation",
+    "Tier": "3",
+    "Hit points": "800",
+    "Armor type": "Defensive Structure",
+    "Sight radius": "4",
+    "Cost": "$800",
+    "Recharge time": "6:00",
+    "Called from": "Nuclear Converter",
+    "Requires": "Palace",
+    "Ability": [
+      "Irradiates the airspace in a radius of 9 around the Disruptor, dealing20damage every 36 frames (2.4 in-game seconds) to enemy aerial units and reducing their firepower by 20%",
+      "The firepower debuff lingers for 40 frames (2.67 in-game seconds) after the affected units leave the Disruptor's radius"
+    ],
+    "Notes": [
+      "Loses 1 hit point every frame (0.07 in-game seconds)",
+      "Cannot be captured and repaired",
+      "Cannot be deployed near enemy airfields",
+      "Unaffected byForce Shield,Invulnerability, andMaintenance",
+      "Does not keep the player in game ifShort Gameis enabled in skirmish and multiplayer"
+    ],
+    "_section_Support Power Structure": true,
+    "_section_Properties": true,
+    "_section_Deployment": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/6/60/Disticon.png/revision/latest",
+  "icon_filename": "Disticon.png"
+}

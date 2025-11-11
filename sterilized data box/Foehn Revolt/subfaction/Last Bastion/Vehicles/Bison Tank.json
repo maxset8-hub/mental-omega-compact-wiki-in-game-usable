@@ -1,0 +1,64 @@
+{
+  "unit_name": "Bison Combat Tank",
+  "infobox_data": {
+    "Faction": "Last Bastion",
+    "Role": "Anti-armor",
+    "Armament": "110mm cannon",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "530",
+    "Armor type": "Medium",
+    "Speed": "4",
+    "Turn rate": [
+      "8 (unit)",
+      "9 (turret)"
+    ],
+    "Sight radius": "6",
+    "Cost": "$900",
+    "Estimated build time": "0:32",
+    "Built at": "Foehn War Factory",
+    "Ground": "65-32.5",
+    "Ground modifiers": [
+      "100% vs. Light",
+      "90% vs. Medium/Harvester",
+      "80% vs. Heavy, Dolphin, Giant Squid",
+      "55% vs. Heavy Structure and Light Structure",
+      "30% vs. Drone and Defensive Structure",
+      "25% vs. Cyborg andFoehninfantry",
+      "20% vs. all infantry armor types andTech Concrete Fortresses",
+      "10% vs.Archelons"
+    ],
+    "Cooldown": "40 frames (2.7 in-game seconds)",
+    "Range": "6, radius 0.3",
+    "Ability": [
+      "Releases nanoids to repair itself at the rate of 6 hit points every 2.25 frames for 70 frames (187 hit points over 4.7 in-game seconds) when the Bison Tank's hit points are lower than 50%Nanoid self-repairs are three times more effective if the Bison Tank is stationary",
+      "Nanoid self-repairs are three times more effective if the Bison Tank is stationary",
+      "Repaired twice as fast byNanocharge"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can fire while moving",
+      "Can crush infantry",
+      "Can enterTank Bunkers",
+      "Takes 3 slots in transports"
+    ],
+    "Artist(s)": [
+      "Bu7loos (voxel)",
+      "Nooze (cameo)"
+    ],
+    "Voice actor": "George \"Seòras\" Exley",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/a/a1/Roacicon.png/revision/latest",
+  "icon_filename": "Roacicon.png"
+}

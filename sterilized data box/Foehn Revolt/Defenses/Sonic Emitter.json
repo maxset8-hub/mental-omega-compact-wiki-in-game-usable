@@ -1,0 +1,61 @@
+{
+  "unit_name": "Sonic Emitter",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": "Anti-infantry defense",
+    "Armament": "Crystal wave",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "650",
+    "Armor type": "Defensive Structure",
+    "Turn rate": "14",
+    "Sight radius": "7",
+    "Cost": [
+      "$500",
+      "$700 inInfantry Only"
+    ],
+    "Estimated build time": [
+      "0:22",
+      "0:29 inInfantry Only"
+    ],
+    "Build time multiplier(s)": "1.2 (all defenses)",
+    "Built by": "Foehn Construction Yard",
+    "Requires": "Foehn Barracks",
+    "Ground attack": "50-37.5 target, 50 pass-through",
+    "Ground attack modifiers": [
+      "160% vs. Basic/Animal",
+      "130% vs. Flak",
+      "120% vs. Drone",
+      "110% vs. Plate/Cyborg",
+      "45% vs. Light",
+      "30% vs. Medium/Harvester",
+      "25% vs. (Big) Light Structure and ((Very) Big) Defensive Structure",
+      "20% vs. Heavy and (Big) Heavy Structure"
+    ],
+    "Cooldown": "70 frames (4.7 in-game seconds)",
+    "Attack range": "6.25, radius 0.3",
+    "Power": "-20",
+    "Ability": "Weapon damages targets in a line (radius 0.1)",
+    "Upgraded bonus": "+40% armor",
+    "Fully upgraded bonus": [
+      "+40% firepower",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can gain experience",
+      "Can fire through walls"
+    ],
+    "Artist(s)": [
+      "Bu7loos (SHP)",
+      "Nooze (cameo)"
+    ],
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/9/9f/Semiicon.png/revision/latest",
+  "icon_filename": "Semiicon.png"
+}

@@ -1,0 +1,55 @@
+{
+  "unit_name": "Mortar Quad",
+  "infobox_data": {
+    "Faction": "Latin Confederation",
+    "Role": [
+      "Anti-armor",
+      "Siege"
+    ],
+    "Armament": "Mortar",
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "220",
+    "Armor type": "Plate",
+    "Speed": "8",
+    "Sight radius": "7",
+    "Cost": "$600",
+    "Estimated train time": "0:11",
+    "Train time multiplier(s)": "0.65",
+    "Trained at": "Soviet Barracks",
+    "Requires": "Radar Dish",
+    "Ground": "60-12",
+    "Ground modifiers": [
+      "90% vs. Light",
+      "80% vs. Medium/Harvester",
+      "75% vs. Heavy",
+      "30% vs. Big Light Structure",
+      "25% vs. Basic/Animal, Flak, Light Structure, (Very) Big Defensive Structure andTank Bunker",
+      "20% vs. Plate/Drone, Defensive Structure, Big Heavy Structure and Drone",
+      "15% vs. Heavy Structure andTech Concrete Fortresses"
+    ],
+    "Cooldown": "65 frames (4.3 in-game seconds)",
+    "Range": "10, minimum 3, radius 0.8",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Cannot be attacked byAttack DogsandSpooks",
+      "Uncrushable by normal vehicles",
+      "Vulnerable to magnetic weapons"
+    ],
+    "Artist(s)": "MadHQ",
+    "Voice actor": "Graion Dilach",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/1/1e/Quadicon.png/revision/latest",
+  "icon_filename": "Quadicon.png"
+}

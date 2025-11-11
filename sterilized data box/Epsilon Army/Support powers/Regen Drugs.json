@@ -1,0 +1,14 @@
+{
+  "unit_name": "Regen Drugs",
+  "infobox_data": {
+    "Affiliation": "Epsilon Army",
+    "Cost": "$800",
+    "Cooldown": "4:30",
+    "Called from": "Synthesis Vault",
+    "Effect": "Heals friendly infantry in the target radius of 2.6 for 420 frames (28 in-game seconds) at the rate of 3 hit points every 3 frames (15 hit points every in-game second)",
+    "Notes": "Replaced byWonder Drugswhen aCloning Vatsis built",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/b/bf/Drugicon.png/revision/latest",
+  "icon_filename": "Drugicon.png"
+}

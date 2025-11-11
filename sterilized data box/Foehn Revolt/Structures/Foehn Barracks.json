@@ -1,0 +1,107 @@
+{
+  "unit_name": "Foehn Barracks",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": "Infantry training",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "900",
+    "Armor type": "Big Light Structure",
+    "Sight radius": "5",
+    "Cost": "$600",
+    "Estimated build time": "0:25",
+    "Build time multiplier(s)": "1.25 (all structures)",
+    "Built by": "Foehn Construction Yard",
+    "Placement radius": "2",
+    "Power": "-10",
+    "Produces": "Foehn infantry",
+    "Allows": [
+      "Netrunner Protocol",
+      "Bastion Walls",
+      "Sonic Emitter",
+      "Shrike Nest",
+      "Knightfall Protocol"
+    ],
+    "Add-ons": [
+      "Netrunner Protocol",
+      "Knightfall Protocol"
+    ],
+    "Ability": "Can be toggled as the primary infantry training structure (if the player have multiplebarracksat the same time)",
+    "Notes": [
+      "The more barracks the player have, the faster infantry are trained",
+      "Can be infiltrated for veteran infantry training"
+    ],
+    "Select sound": "Modified from theTech Center(Tiberium Wars)",
+    "Artist(s)": "Nooze (cameo and building artwork)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/4/44/Fbaricon.png/revision/latest",
+  "icon_filename": "Fbaricon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Unit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Basic Infantry. Strong vs. Infantry, Aircraft.\nStarting infantry in Skirmish\nAbilities:\nGarrison civilian structures\nTransforms into Kingsframe through Nanofiber Sync\nKingsframe:\nKingsframe is strong vs. infantry, structures\nKingsframe is immune to EMP and omnicrush\nKingsframe cannot attack aircraft or garrison structures"
+        ],
+        [
+          "",
+          "Basic Infantry. Strong vs. Armor, Structures.\nAbilities:\nGarrison civilian structures\nTransforms into Railguneer through Nanofiber Sync\nRailguneer:\nRailguneer is more effective vs. armor\nRailguneer is immune to EMP and omnicrush\nRailguneer is less effective vs. structures\nRailguneer cannot garrison structures"
+        ],
+        [
+          "",
+          "Utility Infantry. Unarmed.\nAbilities:\nCapture enemy buildings, tech structures, and empty vehicles\nRepair bridges and friendly structures\nDetects and defuses explosive charges"
+        ],
+        [
+          "",
+          "Advanced Infantry. Strong vs. Infantry.\nRequires Nanofiber Loom\nAbilities:\nHijack enemy vehicles\nCreates nanoclouds on killed enemy infantry\nNanoclouds heal friendly Foehn infantry\nDetects stealth and disguised units\nTransforms into Deviatress through Nanofiber Sync\nDeviatress:\nDeviatress causes confusion\nDeviatress can attack enemy aircraft\nDeviatress cannot directly kill infantry or create nanoclouds\nDeviatress cannot hijack enemy vehicles\nDeviatress cannot detect stealth and disguised units"
+        ],
+        [
+          "",
+          "Support Infantry.\nRequires Foehn Barracks upgraded with Netrunner Protocol\nAbilities:\nWeakens the armor of enemy structures by 20%, but cannot directly harm them\nArmor debuff is stackable\nTransforms into Syncronaut through Nanofiber Sync\nSyncronaut:\nSyncronaut is cloaked\nSyncronaut can weaken the armor of multiple structures at once by 20%, but cannot directly harm them\nArmor debuff is stackable\nSyncronaut has shorter range"
+        ],
+        [
+          "",
+          "Espionage Agent.\nRequires Foehn technology expansion\nAbilities:\nStuns and slowly kills infantry\nInfiltrates enemy structures\nDetects disguised units\nDemolish bridges\nAmphibious\nReceives speed boost when nearby a Spinblade\nTransforms into Duplicant through Nanofiber Sync\nDuplicant:\nDuplicant is strong vs. infantry\nDuplicates itself on killing enemy infantry\nDuplicant cannot detect cloaked units\nDuplicant cannot infiltrate structures or demolish bridges\nDuplicant cannot travel over water or receive speed boost from Spinblades"
+        ],
+        [
+          "",
+          "Airborne Infantry. Strong vs. Armor.\nRequires Cyberkernel upgraded with  Cyberkernel Expansion"
+        ],
+        [
+          "",
+          "Elite Infantry. Strong vs. Infantry.\nRequires Cloud Piercer upgraded with  Cloud Piercer Expansion\nAbilities:\nAmphibious\nResistant to Alanqa hurricanes\nReceives a speed boost when nearby a Spinblade\nTransforms into Zorbfloater through Nanofiber Sync\nZorbfloater:\nZorbfloater has rapid health regeneration and longer range\nZorbfloater can lift most enemy vehicles\nZorbfloater has slower speed and fire rate"
+        ],
+        [
+          "",
+          "Elite Infantry. Strong vs. Armor, Aircraft.\nRequires Nanofiber Loom upgraded with  Nanofiber Loom Expansion\nAbilities:\nStuns and slowly kills infantry\nReceives firepower boost when nearby a deployed SODAR Array\nTransforms into Godsbane through Nanofiber Sync\nGodsbane:\nGodsbane is strong vs. armor, structures\nGodsbane cannot stun infantry\nGodsbane cannot attack aircraft\nGodsbane has lesser hit points"
+        ],
+        [
+          "",
+          "Hero. Strong vs. Infantry.\nRequires Cyberkernel upgraded with  Cyberkernel Expansion\nAbilities:\nHeals rapidly when close to Alize\nDetects cloaked units\nOnly one Fin may be trained at a time."
+        ],
+        [
+          "",
+          "Hero. Strong vs. Armor.\nRequires Cyberkernel upgraded with  Cyberkernel Expansion\nAbilities:\nHeals rapidly when close to Fin\nDetects cloaked units\nOnly one Alize may be trained at a time."
+        ],
+        [
+          "",
+          "Hero. Strong vs. Armor.\nRequires Cloud Piercer upgraded with  Cloud Piercer Expansion\nAbilities:\nDetects cloaked units\nReceives a speed boost when nearby a Spinblade\nOnly one Eureka may be trained at a time."
+        ],
+        [
+          "",
+          "Airborne Hero. Strong vs. Armor, Aircraft, Buildings.\nRequires Nanofiber Loom upgraded with  Nanofiber Loom Expansion\nOnly one Uragan may be trained at a time."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "unit_name": "Allied Barracks",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Infantry training",
+    "Tier": "1",
+    "Tech level": "1",
+    "Hit points": "900",
+    "Armor type": "Light Structure",
+    "Sight radius": "5",
+    "Cost": "$500",
+    "Estimated build time": "0:22",
+    "Build time multiplier(s)": "1.25",
+    "Built by": "Allied Construction Yard",
+    "Placement radius": "2",
+    "Power": "-10",
+    "Produces": "Allied infantry",
+    "Allows": [
+      "Arsenal Depot",
+      "Concrete Walls",
+      "Gate",
+      "Pillbox",
+      "Patriot Missile Site"
+    ],
+    "Ability": "Can be toggled as the primary infantry training structure (if the player have multiplebarracksat the same time)",
+    "Notes": [
+      "The more barracks the player have, the faster infantry are trained",
+      "Can be infiltrated for veteran infantry training"
+    ],
+    "Select sound": "From theAmerican Barracks(Generals)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/4/4e/Brrkicon.png/revision/latest",
+  "icon_filename": "Brrkicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Unit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Basic Infantry. Strong vs. Infantry.\nStarting infantry in Skirmish\nAbilities:\nDeploy to boost firepower and range\nGarrison civilian structures"
+        ],
+        [
+          "",
+          "Basic Infantry. Strong vs. Armor, Aircraft.\nAbilities:\nDeploy to boost fire rate and range\nGarrison civilian structures; cannot attack aircraft while garrisoned"
+        ],
+        [
+          "",
+          "Scout Creature. Strong vs. Infantry.\nAbilities:\nDetects disguised units\nAmphibious"
+        ],
+        [
+          "Allied Engineer",
+          "Utility Infantry. Unarmed.\nAbilities:\nCapture enemy buildings, tech structures, and empty vehicles\nRepair bridges and friendly structures\nDetects and defuses explosives"
+        ],
+        [
+          "",
+          "Utility Infantry. Unarmed.\nRequires Arsenal Depot\nHeals friendly infantry"
+        ],
+        [
+          "",
+          "Heavy Infantry. Strong vs. Structures.\nRequires Arsenal Depot"
+        ],
+        [
+          "",
+          "Airborne Infantry. Strong vs. Infantry, Aircraft.\nRequires Air Force Command Headquarters"
+        ],
+        [
+          "",
+          "Advanced Infantry. Strong vs. Infantry, Navy, Structures.\nRequires Air Force Command Headquarters\nAbilities:\nDetects stealth\nAmphibious"
+        ],
+        [
+          "",
+          "Espionage Agent. Unarmed.\nRequires Tech Center\nAbilities:\nInfiltrates enemy buildings\nDisguise as enemy infantry"
+        ],
+        [
+          "",
+          "Elite Heavy Infantry. Strong vs. Infantry.\nRequires Tech Center and  Mercury Network Uplink\nAbilities:\nReduces speed of enemy infantry\nFlashbangs clear garrisoned structures\nAmphibious"
+        ],
+        [
+          "",
+          "Elite Infantry. Strong vs. Infantry.\nRequires Tech Center and  Shield Command\nAbilities:\nDoes not reveal himself when firing\nDeploy to boost firing rate and range"
+        ],
+        [
+          "",
+          "Elite Support Infantry.\nRequires Tech Center and  Robot Ops Control Center\nAbilities:\nWeakens and reverses the firepower of enemy units\nAmphibious"
+        ],
+        [
+          "",
+          "Elite Infantry. Strong vs. Ground Targets.\nRequires Experimental Warpshop\nAbilities:\nTeleport\nGradually erases ground targets"
+        ],
+        [
+          "",
+          "Hero. Strong vs. Ground Targets.\nRequires Tech Center and  Mercury Network Uplink\nAbilities:\nDestroy structures\nAmphibious\nDetects stealth\nOnly one Tanya may be trained at a time."
+        ],
+        [
+          "",
+          "Hero. Strong vs. Ground Targets.\nRequires Tech Center and  Shield Command\nAbilities:\nDeploy to make nearby friendly units and himself invulnerable but cannot act\nDetects stealth\nReduces speed of enemy units\nVulnerable to magnetic weapons\nOnly one Siegfried may be trained at a time."
+        ],
+        [
+          "",
+          "Airborne Hero. Strong vs. Infantry, Armor, Aircraft.\nRequires Tech Center and  Robot Ops Control Center\nAbilities:\nReduces speed of enemy infantry and Soviet drones\nOnly one Norio may be trained at a time."
+        ]
+      ]
+    }
+  ]
+}

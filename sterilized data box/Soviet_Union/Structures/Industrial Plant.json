@@ -1,0 +1,63 @@
+{
+  "unit_name": "Industrial Plant",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": "Economy support",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "1300",
+    "Armor type": "Big Heavy Structure",
+    "Sight radius": "5",
+    "Cost": "$3000",
+    "Estimated build time": "2:13",
+    "Build time multiplier(s)": "1.25",
+    "Built by": "Soviet Construction Yard",
+    "Requires": [
+      "Palace",
+      "Battle Lab",
+      "Atomheart"
+    ],
+    "Placement radius": "2",
+    "Power": "-200",
+    "Allows": [
+      "Repair Drones",
+      "Grumble",
+      "Apocalypse Tank",
+      "Syckle",
+      "Iron Dragon"
+    ],
+    "Ability": [
+      "Reduces the cost of vehicles, aircraft and ships by 25%",
+      "Generates $20 every 100 frames (6.7 in-game seconds) like aTech Oil Derrick",
+      "Gear Change"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Cannot be captured",
+      "Can be infiltrated to reveal how much money the owner has"
+    ],
+    "Select sound": "From theArms Dealer(Generals)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/2/29/Indpicon.png/revision/latest",
+  "icon_filename": "Indpicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Resource PowerRecharge Time: 7:30Instantly gives $3000Shuts down all Soviet War Factories and the Industrial Plant for 60 secondsDoes not affect deployed Stalin's FistLeft-click to activate"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "unit_name": "Gyrocopter",
+  "infobox_data": {
+    "Faction": "China",
+    "Role": [
+      "Anti-infantry",
+      "Anti-air"
+    ],
+    "Armament": "QJZ-HMG",
+    "Tier": "2",
+    "Tech level": "6",
+    "Hit points": "275",
+    "Armor type": "Flak",
+    "Speed": "26 (flying)",
+    "Sight radius": "9",
+    "Cost": [
+      "$600",
+      "$750 inInfantry Only"
+    ],
+    "Estimated train time": [
+      "0:11",
+      "0:14 inInfantry Only"
+    ],
+    "Train time multiplier(s)": "0.65",
+    "Trained at": "Soviet Barracks",
+    "Requires": "Airbase",
+    "Ground": "25-5 * 2 (50-10 total)",
+    "Ground modifiers": [
+      "115% vs. Basic/Animal",
+      "100% vs. Flak",
+      "90% vs. Plate/Cyborg",
+      "60% vs. Giant Squids and Dolphins",
+      "40% vs. Drone and Light",
+      "30% vs. Medium/Harvester",
+      "20% vs. Heavy",
+      "15% vs. (Big) Light Structure and ((Very) Big) Defensive Structure",
+      "10% vs. (Big) Heavy Structure"
+    ],
+    "Air": "25-10 * 2 (50-20 total)",
+    "Air modifiers": [
+      "100% vs.Scout Ravens",
+      "90% vs.Rocketeers,Norio, Gyrocopters,Cosmonauts,NeonwaspsandUragan",
+      "40% vs. Light Aircraft",
+      "25% vs. Medium Aircraft",
+      "20% vs. Heavy Aircraft"
+    ],
+    "Cooldown": "20 frames (1.3 in-game seconds)",
+    "Range": [
+      "7.5, radius 1 (ground)",
+      "8.5, radius 0.6 (air)"
+    ],
+    "Ability": "Weapon ground attack hits 2 cells around the point of impact",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Artist(s)": "ImP_RuLz",
+    "Voice actor": "Divo F.",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/a/a1/Gyroicon.png/revision/latest",
+  "icon_filename": "Gyroicon.png"
+}

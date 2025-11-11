@@ -1,0 +1,66 @@
+{
+  "unit_name": "Rocketeer",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": [
+      "Anti-infantry",
+      "Anti-air"
+    ],
+    "Armament": "2x Type-42K HMGs",
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "135",
+    "Armor type": "Flak",
+    "Speed": "34 (flying)",
+    "Sight radius": "8",
+    "Cost": [
+      "$450",
+      "$650 in (Infantry Only)"
+    ],
+    "Estimated train time": [
+      "0:07",
+      "0:14 inInfantry Only"
+    ],
+    "Train time multiplier(s)": "0.65",
+    "Trained at": "Allied Barracks",
+    "Requires": "Air Force Command Headquarters",
+    "Ground": "25",
+    "Ground modifiers": [
+      "100% vs. Basic/Animal",
+      "90% vs. Flak and Drone",
+      "65% vs. Plate/Cyborg",
+      "65% vs. Light",
+      "30% vs. Medium",
+      "20% vs. Heavy and (Big) Light Structure",
+      "10% vs. ((Very) Big) Defensive Structure and (Big) Heavy Structure"
+    ],
+    "Air": "25",
+    "Air modifiers": [
+      "100% vs.Scout Ravens",
+      "80% vs.Rocketeers,Gyrocopters,NeonwaspsandCosmonauts",
+      "60% vs.NorioandUragan",
+      "55% vs. Light Aircraft",
+      "45% vs.Black Widows",
+      "40% vs. Medium Aircraft andAerial Fortresses Irkalla",
+      "35% vs. Heavy Aircraft andQuetzals"
+    ],
+    "Cooldown": "20 frames (1.3 in-game seconds)",
+    "Range": [
+      "6.5",
+      "7.5 (anti-air)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/c/c6/Jjeticon.png/revision/latest",
+  "icon_filename": "Jjeticon.png"
+}

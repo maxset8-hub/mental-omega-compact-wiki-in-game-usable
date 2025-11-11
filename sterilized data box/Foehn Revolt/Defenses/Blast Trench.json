@@ -1,0 +1,39 @@
+{
+  "unit_name": "Blast Trench",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": "Support superweapon",
+    "Armament": "Steam blast",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "700 (indestructible whileBlasticadeis active) per segment",
+    "Armor type": "Defensive Structure",
+    "Sight radius": "2",
+    "Cost": "$150 per segment",
+    "Estimated build time": "0:10 (base 0:05)",
+    "Build time multiplier(s)": [
+      "1.2 (all defenses)",
+      "1.5 (individual)"
+    ],
+    "Built by": "Foehn Construction Yard",
+    "Requires": [
+      "Cyberkernel Expansion",
+      "Cloud Piercer Expansion",
+      "Nanofiber Loom Expansion"
+    ],
+    "Placement radius": "12",
+    "Ability": "Erupt steam blast withBlasticade's activation",
+    "Artist(s)": [
+      "4SG",
+      "AstralXYZ",
+      "Nooze (cameo)"
+    ],
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/1/14/Btrcicon.png/revision/latest",
+  "icon_filename": "Btrcicon.png"
+}

@@ -1,0 +1,66 @@
+{
+  "unit_name": "Fin",
+  "infobox_data": {
+    "Faction": "Haihead",
+    "Role": "Anti-infantry",
+    "Armament": "Auto sniper rifle",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "260",
+    "Armor type": "Plate",
+    "Speed": "7",
+    "Sight radius": "10",
+    "Cost": "$1500",
+    "Estimated train time": "1:08",
+    "Train time multiplier(s)": [
+      "0.65 (all infantry)",
+      "2 (all heroes)",
+      "1.0 (multiple factory)"
+    ],
+    "Trained at": "Foehn Barracks",
+    "Requires": "Cyberkernel Expansion",
+    "Ground": "200 (base 100)",
+    "Ground modifiers": [
+      "250% vs. Basic/Animal",
+      "225% vs. Flak",
+      "200% vs. Plate/Cyborg"
+    ],
+    "Cooldown": "1 (0.07 in-game seconds)",
+    "Range": "8.5",
+    "Ability": [
+      "Rapidly heals himself while in a radius of 4 toAlize",
+      "Detects cloaked/submerged enemies (range 9)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Build time is unaffected by multiple Barracks",
+      "Self-healing",
+      "Cannot be attacked byAttack DogsandSpooks",
+      "Uncrushable by normal vehicles",
+      "Cannot be mind-controlled and abducted",
+      "Immune to confusion rays",
+      "Has 15 ammunitionEach ammunition takes 16 frames (1.07 in-game seconds) (120 frames (8 in-game seconds) when empty) to reload",
+      "Each ammunition takes 16 frames (1.07 in-game seconds) (120 frames (8 in-game seconds) when empty) to reload",
+      "Cannot fire fromopentopped transports",
+      "Vulnerable to magnetic weapons"
+    ],
+    "Artist(s)": [
+      "Trans_C (SHP)",
+      "Nooze (cameo)"
+    ],
+    "Voice actor": "George \"Seòras\" Exley",
+    "_section_Hero": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/6/6e/Finaicon.png/revision/latest",
+  "icon_filename": "Finaicon.png"
+}

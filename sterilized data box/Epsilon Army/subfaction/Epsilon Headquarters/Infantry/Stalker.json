@@ -1,0 +1,71 @@
+{
+  "unit_name": "Stalker",
+  "infobox_data": {
+    "Faction": "Epsilon Headquarters",
+    "Role": [
+      "Siege",
+      "Support"
+    ],
+    "Armament": [
+      "\"Meteor\" cannon (against vehicles and structures)",
+      "Drain cannon (against infantry)"
+    ],
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": "345",
+    "Armor type": "Plate",
+    "Speed": "5",
+    "Sight radius": "6",
+    "Cost": "$1400",
+    "Estimated train time": "0:32",
+    "Train time multiplier(s)": "0.65 (all infantry)",
+    "Trained at": "Epsilon Barracks",
+    "Requires": "Geneplug",
+    "Ground": [
+      "110-55 (\"Meteor\" cannon)",
+      "75 (drain cannon)"
+    ],
+    "Ground modifiers": [
+      "\"Meteor\" cannon:",
+      "90% vs. Defensive Structure andLightning Rod",
+      "70% vs. (Very) Big Defensive Structure",
+      "60% vs. Light Structure, Plasmerizer",
+      "50% vs.Tech Concrete Fortress",
+      "45% vs. Light",
+      "40% vs. Drone, Concrete Structure",
+      "35% vs. Medium/Harvester",
+      "25% vs. Heavy",
+      "Drain cannon:",
+      "100% vs. Basic/Animal",
+      "80% vs. Flak",
+      "65% vs. Plate/Cyborg"
+    ],
+    "Cooldown": "155 frames (10.3 in-game seconds) (both weapons)",
+    "Range": [
+      "12 (both weapons)",
+      "1.2 (\"Meteor\" cannon radius)",
+      "0.3 (drain cannon damage radius)"
+    ],
+    "Ability": "Drain cannon reduces the target's speed by 25% for 70 frames (4.7 in-game seconds) and heals friendly infantry in a radius of 3 around the target over the effect's duration at a rate of 4 hit points per 2.25 frames (for a total of 124.4 hit points)",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-healing",
+      "Cannot be attacked byAttack DogsandSpooks",
+      "Uncrushable by normal vehicles",
+      "Vulnerable to magnetic weapons"
+    ],
+    "Artist(s)": "ImP_RuLz",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/4/49/Stlkicon.png/revision/latest",
+  "icon_filename": "Stlkicon.png"
+}

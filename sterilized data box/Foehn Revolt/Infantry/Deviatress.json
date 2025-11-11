@@ -1,0 +1,43 @@
+{
+  "unit_name": "Deviatress",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Base unit": "Huntress",
+    "Role": "Unit disruption",
+    "Armament": "Confusion rifle",
+    "Hit points": "480",
+    "Armor type": "Plate",
+    "Speed": "6",
+    "Sight radius": "7",
+    "Cost": "$800",
+    "Deployed by": "Nanofiber Sync",
+    "Ground": "0(dummy)",
+    "Air": "0(dummy)",
+    "Cooldown": [
+      "100 frames (6.7 in-game seconds) (ground)",
+      "110 frames (7.3 in-game seconds) (air)"
+    ],
+    "Range": "10.5 (ground)10.5 (air)",
+    "Ability": "Weapon makes enemies cannot be controlled and attack their own allies for 120 frames (8 in-game seconds)",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% confuse time",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "Notes": [
+      "Cannot be attacked byAttack DogsandSpooks",
+      "Immune to confusion rays",
+      "Vulnerable to magnetic weapons"
+    ],
+    "Artist(s)": "Starkku",
+    "_section_Support Power Unit": true,
+    "_section_Properties": true,
+    "_section_Deployment": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/1/11/Foedevi.png/revision/latest/scale-to-width-down/268",
+  "icon_filename": "Foedevi.png"
+}

@@ -1,0 +1,93 @@
+{
+  "unit_name": "Thor Gunship",
+  "infobox_data": {
+    "Faction": "Euro Alliance",
+    "Role": [
+      "Anti-infantry",
+      "Anti-air",
+      "Ground support"
+    ],
+    "Armament": [
+      "\"Mjölnir\" drones",
+      "Loudspeaker"
+    ],
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "820",
+    "Armor type": "Heavy Aircraft",
+    "Speed": "14 (flying)",
+    "Turn rate": "10",
+    "Sight radius": "9",
+    "Cost": "$2000",
+    "Estimated build time": "1:12",
+    "Build time multiplier(s)": "0.9 (multiple factory)",
+    "Built at": "Allied War Factory",
+    "Requires": [
+      "Shield Command",
+      "Tech Center"
+    ],
+    "Ground": "160",
+    "Ground modifiers": [
+      "Main attack:",
+      "100% vs. Basic/Animal",
+      "90% vs. Drone",
+      "80% vs. Flak",
+      "70% vs. Plate/Cyborg",
+      "30% vs. Light, Dolphins and Giant Squids",
+      "25% vs. Medium navy",
+      "20% vs. Medium/Harvester and Heavy navy",
+      "15% vs. Heavy",
+      "10% vs. Defensive Structure",
+      "5% vs. Light Structure, Heavy Structure",
+      "Death explosion:",
+      "100% vs. all infantry armor types and Drone",
+      "85% vs. (Big) Light Structure and ((Very) Big Defensive Structure",
+      "70% vs. Light",
+      "55% vs. (Big) Heavy Structure",
+      "35% vs. Medium/Harvester and Heavy"
+    ],
+    "Air": "160-56",
+    "Air modifiers": [
+      "80% vs.Scout Ravens",
+      "70% vs.RocketeersandGyrocopters",
+      "60% vs.NorioandUragan",
+      "50% vs.Diverbees",
+      "45% vs. Light Aircraft and Medium Aircraft",
+      "40% vs.Black Widows",
+      "35% vs. Heavy Aircraft, Thor Gunships,Cryocopters,Alanqa SkystationsandQuetzals",
+      "15% vs.Hailjets,Ospreys,Hornet UAVs,Dybbuk-Interceptors, Quetzal drones,Leviathandrones andShrike drones"
+    ],
+    "Cooldown": "40 frames (2.7 in-game seconds)",
+    "Range": [
+      "7.5 (ground)",
+      "8.5 (air)",
+      "1 (minimum range)",
+      "0.7 (radius)"
+    ],
+    "Ability": [
+      "Deploy to use hold position which increases the armor of friendly ground units (except teleporting and naval units) in a radius of 4 around the Thor Gunship by 50% but halves their speed for 450 frames (30 in-game seconds)",
+      "The Thor Gunship cannot attack while the hold position is in effect",
+      "Has a cooldown of 600 frames (40 in-game seconds)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Receives a 20% firepower buff while inside aLightning Rod's radius",
+      "Causes 45-22.5 damage in a radius of 2 at where the Thor Gunship crashes when shot down"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "Voice actor": "Gabriel Wolf",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/d/da/Thoricon.png/revision/latest",
+  "icon_filename": "Thoricon.png"
+}

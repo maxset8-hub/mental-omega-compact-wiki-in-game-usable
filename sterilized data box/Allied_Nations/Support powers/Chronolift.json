@@ -1,0 +1,15 @@
+{
+  "unit_name": "Chronolift",
+  "infobox_data": {
+    "Affiliation": "Allied Nations",
+    "Cost": "Free",
+    "Cooldown": "1:00",
+    "Called from": "Experimental Warpshop",
+    "Requires": "Chronosphere",
+    "Effect": "Teleports friendly structures in a 3x3 area to the target location",
+    "Notes": "Can only teleport structures in a radius of 24 around theExperimental Warpshopor a radius of 9 around aWarpnode",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/d/d8/Lifticon.png/revision/latest",
+  "icon_filename": "Lifticon.png"
+}

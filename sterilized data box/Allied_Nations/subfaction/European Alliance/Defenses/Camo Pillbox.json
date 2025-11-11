@@ -1,0 +1,51 @@
+{
+  "unit_name": "Camo Pillbox",
+  "infobox_data": {
+    "Faction": "European Alliance",
+    "Role": "Hidden anti-infantry defense",
+    "Armament": "\"Cerberus-C\" machine gun",
+    "Tier": "2",
+    "Tech level": "6",
+    "Hit points": "375",
+    "Armor type": "Defensive Structure",
+    "Turn rate": "14",
+    "Sight radius": "6",
+    "Cost": "$500",
+    "Estimated build time": "0:22",
+    "Built by": "Allied Construction Yard",
+    "Requires": "Shield Command",
+    "Placement radius": "9",
+    "Ground attack": "120",
+    "Ground attack modifiers": [
+      "115% vs. Basic/Animal",
+      "105% vs. Flak",
+      "100% vs. Plate/Cyborg and Drone",
+      "20% vs. Light",
+      "10% vs. Medium/Harvester, Heavy, and (Big) Light Structure",
+      "5% vs. (Big) Heavy Structure and ((Very) Big) Defensive Structure"
+    ],
+    "Cooldown": "40 frames (2.67 in-game seconds)",
+    "Attack range": "6, radius 0.6",
+    "Ability": [
+      "Cloaked when not attacking",
+      "Invisible on enemy radar",
+      "Will not be automatically attacked by enemies (unless in retalliation)"
+    ],
+    "Upgraded bonus": "+40% armor",
+    "Fully upgraded bonus": [
+      "+40% firepower",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can gain experience",
+      "Does not keep its owner in game ifShort Gameis enabled."
+    ],
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/8/86/Cpilicon.png/revision/latest",
+  "icon_filename": "Cpilicon.png"
+}

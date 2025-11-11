@@ -1,0 +1,17 @@
+{
+  "unit_name": "Quick Fort",
+  "infobox_data": {
+    "Affiliation": "Epsilon Army",
+    "Cost": "$500",
+    "Cooldown": "5:00",
+    "Called from": "Synthesis Vault",
+    "Effect": [
+      "Creates aTank Bunkerat the target location",
+      "The created Tank Bunker will have a 40% strength boost that lasts for 600 frames (or 40 in-game seconds)"
+    ],
+    "Notes": "The Tank Bunker created through Quick Fort will not keep the player in game ifShort Gameis enabled in skirmish and multiplayer",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/b/b3/Qbnkicon.png/revision/latest",
+  "icon_filename": "Qbnkicon.png"
+}

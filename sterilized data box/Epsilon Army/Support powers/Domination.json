@@ -1,0 +1,21 @@
+{
+  "unit_name": "Domination",
+  "infobox_data": {
+    "Affiliation": "Epsilon Army",
+    "Cooldown": "10:00 (15:00 inInfantry Only)",
+    "Called from": "Psychic Dominator",
+    "Effect": [
+      "Creates a psychic shockwave that causes 1000-20 damage to buildings in a radius of 9 and permanently mind control enemy units in a radius of 1",
+      "The Domination has a delay of 200 frames (13.3 in-game seconds) before it starts and a delay of 40 frames (2.7 in-game seconds) before the shockwave takes effect",
+      "Domination shockwave modifiers:50% vs. Naval Shipyards100% vs. ((Very) Big) Defensive Structure60% vs. (Big) Light Structure20% vs. Tech Concrete Fortresses15% vs. (Big) Heavy Structure",
+      "50% vs. Naval Shipyards",
+      "100% vs. ((Very) Big) Defensive Structure",
+      "60% vs. (Big) Light Structure",
+      "20% vs. Tech Concrete Fortresses",
+      "15% vs. (Big) Heavy Structure"
+    ],
+    "_section_Superweapon": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/0/00/Domnicon.png/revision/latest",
+  "icon_filename": "Domnicon.png"
+}

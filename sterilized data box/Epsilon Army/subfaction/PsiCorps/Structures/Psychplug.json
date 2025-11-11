@@ -1,0 +1,83 @@
+{
+  "unit_name": "Psychplug",
+  "infobox_data": {
+    "Faction": "PsiCorps",
+    "Parent building": "Pandora Hub",
+    "Role": [
+      "High tech access",
+      "Support powers"
+    ],
+    "Tier": "3",
+    "Tech level": "8",
+    "Cost": [
+      "$3000",
+      "$1000 inInfantry Only,Tech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Estimated build time": [
+      "2:13",
+      "0:43 inInfantry Only,Tech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Build time multiplier(s)": "1.25 (all buildings)",
+    "Built by": "Epsilon Construction Yard",
+    "Requires": [
+      "Radar Spire",
+      "Pandora Hub"
+    ],
+    "Power": [
+      "-200",
+      "-150 inInfantry Only,Tech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Allows": [
+      "Cloning Vats",
+      "Rage Inductor",
+      "Psychic Dominator",
+      "Chimera Core",
+      "Antares Battery",
+      "Psychic Tower",
+      "Libra",
+      "Mastermind",
+      "Magnetron",
+      "Gehenna Platform",
+      "Scavenger",
+      "Wormqueen",
+      "Basilisk",
+      "Dybbuk-Seizer",
+      "Salamander",
+      "Nautilus Magnetic Sub",
+      "Resheph Ballistic Sub",
+      "Epsilon Elite(unconditionally)",
+      "Marauder(unconditionally)"
+    ],
+    "Ability": [
+      "Shadow Ring",
+      "Libra Clones",
+      "Magnetic Beam"
+    ],
+    "Artist(s)": "Orac",
+    "_section_Add-on": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/4/4d/Pplugicon.png/revision/latest",
+  "icon_filename": "Pplugicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Reinforcement PowerCost: $1200Recharge Time: 4:00Deploys 3 Libra Clones anywhere on the battlefieldLibra Clones are weaker than the true Libra and cannot use the anti-gravity fieldStrong vs. Infantry, AircraftLeft-click icon then left-click on target location (cannot be targeted on water)"
+        ],
+        [
+          "",
+          "Type: Offensive PowerCost: $1000Recharge Time: 7:00Summons a controllable Magnetic BeamSlows down mechanical units around it and immobilizes them at the center of the Magnetic BeamLeft-click icon then left-click on target location"
+        ]
+      ]
+    }
+  ]
+}

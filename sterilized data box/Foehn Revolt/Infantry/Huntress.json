@@ -1,0 +1,60 @@
+{
+  "unit_name": "Huntress",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": [
+      "Anti-infantry",
+      "Field healing",
+      "Vehicle theft",
+      "Antl-disguise",
+      "Antl-invisible"
+    ],
+    "Armament": "Nanite container gun",
+    "Tier": "2",
+    "Tech level": "6",
+    "Hit points": "240",
+    "Armor type": "Flak",
+    "Speed": "7",
+    "Sight radius": "7",
+    "Cost": "$800",
+    "Estimated train time": "0:18",
+    "Train time multiplier(s)": "0.65 (all infantry)",
+    "Trained at": "Foehn Barracks",
+    "Requires": "Nanofiber Loom",
+    "Ground": "240",
+    "Ground modifiers": [
+      "115% vs. Basic/Animal",
+      "105% vs. Flak",
+      "100% vs. Plate/Cyborg",
+      "90% vs. Huntresses",
+      "50% vs. heroes"
+    ],
+    "Cooldown": "70 frames (4.7 in-game seconds)",
+    "Range": "7.5, minimum 1",
+    "Upgrades to": "Deviatress",
+    "Ability": [
+      "Infantry killed by the weapon creates nanoclouds that heals Foehn infantry in a radius of 2.2 at a rate of 8 hit points every 2.25 frames (0.15 in-game seconds)",
+      "Hijack enemy vehicles",
+      "Detects disguised enemies",
+      "Detects cloaked/submerged enemies (range 7)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "Artist(s)": [
+      "4SG (SHP)",
+      "Nooze (cameo)"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/0/0e/Hntricon.png/revision/latest",
+  "icon_filename": "Hntricon.png"
+}

@@ -1,0 +1,71 @@
+{
+  "unit_name": "Mastodon",
+  "infobox_data": {
+    "Faction": "Last BastionChina(originally)",
+    "Role": "Anti-vehicle",
+    "Armament": [
+      "Plasma railgun",
+      "Nuclear cannon (as prototypes)"
+    ],
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "1450",
+    "Armor type": "Heavy",
+    "Speed": "3",
+    "Turn rate": [
+      "2 (unit)",
+      "3 (turret)"
+    ],
+    "Sight radius": "6",
+    "Cost": "$2400",
+    "Estimated build time": "1:26",
+    "Build time multiplier(s)": "0.9 (multiple factory)",
+    "Built at": "Foehn War Factory",
+    "Requires": "Nanofiber Loom Expansion",
+    "Ground": "150-67.5",
+    "Ground modifiers": [
+      "220% vs. Light",
+      "200% vs. Medium/Harvester",
+      "185% vs. Heavy",
+      "50% vs. Light Structure, Defensive Structure and Lightning Rods",
+      "40% vs. all infantry armor types and Drone",
+      "15% vs. Heavy Structure and (Very) Big Defensive Structure",
+      "10% vs. Big Light Structure and Tech Concrete Fortresses",
+      "5% vs. Big Heavy Structure"
+    ],
+    "Cooldown": "110 frames (7.3 in-game seconds)",
+    "Range": "12, minimum 3, radius 2",
+    "Ability": [
+      "Releases nanoids to repair itself at the rate of 8 hit points every 2.25 frames for 70 frames (249 hit points over 4.7 in-game seconds) when the Mastodon's hit points are lower than 50%Nanoid self-repairs are three times more effective if the Mastodon is stationary",
+      "Nanoid self-repairs are three times more effective if the Mastodon is stationary",
+      "Affected byNanocharge"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Can crush infantry and vehicles",
+      "Uncrushable",
+      "Cannot be depiloted",
+      "Must be locked on to the target and charge up before firing (seeWeapon stages)",
+      "Takes 9 slots in transports"
+    ],
+    "Artist(s)": [
+      "Bu7loos (voxel)",
+      "Lobstrex (model)",
+      "Nooze (cameo)"
+    ],
+    "Voice actor": "George \"Seòras\" Exley",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/e0/Masticon.png/revision/latest",
+  "icon_filename": "Masticon.png"
+}

@@ -1,0 +1,66 @@
+{
+  "unit_name": "Railgun Tower",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": "Advanced defense",
+    "Armament": "Plasma railgun",
+    "Tier": "2",
+    "Tech level": "6",
+    "Hit points": "850",
+    "Armor type": "Defensive Structure",
+    "Turn rate": "10",
+    "Sight radius": "8",
+    "Cost": [
+      "$1200",
+      "$1500 inInfantry Only"
+    ],
+    "Estimated build time": [
+      "0:50",
+      "1:05 inInfantry Only"
+    ],
+    "Build time multiplier(s)": [
+      "1.2 (all defenses)",
+      "0.9 (multiple Construction Yards)"
+    ],
+    "Built by": "Foehn Construction Yard",
+    "Requires": "Cloud Piercer",
+    "Placement radius": "5",
+    "Ground attack": "125-50",
+    "Ground attack modifiers": [
+      "200% vs. Light",
+      "190% vs. Medium/Harvester",
+      "175% vs. Heavy",
+      "120% vs. Basic/Animal",
+      "100% vs. Flak",
+      "80% vs. Plate/Cyborg",
+      "40% vs. Drone",
+      "25% vs. Light Structure",
+      "20% vs. Heavy Structure",
+      "15% vs. Defensive Structure and Lightning Rods",
+      "10% vs. (Very) Big Defensive Structure",
+      "5% vs. Big Light Structure, Big Heavy Structure and Tech Concrete Fortresses armor"
+    ],
+    "Cooldown": "120 frames (8 in-game seconds)",
+    "Attack range": "8, radius 1.2",
+    "Power": "-75",
+    "Upgraded bonus": "+40% armor",
+    "Fully upgraded bonus": [
+      "+40% firepower",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can gain experience",
+      "Takes 50% more damage fromLightning Storm"
+    ],
+    "Select sound": "From theWave-force Tower(Red Alert 3)",
+    "Artist(s)": "Nooze (cameo and artwork)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/6/6b/Rtowicon.png/revision/latest",
+  "icon_filename": "Rtowicon.png"
+}

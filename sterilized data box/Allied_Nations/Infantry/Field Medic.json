@@ -1,0 +1,35 @@
+{
+  "unit_name": "Field Medic",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Infantry support",
+    "Armament": "Medic kits",
+    "Tier": "1",
+    "Tech level": "5",
+    "Hit points": "120",
+    "Armor type": "Flak",
+    "Speed": "7",
+    "Sight radius": "8",
+    "Cost": "$300",
+    "Estimated train time": "0:04",
+    "Train time multiplier(s)": "0.65",
+    "Trained at": "Allied Barracks",
+    "Requires": "Arsenal Depot",
+    "Ability": [
+      "Heals friendly infantry by 50 hit points",
+      "Has a range of 3 and a cooldown of 25 frames (1.7 in-game seconds)"
+    ],
+    "Notes": [
+      "Self-healing",
+      "Immune to poison"
+    ],
+    "Voice actor": "M. Simmons",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/c/cf/Mediicon.png/revision/latest",
+  "icon_filename": "Mediicon.png"
+}

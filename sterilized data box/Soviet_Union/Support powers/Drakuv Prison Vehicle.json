@@ -1,0 +1,63 @@
+{
+  "unit_name": "Drakuv Prison Vehicle",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": [
+      "Support",
+      "Imprisonment"
+    ],
+    "Armament": [
+      "Stun rifles",
+      "Grinder"
+    ],
+    "Tier": "2",
+    "Hit points": "1050",
+    "Armor type": "Heavy",
+    "Transport slots": "8 (only for abducted infantry)",
+    "Speed": "7",
+    "Turn rate": "6",
+    "Sight radius": "5",
+    "Cost": "$1800",
+    "Recharge time": "6:00",
+    "Called from": "Field Bureau",
+    "Requires": "Radar Dish",
+    "Ground": [
+      "25 * 3 (75 total) (stun rifles)",
+      "25 (grinder)"
+    ],
+    "Cooldown": [
+      "75 frames (5 in-game seconds) (stun rifles)",
+      "15 frames (1 in-game second) (grinder)"
+    ],
+    "Range": [
+      "6 (stun rifles)",
+      "1.5 (grinder)"
+    ],
+    "Ability": [
+      "Stun rifles abducts most enemy infantry (exceptheroes) at 1/3 or lower health, bringing them under the owner's control and instantly transports them into the Drakuv Prison Vehicle",
+      "Grinder immobilizes the attacked unit and can destroy wallsThe Drakuv Prison Vehicle will use the grinder against infantry that cannot be abducted instead of the stun rifleUnits attacked by the grinder will remain immobilized for 55 frames (3.7 in-game seconds) after the Drakuv Prison Vehicle stops attacking it",
+      "The Drakuv Prison Vehicle will use the grinder against infantry that cannot be abducted instead of the stun rifle",
+      "Units attacked by the grinder will remain immobilized for 55 frames (3.7 in-game seconds) after the Drakuv Prison Vehicle stops attacking it",
+      "Heals friendly infantry in a radius of 4 around the Drakuv Prison Vehicle every 600 frames (40 in-game seconds) at a rate of 8 hit points every 2.25 frames over 72 frames (256 hit points over 4.8 in-game seconds)"
+    ],
+    "Notes": [
+      "Can be only deployed in a radius of 9 near any of the player'sField Bureaus",
+      "Can fire its stun rifles on the move",
+      "Self-repair",
+      "Can crush infantry",
+      "Uncrushable",
+      "Cannot be depiloted or hijacked",
+      "Level 3/high passenger survivability rate (90% rookie, 95% veteran, 100% elite)",
+      "Takes 12 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "_section_Support Power Unit": true,
+    "_section_Properties": true,
+    "_section_Deployment": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/a/a6/Ravaicon.png/revision/latest",
+  "icon_filename": "Ravaicon.png"
+}

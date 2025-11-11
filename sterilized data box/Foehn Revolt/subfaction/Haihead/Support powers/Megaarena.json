@@ -1,0 +1,27 @@
+{
+  "unit_name": "Megaarena Projector",
+  "infobox_data": {
+    "Faction": "Haihead",
+    "Role": "Support",
+    "Tier": "3",
+    "Hit points": "600",
+    "Armor type": "Defensive Structure",
+    "Sight radius": "2",
+    "Cost": "$1000",
+    "Recharge time": "6:30",
+    "Deployed by": "Cyberkernel Expansion",
+    "Ability": [
+      "Grants friendlyMegalodonsin a radius of 18 around the Megaarena Projector an energy shield which instantly kills enemy infantry (exceptheroes) that comes in contact with, increases their speed by 1 and renders them immune to EMP",
+      "The effect takes 100 frames (6.7 in-game seconds) to apply and lingers for 110 frames (7.3 in-game seconds)"
+    ],
+    "Notes": "Cannot be captured",
+    "Artist(s)": "Nooze",
+    "_section_Support Power Structure": true,
+    "_section_Properties": true,
+    "_section_Deployment": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/7/7d/Arenicon.png/revision/latest",
+  "icon_filename": "Arenicon.png"
+}

@@ -1,0 +1,44 @@
+{
+  "unit_name": "Fake Construction Yard",
+  "infobox_data": {
+    "Faction": "Scorpion Cell",
+    "Role": "Deception",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "2500",
+    "Armor type": "Big Heavy Structure",
+    "Sight radius": "5",
+    "Cost": "$700",
+    "Estimated build time": "0:18",
+    "Build time multiplier(s)": [
+      "1.25 (all defenses)",
+      "0.7 (individual)"
+    ],
+    "Built by": "Epsilon Construction Yard",
+    "Requires": "Chemplug",
+    "Placement radius": "4",
+    "Ability": "Can be unpacked into a Fake Epsilon MCV",
+    "Notes": [
+      "Limited to one for each player",
+      "Fake Epsilon MCV stats:Hit points: 2000Armor type: HeavySpeed: 4Turn rate: 5Sight radius: 7Deploy into a Fake Construction YardSelf-repairCan crush infantryUncrushableCannot be mind-controlled, hijacked, depiloted and abductedImmune to confusion raysTakes 6 slots in transports",
+      "Hit points: 2000",
+      "Armor type: Heavy",
+      "Speed: 4",
+      "Turn rate: 5",
+      "Sight radius: 7",
+      "Deploy into a Fake Construction Yard",
+      "Self-repair",
+      "Can crush infantry",
+      "Uncrushable",
+      "Cannot be mind-controlled, hijacked, depiloted and abducted",
+      "Immune to confusion rays",
+      "Takes 6 slots in transports"
+    ],
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/f/f1/Fycyicon.png/revision/latest",
+  "icon_filename": "Fycyicon.png"
+}

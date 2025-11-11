@@ -1,0 +1,69 @@
+{
+  "unit_name": "Grand Cannon",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Long-range defense",
+    "Armament": "200mm cannon",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "1650",
+    "Armor type": "Big Defensive Structure",
+    "Turn rate": "10",
+    "Sight radius": "10",
+    "Cost": "$1800",
+    "Estimated build time": "1:16",
+    "Build time multiplier(s)": [
+      "1.2 (all defenses)",
+      "0.95 (multiple Construction Yards)"
+    ],
+    "Built by": "Allied Construction Yard",
+    "Requires": [
+      "Mercury Network Uplink",
+      "Shield Command",
+      "Robot Ops Control Center",
+      "Tech Center"
+    ],
+    "Placement radius": "2",
+    "Ground attack": "145-43.5",
+    "Ground attack modifiers": [
+      "Main attack:",
+      "130% vs. Light navy",
+      "125% vs. Medium navy",
+      "110% vs. Light",
+      "105% vs. Medium/Harvester",
+      "90% vs. Heavy navy",
+      "60% vs. Heavy and Drone",
+      "35% vs. Basic/Animal and Flak",
+      "30% vs. Plate/Cyborg",
+      "15% vs. all structure armor types",
+      "Fragment:",
+      "100% vs. Medium/Harvester",
+      "90% vs. Light",
+      "50% vs. Heavy and Drone",
+      "25% vs. Basic/Animal and Flak",
+      "20% vs. Plate/Cyborg",
+      "10% vs. all structure armor types"
+    ],
+    "Cooldown": "140 frames (9.3 in-game seconds)",
+    "Attack range": "14, minimum 4, radius 2",
+    "Power": "-150",
+    "Ability": [
+      "Weapon may hit an additional target in a radius of 3.5 (minimum 0.5) around the primary target with a fragment that causes 70-21 damage in a radius of 1"
+    ],
+    "Upgraded bonus": "+40% armor",
+    "Fully upgraded bonus": [
+      "+40% firepower",
+      "Self-repair"
+    ],
+    "Notes": "Can gain experience",
+    "Artist(s)": "ONEX (turret)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/5f/Gcanicon.png/revision/latest",
+  "icon_filename": "Gcanicon.png"
+}

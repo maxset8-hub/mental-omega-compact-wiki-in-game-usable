@@ -1,0 +1,46 @@
+{
+  "unit_name": "Grinder",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": "Recycling",
+    "Tier": "2",
+    "Tech level": "9",
+    "Hit points": "900",
+    "Armor type": "Big Light Structure",
+    "Sight radius": "5",
+    "Cost": "$800",
+    "Estimated build time": "0:36",
+    "Built by": "Epsilon Construction Yard",
+    "Requires": "Pandora Hub",
+    "Placement radius": "2",
+    "Ability": [
+      "Recycles infantry and vehicles (by sending them into the Grinder) to return 50% of its cost",
+      "Can be unpacked into a Mobile Grinder"
+    ],
+    "Notes": [
+      "Cannot be captured or sold",
+      "Mobile Grinder stats:Hit points: 750Armor type: HeavySight: 6Speed: 8Turn rate: 7Deploy into a GrinderCan crush infantryCannot be hijacked and depiloted",
+      "Hit points: 750",
+      "Armor type: Heavy",
+      "Sight: 6",
+      "Speed: 8",
+      "Turn rate: 7",
+      "Deploy into a Grinder",
+      "Can crush infantry",
+      "Cannot be hijacked and depiloted"
+    ],
+    "Select sound": "Modified from theArmor Facility(Red Alert 3)",
+    "Artist(s)": [
+      "Mobile Grinder voxel artists:",
+      "Mevitar",
+      "OverWatch"
+    ],
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/7/77/Grndicon.png/revision/latest",
+  "icon_filename": "Grndicon.png"
+}

@@ -1,0 +1,65 @@
+{
+  "unit_name": "Alize",
+  "infobox_data": {
+    "Faction": "Haihead",
+    "Role": "Anti-armor",
+    "Armament": "Blast rifle",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "260",
+    "Armor type": "Plate",
+    "Speed": "7",
+    "Sight radius": "10",
+    "Cost": "$1500",
+    "Estimated train time": "1:08",
+    "Train time multiplier(s)": [
+      "0.65 (all infantry)",
+      "2 (all heroes)",
+      "1.0 (multiple factory)"
+    ],
+    "Trained at": "Foehn Barracks",
+    "Requires": "Cyberkernel Expansion",
+    "Ground": "500-200",
+    "Ground modifiers": [
+      "180% vs. Light",
+      "150% vs. Medium and Drone",
+      "120% vs. Heavy",
+      "50% vs. Harvester, MCVs, Centurion Siege Crawlers, M.A.D.M.A.N. and Boidmachines"
+    ],
+    "Cooldown": "160 frames (10.7 in-game seconds)",
+    "Range": "8.5, radius 1.8",
+    "Ability": [
+      "Rapidly heals herself while in a radius of 4 toFin",
+      "Detects cloaked/submerged enemies (range 9)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Build time is unaffected by multiple Barracks",
+      "Self-healing",
+      "Cannot be attacked byAttack DogsandSpooks",
+      "Uncrushable by normal vehicles",
+      "Cannot be mind-controlled and abducted",
+      "Immune to confusion rays",
+      "Vulnerable to magnetic weapons",
+      "Cannot fire fromopentopped transports"
+    ],
+    "Artist(s)": [
+      "Starkku (SHP)",
+      "Nooze (cameo)"
+    ],
+    "Voice actress": "Sally Feng",
+    "_section_Hero": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/9/9b/Alizeicon.png/revision/latest",
+  "icon_filename": "Alizeicon.png"
+}

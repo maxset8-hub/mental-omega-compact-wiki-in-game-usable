@@ -1,0 +1,67 @@
+{
+  "unit_name": "Aeroblaze",
+  "infobox_data": {
+    "Faction": "United States",
+    "Role": "Anti-air",
+    "Armament": "2x \"Quasar\" lasers",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "355",
+    "Armor type": "Medium",
+    "Speed": "6",
+    "Turn rate": [
+      "6 (unit)",
+      "8 (turret)"
+    ],
+    "Sight radius": "6",
+    "Cost": "$1450",
+    "Estimated build time": "0:50",
+    "Build time multiplier(s)": "0.9 (multiple factory)",
+    "Built at": "Allied War Factory",
+    "Requires": [
+      "Mercury Network Uplink",
+      "Tech Center"
+    ],
+    "Air": [
+      "60 * 2 (120 total) (mode 1)",
+      "70 (mode 2)"
+    ],
+    "Air modifiers": [
+      "125% vs.Scout Ravens",
+      "120% vs. Medium Aircraft",
+      "115% vs.Rocketeers,Norio,Gyrocopters,CosmonautsandUragan",
+      "110% vs. Heavy Aircraft",
+      "100% vs. Light Aircraft"
+    ],
+    "Cooldown": [
+      "35 frames (2.3 in-game seconds) (mode 1)",
+      "60 frames (4 in-game seconds) (mode 2)"
+    ],
+    "Range": [
+      "11 (mode 1)",
+      "16.5 (mode 2)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can crush infantry",
+      "Can enterTank Bunkers",
+      "Cannot be depiloted",
+      "Takes 6 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "Voice actor": "soLoKii",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/0/0f/Aeroicon.png/revision/latest",
+  "icon_filename": "Aeroicon.png"
+}

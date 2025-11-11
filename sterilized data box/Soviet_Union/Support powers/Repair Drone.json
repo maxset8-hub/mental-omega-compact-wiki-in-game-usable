@@ -1,0 +1,35 @@
+{
+  "unit_name": "Repair Drone",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": "Repair unit",
+    "Armament": "Repair tool",
+    "Tier": "1",
+    "Hit points": "280",
+    "Armor type": "Light",
+    "Speed": "5.5",
+    "Turn rate": "7",
+    "Sight radius": "3",
+    "Cost": "$900 (Repair Drone)$1200 (Repair Drones)",
+    "Recharge time": "4:00 (Repair Drone)4:30 (Repair Drones)",
+    "Called from": "Soviet War Factory",
+    "Ability": [
+      "Amphibious",
+      "Repairs a friendly vehicle in a range of 6 by 50 hit points every 80 frames (5.3 in-game seconds)"
+    ],
+    "Notes": [
+      "Delivered by a MiG TransportThe MiG Transport flies at a speed of 100 (jet) and cannot be attacked",
+      "The MiG Transport flies at a speed of 100 (jet) and cannot be attacked",
+      "Deploys 2 Repair Drones when theIndustrial Plantis built",
+      "A red flare will be displayed at designated zone right after support power deployment"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "_section_Support Power Unit": true,
+    "_section_Properties": true,
+    "_section_Deployment": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/b/b2/Rpdrnicon.png/revision/latest",
+  "icon_filename": "Rpdrnicon.png"
+}

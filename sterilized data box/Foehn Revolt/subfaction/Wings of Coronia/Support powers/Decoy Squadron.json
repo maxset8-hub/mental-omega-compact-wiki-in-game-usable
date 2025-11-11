@@ -1,0 +1,17 @@
+{
+  "unit_name": "Decoy Squadron",
+  "infobox_data": {
+    "Affiliation": "Wings of Coronia",
+    "Cost": "$1500",
+    "Cooldown": "6:00",
+    "Called from": "Cloud Piercer Expansion",
+    "Requires": "Foehn War Factory",
+    "Effect": [
+      "Deploys 2 DecoyPteranodonsand 1 DecoyQuetzalat the target location",
+      "The Decoys have half hit points and deal no damage"
+    ],
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/50/Dcysicon.png/revision/latest",
+  "icon_filename": "Dcysicon.png"
+}

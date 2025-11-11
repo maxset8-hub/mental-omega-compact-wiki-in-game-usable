@@ -1,0 +1,40 @@
+{
+  "unit_name": "Toxic Strike",
+  "infobox_data": {
+    "Affiliation": "Scorpion Cell",
+    "Cost": "$1000",
+    "Cooldown": "6:30",
+    "Called from": "Chemplug",
+    "Effect": [
+      "Call 4 Dybbuk-Strikers to perform several strafe runs by firing their toxic cannons 4 times in each run at the target radius of 6",
+      "Lasts for 6 runs"
+    ],
+    "Notes": [
+      "A purple flare will be displayed at designated zone right after support power deployment",
+      "Dybbuk-Striker stats:Hit points: 440Armor type: Light AircraftSpeed: 25 (jet)Turn rate: 8Sight: 6Ground attack: 50-27.5 * 2 (100-55 total)200% vs. Basic/Animal175% vs. Flak150% vs. Plate/Cyborg100% vs. Drone60% vs. Light40% vs. Medium/Harvester30% vs. Heavy10% vs. (Big) Light Structure and ((Very) Big) Defensive Structure5% vs. (Big) Heavy StructureCooldown: 9 frames (0.6 in-game seconds)Range: 14, minimum 2, radius 0.7Infantry killed by the toxic cannons releases poison clouds",
+      "Hit points: 440",
+      "Armor type: Light Aircraft",
+      "Speed: 25 (jet)",
+      "Turn rate: 8",
+      "Sight: 6",
+      "Ground attack: 50-27.5 * 2 (100-55 total)200% vs. Basic/Animal175% vs. Flak150% vs. Plate/Cyborg100% vs. Drone60% vs. Light40% vs. Medium/Harvester30% vs. Heavy10% vs. (Big) Light Structure and ((Very) Big) Defensive Structure5% vs. (Big) Heavy Structure",
+      "200% vs. Basic/Animal",
+      "175% vs. Flak",
+      "150% vs. Plate/Cyborg",
+      "100% vs. Drone",
+      "60% vs. Light",
+      "40% vs. Medium/Harvester",
+      "30% vs. Heavy",
+      "10% vs. (Big) Light Structure and ((Very) Big) Defensive Structure",
+      "5% vs. (Big) Heavy Structure",
+      "Cooldown: 9 frames (0.6 in-game seconds)",
+      "Range: 14, minimum 2, radius 0.7",
+      "Infantry killed by the toxic cannons releases poison clouds"
+    ],
+    "Artist(s)": "OverWatch (previously credited as \"CyanideT\") (Dybbuk-Striker)",
+    "_section_Support Power": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/e5/Toxcicon.png/revision/latest",
+  "icon_filename": "Toxcicon.png"
+}

@@ -1,0 +1,13 @@
+{
+  "unit_name": "Sonar Pulse",
+  "infobox_data": {
+    "Affiliation": "Allied Nations",
+    "Cost": "Free",
+    "Cooldown": "5:30",
+    "Called from": "Allied Naval Shipyard",
+    "Effect": "Reveals enemy submerged units in a radius of 5 for 180 frames (12 in-game seconds)",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/9/9b/Snrpicon.png/revision/latest",
+  "icon_filename": "Snrpicon.png"
+}

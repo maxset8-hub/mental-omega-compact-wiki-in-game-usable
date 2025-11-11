@@ -1,0 +1,37 @@
+{
+  "unit_name": "Power Plant",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Power production",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "750",
+    "Armor type": "Light Structure",
+    "Sight radius": "4",
+    "Cost": "$800",
+    "Estimated build time": "0:36",
+    "Build time multiplier(s)": "1.25 (all structures)",
+    "Built by": "Allied Construction Yard",
+    "Placement radius": "3",
+    "Power": "+200",
+    "Allows": [
+      "Allied War Factory",
+      "Allied Naval Shipyard",
+      "Air Force Command Headquarters",
+      "Mercury Network Uplink",
+      "Shield Command",
+      "Robot Ops Control Center",
+      "Power Turbine"
+    ],
+    "Add-ons": "Power Turbine",
+    "Notes": "Can be infiltrated to shut down the owner's power for 1:30",
+    "Select sound": "From theCold Fusion Reactor(Command & Conquer: Generals)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/ee/Powricon.png/revision/latest",
+  "icon_filename": "Powricon.png"
+}

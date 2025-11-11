@@ -1,0 +1,44 @@
+{
+  "unit_name": "Warpnode",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": [
+      "Support defense",
+      "Chronoliftextender"
+    ],
+    "Armament": "Negation field",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "850",
+    "Armor type": "Defensive Structure",
+    "Sight radius": "7",
+    "Cost": "$1000",
+    "Estimated build time": "1:05",
+    "Build time multiplier(s)": [
+      "1.5 (individual)",
+      "1.2 (all defenses)",
+      "0.9 (Construction Yard)"
+    ],
+    "Built by": "Allied Construction Yard",
+    "Requires": "Experimental Warpshop",
+    "Placement radius": "6",
+    "Ground attack": "0(dummy)",
+    "Cooldown": "120 frames (8 in-game seconds)",
+    "Attack range": "9, minimum 1",
+    "Power": "-150",
+    "Ability": "Negation field halves and reverses enemy firepower (causes their attacks to heal/repair the target(s) instead of dealing damage or vice-versa) for 120 frames (8 in-game seconds)",
+    "Notes": [
+      "Limited to three for each player",
+      "Cannot bechronolifted"
+    ],
+    "Artist(s)": "Nooze",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/8/8c/Cfenicon.png/revision/latest",
+  "icon_filename": "Cfenicon.png"
+}

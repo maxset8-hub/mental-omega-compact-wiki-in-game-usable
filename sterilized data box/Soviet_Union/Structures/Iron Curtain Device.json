@@ -1,0 +1,51 @@
+{
+  "unit_name": "Iron Curtain Device",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": "Support superweapon",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "1150",
+    "Armor type": "Big Heavy Structure",
+    "Sight radius": "5",
+    "Cost": "$3000",
+    "Estimated build time": "2:13",
+    "Build time multiplier(s)": "1.25",
+    "Built by": "Soviet Construction Yard",
+    "Requires": [
+      "Palace",
+      "Battle Lab",
+      "Atomheart"
+    ],
+    "Placement radius": "2",
+    "Power": "-200",
+    "Allows": "Iron Guard",
+    "Ability": "Invulnerability",
+    "Notes": [
+      "Limited to one for each player",
+      "Cannot be captured",
+      "Can be infiltrated to reset the superweapon's timer"
+    ],
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/e4/Ironicon.png/revision/latest",
+  "icon_filename": "Ironicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Superweapon",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Support SuperweaponRecharge Time: 6:30Makes friendly vehicles and structures in the target area invulnerable for 45 secondsLasts 20% longer on Qilin TanksLasts 20% shorter on Terror DronesLeft-click icon then left-click on target location"
+        ]
+      ]
+    }
+  ]
+}

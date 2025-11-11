@@ -1,0 +1,13 @@
+{
+  "unit_name": "Signal Jammer",
+  "infobox_data": {
+    "Affiliation": "Haihead",
+    "Cost": "Free",
+    "Cooldown": "5:30",
+    "Called from": "Cyberkernel Expansion",
+    "Effect": "Blocks the use of support powers (except reconnaissance ones) in a radius of 9 for 1800 frames (120 in-game seconds)",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/1/12/Jammicon.png/revision/latest",
+  "icon_filename": "Jammicon.png"
+}

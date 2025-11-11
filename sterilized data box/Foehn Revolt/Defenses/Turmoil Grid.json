@@ -1,0 +1,43 @@
+{
+  "unit_name": "Turmoil Grid",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": "Hidden defense",
+    "Armament": "Confusion field",
+    "Tier": "2",
+    "Tech level": "6",
+    "Hit points": "140",
+    "Armor type": "Defensive Structure",
+    "Turn rate": "10",
+    "Sight radius": "2",
+    "Cost": "$500",
+    "Estimated build time": "0:22",
+    "Build time multiplier(s)": "1.2 (all defenses)",
+    "Built by": "Foehn Construction Yard",
+    "Requires": "Cyberkernel",
+    "Placement radius": "8",
+    "Ground attack": "0(dummy)",
+    "Cooldown": "50 frames (3.3 in-game seconds)",
+    "Attack range": "1.03, radius 1.1",
+    "Power": "-1",
+    "Ability": [
+      "Cloaked",
+      "Detects cloaked/submerged enemies (range 2)",
+      "Detects disguised enemies",
+      "Weapon makes enemies cannot be controlled and attack their own allies for 100 frames (6.7 in-game seconds)"
+    ],
+    "Notes": [
+      "Self-repair",
+      "8 more Turmoil Grids will appear around the Turmoil Grid itself after being placed"
+    ],
+    "Artist(s)": "Nooze (cameo and artwork)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/6/60/Cnfgicon.png/revision/latest",
+  "icon_filename": "Cnfgicon.png"
+}

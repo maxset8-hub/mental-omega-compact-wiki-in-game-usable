@@ -1,0 +1,71 @@
+{
+  "unit_name": "Stormchild",
+  "infobox_data": {
+    "Faction": "United States",
+    "Role": "Precision strikes",
+    "Armament": [
+      "Maverick missiles (against vehicles and structures)",
+      "\"Storm\" laser guns (against infantry)"
+    ],
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "220",
+    "Armor type": "Light Aircraft",
+    "Speed": "30 (jet)",
+    "Turn rate": "6",
+    "Sight radius": "8",
+    "Cost": "$1150",
+    "Estimated build time": "0:40",
+    "Built at": "Air Force Command Headquarters",
+    "Requires": "Mercury Network Uplink(unconditionally)",
+    "Ground": [
+      "100 * 2 (200 total) (missiles)",
+      "120 * 2 (240 total) (laser guns)"
+    ],
+    "Ground modifiers": [
+      "Missiles:",
+      "130% vs. Medium and Naval Units",
+      "115% vs. Light and Heavy",
+      "90% vs. Harvester",
+      "40% vs. (Big) Light Structure",
+      "30% vs. ((Very) Big) Defensive Structure",
+      "25% vs. (Big) Heavy Structure",
+      "Laser guns:",
+      "160% vs. Basic/Animal",
+      "150% vs. Flak",
+      "130% vs. Plate/Cyborg",
+      "100% vs. Drone",
+      "60% vs.heroes"
+    ],
+    "Cooldown": [
+      "10 frames (0.67 in-game seconds) (missiles)",
+      "20 frames (1.33 in-game seconds) (laser guns)"
+    ],
+    "Range": [
+      "8 (both weapons)",
+      "0.4 (radius)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Invisible on enemy radar",
+      "Has 1 ammunitionThe ammunition is shared by both the missiles and the laser gunsEach ammunition takes 18 in-game seconds to reload",
+      "The ammunition is shared by both the missiles and the laser guns",
+      "Each ammunition takes 18 in-game seconds to reload"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "Voice actor": "DietingNinja",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/d/d7/Strmicon.png/revision/latest",
+  "icon_filename": "Strmicon.png"
+}

@@ -1,0 +1,69 @@
+{
+  "unit_name": "Field Bureau",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": [
+      "Combat Support",
+      "Infantry imprisonment"
+    ],
+    "Tier": "1",
+    "Tech level": "3",
+    "Hit points": "1000",
+    "Armor type": "Light Structure",
+    "Sight radius": "6",
+    "Cost": "$800",
+    "Estimated build time": "0:40",
+    "Build time multiplier(s)": [
+      "1.25 (all buildings)",
+      "1.15 (individual)"
+    ],
+    "Built by": "Soviet Construction Yard",
+    "Requires": "Soviet Barracks",
+    "Placement radius": "2",
+    "Power": "-50",
+    "Allows": [
+      "Battle Bunker",
+      "Pyro",
+      "Tesla Trooper",
+      "Shock Trooper",
+      "Dustdevil"
+    ],
+    "Ability": [
+      "Imprisons infantry (by sending them into the Field Bureau) to allow them to be trained if they are otherwise unavailable for the player and returns 50% of their cost",
+      "Instant Shelter",
+      "Drakuv Prison Vehicle(requiresRadar Dish)"
+    ],
+    "Notes": [
+      "Cannot reverse-engineer Tier 2 and Tier 3 Soviet infantry",
+      "Can be infiltrated to reset the captured infantry tech"
+    ],
+    "Select sound": "Mixed sound from theNod Outpost(Tiberium Wars) and theReactor(Red Alert 3)",
+    "Artist(s)": "4SG",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/b/ba/Npriicon.png/revision/latest",
+  "icon_filename": "Npriicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Defensive PowerCost: $800Recharge Time: 5:30Deploy a Battle Bunker anywhere on the battlefieldComes with two Conscripts already insideLeft-click icon then left-click on target location (cannot be targeted on water)"
+        ],
+        [
+          "",
+          "Type: Reinforcement PowerCost: $1800Recharge Time: 6:00Requires Radar DishDeploy a Drakuv Prison Vehicle near a Field BureauThe Drakuv periodically heals nearby friendly infantryThe Drakuv abducts most enemy infantry at low healthAbducted enemy infantry will fight for the Drakuv's ownerAbducted enemy infantry can be sent to the Field Bureau to allow their productionGrinder attack immobilizes infantry immune to abduction and vehiclesLeft-click icon then left-click on target location near a Field Bureau"
+        ]
+      ]
+    }
+  ]
+}

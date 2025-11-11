@@ -1,0 +1,60 @@
+{
+  "unit_name": "Saboteur",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": [
+      "Infiltration",
+      "Sabotage"
+    ],
+    "Armament": [
+      "Makeup kit",
+      "Bomb vest"
+    ],
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": "140",
+    "Armor type": "Basic",
+    "Speed": "6",
+    "Sight radius": "8",
+    "Cost": "$1000",
+    "Estimated train time": "0:22",
+    "Train time multiplier(s)": "0.65",
+    "Trained at": "Soviet Barracks",
+    "Requires": [
+      "Palace",
+      "Battle Lab",
+      "Atomheart"
+    ],
+    "Ground modifiers": [
+      "Death explosion:",
+      "240% vs. (Very Big) Defensive Structure",
+      "120% vs. Basic/Animal",
+      "110% vs. Flak",
+      "100% vs. Plate/Cyborg, Light, Drone and Light Structure",
+      "80% vs. Big Light Structure",
+      "75% vs. Medium/Harvester",
+      "70% vs. Heavy Structure and Naval Shipyards",
+      "60% vs. Heavy and Big Defensive Structure",
+      "50% vs. Big Heavy Structure and Crazy Ivans"
+    ],
+    "Ability": [
+      "Can disguise as enemy infantryHas a cooldown of 100 frames (6.7 in-game seconds)",
+      "Has a cooldown of 100 frames (6.7 in-game seconds)",
+      "Infiltrates enemy structures"
+    ],
+    "Notes": [
+      "Explodes when killed",
+      "The explosion causes 50-25 damage in a radius of 3.5"
+    ],
+    "Artist(s)": "cboidy888",
+    "Voice actor": "De'Lante Capers(previously credited as \"Rhys_Dallows\")",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/7/75/Sbtricon.png/revision/latest",
+  "icon_filename": "Sbtricon.png"
+}

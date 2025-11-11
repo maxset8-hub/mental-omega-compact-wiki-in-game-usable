@@ -1,0 +1,69 @@
+{
+  "unit_name": "Basilisk",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": "Anti-structure",
+    "Armament": "Psionic energizer",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "360",
+    "Armor type": "Medium Aircraft",
+    "Speed": "25",
+    "Turn rate": "4",
+    "Sight radius": "8",
+    "Cost": "$1750",
+    "Estimated build time": "1:01",
+    "Build time multiplier(s)": "0.9 (multiple factory)",
+    "Built at": "Epsilon War Factory",
+    "Requires": [
+      "Psychplug",
+      "Chemplug",
+      "Geneplug"
+    ],
+    "Ground": "75-37.5 * 6 (450-225 total)",
+    "Ground modifiers": [
+      "Main attack:",
+      "80% vs Defensive Structure andLightning Rods",
+      "70% vs. Basic/Animal",
+      "65% vs. Big Defensive Structure",
+      "60% vs. Flak,Tech Concrete FortressesandPlasmerizer",
+      "50% vs. Plate/Cyborg",
+      "40% vs. Drone",
+      "35% vs. (Big) Light Structure",
+      "30% vs. (Big) Heavy Structure",
+      "20% vs. Light",
+      "15% vs. Medium/Harvester",
+      "10% vs. Heavy",
+      "Death explosion:",
+      "100% vs. all infantry armor types and Drone",
+      "85% vs. (Big) Light Structure and ((Very) Big Defensive Structure",
+      "70% vs. Light",
+      "55% vs. (Big) Heavy Structure",
+      "35% vs. Medium/Harvester and Heavy"
+    ],
+    "Cooldown": "150 frames (10 in-game seconds)",
+    "Range": "10.5, minimum 3, radius 1",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Causes 45-22.5 damage in a radius of 2 at where the Basilisk crashes when shot down"
+    ],
+    "Artist(s)": [
+      "Azri_Apoc (voxel)",
+      "SecondDatke aka. SecondWtq (2D/3D model)"
+    ],
+    "Voice actor": "Gabriel Wolf",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/d/d2/Basiicon.png/revision/latest",
+  "icon_filename": "Basiicon.png"
+}

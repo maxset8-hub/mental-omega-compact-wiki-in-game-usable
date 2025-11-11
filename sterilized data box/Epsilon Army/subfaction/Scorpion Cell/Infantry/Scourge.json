@@ -1,0 +1,54 @@
+{
+  "unit_name": "Scourge",
+  "infobox_data": {
+    "Faction": "Scorpion Cell",
+    "Role": "Anti-armor",
+    "Armament": "Custom EMP rod",
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": "190",
+    "Armor type": "Plate",
+    "Speed": "8",
+    "Sight radius": "6",
+    "Cost": "$1050",
+    "Estimated train time": "0:22",
+    "Train time multiplier(s)": "0.65 (all infantry)",
+    "Trained at": "Epsilon Barracks",
+    "Requires": "Chemplug",
+    "Ground": "55-16.5 × 5",
+    "Ground modifiers": [
+      "120% vs. Light",
+      "110% vs. Medium/Harvester",
+      "100% vs. Heavy",
+      "30% vs.Foehninfantry",
+      "25% vs. all infantry armor types",
+      "10% vs. (Big) Light Structure and ((Very) Big) Defensive Structure",
+      "5% vs. (Big) Heavy Structure"
+    ],
+    "Cooldown": "10 frames (0.67 in-game seconds)",
+    "Range": "7, minimum 2, radius 0.8",
+    "Ability": "Weapon disables vehicles and infantry vulnerable to EMP for 15 frames (1 in-game second)",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-healing",
+      "Has 5 ammunitionEach ammunition takes 80 frames (5.3 in-game seconds) to reload",
+      "Each ammunition takes 80 frames (5.3 in-game seconds) to reload",
+      "Cannot be attacked byAttack DogsandSpooks",
+      "Uncrushable by normal vehicles",
+      "Vulnerable to magnetic weapons"
+    ],
+    "Artist(s)": "ONEX",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/f/fa/Scrgicon.png/revision/latest",
+  "icon_filename": "Scrgicon.png"
+}

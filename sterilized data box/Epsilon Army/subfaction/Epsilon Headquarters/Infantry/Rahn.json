@@ -1,0 +1,84 @@
+{
+  "unit_name": "Rahn",
+  "infobox_data": {
+    "Faction": "Epsilon Headquarters",
+    "Role": [
+      "Assault",
+      "Mutation"
+    ],
+    "Armament": "\"Terranova\" particle beam",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": [
+      "410",
+      "700 inHuehuecoyotl",
+      "600 inDivergenceandMetaphor",
+      "2500 inObsidian Sands",
+      "1600 inNightcrawler"
+    ],
+    "Armor type": "Plate",
+    "Speed": [
+      "7",
+      "8 inHuehuecoyotl,Divergence,Obsidian SandsandNightcrawler"
+    ],
+    "Sight radius": [
+      "9",
+      "10 inDivergence,Obsidian SandsandNightcrawler"
+    ],
+    "Cost": "$1500",
+    "Estimated train time": "1:08",
+    "Train time multiplier(s)": [
+      "0.65 (all infantry)",
+      "2 (all heroes)",
+      "1.0 (multiple factory)"
+    ],
+    "Trained at": "Epsilon Barracks",
+    "Requires": "Geneplug",
+    "Ground": "250 target, 75 pass-through",
+    "Ground modifiers": [
+      "200% vs. Basic/Animal and Drone",
+      "190% vs. Flak",
+      "180% vs. Plate/Cyborg",
+      "90% vs. Light",
+      "85% vs. (Big) Light Structure",
+      "80% vs. Medium/Harvester and ((Very) Big) Defensive Structure",
+      "70% vs. Heavy and (Big) Heavy Structure"
+    ],
+    "Cooldown": [
+      "100 frames (6.7 in-game seconds)",
+      "50 frames (3.3 in-game seconds) inHuehuecoyotlandMetaphor",
+      "60 frames (4 in-game seconds) inNightcrawler"
+    ],
+    "Range": "9.5",
+    "Ability": [
+      "Weapon damages targets in a line and turns enemy infantry intoBrutesWeapon does not cause friendly fire",
+      "Weapon does not cause friendly fire",
+      "Detects cloaked/submerged enemies (range 7)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Build time is unaffected by multiple Barracks",
+      "Self-healing (3x as effective as normal)",
+      "Uncrushable by normal vehicles",
+      "Cannot be attacked byAttack DogsandSpooks",
+      "Immune to confusion rays",
+      "Cannot be mind-controlled and abducted",
+      "Vulnerable to magnetic weapons"
+    ],
+    "Artist(s)": "ImP_RuLz",
+    "Voice actor": "De'Lante Capers(previously credited as \"Rhys_Dallows\")",
+    "_section_Hero": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/6/6e/Assnicon.png/revision/latest",
+  "icon_filename": "Assnicon.png"
+}

@@ -1,0 +1,51 @@
+{
+  "unit_name": "Epsilon Elite",
+  "infobox_data": {
+    "Faction": "PsiCorpsEpsilon Headquarters(campaign only, mid-Act Two)Epsilon Army(campaign only, late-Act Two)",
+    "Role": [
+      "Mind control",
+      "Anti-infantry"
+    ],
+    "Armament": "Mind ControlPsychic Blast",
+    "Tier": "2",
+    "Tech level": "8",
+    "Hit points": "130",
+    "Armor type": "Basic",
+    "Speed": "6",
+    "Sight radius": "8",
+    "Cost": "$1200",
+    "Estimated train time": "0:32",
+    "Train time multiplier(s)": [
+      "0.65 (all infantry)",
+      "1.2 (individual)"
+    ],
+    "Trained at": "Epsilon Barracks",
+    "Requires": "Pandora HuborPsychplug(unconditionally)",
+    "Ground": "0(dummy)",
+    "Cooldown": "100 frames (6.7 in-game seconds)",
+    "Range": "8, minimum 0.5",
+    "Ability": [
+      "Amphibious",
+      "Deploy to release a psychic blast that deals 250 damage to enemy infantry in a radius of 3.3 around the Epsilon EliteHas a cooldown of 50 frames (3.3 in-game seconds)",
+      "Has a cooldown of 50 frames (3.3 in-game seconds)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower (psychic blast)",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-healing",
+      "Gains 75% of the experience earned by the Epsilon Elite's mind-controlled victim",
+      "Uncrushable by normal vehicles",
+      "Cannot be mind-controlled"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/1/1c/Yypricon.png/revision/latest",
+  "icon_filename": "Yypricon.png"
+}

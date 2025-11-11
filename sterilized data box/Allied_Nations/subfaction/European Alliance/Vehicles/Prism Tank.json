@@ -1,0 +1,56 @@
+{
+  "unit_name": "Prism Tank",
+  "infobox_data": {
+    "Faction": "European Alliance",
+    "Role": "Siege",
+    "Armament": "Comet prism refractor",
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": "330",
+    "Armor type": "Light",
+    "Speed": "6",
+    "Turn rate": "4",
+    "Sight radius": "6",
+    "Cost": "$1450",
+    "Estimated build time": "0:50",
+    "Build time multiplier(s)": "0.9 (multiple factory)",
+    "Built at": "Allied War Factory",
+    "Requires": [
+      "Shield Command",
+      "Tech Center"
+    ],
+    "Ground": "100",
+    "Ground modifiers": [
+      "210% vs. ((Very) Big) Defensive Structure",
+      "190% vs. (Big) Light Structure and (Big) Heavy Structure",
+      "100% vs. all infantry armor types and Drone",
+      "35% vs. Light",
+      "25% vs. Medium/Harvester",
+      "20% vs. Heavy"
+    ],
+    "Cooldown": "110 frames (7.3 in-game seconds)",
+    "Range": "13.5, minimum 1",
+    "Ability": "Weapon disperses 5 beams that hits additional targets in a radius of 5 around the main target, causing 25 damage to each",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can crush infantry",
+      "Can enterTank Bunkers",
+      "Cannot be depiloted",
+      "Takes 6 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/2/2f/Sreficon.png/revision/latest",
+  "icon_filename": "Sreficon.png"
+}

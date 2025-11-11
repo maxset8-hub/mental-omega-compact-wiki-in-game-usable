@@ -1,0 +1,49 @@
+{
+  "unit_name": "Genomines",
+  "infobox_data": {
+    "Faction": "Epsilon Headquarters",
+    "Role": "Advanced hidden defense",
+    "Armament": "Mutation gas",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "200",
+    "Armor type": "Land Mine",
+    "Sight radius": "4",
+    "Cost": "$300",
+    "Estimated build time": "0:07",
+    "Build time multiplier(s)": [
+      "1.2 (all defenses)",
+      "0.75 (individual)"
+    ],
+    "Built by": "Epsilon Construction Yard",
+    "Requires": "Geneplug",
+    "Placement radius": "12",
+    "Ground attack": "200-120",
+    "Ground attack modifiers": [
+      "110% vs. Basic",
+      "100% vs. Flak",
+      "90% vs. Plate",
+      "0% vs.Clairvoyants,Duplicants, Animal, Cyborg,Volkov,Chitzkoi"
+    ],
+    "Attack range": "2, radius 2",
+    "Ability": [
+      "Cloaked",
+      "Weapon detonates 5 frames (0.3 in-game seconds) after triggered and turns enemy infantry toBrutesWeapon does not cause friendly fire",
+      "Weapon does not cause friendly fire"
+    ],
+    "Notes": [
+      "4 more Genomines will appear in the area around itself once placed",
+      "Cannot be attacked byCryocopters",
+      "Does not explode when destroyed"
+    ],
+    "Artist(s)": "Nooze",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/57/Vnmmicon.png/revision/latest",
+  "icon_filename": "Vnmmicon.png"
+}

@@ -1,0 +1,22 @@
+{
+  "unit_name": "Bloatick Trap",
+  "infobox_data": {
+    "Affiliation": "Scorpion Cell",
+    "Cost": "$1000",
+    "Cooldown": "5:00",
+    "Called from": "Chemplug",
+    "Effect": [
+      "Spawn aBloatick Tunnelat the target location after a delay of 60 frames (4 in-game seconds)",
+      "Spawns a Bloatick every 6 seconds, up to a maximum of 8 Bloaticks"
+    ],
+    "Notes": [
+      "Loses 1 hit point every frame (0.07 in-game seconds)",
+      "Cannot be captured and repaired",
+      "Unaffected byForce Shield,InvulnerabilityandMaintenance",
+      "Does not keep the player in game ifShort Gameis enabled in skirmish and multiplayer"
+    ],
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/2/29/Kaosicon.png/revision/latest",
+  "icon_filename": "Kaosicon.png"
+}

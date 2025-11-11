@@ -1,0 +1,54 @@
+{
+  "unit_name": "Dybbuk-Attacker",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": "Anti-armor",
+    "Armament": "2x ARO launchers",
+    "Tier": "1",
+    "Tech level": "5",
+    "Hit points": "260",
+    "Armor type": "Light Aircraft",
+    "Speed": "22 (jet)",
+    "Turn rate": "6",
+    "Sight radius": "8",
+    "Cost": "$1150",
+    "Estimated build time": "0:40",
+    "Built at": "Aerodome",
+    "Ground": "40 * 2 (80 total)",
+    "Ground modifiers": [
+      "115% vs. all navy armor types (except naval transports)",
+      "100% vs. Medium",
+      "95% vs. Light & Heavy",
+      "70% vs. Bomb Buggy",
+      "60% vs. Harvester",
+      "50% vs. Drone",
+      "35% vs. all infantry armor types",
+      "20% vs. (Big) Light Structure",
+      "15% vs. (Big) Heavy Structure",
+      "10% vs. ((Very) Big) Defensive Structure"
+    ],
+    "Cooldown": "1 frames (0.1 in-game seconds)",
+    "Range": "8, minimum 1, radius 0.3",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Can attack submerged units",
+      "Has 6 ammunitionEach ammunition takes 6 in-game seconds to reload",
+      "Each ammunition takes 6 in-game seconds to reload",
+      "Unaffected by firepower buffs/debuffs"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/d/d7/Bligicon.png/revision/latest",
+  "icon_filename": "Bligicon.png"
+}

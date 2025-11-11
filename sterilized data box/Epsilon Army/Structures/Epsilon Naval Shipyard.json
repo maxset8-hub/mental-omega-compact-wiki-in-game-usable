@@ -1,0 +1,70 @@
+{
+  "unit_name": "Epsilon Naval Shipyard",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": "Ship production",
+    "Tier": "1",
+    "Tech level": "4",
+    "Hit points": "2000",
+    "Armor type": "Big Heavy Structure",
+    "Sight radius": "10",
+    "Cost": "$1200",
+    "Estimated build time": "0:54",
+    "Build time multiplier(s)": "1.25",
+    "Built by": "Epsilon Construction Yard",
+    "Requires": [
+      "Bio Reactor",
+      "Epsilon Ore Refinery"
+    ],
+    "Placement radius": "20",
+    "Power": "-100",
+    "Produces": "Epsilon ships",
+    "Ability": [
+      "Repairs ships",
+      "Can be toggled as the primary ship production structure (if the player have multiple naval shipyards at the same time)"
+    ],
+    "Notes": [
+      "Cannot be captured",
+      "The morenaval shipyardsthe player have, the faster ships are produced"
+    ],
+    "Select sound": "From theAmerican Supply Center(Generals)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/eb/Yyrdicon.png/revision/latest",
+  "icon_filename": "Yyrdicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Unit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Transport.\nAbilities:\nTransport units with 12 passenger slots\nAmphibious"
+        ],
+        [
+          "",
+          "Light Submarine. Strong vs. Armor, Aircraft.\nAbilities:\nDetects cloaked units\nSubmerged; leaves a trail while moving"
+        ],
+        [
+          "",
+          "Assault Creature. Strong vs. Infantry, Armor.\nRequires Radar Spire\nAbilities:\nDetects cloaked units\nSubmerged\nReduces speed of enemy naval vessels by 80%"
+        ],
+        [
+          "",
+          "Capital Submarine. Strong vs. Armor.\nRequires upgraded Pandora Hub\nAbilities:\nDetects cloaked units\nSubmerged\nReduces speed of enemy naval vessels around itself by 70%"
+        ],
+        [
+          "",
+          "Capital Submarine. Strong vs. Structures.\nRequires upgraded Pandora Hub\nProjectiles can be shot down\nAbilities:\nDetects cloaked units\nSubmerged"
+        ]
+      ]
+    }
+  ]
+}

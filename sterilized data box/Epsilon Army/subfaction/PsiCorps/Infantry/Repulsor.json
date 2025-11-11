@@ -1,0 +1,46 @@
+{
+  "unit_name": "Repulsor",
+  "infobox_data": {
+    "Faction": "PsiCorps",
+    "Role": "Anti-armor",
+    "Armament": [
+      "Makeup kit",
+      "Anti-gravity charges (against vehicles)"
+    ],
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "120",
+    "Armor type": "Flak",
+    "Speed": "6",
+    "Sight radius": "7",
+    "Cost": "$1250",
+    "Estimated train time": "0:29",
+    "Train time multiplier(s)": "0.65 (all infantry)",
+    "Trained at": "Epsilon Barracks",
+    "Requires": "Psychplug",
+    "Ground": "0(dummy)",
+    "Cooldown": "120 frames (8 in-game seconds)",
+    "Range": "1.83",
+    "Ability": [
+      "Can disguise as enemy infantryHas a cooldown of 100 frames (6.7 in-game seconds)",
+      "Has a cooldown of 100 frames (6.7 in-game seconds)",
+      "Anti-gravity charges take 300 frames (20 in-game seconds) to detonateThe detonation causes180-54damage to vehicles over a radius of 1.5The detonation generates an anti-gravity field over a radius of 0.8 for 200 frames (13.3 in-game seconds) that flips vehicles and instantly destroys them once they are completely overturnedThe anti-gravity field is 40% more effective against lighter vehicles",
+      "The detonation causes180-54damage to vehicles over a radius of 1.5",
+      "The detonation generates an anti-gravity field over a radius of 0.8 for 200 frames (13.3 in-game seconds) that flips vehicles and instantly destroys them once they are completely overturnedThe anti-gravity field is 40% more effective against lighter vehicles",
+      "The anti-gravity field is 40% more effective against lighter vehicles"
+    ],
+    "Notes": [
+      "Unaffected by firepower buffs/debuffs",
+      "Cannot be crushed by normal vehicles"
+    ],
+    "Artist(s)": "DaFool",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/9/93/Repuicon.png/revision/latest",
+  "icon_filename": "Repuicon.png"
+}

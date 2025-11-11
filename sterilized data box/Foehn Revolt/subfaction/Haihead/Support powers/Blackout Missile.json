@@ -1,0 +1,20 @@
+{
+  "unit_name": "Blackout Missile",
+  "infobox_data": {
+    "Affiliation": "Haihead",
+    "Cost": "$1000",
+    "Cooldown": "7:00",
+    "Called from": "Cyberkernel Expansion",
+    "Effect": [
+      "Launch a Blackout missile at the target location",
+      "Disables structures in a radius of 4 for 330 frames (22 in-game seconds)"
+    ],
+    "Notes": [
+      "Has a minimum range of 5",
+      "A green flare will be displayed at designated zone right after support power deployment"
+    ],
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/4/48/Sprbicon.png/revision/latest",
+  "icon_filename": "Sprbicon.png"
+}

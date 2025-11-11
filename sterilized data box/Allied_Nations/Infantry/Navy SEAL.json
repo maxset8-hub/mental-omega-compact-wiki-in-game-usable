@@ -1,0 +1,71 @@
+{
+  "unit_name": "Navy SEAL",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": [
+      "Anti-infantry",
+      "Anti-structure",
+      "Anti-ship"
+    ],
+    "Armament": [
+      "HK5 UMP submachine gun (against infantry and vehicles)",
+      "C4 charges (against ships and structures)"
+    ],
+    "Tier": "2",
+    "Tech level": "6",
+    "Hit points": "170",
+    "Armor type": "Flak",
+    "Speed": "7",
+    "Sight radius": "7",
+    "Cost": "$600",
+    "Estimated train time": "0:11",
+    "Train time multiplier(s)": "0.65",
+    "Trained at": "Allied Barracks",
+    "Requires": "Air Force Command Headquarters",
+    "Ground": [
+      "50-7.5 (submachine gun)",
+      "1000 (C4)"
+    ],
+    "Ground modifiers": [
+      "Submachine Gun:",
+      "120% vs. Basic/Animal",
+      "115% vs. Flak",
+      "110% vs. Plate/Cyborg",
+      "100% vs. Drone",
+      "30% vs. Light",
+      "15% vs. Medium/Harvester",
+      "10% vs. Heavy",
+      "C4:",
+      "75% vs. Structures",
+      "25% vs. Ships"
+    ],
+    "Cooldown": [
+      "12 frames (0.8 in-game seconds) (submachine gun)",
+      "100 frames (6.7 in-game seconds) (C4)"
+    ],
+    "Range": [
+      "6.5, radius 0.7 (submachine gun)",
+      "1.83 (C4)"
+    ],
+    "Ability": [
+      "Amphibious",
+      "Detects cloaked/submerged enemies (range 7)",
+      "The C4 takes 100 frames (6.7 in-game seconds) to detonate, causing 1000 damage to the target",
+      "Can destroybridgesby using the C4 on its repair hut"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "Notes": "Cannot use C4 fromopentopped transports",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/6/6a/Sealicon.png/revision/latest",
+  "icon_filename": "Sealicon.png"
+}

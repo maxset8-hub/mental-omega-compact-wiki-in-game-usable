@@ -1,0 +1,60 @@
+{
+  "unit_name": "Zephyr Artillery",
+  "infobox_data": {
+    "Faction": "Pacific Front",
+    "Role": "Anti-armor siege",
+    "Armament": "120mm howitzer cannon",
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "360",
+    "Armor type": "Medium",
+    "Speed": "5",
+    "Turn rate": [
+      "6 (unit)",
+      "8 (turret)"
+    ],
+    "Sight radius": "7",
+    "Cost": "$950",
+    "Estimated build time": "0:32",
+    "Built at": "Allied War Factory",
+    "Requires": "Robot Ops Control Center",
+    "Ground": "85-17",
+    "Ground modifiers": [
+      "120% vs. Light",
+      "110% vs. Medium/Harvester",
+      "95% vs. Heavy",
+      "45% vs. Defensive Structure",
+      "35% vs. Big Defensive Structure",
+      "30% vs. Very Big Defensive Structure",
+      "20% vs. (Big) Light Structure, (Big) Heavy Structure, Drone andZephyrobots",
+      "15% vs.  all infantry armor types andTech Concrete Fortresses"
+    ],
+    "Cooldown": "110 frames (7.3 in-game seconds); 100 frames (6.7 in-game seconds) throughZephyrobot",
+    "Range": "14; 198 throughZephyrobot, minimum 5, radius 0.7",
+    "Ability": [
+      "Weapon hits 3 cells around the point of impact",
+      "Can perform a long-range attack withZephyrobot"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can crush infantry",
+      "Can enterTank Bunkers",
+      "Takes 3 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "Voice actor": "Alex06",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/f/fe/Zephicon.png/revision/latest",
+  "icon_filename": "Zephicon.png"
+}

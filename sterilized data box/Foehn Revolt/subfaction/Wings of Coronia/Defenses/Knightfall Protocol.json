@@ -1,0 +1,39 @@
+{
+  "unit_name": "Knightfall Protocol",
+  "infobox_data": {
+    "Faction": "Wings of Coronia",
+    "Parent building": "Foehn Barracks",
+    "Role": "Reinforcements",
+    "Tier": "3",
+    "Tech level": "9",
+    "Cost": "$900",
+    "Estimated build time": "0:36",
+    "Build time multiplier(s)": "1.2 (all defenses)",
+    "Built by": "Foehn Construction Yard",
+    "Requires": "Cloud Piercer Expansion",
+    "Power": "-40",
+    "Ability": "Knightfall",
+    "Artist(s)": "Nooze (cameo and building artwork)",
+    "_section_Add-on": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/d/d9/Fbruicon.png/revision/latest",
+  "icon_filename": "Fbruicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Reinforcement PowerCost: $4000Recharge Time: 6:30Deploys a Knightfall Beacon near a Foehn Barracks with Knightfall Protocol for a limited timeBeacon summons drop pods containing Knightframes and LancersCannot be repaired or rendered invulnerable, but does not require power to operateLeft-click icon then left-click on target location near a Foehn Barracks with Knightfall Protocol"
+        ]
+      ]
+    }
+  ]
+}

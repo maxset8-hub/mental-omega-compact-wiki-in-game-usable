@@ -1,0 +1,60 @@
+{
+  "unit_name": "Charon Tank",
+  "infobox_data": {
+    "Faction": "European Alliance",
+    "Role": "Instant unit destruction",
+    "Armament": "Neutron cannon (against units)",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "710",
+    "Armor type": "Heavy",
+    "Speed": "4",
+    "Turn rate": [
+      "4 (unit)",
+      "5 (turret)"
+    ],
+    "Sight radius": "6",
+    "Cost": "$1700",
+    "Estimated build time": "1:01",
+    "Build time multiplier(s)": "0.9 (multiple factory)",
+    "Built at": "Allied War Factory",
+    "Requires": [
+      "Shield Command",
+      "Tech Center"
+    ],
+    "Ground": "1000 (The unittakes awayhit points from the target equal to this value in each frame until it loses 10 times of its maximum hit points this way (regardless of its current hit points), at which it is erased)",
+    "Cooldown": "490 frames (32.7 in-game seconds)",
+    "Range": "9",
+    "Ability": [
+      "Weapon disables the target and makes them invulnerable and cannot be controlled as long as the Charon Tank keeps attacking the target",
+      "Deploy to toggle between free fire and hold fire mode"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+25% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Can crush infantry",
+      "Can enterTank Bunkers",
+      "Cannot be depiloted",
+      "Unaffected by firepower buffs/debuffs",
+      "Takes 6 slots in transports"
+    ],
+    "Artist(s)": [
+      "Azri_Apoc (voxel)",
+      "KaneNash (concept art)"
+    ],
+    "Voice actor": "SquareWhale",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/6/65/Ctnkicon.png/revision/latest",
+  "icon_filename": "Ctnkicon.png"
+}

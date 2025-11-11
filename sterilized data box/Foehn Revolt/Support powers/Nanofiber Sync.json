@@ -1,0 +1,17 @@
+{
+  "unit_name": "Nanofiber Sync",
+  "infobox_data": {
+    "Affiliation": "Foehn Revolt",
+    "Cost": "$2500",
+    "Cooldown": "7:30",
+    "Called from": "Nanofiber Loom",
+    "Effect": "Transforms friendly Foehn infantry (exceptEngineers,Neonwaspsandheroes) in a radius of 2.5 into analternate, superior formof themselves",
+    "Notes": [
+      "Transformed infantry's health will be fully restored",
+      "Transformed infantry's veterancy and experience will reset"
+    ],
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/1/1f/Fsncicon.png/revision/latest",
+  "icon_filename": "Fsncicon.png"
+}

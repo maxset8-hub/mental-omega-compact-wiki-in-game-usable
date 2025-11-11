@@ -1,0 +1,65 @@
+{
+  "unit_name": "Stinger",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": [
+      "Anti-infantry",
+      "Transport"
+    ],
+    "Armament": "Acid sprayer",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "330",
+    "Armor type": "Light",
+    "Transport slots": "1",
+    "Speed": "8",
+    "Turn rate": [
+      "9 (unit)",
+      "12 (turret)"
+    ],
+    "Sight radius": "7",
+    "Cost": "$550",
+    "Estimated build time": "0:18",
+    "Built at": "Epsilon War Factory",
+    "Ground": "60-30",
+    "Ground modifiers": [
+      "105% vs. Basic/Animal",
+      "100% vs. Flak",
+      "95% vs. Plate/Cyborg",
+      "10% vs. Light and Medium/Harvester",
+      "5% vs. Heavy, Drone and all structure armor types"
+    ],
+    "Cooldown": "30 frames (2 in-game seconds)",
+    "Range": "5.5, minimum 1, radius 0.7",
+    "Ability": [
+      "Becomes a repair vehicle when anEngineeris on boardRepairs 50 hit points with a range of 5 and a cooldown of 75 frames (5 in-game seconds)",
+      "Repairs 50 hit points with a range of 5 and a cooldown of 75 frames (5 in-game seconds)",
+      "Detects disguised enemies",
+      "Detects cloaked/submerged enemies (range 7)",
+      "Infantry killed by the weapon release poison clouds"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can enterTank Bunkers",
+      "Immune to radiation and poison",
+      "Cannot be attacked byDesolators/EradicatorsandSyckles",
+      "Cannot be mind-controlled, hijacked and depiloted",
+      "Level 1/low passenger survivability rate (50% rookie, 65% veteran, 80% elite)",
+      "Takes 3 slots in transports"
+    ],
+    "Artist(s)": "MadHQ",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/6/66/Stngicon.png/revision/latest",
+  "icon_filename": "Stngicon.png"
+}

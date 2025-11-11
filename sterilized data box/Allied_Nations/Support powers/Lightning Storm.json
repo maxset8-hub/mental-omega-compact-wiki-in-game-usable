@@ -1,0 +1,15 @@
+{
+  "unit_name": "Lightning Storm",
+  "infobox_data": {
+    "Affiliation": "Allied Nations",
+    "Cooldown": "10:00 (15:00 inInfantry Only)",
+    "Called from": "Weather Control Device",
+    "Effect": [
+      "Creates a lightning storm which randomly strikes enemies in a radius of 9 with lightning bolts that causes750-37.5damage in a radius of 2.6",
+      "The lightning storm has a delay of 250 frames (16.7 in-game seconds) before it manifests, lasts for a 210 frames (14 in-game seconds), and disables enemy radar for 420 frames (28 in-game seconds) after it manifests"
+    ],
+    "_section_Superweapon": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/2/2c/Bolticon.png/revision/latest",
+  "icon_filename": "Bolticon.png"
+}

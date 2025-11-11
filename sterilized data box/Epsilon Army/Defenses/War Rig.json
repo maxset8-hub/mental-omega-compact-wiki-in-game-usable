@@ -1,0 +1,102 @@
+{
+  "unit_name": "War Rig",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": [
+      "Resource gathering",
+      "Multi-purpose support"
+    ],
+    "Armament": [
+      "Amnesia ray (against infantry)",
+      "6x drills (against vehicles and structures)"
+    ],
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "1350",
+    "Armor type": "Big Defensive Structure",
+    "Turn rate": "14",
+    "Sight radius": "6",
+    "Cost": "$2000",
+    "Estimated build time": "1:26",
+    "Build time multiplier(s)": [
+      "1.2 (all defenses)",
+      "0.95 (multiple factory)"
+    ],
+    "Built by": "Epsilon Construction Yard",
+    "Requires": "Rage Inductor",
+    "Placement radius": "2",
+    "Ground attack": [
+      "75-15 × 6 (drills)",
+      "0(dummy)(amnesia ray)"
+    ],
+    "Ground attack modifiers": [
+      "Drills:",
+      "150% vs. Light",
+      "130% vs. Medium/Harvester",
+      "110% vs. Heavy",
+      "50% vs. Animal,Brutes,Clairvoyants, andDuplicants",
+      "30% vs. Light Structure",
+      "20% vs. Big Light Structure and (Big) Defensive Structure",
+      "15% vs. Very Big Defensive Structure and Heavy Structure",
+      "10% vs. Big Heavy Structure"
+    ],
+    "Cooldown": "120 frames (8 in-game seconds) (both weapons)",
+    "Attack range": [
+      "10, minimum 1 (deployed, both weapons)",
+      "1.2 (drill radius)"
+    ],
+    "Power": "0",
+    "Ability": [
+      "Drop-off point forminers",
+      "Repairs friendly vehicles in a radius of 4 around the War Rig every 400 frames (6.7 in-game seconds) at a rate of 8 hit points per 8 frames over 55 frames (55 hit points over 3.6 in-game seconds)Does not stack with other War Rigs,Repair CranesandTech Base Expansion PostsDoes not removeTerror Drones",
+      "Does not stack with other War Rigs,Repair CranesandTech Base Expansion Posts",
+      "Does not removeTerror Drones",
+      "Increases the armor ofTank Bunkersin a radius of 9 around the War Rig by 40%The effect lingers for 120 frames (8 in-game seconds)Does not stack with other War Rigs andSynthesis Vaults",
+      "The effect lingers for 120 frames (8 in-game seconds)",
+      "Does not stack with other War Rigs andSynthesis Vaults",
+      "Amnesia ray stops infantry (except unarmed ones) from attacking for 270 frames (18 in-game seconds)The effect can spread to other infantry in a radius of 2.1 around the victim(s) and lasts for 30 frames (2 in-game seconds) on friendly infantry",
+      "The effect can spread to other infantry in a radius of 2.1 around the victim(s) and lasts for 30 frames (2 in-game seconds) on friendly infantry",
+      "Can be unpacked into a Mobile War Rig"
+    ],
+    "Notes": [
+      "Limited to two for each player",
+      "Uncapturable",
+      "Does not expand the base building radius",
+      "Mobile War Rig stats:Hit points: 1350Armor type: HeavySpeed: 5Turn rate: 5Sight radius: 6Ground attack: 32 × 2150% vs. Basic/Animal120% vs. Flak110% vs. Light95% vs. Medium/Harvester85% vs. Heavy75% vs.Heroes50% vs. all structure armor typesCooldown: 15 frames (1 in-game second)Range: 1.5Abilities:SubterraneanGrinders immobilize the attacked unitDeploy into a War RigNotes:Self-repairCannot be abducted, mind-controlled, and depiloted",
+      "Hit points: 1350",
+      "Armor type: Heavy",
+      "Speed: 5",
+      "Turn rate: 5",
+      "Sight radius: 6",
+      "Ground attack: 32 × 2150% vs. Basic/Animal120% vs. Flak110% vs. Light95% vs. Medium/Harvester85% vs. Heavy75% vs.Heroes50% vs. all structure armor types",
+      "150% vs. Basic/Animal",
+      "120% vs. Flak",
+      "110% vs. Light",
+      "95% vs. Medium/Harvester",
+      "85% vs. Heavy",
+      "75% vs.Heroes",
+      "50% vs. all structure armor types",
+      "Cooldown: 15 frames (1 in-game second)",
+      "Range: 1.5",
+      "Abilities:SubterraneanGrinders immobilize the attacked unitDeploy into a War Rig",
+      "Subterranean",
+      "Grinders immobilize the attacked unit",
+      "Deploy into a War Rig",
+      "Notes:Self-repairCannot be abducted, mind-controlled, and depiloted",
+      "Self-repair",
+      "Cannot be abducted, mind-controlled, and depiloted"
+    ],
+    "Artist(s)": [
+      "Nooze (deployed)",
+      "ONEX (mobile)"
+    ],
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/59/Wrigicon.png/revision/latest",
+  "icon_filename": "Wrigicon.png"
+}

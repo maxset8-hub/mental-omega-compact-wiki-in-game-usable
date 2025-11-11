@@ -1,0 +1,73 @@
+{
+  "unit_name": "Shock Trooper",
+  "infobox_data": {
+    "Faction": "Russia",
+    "Role": "Anti-armor",
+    "Armament": "Miniaturized Tesla coil Mk2",
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "320",
+    "Armor type": "Plate",
+    "Speed": "6",
+    "Sight radius": "7",
+    "Cost": "$500",
+    "Estimated train time": "0:11",
+    "Train time multiplier(s)": "0.65",
+    "Trained at": "Soviet Barracks",
+    "Requires": "Field Bureau",
+    "Ground": [
+      "80",
+      "20 (weapon shrapnel)",
+      "30 (elite weapon shrapnels)"
+    ],
+    "Ground modifiers": [
+      "Main attack:",
+      "250% vs. Drone",
+      "100% vs. all vehicle armor types",
+      "80% vs. Basic/Animal and Flak",
+      "70% vs. Plate/Cyborg",
+      "50% vs. (Big) Light Structure and (Big) Heavy Structure",
+      "35% vs. ((Very) Big) Defensive Structure",
+      "Weapon shrapnel:",
+      "85% vs. Light",
+      "80% vs. Plate/Cyborg",
+      "15% vs. all structure armor types"
+    ],
+    "Cooldown": "90 frames (6 in-game seconds)",
+    "Range": [
+      "5.5, radius 0.3",
+      "2.3 (Tesla Coilcharge)"
+    ],
+    "Ability": [
+      "Detects cloaked/submerged enemies (range 7)",
+      "Weapon arcs to an additional target in a radius of 1 around the main target, causing 20 damage",
+      "Can chargeTesla Coils1 Shock Trooper increases the Tesla Coil's firepower by 50% and rate of fire by 83%, adds an EMP effect to its attacks that disables units vulnerable to EMP for 6 frames (0.2 in-game seconds)2 Shock Troopers make the Tesla Coil remain online in low power3 Shock Troopers make the Tesla Coil use its charged attack in low power",
+      "1 Shock Trooper increases the Tesla Coil's firepower by 50% and rate of fire by 83%, adds an EMP effect to its attacks that disables units vulnerable to EMP for 6 frames (0.2 in-game seconds)",
+      "2 Shock Troopers make the Tesla Coil remain online in low power",
+      "3 Shock Troopers make the Tesla Coil use its charged attack in low power"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing",
+      "+1 weapon arc target",
+      "+100% weapon arc damage"
+    ],
+    "Notes": [
+      "Cannot be crushed by normal vehicles",
+      "Cannot be attacked byAttack DogsandSpooks",
+      "Affected byOvercharge",
+      "Vulnerable to magnetic weapons"
+    ],
+    "Artist(s)": "Medalmonkey",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/d/d7/Shkticon.png/revision/latest",
+  "icon_filename": "Shkticon.png"
+}

@@ -1,0 +1,46 @@
+{
+  "unit_name": "Drop Control",
+  "infobox_data": {
+    "Faction": "United States",
+    "Parent building": "Air Force Command Headquarters",
+    "Role": "Reinforcement drop",
+    "Tier": "2",
+    "Tech level": "7",
+    "Cost": "$800",
+    "Estimated build time": "0:32",
+    "Build time multiplier(s)": "1.2",
+    "Built by": "Allied Construction Yard",
+    "Requires": "Mercury Network Uplink",
+    "Power": "-50",
+    "Ability": [
+      "Airborne",
+      "Bloodhounds"
+    ],
+    "Artist(s)": "Nooze",
+    "_section_Add-on": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/58/Grdcicon.png/revision/latest",
+  "icon_filename": "Grdcicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Reinforcement PowerCost: $1000Recharge Time: 4:00Deploys 6 GIs and 4 Guardian GIs to the battlefieldLeft-click icon then left-click on target location (cannot be targeted on water)"
+        ],
+        [
+          "",
+          "Type: Reinforcement PowerCost: $1500Recharge Time: 5:00Deploys 3 Humvees and 2 Stryker IFVs to the battlefieldLeft-click icon then left-click on target location (cannot be targeted on water)"
+        ]
+      ]
+    }
+  ]
+}

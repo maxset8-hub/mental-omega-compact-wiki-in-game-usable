@@ -1,0 +1,14 @@
+{
+  "unit_name": "Airborne",
+  "infobox_data": {
+    "Affiliation": "United States",
+    "Cost": "$1000",
+    "Cooldown": "4:00",
+    "Called from": "Drop Control",
+    "Effect": "Call in aCargo Planeto drop 6GIsand 4Guardian GIson the target location",
+    "Notes": "A blue flare will be displayed at designated zone right after support power deployment",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/1/12/Aparicon.png/revision/latest",
+  "icon_filename": "Aparicon.png"
+}

@@ -1,0 +1,36 @@
+{
+  "unit_name": "Battle Bunker",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": "Garrisonable defense",
+    "Tier": "1",
+    "Tech level": "3",
+    "Hit points": "900",
+    "Armor type": "Big Defensive Structure",
+    "Garrisonslots": "6 infantry",
+    "Sight radius": "6",
+    "Cost": [
+      "$500",
+      "$800 inInfantry Only"
+    ],
+    "Estimated build time": [
+      "0:22",
+      "0:32 inInfantry Only"
+    ],
+    "Build time multiplier(s)": "1.2",
+    "Built by": "Soviet Construction Yard",
+    "Requires": "Field Bureau",
+    "Placement radius": "7",
+    "Ground attack": "Varies depending on the infantry garrisoned",
+    "Cooldown": "Varies depending on the infantry garrisoned",
+    "Attack range": "6",
+    "Select sound": "From theStinger Site(Generals)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/6/6c/Bnkricon.png/revision/latest",
+  "icon_filename": "Bnkricon.png"
+}

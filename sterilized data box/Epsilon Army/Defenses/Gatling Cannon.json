@@ -1,0 +1,76 @@
+{
+  "unit_name": "Gatling Cannon",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": [
+      "Anti-infantry defense",
+      "Anti-air defense"
+    ],
+    "Armament": "2x Gatling cannons",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "800",
+    "Armor type": "Defensive Structure",
+    "Turn rate": "10",
+    "Sight radius": "10",
+    "Cost": [
+      "$700",
+      "$900 inInfantry Only"
+    ],
+    "Estimated build time": [
+      "0:29",
+      "0:36 inInfantry Only"
+    ],
+    "Build time multiplier(s)": "1.2 (all defenses)",
+    "Built by": "Epsilon Construction Yard",
+    "Requires": "Epsilon Barracks",
+    "Placement radius": "7",
+    "Ground attack": "32 * 2 (62 total)",
+    "Ground attack modifiers": [
+      "105% vs. Basic/Animal",
+      "90% vs. Flak",
+      "80% vs. Drone and Plate/Cyborg",
+      "60% vs. Dolphin, Giant Squid",
+      "45% vs. Riot Trooper, Libra, Libra Clones",
+      "25% vs. Light",
+      "15% vs. Medium/Harvester, (Big) Light Structure and ((Very) Big) Defensive Structure",
+      "10% vs. Heavy and (Big) Heavy Structure"
+    ],
+    "Air attack": "25 * 2 (50 total)",
+    "Air attack modifiers": [
+      "75% vs.Rocketeers,Gyrocopters,Cosmonauts,Neonwasps",
+      "70% vs.Scout Ravens",
+      "50% vs. Light Aircraft, Jets,NorioandUragan",
+      "45% vs. Medium Aircraft,Thor Gunships,PteranodonsandQuetzals",
+      "40% vs.  Heavy Aircraft,Alanqa Skystations,Harbingers, andAerial Fortresses Irkalla",
+      "30% vs.Cryocopters,Hailjets,Ospreys,Hornet UAVs,Black Widows,Dybbuk-Interceptors,Diverbees, Quetzal drones,Leviathandrones andShrike drones"
+    ],
+    "Cooldown": [
+      "15/12/8 frames (1/0.8/0.5 in-game seconds) (ground)",
+      "14/12/8 (0.9/0.8/0.5 in-game seconds) (air)"
+    ],
+    "Attack range": [
+      "6 (ground)",
+      "12 (air)"
+    ],
+    "Power": "-50",
+    "Ability": "Fires 33%/100% faster the longer the Gatling Cannon attacks (seeWeapon stages)",
+    "Upgraded bonus": "+40% armor",
+    "Fully upgraded bonus": [
+      "+40% firepower",
+      "50% faster firing rate build-up time",
+      "Self-repair"
+    ],
+    "Notes": "Can gain experience",
+    "Select sound": "From thenamesake structureinGenerals",
+    "Artist(s)": "NucleiSplitter",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/5e/Ggunicon.png/revision/latest",
+  "icon_filename": "Ggunicon.png"
+}

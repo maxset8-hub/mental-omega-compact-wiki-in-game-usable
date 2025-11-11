@@ -1,0 +1,49 @@
+{
+  "unit_name": "Hunter-Seeker",
+  "infobox_data": {
+    "Faction": "Pacific Front",
+    "Role": "Kamikaze attack",
+    "Armament": [
+      "Cryo explosion",
+      "\"Sunburst\" laser"
+    ],
+    "Tier": "2",
+    "Hit points": "250",
+    "Armor type": "Light Aircraft",
+    "Speed": "28 (jet)",
+    "Turn rate": "8",
+    "Sight radius": "5",
+    "Cost": "$800",
+    "Recharge time": "5:30",
+    "Deployed by": "Robot Ops Control Center",
+    "Requires": "Allied War Factory",
+    "Ground": [
+      "200-100 (detonation)",
+      "120 (Sunburst laser)120% vs. Basic/Animal100% vs. Flak, Plate/Cyborg and Drone10% vs. all vehicle armor types",
+      "120% vs. Basic/Animal",
+      "100% vs. Flak, Plate/Cyborg and Drone",
+      "10% vs. all vehicle armor types"
+    ],
+    "Cooldown": "18 frames (1.2 in-game second) (Sunburst laser)",
+    "Range": [
+      "0.3 (detonation radius)",
+      "7 (Sunburst laser)"
+    ],
+    "Ability": [
+      "On impact deals 200 damage to target and 205 damage itself. This damage ignores armor multipliers.",
+      "Releases cryo payloads around the Hunter-Seeker upon detonation, each causing50-10damage in a radius of 4"
+    ],
+    "Notes": [
+      "Spawns from the player'sAllied War Factories(up to 5 at a time) and automatically picks a high-priority enemy target when deployed",
+      "Cannot be controlled",
+      "Unaffected byBlasticade"
+    ],
+    "_section_Support Power Unit": true,
+    "_section_Properties": true,
+    "_section_Deployment": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/7/7a/Hskricon.png/revision/latest",
+  "icon_filename": "Hskricon.png"
+}

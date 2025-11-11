@@ -1,0 +1,42 @@
+{
+  "unit_name": "Duplicant",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Base unit": "Clairvoyant",
+    "Role": "Anti-infantry swarm",
+    "Armament": "Weaponized nanites",
+    "Hit points": "220",
+    "Armor type": "Plate",
+    "Speed": "7",
+    "Sight radius": "6",
+    "Cost": "$400",
+    "Deployed by": "Nanofiber Sync",
+    "Ground": "412.5 (base 150)",
+    "Ground modifiers": "310% vs. all infantry armor types",
+    "Range": "1.33, radius 1.73",
+    "Ability": [
+      "Weapon turns enemy infantry into DuplicantsWeapon does not cause friendly fire",
+      "Weapon does not cause friendly fire",
+      "Clear garrisoned structures",
+      "Detects disguised enemies,Crazy Ivan'sbombs andArsonist'sincendiary charges, as well asInfiltrator'sandClairvoyant'sdemolition charges (range 7)"
+    ],
+    "Notes": [
+      "Self-healing",
+      "Cannot be attacked byAttack Dogs,Spooks,Desolators/Eradicators,SycklesandZorbtrotters/Zorbfloaters",
+      "Immune to poison and radiation",
+      "Cannot be mind-controlled",
+      "Vulnerable to magnetic weapons",
+      "Unaffected by firepower buffs/debuffs"
+    ],
+    "Artist(s)": "Starkku",
+    "Voice actor": "De'Lante Capers(previously credited as \"Rhys_Dallows\")",
+    "_section_Support Power Unit": true,
+    "_section_Properties": true,
+    "_section_Deployment": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/51/Foedupl.png/revision/latest/scale-to-width-down/268",
+  "icon_filename": "Foedupl.png"
+}

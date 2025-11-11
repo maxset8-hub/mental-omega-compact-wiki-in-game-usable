@@ -1,0 +1,56 @@
+{
+  "unit_name": "Chrono Legionnaire",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": [
+      "Immobilization",
+      "Erasure"
+    ],
+    "Armament": "Neutron Rifle",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "210",
+    "Armor type": "Flak",
+    "Speed": "5 (teleport)",
+    "Sight radius": "5",
+    "Cost": [
+      "$1250",
+      "$1500 inInfantry Only"
+    ],
+    "Estimated train time": [
+      "0:32",
+      "0:40 inInfantry Only"
+    ],
+    "Train time multiplier(s)": [
+      "0.65 (all infantry)",
+      "1.2 (individual)"
+    ],
+    "Trained at": "Allied Barracks",
+    "Requires": "Experimental Warpshop",
+    "Ground": "8 (The unittakes awayhit points from the target equal to this value in each frame until it loses 10 times of its maximum hit points this way (regardless of its current hit points), at which it is erased)",
+    "Cooldown": "120 frames (8 in-game seconds)",
+    "Range": [
+      "7",
+      "7.5 (inside transport)"
+    ],
+    "Ability": "Weapon disables the target and makes them invulnerable and cannot be controlled as long as the Chrono Legionnaire keeps attacking the target",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "Notes": [
+      "Cannot be attacked by Attack Dogs and Spooks",
+      "Cannot move into shroud and be cloaked",
+      "Unaffected by firepower and speed buffs/debuffs"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/c/ca/Clegicon.png/revision/latest",
+  "icon_filename": "Clegicon.png"
+}

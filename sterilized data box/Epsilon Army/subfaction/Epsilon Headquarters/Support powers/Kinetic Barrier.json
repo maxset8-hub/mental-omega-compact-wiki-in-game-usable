@@ -1,0 +1,13 @@
+{
+  "unit_name": "Kinetic Barrier",
+  "infobox_data": {
+    "Affiliation": "Epsilon Headquarters",
+    "Cost": "$800",
+    "Cooldown": "6:00",
+    "Called from": "Geneplug",
+    "Effect": "Increases the armor of friendly infantry in a radius of 3 by 50% for 720 frames (48 in-game seconds)",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/7/7b/Kbaricon.png/revision/latest",
+  "icon_filename": "Kbaricon.png"
+}

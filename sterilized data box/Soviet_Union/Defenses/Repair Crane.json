@@ -1,0 +1,36 @@
+{
+  "unit_name": "Repair Crane",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": "Active unit repair",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "800",
+    "Armor type": "Defensive Structure",
+    "Sight radius": "4",
+    "Cost": "$800",
+    "Estimated build time": "0:32",
+    "Build time multiplier(s)": "1.2 (all defenses)",
+    "Built by": "Soviet Construction Yard",
+    "Requires": [
+      "Palace",
+      "Battle Lab",
+      "Atomheart"
+    ],
+    "Placement radius": "7",
+    "Power": "-100",
+    "Ability": [
+      "Repairs friendly vehicles in a radius of 4 around the Repair Crane every 100 frames (6.7 in-game seconds) at a rate of 2 hit points per 2.25 frames over 50 frames (44.4 hit points over 3.3 in-game seconds)",
+      "Does not stack with other Repair Cranes andTech Base Expansion Posts",
+      "Does not removeTerror Drones"
+    ],
+    "Select sound": "From theSonic Emitter(Tiberium Wars)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/b/b3/Rfixicon.png/revision/latest",
+  "icon_filename": "Rfixicon.png"
+}

@@ -1,0 +1,53 @@
+{
+  "unit_name": "Mirage Tank",
+  "infobox_data": {
+    "Faction": "European Alliance",
+    "Role": "Anti-armor",
+    "Armament": "KEP cannon",
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "440",
+    "Armor type": "Medium",
+    "Speed": "6",
+    "Turn rate": "8",
+    "Sight radius": "6",
+    "Cost": "$1000",
+    "Estimated build time": "0:36",
+    "Built at": "Allied War Factory",
+    "Requires": "Shield Command",
+    "Ground": "110",
+    "Ground modifiers": [
+      "100% vs. all vehicle armor types",
+      "40% vs. Basic/Animal",
+      "30% vs. Flak and Plate/Cyborg",
+      "20% vs. Drone and (Big) Light Structure",
+      "15% vs. ((Very) Big) Defensive Structure",
+      "10% vs. (Big) Heavy Structure"
+    ],
+    "Cooldown": "55 frames (3.7 in-game seconds)",
+    "Range": "7",
+    "Ability": [
+      "Disguised as a tree when stationary"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can crush infantry",
+      "Invisible on enemy radar",
+      "Takes 3 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/a/a8/Rtnkicon.png/revision/latest",
+  "icon_filename": "Rtnkicon.png"
+}

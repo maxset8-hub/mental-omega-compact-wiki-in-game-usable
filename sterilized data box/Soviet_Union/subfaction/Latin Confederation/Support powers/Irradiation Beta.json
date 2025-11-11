@@ -1,0 +1,16 @@
+{
+  "unit_name": "Irradiation Beta",
+  "infobox_data": {
+    "Affiliation": "RussiaLatin ConfederationChina(campaign only)",
+    "Cost": "$1000",
+    "Cooldown": "6:30",
+    "Called from": "Nuclear Converter",
+    "Effect": [
+      "Irradiates friendly vehicles, cyborgs, Tesla/Shock Troopers, Desolators, Clairvoyants and Duplicants in a radius of 3 for 450 frames (30 in-game seconds)",
+      "Irradiated vehicles cause10-7.5damage every 3 frames (0.2 in-game seconds) to enemies in a radius of 0.39 around them"
+    ],
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/4/4f/Irrbicon.png/revision/latest",
+  "icon_filename": "Irrbicon.png"
+}

@@ -1,0 +1,32 @@
+{
+  "unit_name": "Mind Reader",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": "Movement detection",
+    "Tier": "2",
+    "Tech level": "7",
+    "Hit points": "600",
+    "Armor type": "Light Structure",
+    "Sight radius": "9",
+    "Cost": "$800",
+    "Estimated build time": "0:32",
+    "Build time multiplier(s)": [
+      "1.2 (all defenses)",
+      "0.9 (multiple Construction Yards)"
+    ],
+    "Built by": "Epsilon Construction Yard",
+    "Requires": "Radar Spire",
+    "Placement radius": "6",
+    "Power": "-100",
+    "Ability": "Reveals enemy activity and targets of enemy missile-based support powers in a radius of 10 around the Mind Reader",
+    "Select sound": "From theIon Cannon Control Center(Tiberium Wars)",
+    "Artist(s)": "Bu7loos",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/7/74/Mpsiicon.png/revision/latest",
+  "icon_filename": "Mpsiicon.png"
+}

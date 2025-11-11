@@ -1,0 +1,64 @@
+{
+  "unit_name": "Roadrunner",
+  "infobox_data": {
+    "Faction": "Wings of Coronia",
+    "Role": [
+      "Anti-unit",
+      "Hit-and-run"
+    ],
+    "Armament": "Master exploder",
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "415",
+    "Armor type": "Heavy",
+    "Speed": "8; 14 when boosted",
+    "Turn rate": "100",
+    "Sight radius": "4",
+    "Cost": "$1250",
+    "Estimated build time": "0:43",
+    "Built at": "Foehn War Factory",
+    "Requires": "Cloud PiercerorCloud Piercer Expansion(unconditionally)",
+    "Ground": "300-150",
+    "Ground modifiers": [
+      "150% vs. Heavy",
+      "135% vs. Light",
+      "125% vs. Medium/Harvester",
+      "100% vs. Drone",
+      "85% vs. Basic/Animal",
+      "75% vs. Flak",
+      "65% vs. Plate/Cyborg"
+    ],
+    "Cooldown": "180 frames (12 in-game seconds)",
+    "Range": "1.5, radius 2",
+    "Ability": [
+      "Detects disguised enemies (range 7)",
+      "Deploy to toggle between free fire and hold fire mode"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can crush infantry",
+      "Uncrushable",
+      "Immune to radiation and poison",
+      "Cannot be attacked byDesolators/EradicatorsandSyckles",
+      "Cannot be mind-controlled, hijacked and depiloted",
+      "Receives a speed buff while inside aSpinblade's radius",
+      "Becomes disabled for 180 frames (12 in-game seconds) after attacking",
+      "Takes 3 slots in transports",
+      "Casted Iron Curtain effect on Roadrunner will end once the unit performs its explosion attack"
+    ],
+    "Artist(s)": "Nooze (cameo)",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/e2/Rdrnicon.png/revision/latest",
+  "icon_filename": "Rdrnicon.png"
+}

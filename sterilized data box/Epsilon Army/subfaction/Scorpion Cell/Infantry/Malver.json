@@ -1,0 +1,89 @@
+{
+  "unit_name": "Malver",
+  "infobox_data": {
+    "Faction": "Scorpion Cell",
+    "Role": [
+      "Anti-infantry",
+      "Anti-armor",
+      "Suppression"
+    ],
+    "Armament": [
+      "Kinetic blade",
+      "Brain"
+    ],
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": [
+      "230",
+      "400 inDivergence",
+      "Unkillable inObsidian Sands",
+      "800 inSurvivors"
+    ],
+    "Armor type": "Flak",
+    "Speed": [
+      "6",
+      "8 inDivergenceandSurvivors"
+    ],
+    "Sight radius": [
+      "10",
+      "12 inSurvivors"
+    ],
+    "Cost": "$1500",
+    "Estimated train time": "1:08",
+    "Train time multiplier(s)": [
+      "0.65 (all infantry)",
+      "2 (all heroes)",
+      "1.0 (multiple factory)"
+    ],
+    "Trained at": "Epsilon Barracks",
+    "Requires": "Chemplug",
+    "Ground": "250",
+    "Ground modifiers": [
+      "600% vs. all infantry armor types",
+      "100% vs. Drone, DeployedSweepers",
+      "50% vs. Light, Medium/Harvester, Land Mine,Stun/Turmoil Gridsand deployedFury Drones,SODAR Arrays, Heavy"
+    ],
+    "Cooldown": [
+      "20 frames (1.3 in-game seconds)",
+      "15 frames (1 in-game second) inSurvivors"
+    ],
+    "Range": "5",
+    "Ability": [
+      "Cloaked",
+      "Detects cloaked/submerged enemies (range 7)",
+      "Deploy or garrison civilian structures to suppress enemies around Malver in a radius of 12 when deployed or 8 when garrisoned, reducing their firepower and armor by 40% when deployed or 20% when garrisonedAppears as anInitiatewhen garrisonedThe effect lingers for 180 frames (12 in-game seconds)Has a cooldown of 150 frames (10 in-game seconds) when deployed or 25 frames (1.7 in-game seconds) when garrisoned",
+      "Appears as anInitiatewhen garrisoned",
+      "The effect lingers for 180 frames (12 in-game seconds)",
+      "Has a cooldown of 150 frames (10 in-game seconds) when deployed or 25 frames (1.7 in-game seconds) when garrisoned"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Build time is unaffected by multiple Barracks",
+      "Self-healing",
+      "Uncrushable by normal vehicles",
+      "Immune to radiation, poison and confusion rays",
+      "Cannot be attacked byDesolators/EradicatorsandSyckles",
+      "Cannot be mind-controlled and abducted",
+      "Does not automatically attack enemies",
+      "Units killed/destroyed by Malver do not trigger an \"Unit lost!\"EVAalert"
+    ],
+    "Artist(s)": [
+      "Valenmore(cameo)",
+      "Trans_C (SHP)"
+    ],
+    "Voice actor": "Zenothist",
+    "_section_Hero": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/3/30/Undricon.png/revision/latest",
+  "icon_filename": "Undricon.png"
+}

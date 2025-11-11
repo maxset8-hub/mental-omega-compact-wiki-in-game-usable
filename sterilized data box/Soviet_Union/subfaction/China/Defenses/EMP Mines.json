@@ -1,0 +1,50 @@
+{
+  "unit_name": "EMP Mines",
+  "infobox_data": {
+    "Faction": "China",
+    "Role": "Advanced hidden defense",
+    "Armament": "EMP charge",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "150",
+    "Armor type": "Land Mine",
+    "Sight radius": "2",
+    "Cost": "$300",
+    "Estimated build time": "0:07",
+    "Build time multiplier(s)": [
+      "1.2 (all defenses)",
+      "0.75 (individual)"
+    ],
+    "Built by": "Soviet Construction Yard",
+    "Requires": "Atomheart",
+    "Placement radius": "12",
+    "Ground attack": "150-75",
+    "Ground attack modifiers": [
+      "100% vs. Light and Drone",
+      "90% vs. Medium/Harvester",
+      "80% vs. Heavy",
+      "60% vs. Basic/Animal",
+      "50% vs. Flak",
+      "40% vs. Plate/Cyborg"
+    ],
+    "Attack range": "1.73, radius 2",
+    "Ability": [
+      "Cloaked",
+      "Weapon detonates 5 frames (0.3 in-game seconds) after triggered and disables units vulnerable to EMP in a radius of 1.73 for 150 frames (10 in-game seconds)"
+    ],
+    "Notes": [
+      "4 more EMP Mines will appear around the EMP Mine itself after being placed",
+      "Cannot be attacked byCryocopters",
+      "Does not explode when destroyed"
+    ],
+    "Artist(s)": "Bu7loos",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/8/89/Trapicon.png/revision/latest",
+  "icon_filename": "Trapicon.png"
+}

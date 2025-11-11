@@ -1,0 +1,96 @@
+{
+  "unit_name": "Centurion Siege Crawler",
+  "infobox_data": {
+    "Faction": "China",
+    "Role": "Siege",
+    "Armament": [
+      "420mm cannon",
+      "\"Yin-Yang\" missiles"
+    ],
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": [
+      "2250",
+      "Invulnerable inThread of DreadandMachinehead",
+      "3600 inEarthrise"
+    ],
+    "Armor type": "Heavy",
+    "Transport slots": "3",
+    "Speed": [
+      "3",
+      "2 inMachinehead",
+      "4 inEarthrise"
+    ],
+    "Turn rate": [
+      "2 (unit)",
+      "3 (turret)"
+    ],
+    "Sight radius": "6",
+    "Cost": [
+      "$3000",
+      "$5000 inEarthriseandDeath's Hand"
+    ],
+    "Estimated build time": "3:00",
+    "Build time multiplier(s)": [
+      "1.67 (all epic units)",
+      "1.0 (multiple factory)"
+    ],
+    "Built at": "Soviet War Factory",
+    "Requires": "Atomheart",
+    "Ground": "135-27",
+    "Ground modifiers": [
+      "250% vs. Defensive Structure andLightning Rods",
+      "200% vs. (Very) Big Defensive Structure",
+      "120% vs. all vehicle armor types",
+      "110% vs. (Big) Light Structure and (Big) Heavy Structure",
+      "100% vs. Drone",
+      "35% vs. all infantry armor types"
+    ],
+    "Air": "40-20 * 2 (80-40 total)",
+    "Air modifiers": [
+      "100% vs.Rocketeers,Norio,Gyrocopters,Cosmonauts,Scout RavensandUragan",
+      "90% vs. Light Aircraft",
+      "80% vs. Medium Aircraft",
+      "70% vs. Heavy Aircraft"
+    ],
+    "Cooldown": [
+      "180 frames (12 in-game seconds) (cannon)",
+      "15 frames (1 in-game second) (missiles)"
+    ],
+    "Range": [
+      "18, minimum 3, radius 2 (cannon)",
+      "10, radius 0.5 (missiles)"
+    ],
+    "Ability": [
+      "Transported infantry can fire from the Centurion Siege Crawler",
+      "Reduced EMP duration by 75%"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Build time is unaffected by multiple War Factories",
+      "Self-repair",
+      "Can crush infantry and vehicles",
+      "Uncrushable",
+      "Immune to radiation, poison and confusion rays",
+      "Cannot be attacked byDesolators/EradicatorsandSyckles",
+      "Cannot be cloaked byShadow Ring",
+      "Cannot be mind-controlled, hijacked, depiloted, abducted, transported andchronoshifted",
+      "Unaffected byBlasticade",
+      "Level 3/high passenger survivability rate (rookie 90%, veteran 95%, elite 100%)"
+    ],
+    "Artist(s)": "Mevitar",
+    "_section_Epic Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/d/d1/Centicon.png/revision/latest",
+  "icon_filename": "Centicon.png"
+}

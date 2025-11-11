@@ -1,0 +1,81 @@
+{
+  "unit_name": "Cloud Piercer Expansion",
+  "infobox_data": {
+    "Faction": "Wings of Coronia",
+    "Parent building": "Cloud Piercer",
+    "Role": [
+      "High tech access",
+      "Support powers"
+    ],
+    "Tier": "3",
+    "Tech level": "8",
+    "Cost": [
+      "$1500",
+      "$1000 inInfantry Only,Tech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Estimated build time": [
+      "1:23",
+      "0:54 inInfantry Only,Tech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Build time multiplier(s)": [
+      "1.25 (all buildings)",
+      "1.25 (individual)"
+    ],
+    "Built by": "Foehn Construction Yard",
+    "Requires": [
+      "Cyberkernel",
+      "Cloud Piercer",
+      "Nanofiber Loom"
+    ],
+    "Power": [
+      "-150",
+      "-100 inInfantry Only,Tech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Allows": [
+      "Reprocessor",
+      "Blast Furnace",
+      "Tempest Architect",
+      "Nanocoat Regulator",
+      "Neutralizer",
+      "Signal Inhibitor",
+      "Blast Trench",
+      "Harbinger Tower",
+      "Clairvoyant",
+      "Zorbtrotter",
+      "Eureka",
+      "Tarchia Cannon",
+      "Orcinus Waveshaper",
+      "Phantasm MLRS",
+      "Seitaad Ballista",
+      "Archelon",
+      "Ramwagon",
+      "Pteranodon",
+      "Alanqa Skystation",
+      "Quetzal",
+      "Leviathan",
+      "Roadrunner(unconditionally)",
+      "Knightfall Protocol"
+    ],
+    "Ability": "Decoy Squadron",
+    "_section_Add-on": true,
+    "_section_Construction": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/f/fc/Cpexicon.png/revision/latest",
+  "icon_filename": "Cpexcon.png.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Intelligence PowerCost: $1500Recharge Time: 6:00Requires Foehn War FactoryDeploys 2 decoy Pteranodons and 1 decoy Quetzal anywhere on the battlefield.Decoy units act like the original units but cannot deal damage and has half of the original unit's hit points.Left-click the icon then left-click the target location."
+        ]
+      ]
+    }
+  ]
+}

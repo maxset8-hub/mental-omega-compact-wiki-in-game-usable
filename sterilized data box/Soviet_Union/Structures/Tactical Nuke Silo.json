@@ -1,0 +1,52 @@
+{
+  "unit_name": "Tactical Nuke Silo",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": "Offensive superweapon",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "1350",
+    "Armor type": "Big Heavy Structure",
+    "Sight radius": "5",
+    "Cost": "$5000",
+    "Estimated build time": "3:43",
+    "Build time multiplier(s)": "1.25",
+    "Built by": "Soviet Construction Yard",
+    "Requires": [
+      "Palace",
+      "Battle Lab",
+      "Atomheart"
+    ],
+    "Placement radius": "2",
+    "Power": "-400",
+    "Ability": "Tactical Nuke",
+    "Notes": [
+      "Limited to one for each player",
+      "Cannot be captured",
+      "Can be infiltrated to reset the superweapon's timer"
+    ],
+    "Select sound": "From theNuclear Missile Silo(Generals)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/3/30/Msslicon.png/revision/latest",
+  "icon_filename": "Msslicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Superweapon",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Offensive SuperweaponRecharge Time: 10:00 (15:00 in Infantry Only)Launches a tactical nuclear missile that significantly damages everything in the targeted areaLeaves a strong radiation fieldExplosion can harm aircraftLeft-click icon then left-click on target location"
+        ]
+      ]
+    }
+  ]
+}

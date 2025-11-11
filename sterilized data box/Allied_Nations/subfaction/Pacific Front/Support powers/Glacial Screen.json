@@ -1,0 +1,13 @@
+{
+  "unit_name": "Glacial Screen",
+  "infobox_data": {
+    "Affiliation": "Pacific Front",
+    "Cost": "$800",
+    "Cooldown": "6:30",
+    "Called from": "Robot Ops Control Center",
+    "Effect": "Increases the armor of ground vehicles in the target radius of 3 by 400% but immobilizes them for 420 frames (28 in-game seconds)",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/9/90/Glacicon.png/revision/latest",
+  "icon_filename": "Glacicon.png"
+}

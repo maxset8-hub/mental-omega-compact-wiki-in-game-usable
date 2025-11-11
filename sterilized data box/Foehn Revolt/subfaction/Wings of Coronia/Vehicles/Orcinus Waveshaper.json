@@ -1,0 +1,45 @@
+{
+  "unit_name": "Orcinus Waveshaper",
+  "infobox_data": {
+    "Faction": "Wings of Coronia",
+    "Role": "Area weapon jamming",
+    "Armament": "Advanced ECM systems",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "1150",
+    "Armor type": "Heavy",
+    "Speed": "≈ 3 (vehicle); 5 when boosted",
+    "Turn rate": "6",
+    "Sight radius": "7",
+    "Cost": "$1750",
+    "Estimated build time": "1:01",
+    "Build time multiplier(s)": "1.0 (multiple factory)",
+    "Built at": "Foehn War Factory",
+    "Requires": "Cloud Piercer Expansion",
+    "Range": "12 (radius)",
+    "Ability": [
+      "Amphibious",
+      "Deploy to disable vehicles' weapons in the radius of 12 around the Orcinus WaveshaperThe effect lingers for 125 frames (8.33 in-game seconds)Affects both enemy & alliesNotable exceptions: Epic units, Unarmed units, Dolphin, Giant Squid, Drones, Gharial, Raccoon, Hovracoon, Orcinus",
+      "The effect lingers for 125 frames (8.33 in-game seconds)",
+      "Affects both enemy & allies",
+      "Notable exceptions: Epic units, Unarmed units, Dolphin, Giant Squid, Drones, Gharial, Raccoon, Hovracoon, Orcinus"
+    ],
+    "Notes": [
+      "Limited to two for each player",
+      "Self-repair",
+      "Uncrushable",
+      "Cannot be hijacked, mind-controlled, depiloted or abducted",
+      "Immune to confusion rays",
+      "Receives a speed buff while inside aSpinblade's radius"
+    ],
+    "Artist(s)": "ONEX",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/e5/Orcnicon.png/revision/latest",
+  "icon_filename": "Orcnicon.png"
+}

@@ -1,0 +1,55 @@
+{
+  "unit_name": "Godsbane",
+  "infobox_data": {
+    "Faction": "Last Bastion",
+    "Base unit": "Giantsbane",
+    "Role": [
+      "Anti-structure",
+      "Anti-vehicle"
+    ],
+    "Armament": "Nanofiber threads",
+    "Hit points": "725",
+    "Armor type": "Plate",
+    "Speed": "5",
+    "Sight radius": "8",
+    "Cost": "$1300",
+    "Deployed by": "Nanofiber Sync",
+    "Ground": "45-22.5 * 4 (180-90 total)",
+    "Ground modifiers": [
+      "100% vs. (Big) Light Structure",
+      "90% vs. ((Very) Big) Defensive Structure",
+      "80% vs. (Big) Heavy Structure",
+      "75% vs. Light",
+      "60% vs. Medium/Harvester",
+      "50% vs. Heavy and Drone",
+      "30% vs. Basic/Animal",
+      "25% vs. Flak",
+      "20% vs. Plate/Cyborg"
+    ],
+    "Cooldown": "80 frames (5.3 in-game seconds)",
+    "Range": "10, minimum 3, radius 0.5",
+    "Ability": "Weapon hits 12 tiles around the point of impact",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-healing",
+      "Uncrushable",
+      "Cannot be attacked byAttack DogsandSpooks",
+      "Vulnerable to magnetic weapons",
+      "Cannot fire fromopentopped transports"
+    ],
+    "Artist(s)": "Nolt",
+    "Voice actor": "De'Lante Capers(previously credited as \"Rhys_Dallows\")",
+    "_section_Support Power Unit": true,
+    "_section_Properties": true,
+    "_section_Deployment": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/2/25/Foebanen.png/revision/latest/scale-to-width-down/268",
+  "icon_filename": "Foebanen.png"
+}

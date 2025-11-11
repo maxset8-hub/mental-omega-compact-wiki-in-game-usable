@@ -1,0 +1,17 @@
+{
+  "unit_name": "Nanocharge",
+  "infobox_data": {
+    "Affiliation": "Last Bastion",
+    "Cost": "$800",
+    "Cooldown": "6:30",
+    "Called from": "Nanofiber Loom Expansion",
+    "Effect": "All friendlyMastodonsandLeviathansrelease nanites to repair themselves and friendly vehicles,Stun GridsandTurmoil Gridsin a radius of 3 around them at a rate of 4 hit points per 2.25 frames over 360 frames (640 hit points over 24 in-game seconds)",
+    "Notes": [
+      "100% more effective on Bison Tanks",
+      "75% less effective on Mastodons and Leviathans"
+    ],
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/7/7d/Nchricon.png/revision/latest",
+  "icon_filename": "Nchricon.png"
+}

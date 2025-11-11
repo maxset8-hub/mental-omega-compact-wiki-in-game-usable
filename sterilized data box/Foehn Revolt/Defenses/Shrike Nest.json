@@ -1,0 +1,39 @@
+{
+  "unit_name": "Shrike Nest",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": "Anti-air defense",
+    "Armament": "Shrike Drone",
+    "Tier": "1",
+    "Tech level": "5",
+    "Hit points": "850",
+    "Armor type": "Defensive Structure",
+    "Turn rate": "10",
+    "Sight radius": "8",
+    "Cost": "$700",
+    "Estimated build time": "0:29",
+    "Build time multiplier(s)": "1.2 (all defenses)",
+    "Built by": "Foehn Construction Yard",
+    "Requires": "Foehn Barracks",
+    "Placement radius": "7",
+    "Air attack": "0(dummy)",
+    "Cooldown": "150 frames (10 in-game seconds)",
+    "Attack range": "14",
+    "Power": "-50",
+    "Upgraded bonus": "+40% armor",
+    "Fully upgraded bonus": "Self-repair",
+    "Notes": [
+      "Gains 75% of the experience earned by the Shrike drone",
+      "Destroyed Shrike drones are automatically replaced after 240 frames (16 in-game seconds)"
+    ],
+    "Artist(s)": "Nooze (cameo and SHP)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/c/c1/Grdnicon.png/revision/latest",
+  "icon_filename": "Grdnicon.png"
+}

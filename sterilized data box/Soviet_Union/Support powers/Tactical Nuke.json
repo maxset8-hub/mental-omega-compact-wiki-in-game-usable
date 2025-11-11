@@ -1,0 +1,12 @@
+{
+  "unit_name": "Tactical Nuke",
+  "infobox_data": {
+    "Affiliation": "Soviet Union",
+    "Cooldown": "10:00 (15:00 inInfantry Only)",
+    "Called from": "Tactical Nuke Silo",
+    "Effect": "Launches a tactical nuclear missile that causes1500-300damage in a radius of 10 and leaves behind a large radiation field",
+    "_section_Superweapon": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/f/f7/Nukeicon.png/revision/latest",
+  "icon_filename": "Nukeicon.png"
+}

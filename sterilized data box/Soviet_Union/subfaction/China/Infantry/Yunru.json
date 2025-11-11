@@ -1,0 +1,101 @@
+{
+  "unit_name": "Yunru",
+  "infobox_data": {
+    "Faction": "ChinaSPOILERFoehn Revolt(lorewise, campaign only)",
+    "Role": [
+      "EMP",
+      "Anti-structure"
+    ],
+    "Armament": [
+      "Immobilizer",
+      "Earth Breaker"
+    ],
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": [
+      "200",
+      "300 inKill the Messenger",
+      "600 inEgo Ergo HaxandTainted Empire",
+      "800 inNobody Home"
+    ],
+    "Armor type": "Flak",
+    "Speed": [
+      "6",
+      "7 inEgo Ergo Hax"
+    ],
+    "Sight radius": [
+      "9",
+      "10 inEgo Ergo Hax",
+      "11 inNobody Home"
+    ],
+    "Cost": "$1500",
+    "Estimated train time": "1:08",
+    "Train time multiplier(s)": [
+      "0.65 (all infantry)",
+      "2 (all heroes)",
+      "1.0 (multiple factory)"
+    ],
+    "Trained at": "Soviet Barracks",
+    "Requires": "Atomheart",
+    "Ground": [
+      "0(dummy)(Immobilizer)",
+      "240-52.8 (Earth Breaker)"
+    ],
+    "Ground modifiers": [
+      "Earth Breaker:",
+      "120% vs. Defensive Structures andLightning Rod",
+      "100% vs. Light, Medium/Harvester and Drone",
+      "90% vs. Heavy",
+      "80% vs. Big Defensive Structure",
+      "70% vs. Very Big Defensive Structure",
+      "45% vs. Light Structure",
+      "40% vs. Big Light Structure",
+      "35% vs. Heavy Structure andTech Concrete Fortresses",
+      "30% vs. Big Heavy Structure",
+      "20% vs. Basic/Animal and Flak",
+      "15% vs. Plate/Cyborg",
+      "1% vs. Yunru herself"
+    ],
+    "Cooldown": [
+      "120 frames (8 in-game seconds) (Immobilizer)",
+      "140 frames (9.3 in-game seconds) (Earth Breaker)"
+    ],
+    "Range": [
+      "12, minimum 3, radius 2 (Immobilizer)",
+      "9 (Earth Breaker radius)"
+    ],
+    "Ability": [
+      "Immobilizer disables units vulnerable to EMP for 360 frames (24 in-game seconds)",
+      "Deploy to use the Earth Breaker",
+      "Detects cloaked/submerged enemies (range 9)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Build time is unaffected by multiple Barracks",
+      "Self-healing",
+      "Uncrushable by normal vehicles",
+      "Immune to radiation and confusion rays",
+      "Cannot be attacked byDesolators/EradicatorsandSyckles",
+      "Cannot be mind-controlled and abducted",
+      "Vulnerable to magnetic weapons"
+    ],
+    "Artist(s)": [
+      "Hell-Kitty(cameo)",
+      "ImP_RuLz (shp)"
+    ],
+    "Voice actress": "Aimee Smith(credited as \"ATheatricalSongBird\")",
+    "_section_Hero": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/2/24/Yunricon.png/revision/latest",
+  "icon_filename": "Yunricon.png"
+}

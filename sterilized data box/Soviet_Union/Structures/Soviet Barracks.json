@@ -1,0 +1,122 @@
+{
+  "unit_name": "Soviet Barracks",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": "Infantry training",
+    "Tier": "1",
+    "Tech level": "1",
+    "Hit points": "900",
+    "Armor type": "Light Structure",
+    "Sight radius": "5",
+    "Cost": "$500",
+    "Estimated build time": "0:22",
+    "Build time multiplier(s)": "1.25",
+    "Built by": "Soviet Construction Yard",
+    "Placement radius": "2",
+    "Power": "-10",
+    "Produces": "Soviet infantry",
+    "Allows": [
+      "Field Bureau",
+      "Fortress Walls",
+      "Gate",
+      "Sentry Gun",
+      "Flak Cannon"
+    ],
+    "Ability": "Can be toggled as the primary infantry training structure (if the player have multiplebarracksat the same time)",
+    "Notes": [
+      "The more barracks the player have, the faster infantry are trained",
+      "Can be infiltrated for veteran infantry training"
+    ],
+    "Select sound": "From theAmerican Barracks(Generals)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/8/8e/Handicon.png/revision/latest",
+  "icon_filename": "Handicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Unit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Basic Infantry. Strong vs. Infantry.\nStarting infantry in Skirmish\nAbilities:\nGarrison civilian structures"
+        ],
+        [
+          "",
+          "Basic Infantry. Strong vs. Armor, Aircraft.\nAbilities:\nGarrison civilian structures; cannot attack aircraft while garrisoned"
+        ],
+        [
+          "",
+          "Scout Creature. Strong vs. Infantry.\nAbilities:\nDetects disguised units\nAmphibious"
+        ],
+        [
+          "Soviet Engineer",
+          "Utility Infantry. Unarmed.\nAbilities:\nCapture enemy buildings, tech structures, and empty vehicles\nRepair bridges and friendly structures\nDetects and defuses explosives"
+        ],
+        [
+          "",
+          "Advanced Infantry. Strong vs. Infantry, Structures.\nRequires Field Bureau\nAbilities:\nResistant to flame damage"
+        ],
+        [
+          "",
+          "Heavy Infantry. Strong vs. Infantry, Armor.\nRequires Field Bureau\nAbilities:\nCharge Tesla Coils\nDetects cloaked units"
+        ],
+        [
+          "",
+          "Heavy Infantry. Strong vs. Infantry, Armor.\nRequires Field Bureau\nAbilities:\nCharge Tesla Coils\nDetects cloaked units"
+        ],
+        [
+          "",
+          "Demolition Infantry. Strong vs. Ground Targets.\nRequires Radar Dish\nAbilities:\nPlant incendiary charges on ground targets, including friendlies\nAmphibious\nExplodes when killed"
+        ],
+        [
+          "",
+          "Hit-and-Run Infantry. Strong vs. Armor.\nRequires Radar Dish"
+        ],
+        [
+          "",
+          "Airborne Infantry. Strong vs. Infantry.\nRequires Airbase"
+        ],
+        [
+          "",
+          "Elite Heavy Infantry. Strong vs. Infantry, Armor.\nRequires Palace/Battle Lab/Atomheart\nAbilities:\nDeploy to irradiate the surrounding area\nImmune to radiation"
+        ],
+        [
+          "",
+          "Elite Heavy Infantry. Strong vs. Infantry, Armor.\nRequires Palace/Battle Lab/Atomheart\nAbilities:\nConstantly emits radiation\nDeploy to irradiate the surrounding area\nImmune to radiation"
+        ],
+        [
+          "",
+          "Espionage Agent. Unarmed.\nRequires Palace/Battle Lab/Atomheart\nAbilities:\nInfiltrates enemy structures\nDisguise as enemy infantry\nExplodes when killed"
+        ],
+        [
+          "",
+          "Sabotage Infantry. Unarmed.\nRequires  Battle Lab\nAbilities:\nPlants napalm charges on enemy structures\nDisguise as enemy infantry\nResistant to fire damage"
+        ],
+        [
+          "",
+          "Cyborg Hero. Strong vs. Ground Targets.\nRequires  Palace\nAbilities:\nDetects cloaked units\nOnly one Volkov may be trained at a time."
+        ],
+        [
+          "",
+          "Cyborg Animal Hero. Strong vs. Infantry, Armor.\nRequires  Palace\nAbilities:\nDetects disguised units\nOnly one Chitzkoi may be trained at a time."
+        ],
+        [
+          "",
+          "Hero. Strong vs. Infantry, Structures.\nRequires  Battle Lab\nAbilities:\nDepilots basic vehicles\nDetects cloaked units\nOnly one Morales may be trained at a time."
+        ],
+        [
+          "",
+          "Hero. Strong vs. Structures.\nRequires  Atomheart\nAbilities:\nEMP disable heavy infantry and mechanical units temporarily\nDeploy to use Earth Breaker\nDetects cloaked units\nOnly one Yunru may be trained at a time."
+        ]
+      ]
+    }
+  ]
+}

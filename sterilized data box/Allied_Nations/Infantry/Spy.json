@@ -1,0 +1,30 @@
+{
+  "unit_name": "Spy",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Infiltration",
+    "Armament": "Makeup kit",
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": "140",
+    "Armor type": "Basic",
+    "Speed": "6",
+    "Sight radius": "8",
+    "Cost": "$800",
+    "Estimated train time": "0:18",
+    "Train time multiplier(s)": "0.65",
+    "Trained at": "Allied Barracks",
+    "Requires": "Tech Center",
+    "Ability": [
+      "Can disguise as enemy infantry (exceptanimals,Clairvoyants, andheroes)Has a cooldown of 100 frames (6.7 in-game seconds)",
+      "Has a cooldown of 100 frames (6.7 in-game seconds)",
+      "Infiltrates enemy structures"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/0/01/Spyicon.png/revision/latest",
+  "icon_filename": "Spyicon.png"
+}

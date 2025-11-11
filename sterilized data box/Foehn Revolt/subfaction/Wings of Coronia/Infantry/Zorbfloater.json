@@ -1,0 +1,53 @@
+{
+  "unit_name": "Zorbfloater",
+  "infobox_data": {
+    "Faction": "Wings of Coronia",
+    "Base unit": "Zorbtrotter",
+    "Role": [
+      "Anti-infantry",
+      "Unit lifter"
+    ],
+    "Armament": "Personal windflow manipulator",
+    "Hit points": "330",
+    "Armor type": "Flak",
+    "Speed": "5; 8 when boosted",
+    "Sight radius": "7",
+    "Cost": "$1350",
+    "Deployed by": "Nanofiber Sync",
+    "Ground": [
+      "90-27 * 2 (180-54 total) (against infantry)",
+      "around 30/s (animation of exploded wind orb)"
+    ],
+    "Ground modifiers": [
+      "100% vs. Basic/Animal, Flak, Dolphins and Giant Squids",
+      "90% vs. Plate/Cyborg",
+      "10% vs. Zorbtrotters/Zorbfloaters",
+      "0% vs. Clairvoyants/Duplicants"
+    ],
+    "Cooldown": "140 frames (9.3 in-game seconds)",
+    "Range": "10, minimum 4, radius 1.8",
+    "Ability": [
+      "Amphibious",
+      "Rapidly heals themselves when damaged",
+      "Weapon lifts Tier 1, Tier 2 and some Tier 3 vehicles (exceptMCVs,Roadrunners,epic units, ships and amphibious transports) and draws them into the ZorbfloaterThe lifted unit can be attacked by anti-air weapons (exceptAlanqa Skystation)",
+      "The lifted unit can be attacked by anti-air weapons (exceptAlanqa Skystation)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Resistant to theAlanqa Skystation's tornado",
+      "Receives a speed buff while inside aSpinblade's radius",
+      "Cannot lift units fromopentopped transports"
+    ],
+    "_section_Support Power Unit": true,
+    "_section_Properties": true,
+    "_section_Deployment": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/b/b1/Foezorbn.png/revision/latest/scale-to-width-down/268",
+  "icon_filename": "Foezorbn.png"
+}

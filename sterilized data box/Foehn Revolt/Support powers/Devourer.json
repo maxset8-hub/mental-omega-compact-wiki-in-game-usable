@@ -1,0 +1,21 @@
+{
+  "unit_name": "Devourer",
+  "infobox_data": {
+    "Affiliation": "Foehn Revolt",
+    "Cost": "$1000",
+    "Cooldown": "6:30",
+    "Called from": "Reprocessor",
+    "Effect": [
+      "Launch a ball of nanites at the target location",
+      "Causes250-75damage to infantry in a radius of 3",
+      "Infantry killed by the Devourer creates nanoclouds that heals Foehn infantry in a radius of 2.2 at a rate of 8 hit points every 2.25 frames (0.15 in-game seconds)"
+    ],
+    "Notes": [
+      "Has a minimum range of 2",
+      "A green flare will be displayed at designated zone right after support power deployment"
+    ],
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/0/0f/Dvrricon.png/revision/latest",
+  "icon_filename": "Dvrricon.png"
+}

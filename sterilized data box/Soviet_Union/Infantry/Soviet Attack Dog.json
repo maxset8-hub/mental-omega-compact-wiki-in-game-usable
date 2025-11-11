@@ -1,0 +1,49 @@
+{
+  "unit_name": "Attack Dog",
+  "infobox_data": {
+    "Faction": "Allied NationsSoviet Union",
+    "Role": [
+      "Reconnaissance",
+      "Anti-infantry"
+    ],
+    "Armament": "Sharp teeth",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "75",
+    "Armor type": "Animal",
+    "Speed": "9",
+    "Sight radius": "8",
+    "Cost": "$100",
+    "Estimated train time": "0:04",
+    "Train time multiplier(s)": "0.65",
+    "Trained at": [
+      "Allied Barracks",
+      "Soviet Barracks"
+    ],
+    "Ground": "300",
+    "Ground modifiers": [
+      "200% vs. Basic/Animal",
+      "100% vs. Flak"
+    ],
+    "Cooldown": "30 frames (2 in-game seconds)",
+    "Range": "1.83",
+    "Ability": [
+      "Amphibious",
+      "Detects disguised enemies"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "Notes": "Cannot be mind-controlled and turned into aBrute/Duplicant",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/0/0a/Adogicon.png/revision/latest",
+  "icon_filename": "Adogicon.png"
+}

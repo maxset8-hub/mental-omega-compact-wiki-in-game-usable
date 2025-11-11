@@ -1,0 +1,59 @@
+{
+  "unit_name": "Shadow Tank",
+  "infobox_data": {
+    "Faction": "Epsilon HeadquartersPsiCorps(campaign only)",
+    "Role": [
+      "Ambush",
+      "Anti-armor",
+      "Anti-infantry"
+    ],
+    "Armament": "2x dissolver beams",
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "350",
+    "Armor type": "Medium",
+    "Speed": "7",
+    "Turn rate": "7",
+    "Sight radius": "7",
+    "Cost": "$1000",
+    "Estimated build time": "0:36",
+    "Built at": "Epsilon War Factory",
+    "Requires": "Pandora HuborGeneplug(unconditionally)",
+    "Ground": "34 * 2 (68 total)",
+    "Ground modifiers": [
+      "120% vs. Basic/Animal",
+      "105% vs. Flak, Medium/Harvester and Heavy",
+      "100% vs. Plate/Cyborg and Drone",
+      "90% vs. Light",
+      "30% vs. ((Very) Big) Defensive Structure",
+      "20% vs. (Big) Light Structure and (Big) Heavy Structure"
+    ],
+    "Cooldown": "55 frames (3.7 in-game seconds)",
+    "Range": "6",
+    "Ability": [
+      "Cloaked when not attacking",
+      "Deploy to toggle between free fire and hold fire mode",
+      "Detects cloaked/submerged enemies (range 7)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Does not automatically attack enemies in hold fire mode",
+      "Takes 3 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "Voice actor": "Gabriel Wolf",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/59/Shdwicon.png/revision/latest",
+  "icon_filename": "Shdwicon.png"
+}

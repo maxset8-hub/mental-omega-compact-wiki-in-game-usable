@@ -1,0 +1,59 @@
+{
+  "unit_name": "Harbinger",
+  "infobox_data": {
+    "Faction": "Wings of CoroniaUnited States(originally)Pacific Front(campaign only)",
+    "Role": "Bombardment",
+    "Armament": [
+      "2x particle collider cannons",
+      "2x 200mm cannons as prototype"
+    ],
+    "Tier": "3",
+    "Hit points": [
+      "2000",
+      "10000 as prototype"
+    ],
+    "Armor type": "Medium Aircraft",
+    "Speed": [
+      "20 (jet)",
+      "19 (jet) as prototype"
+    ],
+    "Sight radius": "6 as prototype",
+    "Cost": "$3000",
+    "Recharge time": "9:30",
+    "Called from": "Harbinger Tower",
+    "Deployed by": "Harbinger Strike (as prototype)",
+    "Ground": "150-37.5 * 2 (300-75 total)",
+    "Ground modifiers": [
+      "200% vs. Light",
+      "190% vs. Medium/Harvester",
+      "175% vs. Heavy",
+      "100% vs. Drone",
+      "60% vs. Basic/Animal and Flak",
+      "55% vs. Defensive Structure and Lightning Rods",
+      "50% vs. Plate/Cyborg",
+      "40% vs. (Very) Big Defensive Structure",
+      "25% vs. Light Structure, Heavy Structure and Tech Concrete Fortresses",
+      "10% vs. Big Light Structure and Big Heavy Structure"
+    ],
+    "Cooldown": "30 frames (2 in-game seconds)",
+    "Range": "12, minimum 8, radius 2.2",
+    "Ability": [
+      "Attacks targets in a radius of 18 five times in each run",
+      "Lasts for 8 (12 as prototype) runs"
+    ],
+    "Notes": [
+      "Unaffected byBlasticadeand firepower buffs/debuffs",
+      "Detonates a particle collider cannon shot at where the Harbinger crashes when shot down",
+      "A green flare will be displayed at designated zone right after support power deployment"
+    ],
+    "Artist(s)": "Mevitar (voxel)",
+    "_section_Support Power Unit": true,
+    "_section_Properties": true,
+    "_section_Deployment": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/0/0e/Harbicon.png/revision/latest",
+  "icon_filename": "Harbicon.png"
+}

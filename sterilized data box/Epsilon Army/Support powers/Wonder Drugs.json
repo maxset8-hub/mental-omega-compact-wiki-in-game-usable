@@ -1,0 +1,15 @@
+{
+  "unit_name": "Wonder Drugs",
+  "infobox_data": {
+    "Affiliation": "Epsilon Army",
+    "Cost": "$1000",
+    "Cooldown": "5:30",
+    "Called from": "Synthesis Vault",
+    "Requires": "Cloning Vats",
+    "Effect": "Heals friendly infantry in the target radius of 2.6 for 630 frames (42 in-game seconds) at the rate of 3 hit points every 3 frames (15 hit points every in-game second)",
+    "Notes": "ReplacesRegen Drugs",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/4/4a/Drgwicon.png/revision/latest",
+  "icon_filename": "Drgwicon.png"
+}

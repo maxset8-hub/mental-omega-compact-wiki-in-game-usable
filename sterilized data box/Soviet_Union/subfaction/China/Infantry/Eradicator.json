@@ -1,0 +1,63 @@
+{
+  "unit_name": "Eradicator",
+  "infobox_data": {
+    "Faction": "China",
+    "Role": [
+      "Anti-infantry",
+      "Area denial"
+    ],
+    "Armament": "Rad cannon",
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": "260",
+    "Armor type": "Plate",
+    "Speed": "5",
+    "Sight radius": "5",
+    "Cost": "$1100",
+    "Estimated train time": "0:25",
+    "Train time multiplier(s)": "0.65",
+    "Trained at": "Soviet Barracks",
+    "Requires": "Atomheart",
+    "Ground": "150",
+    "Ground modifiers": [
+      "Main attack:",
+      "130% vs. Basic/Animal",
+      "120% vs. Flak",
+      "110% vs. Plate/Cyborg",
+      "80% vs. Riot Troopers",
+      "50% vs. Light",
+      "40% vs. Medium/Harvester",
+      "25% vs. Heavy",
+      "Constant radiation:",
+      "50% vs. Basic/Animal",
+      "40% vs. Flak",
+      "30% vs. Plate/Cyborg",
+      "20% vs. all vehicle armor types"
+    ],
+    "Cooldown": "40 frames (2.7 in-game seconds)",
+    "Range": "8",
+    "Ability": [
+      "Deploy to irradiate a radius of 10.5 around the Eradicator every 250 frames (16.7 in-game seconds)",
+      "Constant radiation causes 10 damage every 3 frames (0.2 in-game seconds) to enemies in a radius of 0.39 around the Eradicator"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "Notes": [
+      "Cannot be attacked byAttack Dogs,Spooks,Desolators/Eradicators andSyckles",
+      "Immune to radiation",
+      "Uncrushable by normal vehicles",
+      "Vulnerable to magnetic weapons"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/59/Desricon.png/revision/latest",
+  "icon_filename": "Desricon.png"
+}

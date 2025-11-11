@@ -1,0 +1,39 @@
+{
+  "unit_name": "Black Widow Alpha",
+  "infobox_data": {
+    "Faction": "United StatesAllied Nations(campaign only)",
+    "Role": "Disruption",
+    "Armament": "Radar jammer",
+    "Tier": "3",
+    "Hit points": "1500",
+    "Armor type": "Medium Aircraft",
+    "Speed": "26 (flying)",
+    "Turn rate": "6",
+    "Cost": "$1500",
+    "Recharge time": "7:30",
+    "Called from": "Tech Center",
+    "Requires": "Mercury Network Uplink",
+    "Ability": [
+      "Cloaked if not flying over the target radius of 8",
+      "Disables enemy radars in a radius of 24 around the Black Widow",
+      "Halves the firepower of enemy defenses in a radius of 10.5 around the Black Widow",
+      "Doubles the armor of friendly aircraft in a radius of 10.5 around the Black Widow",
+      "Lasts for 28 runs"
+    ],
+    "Notes": [
+      "Self-repair",
+      "The defense firepower debuff and aircraft armor buff takes 10 frames (0.7 in-game seconds) to apply and lingers for 300 frames (20 in-game seconds)",
+      "Unaffected by firepower buffs/debuffs",
+      "ReplacesBlack WidowforEuropean AllianceandPacific Frontwhen aMercury Network Uplinkis built alongside aShield Command/Robot Ops Control Center",
+      "A blue flare will be displayed at designated zone right after support power deployment"
+    ],
+    "Artist(s)": "Mevitar",
+    "_section_Support Power Unit": true,
+    "_section_Properties": true,
+    "_section_Deployment": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/50/Bwdaicon.png/revision/latest",
+  "icon_filename": "Bwdaicon.png"
+}

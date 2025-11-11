@@ -1,0 +1,51 @@
+{
+  "unit_name": "Stalin's Fist",
+  "infobox_data": {
+    "Faction": "Russia",
+    "Role": "Field vehicle production",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "2000",
+    "Armor type": [
+      "Heavy (mobile)",
+      "Big Light Structure (deployed)"
+    ],
+    "Speed": "5 (mobile)",
+    "Turn rate": "5 (mobile)",
+    "Sight radius": [
+      "6 (mobile)",
+      "4 (deployed)"
+    ],
+    "Cost": "$2500",
+    "Estimated build time": "1:30",
+    "Build time multiplier(s)": "1.0 (multiple factory)",
+    "Built at": "Soviet War Factory",
+    "Requires": "Palace",
+    "Ability": [
+      "Deploy to act as aSoviet War FactoryThe deployed Stalin's Fist does not reduce vehicles' production time",
+      "The deployed Stalin's Fist does not reduce vehicles' production time",
+      "Reduced EMP duration by 75%"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Does not shut down whenGear Changesupport power is activated",
+      "Self-repair",
+      "Can crush infantry and vehicles",
+      "Uncrushable",
+      "Cannot be mind-controlled, hijacked, abducted, depiloted andchronoshifted",
+      "Takes 12 slots in transports"
+    ],
+    "Artist(s)": [
+      "Azri_Apoc (mobile)",
+      "Gangster (deployed)"
+    ],
+    "Voice actor": "soLoKii",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/0/0d/Mwficon.png/revision/latest",
+  "icon_filename": "Mwficon.png"
+}

@@ -1,0 +1,66 @@
+{
+  "unit_name": "Mutually Assured Destruction Mechanized Area Nullifier",
+  "infobox_data": {
+    "Faction": "Haihead",
+    "Role": "Mutually assured destruction",
+    "Armament": "Supreme M.A.D. warhead",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": [
+      "2400",
+      "3200 inMadness Challenge"
+    ],
+    "Armor type": "Heavy",
+    "Speed": "3",
+    "Turn rate": "2",
+    "Sight radius": "6",
+    "Cost": "$3000",
+    "Estimated build time": "3:00",
+    "Build time multiplier(s)": "1.67 (all epic units)1.0 (multiple factory)",
+    "Built at": "Foehn War Factory",
+    "Requires": "Cyberkernel Expansion",
+    "Ground": "120-24 (plasma shockwave)",
+    "Ground modifiers": [
+      "200% vs. Drone",
+      "190% vs. Light",
+      "180% vs. Medium/Harvester",
+      "165% vs. Heavy",
+      "50% vs. ((Very) Big) Defensive Structure",
+      "30% vs. Plate/Cyborg",
+      "25% vs. (Big) Light Structure and (Big) Heavy Structure",
+      "20% vs. Basic/Animal and Flak"
+    ],
+    "Range": "16 (plasma shockwave radius)",
+    "Ability": [
+      "Deploy to explode in a massive plasma shockwave after a delay",
+      "The plasma shockwave hits every cell in its radius",
+      "Reduced EMP duration by 75%"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Build time is unaffected by multiple War Factories",
+      "Self-repair",
+      "Can crush infantry and vehicles",
+      "Uncrushable",
+      "Cannot be attacked byChrono LegionnairesandCharon Tanks",
+      "Cannot be hijacked, mind-controlled, depiloted, abducted, transported andchronoshifted",
+      "Immune to confusion rays",
+      "Unaffected byInvulnerability,Shadow Ring,Blasticadeand firepower buffs/debuffs",
+      "Does not explode if destroyed"
+    ],
+    "Artist(s)": [
+      "Mevitar (voxel)",
+      "Bu7loos (voxel)",
+      "Nooze (cameo)"
+    ],
+    "Voice actor": "Speeder",
+    "_section_Epic Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/58/Mdmnicon.png/revision/latest",
+  "icon_filename": "Mdmnicon.png"
+}

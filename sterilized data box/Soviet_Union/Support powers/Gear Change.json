@@ -1,0 +1,17 @@
+{
+  "unit_name": "Gear Change",
+  "infobox_data": {
+    "Affiliation": "Soviet Union",
+    "Cost": "Free",
+    "Cooldown": "7:30",
+    "Called from": "Industrial Plant",
+    "Effect": [
+      "Gives $3000 to the player",
+      "Disables the player's Industrial Plant andWar Factoriesfor 900 frames (60 in-game seconds)",
+      "Does not disable deployedStalin's Fists"
+    ],
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/f/f1/Gearicon.png/revision/latest",
+  "icon_filename": "Gearicon.png"
+}

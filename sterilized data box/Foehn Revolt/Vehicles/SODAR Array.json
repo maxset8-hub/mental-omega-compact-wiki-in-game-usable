@@ -1,0 +1,46 @@
+{
+  "unit_name": "SODAR Array",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": [
+      "Stealth detection",
+      "Golden Rocket booster"
+    ],
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "750",
+    "Armor type": "Light",
+    "Speed": [
+      "7 (land)",
+      "6 (water)"
+    ],
+    "Turn rate": "5",
+    "Sight radius": "6",
+    "Cost": "$950",
+    "Estimated build time": "0:32",
+    "Built at": "Foehn War Factory",
+    "Requires": "Cloud Piercer",
+    "Ability": [
+      "Amphibious; can deploy in water",
+      "Detects cloaked/submerged enemies (range 4); when deployed (range 13)",
+      "Increases the firepower ofGiantsbanes,Teratorns,Sweepers,Phantasm MLRSes,WhipraysandShrike dronesin a radius of 13 around the SODAR Array by 15% when deployedThe effect takes 55 frames (3.7 in-game seconds) to apply and lingers for 60 frames (4 in-game seconds)",
+      "The effect takes 55 frames (3.7 in-game seconds) to apply and lingers for 60 frames (4 in-game seconds)"
+    ],
+    "Notes": [
+      "Uncrushable when deployed",
+      "Unaffected by speed buffs/debuffs when deployed",
+      "Takes 3 slots in transports"
+    ],
+    "Artist(s)": [
+      "ONEX (voxel)",
+      "Nooze (cameo)"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/e6/Sodaicon.png/revision/latest",
+  "icon_filename": "Sodaicon.png"
+}

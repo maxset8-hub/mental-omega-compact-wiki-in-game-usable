@@ -1,0 +1,78 @@
+{
+  "unit_name": "Shadray Torch Tank",
+  "infobox_data": {
+    "Faction": "Haihead",
+    "Role": [
+      "Siege",
+      "Anti-air"
+    ],
+    "Armament": "Microwave beam",
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": "315",
+    "Armor type": "Medium",
+    "Speed": "4",
+    "Turn rate": [
+      "3 (unit)",
+      "5 (turret)"
+    ],
+    "Sight radius": "6",
+    "Cost": "$1600",
+    "Estimated build time": "0:58",
+    "Build time multiplier(s)": "0.9 (multiple factory)",
+    "Built at": "Foehn War Factory",
+    "Requires": "Cyberkernel Expansion",
+    "Ground": "20-3 target, 10-1.5 pass-through per frame (0.07 in-game seconds)",
+    "Ground modifiers": [
+      "140% vs. Drone",
+      "125% vs. Basic/Animal",
+      "115% vs. Flak",
+      "105% vs. Plate/Cyborg",
+      "30% vs. Light Structure, Defensive Structure and Heavy Structure",
+      "25% vs. Light and Medium",
+      "20% vs. Heavy, Big Light Structure and (Very) Big Defensive Structure, Tech Concrete Fortresses"
+    ],
+    "Air": "20-3 per frame (0.07 in-game seconds)",
+    "Air modifiers": [
+      "150% vs. Rocketeers, Gyrocopters, Cosmonauts and Scout Ravens",
+      "100% vs. Light Aircraft, Medium Aircraft",
+      "75% vs. Heavy Aircraft, Cryocopters, Alanqa Skystations, Harbingers and Quetzals"
+    ],
+    "Cooldown": [
+      "120 frames (8 in-game seconds) (ground)",
+      "60 frames (4 in-game seconds) (air)"
+    ],
+    "Range": [
+      "12.5 (ground)",
+      "14 (air)",
+      "2 (minimum range)",
+      "0.25 (radius)"
+    ],
+    "Ability": "Weapon damages targets in a line",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can crush infantry",
+      "Can enterTank Bunkers",
+      "Cannot be depiloted",
+      "Takes 6 slots in transports"
+    ],
+    "Artist(s)": [
+      "ONEX (voxel)",
+      "Nooze (cameo)"
+    ],
+    "Voice actor": "De'Lante Capers(previously credited as \"Rhys_Dallows\")",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/d/d4/Shryicon.png/revision/latest",
+  "icon_filename": "Shryicon.png"
+}

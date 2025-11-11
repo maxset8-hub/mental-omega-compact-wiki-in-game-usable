@@ -1,0 +1,16 @@
+{
+  "unit_name": "Rage",
+  "infobox_data": {
+    "Affiliation": "Epsilon Army",
+    "Cooldown": "5:30",
+    "Called from": "Rage Inductor",
+    "Effect": [
+      "Increases the firepower of friendly units (exceptdrones) in a radius of 4.2 by 60% for 900 frames (60 in-game seconds)",
+      "Restores 50 hit points to affected infantry",
+      "Restores 100 hit points to affected vehicles"
+    ],
+    "_section_Superweapon": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/4/4c/Frenicon.png/revision/latest",
+  "icon_filename": "Frenicon.png"
+}

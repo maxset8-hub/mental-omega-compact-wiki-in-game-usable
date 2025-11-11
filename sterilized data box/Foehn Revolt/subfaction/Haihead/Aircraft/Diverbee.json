@@ -1,0 +1,67 @@
+{
+  "unit_name": "Diverbee",
+  "infobox_data": {
+    "Faction": "HaiheadPacific Front(campaign only)",
+    "Role": [
+      "Suicidal Assault",
+      "Anti-unit"
+    ],
+    "Armament": [
+      "Plasma Explosion Discharge",
+      "Explosive Charge as Prototype"
+    ],
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "220",
+    "Armor type": "Light",
+    "Speed": "36 (flying)",
+    "Turn rate": "16",
+    "Sight radius": "5",
+    "Cost": [
+      "$900",
+      "$800 as prototype"
+    ],
+    "Estimated build time": [
+      "0:32",
+      "0:29 as prototype"
+    ],
+    "Built at": "Foehn War Factory",
+    "Requires": "Cyberkernel Expansion",
+    "Ground": "220-88",
+    "Ground modifiers": [
+      "200% vs. Light",
+      "190% vs. Medium/Harvester",
+      "175% vs. Heavy",
+      "100% vs. Drone",
+      "60% vs. Basic/Animal",
+      "50% vs. Flak",
+      "40% vs. Plate",
+      "15% vs. Light Structure, Defensive Structure and Lightning Rods",
+      "10% vs. Big Light Structure, (Very) Big Defensive Structure, Heavy Structure and Nuclear Reactors",
+      "5% vs. Big Heavy Structure"
+    ],
+    "Air": "220-88",
+    "Air modifiers": [
+      "100% vs. Light Aircraft, Jets",
+      "90% vs. Aerial Fortress Irkalla and Dybbuk-Interceptors",
+      "80% vs. Medium and Heavy Aircraft",
+      "70% vs. Alanqa Skystations",
+      "30% vs.Scout Ravens, Rocketeers, Gyrocopters, Neonwasps and Cosmonauts",
+      "20% vs. Diverbees, Uragan, Norio"
+    ],
+    "Range": "7, radius 2",
+    "Ability": "Launches itself in a kamikaze dive at the target upon attack",
+    "Artist(s)": [
+      "ONEX (voxel)",
+      "Nooze (cameo)"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/e3/Divricon.png/revision/latest",
+  "icon_filename": "Divricon.png"
+}

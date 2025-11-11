@@ -1,0 +1,84 @@
+{
+  "unit_name": "Giantsbane",
+  "infobox_data": {
+    "Faction": "Last Bastion",
+    "Role": [
+      "Anti-tank",
+      "Anti-air",
+      "Infantry stun"
+    ],
+    "Armament": [
+      "2x Golden Rocket launchers (against vehicles, aircraft and structures)",
+      "Stun beam (against infantry)"
+    ],
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "750",
+    "Armor type": "Plate",
+    "Speed": "5",
+    "Sight radius": "8",
+    "Cost": "$1300",
+    "Estimated train time": "0:29",
+    "Train time multiplier(s)": "0.65 (all infantry)",
+    "Trained at": "Foehn Barracks",
+    "Requires": "Nanofiber Loom Expansion",
+    "Ground": [
+      "50-25 * 2 (100-50 total) (Golden Rocket launcher)",
+      "1 (stun beam)"
+    ],
+    "Ground modifiers": [
+      "Golden Rocket launcher:",
+      "125% vs. Light",
+      "100% vs. Medium/Harvester and Drone",
+      "85% vs. Heavy",
+      "10% vs. (Big) Light Structure and ((Very) Big) Defensive Structure",
+      "5% vs. (Big) Heavy Structure",
+      "Stun beam:",
+      "200% vs.Engineersand espionage agents100% vs. other infantry armor types",
+      "100% vs. other infantry armor types"
+    ],
+    "Air": "50-25 * 2 (100-50 total)",
+    "Air modifiers": [
+      "140% vs. Heavy Aircraft",
+      "115% vs. Light Aircraft, Medium Aircraft and Aerial Fortresses Irkalla",
+      "100% vs. Rocketeers, Norio, Gyrocopters, Cosmonauts, Scout Ravens and Uragan"
+    ],
+    "Cooldown": [
+      "150 frames (10 in-game seconds) (Golden Rocket launcher)",
+      "105 frames (7 in-game seconds) (stun beam)"
+    ],
+    "Range": [
+      "9 (ground and stun beam)",
+      "13 (air)",
+      "0.8 (Golden Rocket launcher radius)"
+    ],
+    "Upgrades to": "Godsbane",
+    "Ability": "Stun beam immobilizes target infantry for 120 frames (8 in-game seconds)",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-healing",
+      "Uncrushable",
+      "Cannot be attacked byAttack DogsandSpooks",
+      "Receives a 15% firepower buff while inside a deployedSODAR Array's radius",
+      "Vulnerable to EMP and magnetic weapons",
+      "Golden Rocket Launchers cannot fire fromopentopped transports"
+    ],
+    "Artist(s)": [
+      "Nolt (SHP)",
+      "Nooze (cameo)"
+    ],
+    "Voice actor": "De'Lante Capers(previously credited as \"Rhys_Dallows\")",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/2/2a/Baneicon.png/revision/latest",
+  "icon_filename": "Baneicon.png"
+}

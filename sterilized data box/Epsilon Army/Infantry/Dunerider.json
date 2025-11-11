@@ -1,0 +1,62 @@
+{
+  "unit_name": "Dunerider",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": [
+      "Anti-infantry",
+      "Anti-structure"
+    ],
+    "Armament": "Toxic grenades",
+    "Tier": "2",
+    "Tech level": "6",
+    "Hit points": "150",
+    "Armor type": "Flak",
+    "Speed": "9",
+    "Sight radius": "7",
+    "Cost": "$600",
+    "Estimated train time": "0:11",
+    "Train time multiplier(s)": "0.65 (all infantry)",
+    "Trained at": "Epsilon Barracks",
+    "Requires": "Radar Spire",
+    "Ground": "70; 40 * 2 when elite",
+    "Ground modifiers": [
+      "100% vs. Basic/Animal",
+      "90% vs. Flak",
+      "80% vs. Plate/Cyborg",
+      "60% vs. Small Defensive Structure",
+      "50% vs. Light Structure,  Heavy Structure",
+      "45% vs. Big Light Structure, (Very Big) Defensive Structure and Big Heavy Structure",
+      "30% vs. Duneriders",
+      "25% vs. Light",
+      "20% vs. Medium/Harvester, Drone andTech Concrete Fortresses",
+      "15% vs. Heavy"
+    ],
+    "Cooldown": "70 frames (4.7 in-game seconds)",
+    "Range": "8, minimum and radius 1",
+    "Ability": [
+      "Amphibious",
+      "Absorbs damage from poison clouds",
+      "Detects cloaked/submerged enemies (range 7)",
+      "Infantry killed by the weapon release poison clouds"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Uncrushable by normal vehicles",
+      "Vulnerable to magnetic weapons"
+    ],
+    "Artist(s)": "ImP_RuLz",
+    "Voice actor": "SquareWhale",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/c/c2/Razgicon.png/revision/latest",
+  "icon_filename": "Razgicon.png"
+}

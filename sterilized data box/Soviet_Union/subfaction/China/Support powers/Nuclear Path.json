@@ -1,0 +1,14 @@
+{
+  "unit_name": "Nuclear Path",
+  "infobox_data": {
+    "Affiliation": "China",
+    "Cost": "$800",
+    "Cooldown": "7:00",
+    "Called from": "Nuclear Converter",
+    "Requires": "Atomheart",
+    "Effect": "Increases the firepower and speed of the user's vehicles in a radius of 1 by 25% but reduces their armor by 25% for 2700 frames (180 in-game seconds)",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/f/f1/Pathicon.png/revision/latest",
+  "icon_filename": "Pathicon.png"
+}

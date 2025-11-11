@@ -1,0 +1,68 @@
+{
+  "unit_name": "Megalodon",
+  "infobox_data": {
+    "Faction": "Haihead",
+    "Role": "Close combat",
+    "Armament": "Plasma blade and tractor beam",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "920",
+    "Armor type": "Heavy",
+    "Speed": "9",
+    "Turn rate": "16",
+    "Sight radius": "6",
+    "Cost": "$1700",
+    "Estimated build time": "0:58",
+    "Build time multiplier(s)": "0.95 (individual)0.9 (multiple factory)",
+    "Built at": "Foehn War Factory",
+    "Requires": "Cyberkernel Expansion",
+    "Ground": "20 every 2.67 frames (~140 per in-game second)",
+    "Ground modifiers": [
+      "500% vs. Basic/Animal",
+      "400% vs. Flak",
+      "300% vs. Plate/Cyborg",
+      "160% vs. Light",
+      "155% vs. Medium/Harvester",
+      "150% vs. Heavy",
+      "120% vs. Defensive Structure and Lightning Rods",
+      "100% vs. Drone",
+      "90% vs. Big Defensive Structure",
+      "80% vs. (Big) Light Structure and (Big) Heavy Structure",
+      "75% vs. Plasmerizers and Tech Concrete Fortresses",
+      "20% vs. Megalodons"
+    ],
+    "Cooldown": "50 frames (3.3 in-game seconds)",
+    "Range": "2.5, radius 0.8",
+    "Ability": [
+      "Attacks reduce the target's speed by 80% for 60 frames (4 in-game seconds)",
+      "Receives an energy shield which instantly kills enemy infantry (exceptheroes) that comes in contact with the Megalodon and increases its speed by 1 while inside aMegaarena Projector's radius"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Can crush infantry",
+      "Uncrushable",
+      "Immune to radiation and poison",
+      "Cannot be attacked byDesolators/EradicatorsandSyckles",
+      "Cannot be mind-controlled, hijacked and depiloted",
+      "Takes 6 slots in transports"
+    ],
+    "Artist(s)": [
+      "Holy_Master (SHP)",
+      "Nooze (Cameo)"
+    ],
+    "Voice actor": "Speeder",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/8/85/Mgldicon.png/revision/latest",
+  "icon_filename": "Mgldicon.png"
+}

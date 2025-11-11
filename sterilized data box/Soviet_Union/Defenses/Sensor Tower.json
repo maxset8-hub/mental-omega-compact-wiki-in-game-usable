@@ -1,0 +1,44 @@
+{
+  "unit_name": "Sensor Tower",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": "Disguise/stealth detection",
+    "Armament": "Spotlight",
+    "Tier": "2",
+    "Tech level": "8",
+    "Hit points": "650",
+    "Armor type": "Defensive Structure",
+    "Sight radius": "15",
+    "Cost": "$800",
+    "Estimated build time": "0:32",
+    "Build time multiplier(s)": [
+      "1.2 (all defenses)",
+      "0.9 (multiple Construction Yards)"
+    ],
+    "Built by": "Soviet Construction Yard",
+    "Requires": "Radar Dish",
+    "Placement radius": "6",
+    "Ground attack": "0(dummy)",
+    "Cooldown": "2 frames (0.13 in-game seconds)",
+    "Attack range": "10",
+    "Power": "-100",
+    "Ability": [
+      "Detects cloaked/submerged enemies (range 9)",
+      "Detects disguised enemies",
+      "DetectsCrazy Ivan'sbombs andArsonists'napalm charges",
+      "Units \"attacked\" by the spotlight have their armor reduced by 15%The effect persists for 7 frames (0.47 in-game seconds)",
+      "The effect persists for 7 frames (0.47 in-game seconds)",
+      "Blocks the use of reconnaissance support powers in a radius of 9 around the Sensor Tower"
+    ],
+    "Select sound": "From the corner of theFortress Walls(Red Alert 3)",
+    "Artist(s)": "4SG",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/0/09/Ncomicon.png/revision/latest",
+  "icon_filename": "Ncomicon.png"
+}

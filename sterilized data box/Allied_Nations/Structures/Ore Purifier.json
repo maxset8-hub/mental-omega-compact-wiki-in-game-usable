@@ -1,0 +1,49 @@
+{
+  "unit_name": "Ore Purifier",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Economy support",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "1300",
+    "Armor type": "Big Heavy Structure",
+    "Sight radius": "5",
+    "Cost": "$3000",
+    "Estimated build time": "2:13",
+    "Build time multiplier(s)": "1.25",
+    "Built by": "Allied Construction Yard",
+    "Requires": [
+      "Mercury Network Uplink",
+      "Shield Command",
+      "Robot Ops Control Center",
+      "Tech Center"
+    ],
+    "Placement radius": "2",
+    "Power": "-200",
+    "Allows": [
+      "Ultra Miner",
+      "Quickshifter",
+      "Lionheart",
+      "Chrono Prison",
+      "Future Tank Alpha"
+    ],
+    "Ability": [
+      "Increases money from mining ores and gems by 25%",
+      "Drop-off point forharvesters",
+      "Generates $20 every 100 frames (6.7 in-game seconds) like aTech Oil Derrick"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Cannot be captured",
+      "Can be infiltrated to reveal how much money the owner has"
+    ],
+    "Select sound": "From theScud Storm(Generals)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/c/c0/Goreicon.png/revision/latest",
+  "icon_filename": "Goreicon.png"
+}

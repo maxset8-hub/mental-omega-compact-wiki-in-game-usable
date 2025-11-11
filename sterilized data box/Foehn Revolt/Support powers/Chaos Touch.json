@@ -1,0 +1,18 @@
+{
+  "unit_name": "Chaos Touch",
+  "infobox_data": {
+    "Affiliation": "Foehn Revolt",
+    "Cost": "$1000",
+    "Cooldown": "7:30",
+    "Called from": "Netrunner Protocol",
+    "Requires": "Cyberkernel",
+    "Effect": [
+      "Makes enemy infantry and vehicles in a radius of 2.5 unable to be controlled and may attack their allies for 40 frames (2.67 in-game seconds)",
+      "The confusion effect is applied every 72 frames (4.8 in-game seconds)",
+      "Lasts for 360 frames (24 in-game seconds)"
+    ],
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/3/34/Wrapicon.png/revision/latest",
+  "icon_filename": "Wrapicon.png"
+}

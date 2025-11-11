@@ -1,0 +1,83 @@
+{
+  "unit_name": "Condor",
+  "infobox_data": {
+    "Faction": "Last Bastion",
+    "Role": [
+      "Aerial Assault",
+      "Anti-infantry",
+      "Anti-air"
+    ],
+    "Armament": [
+      "2x integrated heavy machine guns",
+      "Microwave blaster"
+    ],
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "480",
+    "Armor type": "Medium Aircraft",
+    "Speed": "24 (flying)",
+    "Turn rate": "5",
+    "Sight radius": "7",
+    "Cost": "$1400",
+    "Estimated build time": "0:50",
+    "Built at": "Foehn War Factory",
+    "Requires": "Cloud Piercer",
+    "Ground": "45-27 * 2 (90-54 total)",
+    "Ground modifiers": [
+      "120% vs. Basic/Animal",
+      "105% vs. Flak",
+      "100% vs. Drone",
+      "85% vs. Plate/Cyborg",
+      "50% vs.DolphinsandGiant Squids",
+      "40% vs. heroes",
+      "30% vs. Light",
+      "25% vs. Medium/Harvester and Heavy",
+      "15% vs. Light Structure and Defensive Structure",
+      "10% vs. (Big) Light Structure, Big Defensive Structure and Heavy Structure",
+      "5% vs. Very Big Defensive Structure and Big Heavy Structure"
+    ],
+    "Air": "45-27 * 2 (90-54 total)",
+    "Air modifiers": [
+      "90% vs.Scout Ravens",
+      "60% vs.Rocketeers,Gyrocopters,NeonwaspsandCosmonauts",
+      "50% vs. jets andBlack Widows",
+      "40% vs. Light Aircraft,Norio, andUragan",
+      "35% vs.Harbingers",
+      "30% vs. Medium Aircraft andAerial Fortress Irkalla",
+      "25% vs. Heavy Aircraft,Cryocopters,Diverbees,Alanqa SkystationsandQuetzals"
+    ],
+    "Cooldown": "25 frames (1.7 in-game seconds)",
+    "Range": [
+      "7 (ground)",
+      "7.5 (air)",
+      "1 (minimum)",
+      "0.7 (radius)"
+    ],
+    "Ability": [
+      "Automatically releases a microwave pulse when an infantry is in a range of 8 to the Condor, dealing150-60damage over a radius of 2 around the Condor",
+      "The microwave pulse is 40% less effective on lighter units",
+      "Has a cooldown of 200 frames (13.33 in-game seconds)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Causes6-3damage in a radius of 2 around where the Condor crashes when shot down"
+    ],
+    "Artist(s)": [
+      "ONEX (voxel)",
+      "Nooze (cameo)"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/1/1d/Condicon.png/revision/latest",
+  "icon_filename": "Condicon.png"
+}

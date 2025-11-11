@@ -1,0 +1,38 @@
+{
+  "unit_name": "Ultra Dome",
+  "infobox_data": {
+    "Faction": "European Alliance",
+    "Role": "Defense buff",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "1800",
+    "Armor type": "Big Defensive Structure",
+    "Sight radius": "4",
+    "Cost": "$1000",
+    "Estimated build time": "0:43",
+    "Build time multiplier(s)": [
+      "1.2 (all defenses)",
+      "0.9 (multiple factory)"
+    ],
+    "Built by": "Allied Construction Yard",
+    "Requires": [
+      "Shield Command",
+      "Tech Center"
+    ],
+    "Placement radius": "4",
+    "Power": "-100",
+    "Ability": [
+      "Increases the firepower of defenses in a radius of 9.2 around the Ultra Dome by 50%",
+      "The effect lingers for 125 frames (8.3 in-game seconds)"
+    ],
+    "Notes": "Limited to one for each player",
+    "Artist(s)": "Nooze",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/9/9d/Ultricon.png/revision/latest",
+  "icon_filename": "Ultricon.png"
+}

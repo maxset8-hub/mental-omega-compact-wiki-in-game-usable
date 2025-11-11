@@ -1,0 +1,43 @@
+{
+  "unit_name": "Ruiner",
+  "infobox_data": {
+    "Faction": "Epsilon Headquarters",
+    "Role": "Troop disarmament",
+    "Armament": "Amnesia ray",
+    "Tier": "3",
+    "Hit points": "600",
+    "Armor type": "Heavy Aircraft",
+    "Speed": "30 (flying)",
+    "Turn rate": "100",
+    "Sight radius": "5",
+    "Cost": "$1100",
+    "Recharge time": "6:30",
+    "Called from": "Geneplug",
+    "Requires": "Synthesis Vault",
+    "Ground": "0(dummy)",
+    "Ground modifiers": [
+      "Affects all infantry except: Animals, Brutes, Scout Raven, Flying infantry, Flying heroes, Bloaticks, Duplicants, Chitzkoi"
+    ],
+    "Cooldown": "120 frames (8 in-game seconds)",
+    "Range": "10",
+    "Ability": [
+      "Weapon stops infantry (except unarmed ones) from attacking for 270 frames (18 in-game seconds)",
+      "The effect can spread to other infantry in a radius of 2.1 around the victim(s) and lasts for 30 frames (2 in-game seconds) on friendly infantry"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Can fire while moving",
+      "Can only be deployed in a radius of 9 around aSynthesis Vault",
+      "Causes300-150damage in a radius of 2 at where the Ruiner crashes when shot down"
+    ],
+    "Artist(s)": "Salted_Old",
+    "_section_Support Power Unit": true,
+    "_section_Properties": true,
+    "_section_Deployment": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/4/47/Ruinicon.png/revision/latest",
+  "icon_filename": "Ruinicon.png"
+}

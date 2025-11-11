@@ -1,0 +1,44 @@
+{
+  "unit_name": "Minermite",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": [
+      "Resource collection",
+      "Vehicle repair"
+    ],
+    "Armament": "Nano repair system",
+    "Tier": "1",
+    "Tech level": "1",
+    "Hit points": "510",
+    "Armor type": "Harvester",
+    "Speed": "6; 11 when boosted",
+    "Turn rate": "50",
+    "Sight radius": "4",
+    "Cost": "$900",
+    "Estimated build time": "0:32",
+    "Built at": "Foehn War Factory",
+    "Requires": "Foehn Ore Refinery",
+    "Ability": [
+      "Gatherores(max. $300 worth of ores/$450 worth of gems)",
+      "Repairs a friendly vehicle in a range of 4 by 25 hit points every 30 frames (2 in-game seconds)"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Cannot be mind-controlled, hijacked and depiloted",
+      "Immune to confusion rays",
+      "Receives a speed buff while inside aSpinblade's radius",
+      "Take 2 slots in transports"
+    ],
+    "Artist(s)": [
+      "Mevitar (voxel)",
+      "Nooze (cameo)"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/2/24/Nminicon.png/revision/latest",
+  "icon_filename": "Nminicon.png"
+}

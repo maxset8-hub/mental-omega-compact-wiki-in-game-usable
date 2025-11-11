@@ -1,0 +1,68 @@
+{
+  "unit_name": "Flak Trooper",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": [
+      "Anti-armor",
+      "Anti-air",
+      "Garrison"
+    ],
+    "Armament": "Personal flak cannon",
+    "Tier": "1",
+    "Tech level": "1",
+    "Hit points": "145",
+    "Armor type": "Flak",
+    "Speed": "6",
+    "Sight radius": "6",
+    "Cost": "$150",
+    "Estimated train time": "0:04",
+    "Train time multiplier(s)": "0.65",
+    "Trained at": "Soviet Barracks",
+    "Ground": "36",
+    "Ground modifiers": [
+      "70% vs. Light",
+      "60% vs. Medium/Harvester",
+      "55% vs. Heavy",
+      "40% vs. (Very Big) Defensive Structure andLightning Rods",
+      "35% vs. Big Defensive Structure",
+      "30% vs. Drone",
+      "20% vs.Tech Concrete Fortresses",
+      "15% vs. (Big) Light Structure",
+      "10% vs. Basic/Animal,Flak and (Big) Heavy Structure",
+      "5% vs. Plate/Cyborg"
+    ],
+    "Air": "20-6",
+    "Air modifiers": [
+      "150% vs.Scout Ravens",
+      "100% vs.Rocketeers,Norio,Gyrocopters,Neonwasps,CosmonautsandUragan",
+      "80% vs. Light Aircraft",
+      "50% vs. Medium Aircraft",
+      "30% vs. Heavy Aircraft"
+    ],
+    "Cooldown": [
+      "25 frames (1.7 in-game seconds) (ground)",
+      "20 frames (1.3 in-game seconds) (air)"
+    ],
+    "Range": [
+      "5; 6 when garrisoned (ground)",
+      "7, radius 0.6 (air)"
+    ],
+    "Ability": [
+      "Garrison civilian structures",
+      "Cannot attack air targets while garrisoned"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/3/31/Flkticon.png/revision/latest",
+  "icon_filename": "Flkticon.png"
+}

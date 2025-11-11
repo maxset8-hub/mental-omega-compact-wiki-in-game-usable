@@ -1,0 +1,78 @@
+{
+  "unit_name": "Kingsnake",
+  "infobox_data": {
+    "Faction": "United States",
+    "Role": "Defensive precision strikes",
+    "Armament": [
+      "Missiles (against vehicles, aircraft, and structures)",
+      "Laser guns (against infantry)"
+    ],
+    "Tier": "3",
+    "Hit points": "320",
+    "Armor type": "Light Aircraft",
+    "Speed": "32 (jet)",
+    "Turn rate": "8",
+    "Sight radius": "6",
+    "Cost": "$1000",
+    "Recharge time": "6:30",
+    "Called from": "Experimental Warpshop",
+    "Requires": "Air Force Command Headquarters",
+    "Ground": [
+      "100 * 2 (200 total) (missiles)",
+      "120 * 2 (240 total) (laser guns)"
+    ],
+    "Ground modifiers": [
+      "Missiles:",
+      "130% vs. Medium and Naval Units",
+      "115% vs. Light and Heavy",
+      "90% vs. Harvester",
+      "40% vs. (Big) Light Structure",
+      "30% vs. ((Very) Big) Defensive Structure",
+      "25% vs. (Big) Heavy Structure",
+      "Laser guns:",
+      "160% vs. Basic/Animal",
+      "130% vs. Flak",
+      "120% vs. Plate/Cyborg and Drone"
+    ],
+    "Air": "100 * 2 (200 total)",
+    "Air modifiers": [
+      "130% vs. Medium Aircraft",
+      "115% vs. Light Aircraft and Heavy Aircraft",
+      "60% vs.Heroes"
+    ],
+    "Cooldown": "10 frames (0.67 in-game seconds) (both weapons)",
+    "Range": [
+      "20 (portal)",
+      "8 (missiles)",
+      "9 (laser guns)",
+      "0.4 (radius)"
+    ],
+    "Ability": [
+      "Warped in from a portal that lasts for 2700 frames (180 in-game seconds)",
+      "The duration can be extended by possessingTech Machine shops",
+      "The Kingsnake is automatically replaced 150 ~ 240 frames (10 ~ 16 in-game seconds) after it is destroyed",
+      "The Kingsnake is lost when the portal closes"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Can only be deployed in a radius of 18 around the Experimental Warpshop or a radius of 9 around aWarpnode",
+      "Self-repair",
+      "Invisible on enemy radar",
+      "Has 2 ammunitionThe ammunition is shared by both the missiles and the laser gunsEach ammunition takes 60 frames (4 in-game seconds) to reload",
+      "The ammunition is shared by both the missiles and the laser guns",
+      "Each ammunition takes 60 frames (4 in-game seconds) to reload",
+      "If the user is depowered or loses their Experimental Warpshop and all Warpnodes, the portal will close immediately."
+    ],
+    "_section_Support Power Unit": true,
+    "_section_Properties": true,
+    "_section_Deployment": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/e7/Snakicon.png/revision/latest",
+  "icon_filename": "Snakicon.png"
+}

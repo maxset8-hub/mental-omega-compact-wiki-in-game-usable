@@ -1,0 +1,14 @@
+{
+  "unit_name": "Instant Shelter",
+  "infobox_data": {
+    "Affiliation": "Soviet Union",
+    "Cost": "$800",
+    "Cooldown": "5:30",
+    "Called from": "Field Bureau",
+    "Effect": "Creates aBattle Bunkerwith 2 initialConscriptsat the target location",
+    "Notes": "The Battle Bunker created through Instant Shelter will not keep the player in game ifShort Gameis enabled in skirmish and multiplayer",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/3/39/Gbnkicon.png/revision/latest",
+  "icon_filename": "Gbnkicon.png"
+}

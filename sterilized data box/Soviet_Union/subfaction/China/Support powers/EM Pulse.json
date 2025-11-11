@@ -1,0 +1,15 @@
+{
+  "unit_name": "EM Pulse",
+  "infobox_data": {
+    "Affiliation": "China",
+    "Cost": "$1000",
+    "Cooldown": "6:30",
+    "Called from": "EMP Control Station",
+    "Effect": "Disables vehicles and infantry vulnerable to EMP in a radius of 5 for 360 frames (24 in-game seconds), and naval vessels for 180 frames (12 in-game seconds).",
+    "Artist(s)": "Starkku",
+    "_section_Support Power": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/3/3c/Empicon.png/revision/latest",
+  "icon_filename": "Empicon.png"
+}

@@ -1,0 +1,38 @@
+{
+  "unit_name": "Neonwasp",
+  "infobox_data": {
+    "Faction": "Haihead",
+    "Role": "Anti-armor",
+    "Armament": "Plasma cutter",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "250",
+    "Armor type": "Flak",
+    "Speed": "30 (flying)",
+    "Sight radius": "6",
+    "Cost": "$1050",
+    "Estimated train time": "0:22",
+    "Train time multiplier(s)": "0.65 (all infantry)",
+    "Trained at": "Foehn Barracks",
+    "Requires": "Cyberkernel Expansion",
+    "Ground": "18-4.5",
+    "Ground modifiers": [
+      "95% vs. Medium/Harvester",
+      "85% vs. Heavy",
+      "40% vs. (Big) Light Structure, Defensive Structure, and Drone",
+      "30% vs. Big Defensive Structure, (Big) Heavy Structure,Battle Bunkers,Tank Bunkers, andTech Concrete Bunkers",
+      "25% vs. Very Big Defensive Structure and Basic/Animal",
+      "20% vs. Flak/Animal, Plate, andTech Concrete Fortresses"
+    ],
+    "Cooldown": "1 frame (0.067 in-game seconds)",
+    "Range": "7, radius 0.3",
+    "Artist(s)": "ONEX",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/a/a3/Waspicon.png/revision/latest",
+  "icon_filename": "Waspicon.png"
+}

@@ -1,0 +1,117 @@
+{
+  "unit_name": "Epsilon Barracks",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": "Infantry training",
+    "Tier": "1",
+    "Tech level": "1",
+    "Hit points": "900",
+    "Armor type": "Light Structure",
+    "Sight radius": "5",
+    "Cost": "$500",
+    "Estimated build time": "0:22",
+    "Build time multiplier(s)": "1.25",
+    "Built by": "Epsilon Construction Yard",
+    "Placement radius": "2",
+    "Power": "-10",
+    "Produces": "Epsilon infantry",
+    "Allows": [
+      "Synthesis Vault",
+      "Citadel Walls",
+      "Gate",
+      "Gatling Cannon"
+    ],
+    "Ability": "Can be toggled as the primary infantry training structure (if the player have multiplebarracksat the same time)",
+    "Notes": [
+      "The more barracks the player have, the faster infantry are trained",
+      "Can be infiltrated for veteran infantry training"
+    ],
+    "Select sound": "Mixed sound from theBunker(Generals) and the Echo effect of a piece of quote\"Yuri is master!\"fromInitiate",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/b/be/Brckicon.png/revision/latest",
+  "icon_filename": "Brckicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Unit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Basic Infantry. Strong vs. Infantry.\nStarting infantry in Skirmish\nAbilities:\nGarrison civilian structures"
+        ],
+        [
+          "",
+          "Basic Infantry. Strong vs. Armor, Aircraft.\nAbilities:\nGarrison civilian structures; cannot attack aircraft while garrisoned"
+        ],
+        [
+          "",
+          "Scout Creature. Strong vs. Infantry.\nAbilities:\nDetects disguised units\nAmphibious"
+        ],
+        [
+          "Epsilon Engineer",
+          "Utility Infantry. Unarmed.\nAbilities:\nCapture enemy buildings, tech structures, and empty vehicles\nRepair bridges and friendly structures\nDetects and defuses explosive charges"
+        ],
+        [
+          "",
+          "Suicide Creature. Strong vs. Infantry, Structures.\nRequires Synthesis Vault\nAbilities:\nExplodes when crushed"
+        ],
+        [
+          "",
+          "Heavy Infantry. Strong vs. Ground Targets.\nRequires Synthesis Vault"
+        ],
+        [
+          "",
+          "Advanced Infantry. Strong vs. Infantry, Structures.\nRequires Radar Spire\nAbilities:\nDetects cloaked units\nAmphibious"
+        ],
+        [
+          "",
+          "Mind Control Infantry.\nRequires Pandora Hub\nAbilities:\nMind control\nDeploy to release a psychic blast that kills infantry"
+        ],
+        [
+          "",
+          "Mind Control Infantry.\nRequires Pandora Hub\nAbilities:\nMind control\nDeploy to release a psychic blast that kills infantry\nAmphibious"
+        ],
+        [
+          "",
+          "Espionage Agent. Unarmed.\nRequires upgraded Pandora Hub\nAbilities:\nInfiltrates enemy structures\nDisguise as enemy infantry\nDemolish bridges"
+        ],
+        [
+          "",
+          "Sabotage Infantry. Unarmed.\nRequires Pandora Hub with  Psychplug\nAbilities:\nPlants anti-gravity charges on enemy vehicles\nDisguise as enemy infantry"
+        ],
+        [
+          "",
+          "Elite Infantry. Strong vs. Armor.\nRequires Pandora Hub with  Chemplug\nAbilities:\nEMP attacks disable heavy infantry and mechanical units temporarily"
+        ],
+        [
+          "",
+          "Elite Heavy Infantry. Strong vs. Structures.\nRequires Pandora Hub with  Geneplug\nAbilities:\nDrain cannon target heals nearby friendly infantry"
+        ],
+        [
+          "",
+          "Elite Infantry. Strong vs. Infantry.\nRequires Cloning Vats"
+        ],
+        [
+          "",
+          "Hero. Strong vs. Everything.\nRequires Pandora Hub with  Psychplug\nAbilities:\nDetects cloaked units\nResistant to bullets\nAmphibious\nDeploy to use gravity field to flip mechanical units and increase armor by 150%\nOnly one Libra may be trained at a time."
+        ],
+        [
+          "",
+          "Hero. Strong vs. Infantry, Armor.\nRequires Pandora Hub with  Chemplug\nAbilities:\nCloaked\nDetects cloaked units\nDeploy or garrison civilian structures to weaken enemy firepower and armor around Malver by 40%\nOnly one Malver may be trained at a time."
+        ],
+        [
+          "",
+          "Heavy Infantry Hero. Strong vs. Ground Targets.\nRequires Pandora Hub with  Geneplug\nAbilities:\nDetects cloaked units\nTerranova beam mutates infantry into Brutes\nRegenerates hit points faster\nOnly one Rahn may be trained at a time."
+        ]
+      ]
+    }
+  ]
+}

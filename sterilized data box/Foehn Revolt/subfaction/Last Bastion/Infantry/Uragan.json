@@ -1,0 +1,83 @@
+{
+  "unit_name": "Uragan",
+  "infobox_data": {
+    "Faction": "Last Bastion",
+    "Role": [
+      "Assault",
+      "Anti-air"
+    ],
+    "Armament": "Plasma bombs",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "1050",
+    "Armor type": "Flak",
+    "Speed": "9 (flying)",
+    "Sight radius": "10",
+    "Cost": "$1500",
+    "Estimated train time": "1:08",
+    "Train time multiplier(s)": [
+      "0.65 (all infantry)",
+      "2 (all heroes)",
+      "1.0 (multiple factory)"
+    ],
+    "Trained at": "Foehn Barracks",
+    "Requires": "Nanofiber Loom Expansion",
+    "Ground": "65-26 * 4 (260-104 total)",
+    "Ground modifiers": [
+      "180% vs. Light",
+      "165% vs. Medium/Harvester",
+      "145% vs. Heavy",
+      "85% vs. Defensive Structure and Lightning Rods",
+      "65% vs. Light Structure",
+      "60% vs. Basic/Animal",
+      "55% vs. Tank Bunkers",
+      "50% vs. Flak, Drone, Bunker and (Very) Big Defensive Structure",
+      "45% vs. Heavy Structure",
+      "40% vs. Plate/Cyborg and Big Light Structure",
+      "35% vs. Tech Concrete Fortresses",
+      "30% vs. Big Heavy Structure"
+    ],
+    "Air": "75-30 * 4 (300-120 total)",
+    "Air modifiers": [
+      "180% vs. Light Aircraft",
+      "165% vs. Medium Aircraft",
+      "145% vs. Heavy Aircraft",
+      "100% vs. Missiles",
+      "30% vs. Rocketeers, Gyrocopters, Cosmonauts and Scout Ravens",
+      "10% vs. Norio and Uragan"
+    ],
+    "Cooldown": "120 frames (8 in-game seconds)",
+    "Range": [
+      "12 (ground)",
+      "14 (air)",
+      "0.5 (minimum range)",
+      "2 (radius)"
+    ],
+    "Ability": "Weapon may hit 2 additional targets in a radius of 3 around the primary target with plasma bomb fragments in a radius of 2",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Build Time is unaffected by multiple Barracks",
+      "Self-healing",
+      "Immune to confusion rays"
+    ],
+    "Artist(s)": [
+      "Nolt (SHP)",
+      "Zylhalo(concept art)",
+      "Nooze (cameo)"
+    ],
+    "Voice actor": "George \"Seòras\" Exley",
+    "_section_Hero": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/3/3a/Kingicon.png/revision/latest",
+  "icon_filename": "Kingicon.png"
+}

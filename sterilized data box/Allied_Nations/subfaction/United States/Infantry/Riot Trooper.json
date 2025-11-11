@@ -1,0 +1,80 @@
+{
+  "unit_name": "Riot Trooper",
+  "infobox_data": {
+    "Faction": "United States",
+    "Role": "Crowd control",
+    "Armament": [
+      "Riot gun",
+      "Flash grenades"
+    ],
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": "265",
+    "Armor type": "Plate",
+    "Speed": "6",
+    "Sight radius": "7",
+    "Cost": "$950",
+    "Estimated train time": "0:22",
+    "Train time multiplier(s)": "0.65",
+    "Trained at": "Allied Barracks",
+    "Requires": [
+      "Mercury Network Uplink",
+      "Tech Center"
+    ],
+    "Ground": [
+      "60-42 (riot gun)",
+      "500-125 (flash grenades)"
+    ],
+    "Ground modifiers": [
+      "Riot gun:",
+      "160% vs. Basic/Animal",
+      "150% vs. Flak",
+      "140% vs. Plate/Cyborg",
+      "75% vs.DolphinsandGiant Squids",
+      "50% vs. Drones",
+      "5% vs. All other targets",
+      "Flash grenades:",
+      "2000% vs. non-Foehn basic infantry",
+      "1000% vs. Foehn basic infantry (excluding nano-synched variants)",
+      "20% vs. all other infantry armor types",
+      "Only2%of flashbang damage will be transferred to garrisoned infantry"
+    ],
+    "Cooldown": [
+      "30 frames (2 in-game seconds) (riot gun)",
+      "105 frames (7 in-game seconds (flash grenades)"
+    ],
+    "Range": [
+      "8.5 (both weapons)",
+      "3 (flash grenades minimum range)",
+      "0.75 (riot gun radius)",
+      "1 (flash grenades radius)"
+    ],
+    "Ability": [
+      "Riotgun attacks reduces the infantry target's speed by 75% for 15 frames (1 in-game seconds)",
+      "Amphibious",
+      "Flash grenades can damage and kill garrisoned basic infantry"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "Notes": [
+      "Cannot be attacked byAttack DogsandSpooks",
+      "Resistant to Brute punches, bullets and radiation",
+      "Automatically raises shield to decrease damage from most physical projectiles when attacked",
+      "Vulnerable to magnetic weapons"
+    ],
+    "Artist(s)": "Trans_C",
+    "Voice actor": "Jake \"The Voice\" Parr",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/4/43/Rioticon.png/revision/latest",
+  "icon_filename": "Rioticon.png"
+}

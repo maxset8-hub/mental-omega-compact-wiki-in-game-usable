@@ -1,0 +1,18 @@
+{
+  "unit_name": "Backwarp",
+  "infobox_data": {
+    "Affiliation": "Allied Nations",
+    "Cost": "$800",
+    "Cooldown": "5:00",
+    "Called from": "Experimental Warpshop",
+    "Requires": "Tech Center",
+    "Effect": [
+      "Restores 200 hit points to friendly vehicles and landed jets, 100 hit points for friendly infantry, and 50 hit points per cell for friendly buildings in a radius of 3.3 over 5 instances.",
+      "Removes EMP from the affected units"
+    ],
+    "Notes": "Does not removeTerror Droneson vehicles",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/a/ad/Warpicon.png/revision/latest",
+  "icon_filename": "Warpicon.png"
+}

@@ -1,0 +1,38 @@
+{
+  "unit_name": "Walls",
+  "infobox_data": {
+    "Faction": "Allied NationsSoviet UnionEpsilon ArmyFoehn RevoltNeutral",
+    "Role": "Passive defense",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "400",
+    "Armor type": "Heavy Structure",
+    "Sight radius": "1",
+    "Cost": "$100 per section",
+    "Estimated build time": "0:11",
+    "Build time multiplier(s)": "3.0",
+    "Built by": [
+      "Allied Construction Yard",
+      "Soviet Construction Yard",
+      "Epsilon Construction Yard",
+      "Foehn Construction Yard"
+    ],
+    "Requires": [
+      "Allied Barracks",
+      "Soviet Barracks",
+      "Epsilon Barracks",
+      "Foehn Barracks"
+    ],
+    "Placement radius": "8",
+    "Artist(s)": [
+      "Atomic_Noodles (Allied, Soviet and Epsilon wall remapping)",
+      "Nooze (Concrete and Bastion Wall)"
+    ],
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/57/Wallicon.png/revision/latest",
+  "icon_filename": "Wallicon.png"
+}

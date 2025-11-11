@@ -1,0 +1,12 @@
+{
+  "unit_name": "Chronoshift",
+  "infobox_data": {
+    "Affiliation": "Allied Nations",
+    "Cooldown": "6:30",
+    "Called from": "Chronosphere",
+    "Effect": "Teleports friendly vehicles in a 3x3 radius to another location anywhere on the map",
+    "_section_Superweapon": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/c/c2/Chroicon.png/revision/latest",
+  "icon_filename": "Chroicon.png"
+}

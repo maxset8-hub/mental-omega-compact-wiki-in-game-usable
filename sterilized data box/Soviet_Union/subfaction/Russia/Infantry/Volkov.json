@@ -1,0 +1,107 @@
+{
+  "unit_name": "Volkov",
+  "infobox_data": {
+    "Faction": "Russia",
+    "Role": [
+      "Anti-armor",
+      "Anti-infantry",
+      "Anti-structure"
+    ],
+    "Armament": [
+      "Chain lightning Tesla cannon (against units)",
+      "Tesla grenades (against structures)"
+    ],
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": [
+      "600",
+      "1000 inRecharger",
+      "900 inThunder God,The LunaticandNoise Severe",
+      "1500 inDragonstormandEarthrise",
+      "800 inJuggernaut",
+      "1600 inMeltdown",
+      "2400 inFatal Impact"
+    ],
+    "Armor type": "Cyborg",
+    "Speed": [
+      "6",
+      "7 inRecharger,The LunaticandMeltdown"
+    ],
+    "Sight radius": "9",
+    "Cost": [
+      "$1500",
+      "$3000 inEarthrise"
+    ],
+    "Estimated train time": "1:08",
+    "Train time multiplier(s)": [
+      "0.65 (all infantry)",
+      "2 (all heroes)",
+      "1.0 (multiple factory)"
+    ],
+    "Trained at": "Soviet Barracks",
+    "Requires": "Palace",
+    "Ground": [
+      "60/35/25/15 (Tesla cannon)",
+      "187.5 (base 150)"
+    ],
+    "Ground modifiers": [
+      "Chain lightning Tesla cannon:",
+      "200% vs. Drone",
+      "180% vs. Basic/Animal",
+      "170% vs. Flak",
+      "165% vs. Plate/Cyborg",
+      "150% vs. Land Mine",
+      "100% vs. Light",
+      "95% vs. Medium/Harvester",
+      "90% vs. Heavy",
+      "Tesla grenade:125% damage vs. all structure armor types",
+      "125% damage vs. all structure armor types"
+    ],
+    "Cooldown": [
+      "30 frames (2 in-game seconds) (Tesla cannon)25 frames (1.7 in-game seconds) inRecharger15 frames (1 in-game second) inDragonstormandEarthrise12 frames (0.8 in-game seconds) inMeltdown",
+      "25 frames (1.7 in-game seconds) inRecharger",
+      "15 frames (1 in-game second) inDragonstormandEarthrise",
+      "12 frames (0.8 in-game seconds) inMeltdown",
+      "50 frames (3.3 in-game seconds) (Tesla grenade)25 frames (1.7 in-game seconds) inRecharger30 frames (2 in-game seconds) inThe Lunatic,DragonstormandEarthrise28 frames (1.87 in-game seconds) inMeltdown",
+      "25 frames (1.7 in-game seconds) inRecharger",
+      "30 frames (2 in-game seconds) inThe Lunatic,DragonstormandEarthrise",
+      "28 frames (1.87 in-game seconds) inMeltdown"
+    ],
+    "Range": [
+      "8 (both weapons)",
+      "4 (Tesla cannon chain distance)",
+      "0.3 (Tesla cannon radius)",
+      "1.5 (Tesla grenade radius)"
+    ],
+    "Ability": [
+      "Detects cloaked/submerged enemies (range 7)",
+      "Tesla cannon chains to 3 additional targets and disables units for 30 frames (2 in-game seconds)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Build time is unaffected by multiple Barracks",
+      "Self-healing",
+      "Uncrushable",
+      "Immune to radiation, poison and confusion rays",
+      "Cannot be attacked byAttack Dogs,Spooks,Desolators/EradicatorsandSyckles",
+      "Cannot be mind-controlled and abducted",
+      "Affected byOvercharge",
+      "Vulnerable to EMP and magnetic weapons"
+    ],
+    "Artist(s)": "ImP_RuLz",
+    "Voice actor": "Speeder",
+    "_section_Hero": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/ed/Volkicon.png/revision/latest",
+  "icon_filename": "Volkicon.png"
+}

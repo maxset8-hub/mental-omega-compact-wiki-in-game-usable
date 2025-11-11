@@ -1,0 +1,44 @@
+{
+  "unit_name": "Ultra Miner",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Resource collection",
+    "Armament": "Negation field",
+    "Tier": "3",
+    "Hit points": "1250",
+    "Armor type": "Heavy",
+    "Speed": "6",
+    "Turn rate": "10 unit, 14 turret",
+    "Sight radius": "4",
+    "Cost": "$1600",
+    "Recharge time": "7:30",
+    "Called from": "Experimental Warpshop",
+    "Requires": "Ore Purifier",
+    "Ground": "0(dummy)",
+    "Cooldown": "110 frames (7.33 in-game seconds)",
+    "Range": "9.5, minimum 1",
+    "Ability": [
+      "Amphibious",
+      "Gatherores(max. $1000 worth of ores/$1500 worth of gems)",
+      "Teleport to friendlyOre Refineries",
+      "Weapon halves and reverses enemy firepower (causes the attack to heal/repair the target(s) instead of damaging them) for 120 frames (8 in-game seconds)"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Can crush infantry",
+      "Immune to confusion ray",
+      "Cannot be mind-controlled, hijacked, and depiloted",
+      "Does not sink when disabled while in water",
+      "Takes 6 slots in transports"
+    ],
+    "Artist(s)": "Salted_Old",
+    "_section_Support Power Unit": true,
+    "_section_Properties": true,
+    "_section_Deployment": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/a/ab/Wminicon.png/revision/latest",
+  "icon_filename": "Wminicon.png"
+}

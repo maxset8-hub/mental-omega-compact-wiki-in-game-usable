@@ -1,0 +1,56 @@
+{
+  "unit_name": "Hovracoon",
+  "infobox_data": {
+    "Faction": "Haihead",
+    "Role": [
+      "Weapon jamming",
+      "Structure disabling",
+      "Support power jamming"
+    ],
+    "Armament": "ECM systems",
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "280",
+    "Armor type": "Light",
+    "Speed": "≈ 6 (vehicle); 10 when boosted",
+    "Turn rate": [
+      "18 (unit)",
+      "24 (turret)"
+    ],
+    "Sight radius": "10",
+    "Cost": "$900",
+    "Estimated build time": "0:32",
+    "Built at": "Foehn War Factory",
+    "Requires": "Cyberkernel",
+    "Ground": "0(dummy)",
+    "Air": "0(dummy)",
+    "Cooldown": "1 frame (0.07 in-game seconds)",
+    "Range": [
+      "9.5 (ground)",
+      "10.5 (air)"
+    ],
+    "Ability": [
+      "Amphibious",
+      "Weapon prevents vehicles and aircraft  from attacking, and disables powered structures.Notable exceptions: unarmed vehicles, epic units, Dolphin, Giant Squid, drones, Gharial, Raccoon, Hovracoon, garrison structures.",
+      "Notable exceptions: unarmed vehicles, epic units, Dolphin, Giant Squid, drones, Gharial, Raccoon, Hovracoon, garrison structures.",
+      "The effect lingers for 8 frames (0.53 in-game seconds) against vehicles and aircraft, or 5 frames (0.3 in-game seconds) against powered structures",
+      "Blocks the use of support powers (except reconnaissance ones) in a radius of 6 around the Raccoon"
+    ],
+    "Notes": [
+      "Receives a speed buff while inside aSpinblade's radius",
+      "Can enterTank Bunkers",
+      "Unaffected by firepower buffs/debuffs",
+      "Takes 3 slots in transports"
+    ],
+    "Artist(s)": "ONEX",
+    "Voice actor": "George \"Seòras\" Exley",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/f/f3/Coonicon.png/revision/latest",
+  "icon_filename": "Coonicon.png"
+}

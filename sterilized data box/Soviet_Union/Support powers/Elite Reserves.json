@@ -1,0 +1,115 @@
+{
+  "unit_name": "Elite Reserves",
+  "infobox_data": {
+    "Affiliation": "Soviet Union",
+    "Cost": "$1500",
+    "Cooldown": "8:00",
+    "Called from": [
+      "Palace",
+      "Battle Lab",
+      "Atomheart"
+    ],
+    "Effect": "Tier 1Sovietinfantry, ground vehicles and naval vessels,War Miners,Demolition Trucks,Bomb BuggiesandMosquito Demoboatsare trained/produced as elite for 1400 frames (93.3 in-game seconds)",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/a/a9/Ersvicon.png/revision/latest",
+  "icon_filename": "Ersvicon.png",
+  "article_tables": [
+    {
+      "title": "Unknown Table",
+      "headers": [
+        "Unit",
+        "1 ProductionStructures",
+        "2 ProductionStructures",
+        "3 ProductionStructures",
+        "4 ProductionStructures"
+      ],
+      "rows": [
+        [
+          "",
+          "25",
+          "25",
+          "25",
+          "25"
+        ],
+        [
+          "",
+          "25",
+          "25",
+          "25",
+          "25"
+        ],
+        [
+          "",
+          "25",
+          "25",
+          "25",
+          "25"
+        ],
+        [
+          "",
+          "2",
+          "2",
+          "3",
+          "3"
+        ],
+        [
+          "",
+          "6",
+          "7",
+          "9",
+          "9"
+        ],
+        [
+          "",
+          "5",
+          "6",
+          "7",
+          "9"
+        ],
+        [
+          "Rhino Heavy Tank",
+          "4",
+          "4",
+          "5",
+          "6"
+        ],
+        [
+          "Jaguar Assault Tank",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        [
+          "Qilin Heavy Tank",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        [
+          "",
+          "2",
+          "3",
+          "3",
+          "4"
+        ],
+        [
+          "",
+          "3",
+          "3",
+          "4",
+          "5"
+        ],
+        [
+          "",
+          "2",
+          "3",
+          "3",
+          "4"
+        ]
+      ]
+    }
+  ]
+}

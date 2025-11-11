@@ -1,0 +1,69 @@
+{
+  "unit_name": "Antares Battery",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": "Long-range defense",
+    "Armament": "\"Antares\" pyrokinetic beam",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "1650",
+    "Armor type": "Big Defensive Structure",
+    "Turn rate": "6",
+    "Sight radius": "10",
+    "Cost": "$1800",
+    "Estimated build time": "1:16",
+    "Build time multiplier(s)": [
+      "1.2 (all defenses)",
+      "0.95 (multiple Construction Yards)"
+    ],
+    "Built by": "Epsilon Construction Yard",
+    "Requires": [
+      "Psychplug",
+      "Chemplug",
+      "Geneplug"
+    ],
+    "Ground attack": [
+      "140-42",
+      "210-63 (Psychic Flash)"
+    ],
+    "Ground attack modifiers": [
+      "130% vs. Light navy",
+      "125% vs. Medium navy",
+      "110% vs. Light",
+      "105% vs. Medium/Harvester",
+      "90% vs. Heavy navy",
+      "60% vs. Heavy and Drone",
+      "35% vs. Basic/Animal and Flak",
+      "30% vs. Plate/Cyborg",
+      "15% vs. all structure armor types"
+    ],
+    "Cooldown": "140 frames (9.3 in-game seconds)",
+    "Attack range": [
+      "14, minimum 4, radius 2",
+      "15, minimum 4, radius 2 (Psychic Flash)"
+    ],
+    "Power": "-150",
+    "Allows": [
+      "Provided along withPandora Hub:",
+      "Psychic Flash"
+    ],
+    "Upgraded bonus": "+40% armor",
+    "Fully upgraded bonus": [
+      "+40% firepower",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Psychic Flashwill increase its range and firepower for 1:30 minutes",
+      "Can gain experience"
+    ],
+    "Artist(s)": "Orac",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/3/3d/Antaicon.png/revision/latest",
+  "icon_filename": "Antaicon.png"
+}

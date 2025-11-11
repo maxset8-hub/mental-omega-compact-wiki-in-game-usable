@@ -1,0 +1,70 @@
+{
+  "unit_name": "Guardian G.I.",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": [
+      "Anti-armor",
+      "Anti-air",
+      "Garrison"
+    ],
+    "Armament": [
+      "\"Seeker\" missile launcher",
+      "\"Red Eye\" laser targeting system (deployed)"
+    ],
+    "Tier": "1",
+    "Tech level": "1",
+    "Hit points": "170",
+    "Armor type": "Flak",
+    "Speed": "6",
+    "Sight radius": "6",
+    "Cost": "$250",
+    "Estimated train time": "0:04",
+    "Train time multiplier(s)": "0.65",
+    "Trained at": "Allied Barracks",
+    "Ground": "40-20",
+    "Ground modifiers": [
+      "100% vs. Light",
+      "90% vs. Medium/Harvester",
+      "80% vs. Heavy",
+      "75% vs. ((Very) Big) Defensive Structure andLightning Rods",
+      "50% vs. Drone andheroes",
+      "40% vs. (Big) Light Structure",
+      "30% vs.Tech Concrete Fortresses",
+      "25% vs. Plate/Cyborg",
+      "20% vs. Basic/Animal, Flak and (Big) Heavy Structure"
+    ],
+    "Air": "40-20",
+    "Air modifiers": [
+      "100% vs. Light Aircraft",
+      "90% vs. Medium Aircraft",
+      "80% vs. Heavy Aircraft",
+      "75% vs.Scout Ravens,Rocketeers,Gyrocopters,NeonwaspsandCosmonauts",
+      "50% vs.NorioandUragan"
+    ],
+    "Cooldown": "50 frames (3.3 in-game seconds); 35 frames (2.3 in-game seconds) when deployed",
+    "Range": [
+      "5; 6 when deployed or garrisoned (ground)",
+      "8; 9 when deployed (air)",
+      "0.5 (radius)"
+    ],
+    "Ability": [
+      "Deploy to increase firing rate by 43% and range by 1",
+      "Garrison civilian structuresCannot attack air targets while garrisoned",
+      "Cannot attack air targets while garrisoned"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "Notes": "Uncrushable by normal vehicles when deployed",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/6/6a/Gdgiicon.png/revision/latest",
+  "icon_filename": "Gdgiicon.png"
+}

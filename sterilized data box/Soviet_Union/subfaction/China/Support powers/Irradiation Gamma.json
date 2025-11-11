@@ -1,0 +1,16 @@
+{
+  "unit_name": "Irradiation Gamma",
+  "infobox_data": {
+    "Affiliation": "China",
+    "Cost": "$800",
+    "Cooldown": "5:00",
+    "Called from": "Atomheart",
+    "Effect": [
+      "Irradiates friendly vehicles, cyborgs, Tesla/Shock Troopers, Desolators, Clairvoyants and Duplicants in a radius of 3 for 540 frames (36 in-game seconds)",
+      "Irradiated units cause10-7.5damage every 3 frames (0.2 in-game seconds) to enemies in a radius of 2.7 around them"
+    ],
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/f/f3/Irrdicon.png/revision/latest",
+  "icon_filename": "Irrdicon.png"
+}

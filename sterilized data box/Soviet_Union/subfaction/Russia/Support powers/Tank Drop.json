@@ -1,0 +1,17 @@
+{
+  "unit_name": "Tank Drop",
+  "infobox_data": {
+    "Affiliation": "Russia",
+    "Cost": "$2400",
+    "Cooldown": "6:30",
+    "Called from": "Palace",
+    "Effect": "Call in aCargo Planeto drop 2Tank Killersand 2Hydra Cannonson the target location",
+    "Notes": [
+      "Industrial Plantdoes not affect the cost",
+      "A red flare will be displayed at designated zone right after support power deployment"
+    ],
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/f/f5/Adrpicon.png/revision/latest",
+  "icon_filename": "Adrpicon.png"
+}

@@ -1,0 +1,48 @@
+{
+  "unit_name": "Cryocopter",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Cryo support",
+    "Armament": "Cryobeam",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "460",
+    "Armor type": "Medium Aircraft",
+    "Speed": "28 (flying)",
+    "Turn rate": "5",
+    "Sight radius": "7",
+    "Cost": "$1400",
+    "Estimated build time": "0:50",
+    "Built at": "Allied War Factory",
+    "Requires": "Tech Center",
+    "Ground": "0(dummy)",
+    "Ground modifiers": [
+      "Death explosion:",
+      "100% vs. all infantry armor types and Drone",
+      "85% vs. (Big) Light Structure and ((Very) Big Defensive Structure",
+      "70% vs. Light",
+      "55% vs. (Big) Heavy Structure",
+      "35% vs. Medium/Harvester and Heavy"
+    ],
+    "Cooldown": "2 frames (0.13 in-game seconds)",
+    "Range": "12, radius 0.6",
+    "Ability": [
+      "Weapon slowly freezes ground units and buildings, gradually reducing their armor and speed until they become immobilized and eventually disabled (seeWeapon stages)",
+      "The effect lingers for 10 frames (0.7 in-game seconds)"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Causes 6-3 damage in a radius of 2 at where the Cryocopter crashes when shot down"
+    ],
+    "Artist(s)": "ONEX",
+    "Voice actor": "George \"Seòras\" Exley",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/0/0a/Crycicon.png/revision/latest",
+  "icon_filename": "Crycicon.png"
+}

@@ -1,0 +1,50 @@
+{
+  "unit_name": "Flame Tower",
+  "infobox_data": {
+    "Faction": "Latin Confederation",
+    "Role": "Anti-infantry instant defense",
+    "Armament": "Flamethrower",
+    "Tier": "3",
+    "Hit points": "650",
+    "Armor type": "Defensive Structure",
+    "Turn rate": "15",
+    "Sight radius": "7",
+    "Cost": "$500",
+    "Recharge time": "4:30",
+    "Called from": "Battle Lab",
+    "Ground attack": [
+      "50-7.5",
+      "150% vs. Basic/Animal",
+      "135% vs. Flak",
+      "125% vs. Plate/Cyborg",
+      "35% vs. Defensive Structure andLightning Rods",
+      "25% vs. Drone",
+      "15% vs. all vehicle armor types, (Big) Light Structure, (Very) Big Defensive Structure and (Big) Heavy Structure"
+    ],
+    "Cooldown": "35 frames (2.3 in-game seconds)",
+    "Attack range": "6.5, radius 1.5",
+    "Ability": [
+      "Creates a fire explosion on deployment",
+      "The fire explosion deals40-3damage over a radius of 3"
+    ],
+    "Upgraded bonus": "+40% hit points",
+    "Fully upgraded bonus": [
+      "+40% firepower",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Cannot be captured",
+      "Does not keep the player in game ifShort Gameis enabled in skirmish and multiplayer"
+    ],
+    "Select sound": "From theGuardian Cannon(Tiberium Wars)",
+    "Artist(s)": "Nooze",
+    "_section_Support Power Structure": true,
+    "_section_Properties": true,
+    "_section_Deployment": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/7/75/Ftowicon.png/revision/latest",
+  "icon_filename": "Ftowicon.png"
+}

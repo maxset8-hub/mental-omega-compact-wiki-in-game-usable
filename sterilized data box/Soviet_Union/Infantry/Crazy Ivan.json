@@ -1,0 +1,64 @@
+{
+  "unit_name": "Crazy Ivan",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": "Controlled Demolition",
+    "Armament": "Timed incendiary explosives",
+    "Tier": "2",
+    "Tech level": "6",
+    "Hit points": "110",
+    "Armor type": "Basic",
+    "Speed": "8",
+    "Sight radius": "6",
+    "Cost": "$500",
+    "Estimated train time": "0:11",
+    "Train time multiplier(s)": "0.65",
+    "Trained at": "Soviet Barracks",
+    "Requires": "Radar Dish",
+    "Ground": "0(dummy)",
+    "Ground modifiers": [
+      "240% vs. (Very Big) Defensive Structure",
+      "120% vs. Basic/Animal",
+      "110% vs. Flak",
+      "100% vs. Plate/Cyborg, Light, Drone and Light Structure",
+      "80% vs. Big Light Structure",
+      "75% vs. Medium/Harvester",
+      "70% vs. Heavy Structure and Naval Shipyards",
+      "60% vs. Heavy and Big Defensive Structure",
+      "50% vs. Big Heavy Structure and Crazy Ivans"
+    ],
+    "Cooldown": [
+      "60 frames (4 in-game seconds)",
+      "100 frames (6.7 in-game seconds) inTaciturn"
+    ],
+    "Range": [
+      "1.5",
+      "5 inTaciturn"
+    ],
+    "Ability": [
+      "Amphibious",
+      "Timed incendiary explosives take 430 frames (28.7 in-game seconds) to detonate, causing 420-84 damage over a radius of 2 and starts fires that lingers for a while",
+      "Can destroybridgesby using a timed incendiary explosive on its repair hut"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "Increased bomb explosion and death explosion radius (from 1.5 to 1.75)",
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "Notes": [
+      "Resistant to fire damage",
+      "Timed incendiary explosives can be detected and defused byEngineers",
+      "Explodes when killedThe explosion detonates an incendiary explosive at the Crazy Ivan's position",
+      "The explosion detonates an incendiary explosive at the Crazy Ivan's position"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/a/aa/Ivanicon.png/revision/latest",
+  "icon_filename": "Ivanicon.png"
+}

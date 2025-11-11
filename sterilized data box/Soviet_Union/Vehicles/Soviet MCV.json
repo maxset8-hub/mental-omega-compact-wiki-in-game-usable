@@ -1,0 +1,60 @@
+{
+  "unit_name": "Mobile Construction Vehicle",
+  "infobox_data": {
+    "Faction": "Allied NationsSoviet UnionEpsilon ArmyFoehn Revolt",
+    "Role": "Base construction",
+    "Tier": "2",
+    "Hit points": [
+      "2000",
+      "3000 ifLimited MCVis enabled in skirmish and multiplayer"
+    ],
+    "Armor type": "Heavy",
+    "Speed": "4",
+    "Turn rate": "5",
+    "Sight radius": "7",
+    "Cost": [
+      "$3000",
+      "$2000 ifLimited MCVis enabled in skirmish and multiplayer"
+    ],
+    "Estimated build time": [
+      "1:48",
+      "1:12 ifLimited MCVis enabled in skirmish and multiplayer"
+    ],
+    "Build time multiplier(s)": "1.0 (multiple factory)",
+    "Built at": [
+      "Allied War Factory",
+      "Soviet War Factory",
+      "Epsilon War Factory",
+      "Foehn War Factory"
+    ],
+    "Requires": [
+      "Air Force Command Headquarters",
+      "Radar Dish",
+      "Radar Spire",
+      "Cloud Piercer"
+    ],
+    "Ability": "Deploy into aConstruction Yard",
+    "Notes": [
+      "Build time is unaffected by multiple War Factories",
+      "Self-repair (unpacked form only)",
+      "Can crush infantry",
+      "Uncrushable",
+      "Cannot be mind-controlled, hijacked, depiloted and abducted",
+      "Immune to confusion rays",
+      "Takes 6 slots in transports"
+    ],
+    "Artist(s)": [
+      "Azri_Apoc (Allied and Epsilon MCV)",
+      "Mevitar (Soviet and Foehn MCV)",
+      "Nooze (Foehn MCV cameo)"
+    ],
+    "Voice actor": "De'Lante Capers(Foehn MCV; previously credited as \"Rhys_Dallows\")",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/e0/Mcvicon.png/revision/latest",
+  "icon_filename": "Mcvicon.png"
+}

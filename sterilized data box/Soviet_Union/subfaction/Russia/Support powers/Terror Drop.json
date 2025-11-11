@@ -1,0 +1,20 @@
+{
+  "unit_name": "Terror Drop",
+  "infobox_data": {
+    "Affiliation": "Russia",
+    "Cost": "$1100",
+    "Cooldown": "5:00",
+    "Called from": "Palace",
+    "Effect": "Call in a MiG Transport to drop 2Terror Droneson the target location",
+    "Notes": [
+      "Industrial Plantdoes not affect the cost",
+      "The MiG Transport flies at a speed of 100 (jet) and cannot be attacked",
+      "A red flare will be displayed at designated zone right after support power deployment"
+    ],
+    "Artist(s)": "Azri_Apoc (Mig Transport voxel)",
+    "_section_Support Power": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/9/97/Trrdicon.png/revision/latest",
+  "icon_filename": "Trrdicon.png"
+}

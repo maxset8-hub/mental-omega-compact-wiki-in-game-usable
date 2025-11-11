@@ -1,0 +1,171 @@
+{
+  "unit_name": "Epsilon War Factory",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": "Vehicle production",
+    "Tier": "1",
+    "Tech level": "3",
+    "Hit points": "1200",
+    "Armor type": "Big Light Structure",
+    "Sight radius": "4",
+    "Cost": "$2000",
+    "Estimated build time": "1:30",
+    "Build time multiplier(s)": "1.25",
+    "Built by": "Epsilon Construction Yard",
+    "Requires": [
+      "Bio Reactor",
+      "Epsilon Ore Refinery"
+    ],
+    "Placement radius": "2",
+    "Power": "-100",
+    "Produces": [
+      "Epsilon vehicles",
+      "Invader",
+      "Basilisk",
+      "Aerial Fortress Irkalla",
+      "Salamander"
+    ],
+    "Ability": "Can be toggled as the primary vehicle production structure (if the player have multiplewar factoriesat the same time)",
+    "Notes": [
+      "The more war factories the player have, the faster vehicles are produced",
+      "Can be infiltrated for veteran vehicle production"
+    ],
+    "Select sound": "From theWar Factory(Red Alert 3)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/f/fe/Ywepicon.png/revision/latest",
+  "icon_filename": "Ywepicon.png",
+  "article_tables": [
+    {
+      "title": "Standard vehicles",
+      "headers": [
+        "Unit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Resource Vehicle.\nRequires Epsilon Ore Refinery\nAbilities:\nHarvests ore with a capacity of 1000 ores/1500 gems\nCloaked; periodically reveals itself"
+        ],
+        [
+          "",
+          "Light Vehicle. Strong vs. Infantry, Aircraft.\nAbilities:\nFires faster the longer it attacks"
+        ],
+        [
+          "Lasher Light Tank",
+          "Main Battle Tank. Strong vs. Armor.\nAbilities:\nRapidly fires the first 4 shells"
+        ],
+        [
+          "Mantis Light Tank",
+          "Main Battle Tank. Strong vs. Armor.\nAbilities:\nRepairs Mantis Tanks around itself when destroyed"
+        ],
+        [
+          "Opus Custom Tank",
+          "Main Battle Tank. Strong vs. Armor.\nAbilities:\nTransports infantry with 1 passenger slot\nSecond gun activates when an infantry is onboard\nThe higher the tier of the passenger, the higher the damage of the second gun"
+        ],
+        [
+          "",
+          "Unmanned Light Walker. Strong vs. Infantry.\nAbilities:\nDetects cloaked and disguised units\nTransports infantry with 1 passenger slot\nRepairs vehicles when an Engineer is onboard"
+        ],
+        [
+          "Epsilon MCV",
+          "Construction Vehicle. Unarmed.\nRequires Radar Spire\nDeploys into an Epsilon Construction Yard"
+        ],
+        [
+          "Driller APC",
+          "Transport Vehicle. Unarmed.\nRequires Radar Spire\nAbilities:\nTransports infantry with 3 passenger slots\nSubterranean"
+        ],
+        [
+          "",
+          "Medium Tank. Strong vs. Infantry, Armor.\nRequires Pandora Hub\nAbilities:\nAmphibious"
+        ],
+        [
+          "",
+          "Hit-and-Run Vehicle. Strong vs. Armor.\nRequires Pandora Hub\nAbilities:\nDeploy to switch between rapid fire or artillery modes"
+        ],
+        [
+          "",
+          "Medium Tank. Strong vs. Infantry, Armor.\nRequires Pandora Hub\nAbilities:\nDetects cloaked units\nCloaked\nDeploy to switch between auto attack or hold fire modes"
+        ],
+        [
+          "",
+          "Mind Control Monster Tank.\nRequires Pandora Hub with  Psychplug\nAbilities:\nMultiple mind control\nDamages itself when controlling more than 3 units"
+        ],
+        [
+          "",
+          "Hovercraft Artillery. Strong vs. Structures.\nRequires Pandora Hub with  Psychplug\nAbilities:\nReduces speed of heavy infantry and mechanical units by 85%\nSpeed debuff is stackable.\nMechanical units near primary target are slowed down\nAmphibious"
+        ],
+        [
+          "",
+          "Heavy Vehicle. Strong vs. Aircraft (no ground attack).\nRequires Pandora Hub with  Psychplug\nCarries a Dybbuk-Interceptor to attack aircraft"
+        ],
+        [
+          "",
+          "Monster Tank. Strong vs. Armor, Structures.\nRequires Pandora Hub with  Chemplug\nAbilities:\nSubterranean\nExplodes violently when destroyed"
+        ],
+        [
+          "",
+          "Light Artillery. Strong vs. Infantry, Structures.\nRequires Pandora Hub with  Chemplug\nAbilities:\nReduces the armor of enemy ground units by 10%"
+        ],
+        [
+          "",
+          "Support Vehicle.\nRequires Pandora Hub with  Chemplug\nAbilities:\nReduces the armor of enemy aircraft by 25%, but cannot directly harm them\nArmor debuff is stackable.\nAmphibious"
+        ],
+        [
+          "",
+          "Monster Tank. Strong vs. Armor, Aircraft.\nRequires Pandora Hub with  Geneplug\nAbilities:\nDeploy to switch between anti-ground or anti-air modes"
+        ],
+        [
+          "",
+          "Support Vehicle. Unarmed.\nRequires Pandora Hub with  Geneplug\nAbilities:\nCloaks nearby units (except itself) when deployed"
+        ]
+      ]
+    },
+    {
+      "title": "Standard aircraft",
+      "headers": [
+        "Unit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Light Aircraft. Strong vs. Infantry, Aircraft.\nRequires Radar Spire\nAbilities:\nParasite pull disable defenses and power structures\nParasite pull steal credits from Ore Refineries"
+        ],
+        [
+          "",
+          "Medium Aircraft. Strong vs. Structures.\nRequires upgraded Pandora Hub"
+        ],
+        [
+          "",
+          "Epic Super-Heavy Aircraft. Strong vs. Everything.\nRequires Pandora Hub with  Geneplug\nOnly one Aerial Fortress Irkalla may be produced at a time."
+        ]
+      ]
+    },
+    {
+      "title": "Stolen Tech",
+      "headers": [
+        "Unit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Stolen Tech Multirole Vehicle. Strong vs. Armor, Structures.\nRequires infiltration of Tech Center and Allied Construction Yard\nRequires upgraded Pandora Hub\nAbilities:\nSteals the weapon of a destroyed enemy vehicle\nStolen weapons permanently replace the default weapon\nCan crush vehicles"
+        ],
+        [
+          "",
+          "Stolen Tech Vehicle. Strong vs. Infantry, Armor.\nRequires infiltration of Palace/Battle Lab/Atomheart and Soviet Construction Yard\nRequires upgraded Pandora Hub\nAbilities:\nSubterranean\nRepairs damage taken from Tesla weapons"
+        ],
+        [
+          "",
+          "Stolen Tech Gunship. Strong vs. Armor, Aircraft.\nRequires infiltration of Cloud Piercer and Foehn Construction Yard\nRequires upgraded Pandora Hub\nAbilities:\nConfusion ray\nConfusion field"
+        ]
+      ]
+    }
+  ]
+}

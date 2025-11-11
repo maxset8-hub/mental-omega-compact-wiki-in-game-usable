@@ -1,0 +1,72 @@
+{
+  "unit_name": "Lancer",
+  "infobox_data": {
+    "Faction": "Foehn RevoltChina(campaign only)",
+    "Role": [
+      "Anti-tank",
+      "Anti-structure",
+      "Garrison"
+    ],
+    "Armament": "Pressurizer lance",
+    "Tier": "1",
+    "Tech level": "1",
+    "Hit points": "300",
+    "Armor type": "Plate",
+    "Speed": "7",
+    "Sight radius": "9",
+    "Cost": "$500",
+    "Estimated train time": "0:11",
+    "Train time multiplier(s)": "0.65 (all infantry)",
+    "Trained at": "Foehn Barracks",
+    "Requires": "None",
+    "Ground": "55-16.5",
+    "Ground modifiers": [
+      "Primary attack:",
+      "105% vs. Light",
+      "90% vs. Medium",
+      "80% vs. Heavy",
+      "60% vs. Harvester and Light Structure",
+      "50% vs. Big Light Structure and Defensive Structure",
+      "45% vs. Minermites",
+      "40% vs. (Very) Big Defensive Structure",
+      "30% vs. Heavy Structure and Tech Concrete Fortresses",
+      "25% vs. Big Heavy Structure",
+      "20% vs. Drone and all infantry armor types",
+      "When inside an open-topped transport:",
+      "105% vs. Light navy",
+      "100% vs. Medium navy",
+      "90% vs. Heavy navy"
+    ],
+    "Cooldown": "35 frames (2.3 in-game seconds); 60 frames (4 in-game seconds) when garrisoned",
+    "Range": "4; 6 when garrisoned, minimum 1, radius 0.55",
+    "Upgrades to": "Railguneer",
+    "Ability": [
+      "Garrison civilian structures",
+      "Weapon may hit an additional target in a radius of 2 around the primary target with a fragment that causes60-18damage in a radius of 0.5"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "Notes": [
+      "Uncrushable by normal vehicles",
+      "Cannot be attacked byAttack DogsandSpooks",
+      "Vulnerable to EMP and magnetic weapons"
+    ],
+    "Artist(s)": [
+      "IceDragon (SHP)",
+      "Nooze (cameo)"
+    ],
+    "Voice actor": "Zenothist",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/2/29/Lancicon.png/revision/latest",
+  "icon_filename": "Lancicon.png"
+}

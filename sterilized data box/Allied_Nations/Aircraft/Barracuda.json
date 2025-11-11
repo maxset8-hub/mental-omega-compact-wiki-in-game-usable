@@ -1,0 +1,143 @@
+{
+  "unit_name": "Barracuda",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Anti-structure",
+    "Armament": "2x \"Venus\" Penetrator missiles",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "340",
+    "Armor type": "Light Aircraft",
+    "Speed": "18 (jet)",
+    "Turn rate": "3",
+    "Sight radius": "5",
+    "Cost": "$2000",
+    "Estimated build time": "1:19",
+    "Build time multiplier(s)": [
+      "1.1 (individual)",
+      "0.9 (multiple factory)"
+    ],
+    "Built at": "Air Force Command Headquarters",
+    "Requires": "Tech Center",
+    "Ground": "125",
+    "Ground modifiers": [
+      "340% vs. Very Big Defensive Structure",
+      "230% vs. Big Defensive Structure",
+      "210% vs. Defensive Structure",
+      "185% vs.Nuclear Reactors",
+      "165% vs.Naval Shipyards",
+      "160% vs. Big Light Structure",
+      "155% vs. Light Structure",
+      "150% vs. (Big) Heavy Structure",
+      "100% vs. all infantry armor types and Drone",
+      "45% vs. Medium/Harvester",
+      "40% vs. Light and Heavy"
+    ],
+    "Cooldown": "10 frames (0.7 in-game seconds)",
+    "Range": "8",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Invisible on enemy radar",
+      "Has 2 ammunitionEach ammunition takes 24 in-game seconds to reload",
+      "Each ammunition takes 24 in-game seconds to reload"
+    ],
+    "Artist(s)": "Mevitar",
+    "Voice actor": "Gabriel Wolf",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/3/36/Stlhicon.png/revision/latest",
+  "icon_filename": "Stlhicon.png",
+  "article_tables": [
+    {
+      "title": "Strategy",
+      "headers": [
+        "Structures",
+        "Number of bombers required for destruction"
+      ],
+      "rows": [
+        [
+          "deployed Construction Yard",
+          "7\ndeployed Fake Construction Yard 7"
+        ],
+        [
+          "Power providers",
+          "2\nWindtrap 3\nNuclear Reactor 4"
+        ],
+        [
+          "Barracks",
+          "3"
+        ],
+        [
+          "Infantry support\nArsenal Depot\nField Bureau\nSynthesis Vault",
+          "3"
+        ],
+        [
+          "Ore Refinery",
+          "3\ndeployed War Rig 3"
+        ],
+        [
+          "War Factory",
+          "4\ndeployed Stalin's Fist 6"
+        ],
+        [
+          "Naval Shipyard",
+          "4"
+        ],
+        [
+          "Airfields",
+          "3\nAir Force Command Headquarters 4\nRunway 3"
+        ],
+        [
+          "T2 tech providers",
+          "4\n3"
+        ],
+        [
+          "T3 tech providers",
+          "4"
+        ],
+        [
+          "Economy boosters",
+          "3"
+        ],
+        [
+          "Support superweapons",
+          "4"
+        ],
+        [
+          "Offensive superweapons",
+          "4\nFake Psychic Dominator 4"
+        ],
+        [
+          "Miscellaneous buildings",
+          "Experimental Warpshop 3\nRepair Crane 2\nEMP Control Station 3\ndeployed Grinder 3\nHarbinger Tower 3"
+        ],
+        [
+          "T1 defenses",
+          "2\nPillbox 1\nSentry Gun 1"
+        ],
+        [
+          "T2 defenses",
+          "2"
+        ],
+        [
+          "T3 defenses",
+          "3\nGap Generator Warpnode 2\nUltra Dome 4\nHyperion 4\nIron Guard 2\nSmoke Turret 2\nChimera Core 2\nNanocoat Regulator Signal Inhibitor 2\nPlasmerizer 8"
+        ],
+        [
+          "deployed Boidmachine\ndeployed Orcinus Waveshaper",
+          "multiple (Barracudas are ineffective against vehicle armor)"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "unit_name": "Synthesis Vault",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": "Combat support",
+    "Tier": "1",
+    "Tech level": "3",
+    "Hit points": "1000",
+    "Armor type": "Light Structure",
+    "Sight radius": "6",
+    "Cost": "$800",
+    "Estimated build time": "0:40",
+    "Build time multiplier(s)": [
+      "1.25 (all buildings)",
+      "1.15  (individual)"
+    ],
+    "Built by": "Epsilon Construction Yard",
+    "Requires": "Epsilon Barracks",
+    "Placement radius": "2",
+    "Power": "-50",
+    "Allows": [
+      "Tank Bunker",
+      "Bloatick",
+      "Brute",
+      "Shadow Ring(withPandora Hub)",
+      "Ruiner(withGeneplug)"
+    ],
+    "Ability": [
+      "Increases the armor ofTank Bunkersin a radius of 9 around the Synthesis Vault by 40%The effect lingers for 120 frames (8 in-game seconds)Does not stack withWar Rigsand other Synthesis Vaults",
+      "The effect lingers for 120 frames (8 in-game seconds)",
+      "Does not stack withWar Rigsand other Synthesis Vaults",
+      "Regen Drugs/Wonder Drugs",
+      "Quick Fort"
+    ],
+    "Notes": "Can be infiltrated to reset the timers of support powers",
+    "Select sound": "From theOperations Center(Tiberium Wars)",
+    "Artist(s)": "DonutArnold",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/b/b8/Evlticon.png/revision/latest",
+  "icon_filename": "Evlticon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Utility Power Cost: $800Recharge Time: 4:30All friendly ground infantry in the target area rapidly regenerate health for 28 secondsLeft-click icon then left-click on target location"
+        ],
+        [
+          "",
+          "Type: Utility PowerCost: $1000Recharge Time: 5:30Replaces Regen Drugs when a Cloning Vats is builtAll friendly ground infantry in the target area rapidly regenerate health for 42 secondsLasts longer than Regen DrugsLeft-click icon then left-click on target location"
+        ],
+        [
+          "",
+          "Type: Defensive PowerCost: $500Recharge Time: 5:00Deploys a Tank Bunker anywhere on the battlefieldThe Tank Bunker gains a 40% armor boost after deployment that lasts 40 secondsLeft-click icon then left-click on target location (cannot be targeted on water)"
+        ]
+      ]
+    }
+  ]
+}

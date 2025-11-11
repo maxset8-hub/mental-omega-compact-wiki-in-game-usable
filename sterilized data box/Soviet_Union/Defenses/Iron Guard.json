@@ -1,0 +1,39 @@
+{
+  "unit_name": "Iron Guard",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": "Active invulnerability",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "700",
+    "Armor type": "Defensive Structure",
+    "Sight radius": "6",
+    "Cost": "$1800",
+    "Estimated build time": "1:16",
+    "Build time multiplier(s)": [
+      "1.2 (all defenses)",
+      "0.9 (multiple Construction Yards)"
+    ],
+    "Built by": "Soviet Construction Yard",
+    "Requires": "Iron Curtain Device",
+    "Placement radius": "2",
+    "Power": "-300",
+    "Ability": [
+      "Friendly vehicles in a radius of 5.2 around the Iron Guard becomes invulnerable",
+      "The effect takes 100 frames (6.7 in-game seconds) to apply and lingers for 125 frames (8.3 in-game seconds)"
+    ],
+    "Notes": [
+      "Limited to two for each player",
+      "Cannot be captured"
+    ],
+    "Select sound": "From theIron Curtain(Red Alert 3)",
+    "Artist(s)": "Nooze",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/1/17/Irdmicon.png/revision/latest",
+  "icon_filename": "Irdmicon.png"
+}

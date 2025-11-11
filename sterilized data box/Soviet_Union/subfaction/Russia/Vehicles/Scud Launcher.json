@@ -1,0 +1,53 @@
+{
+  "unit_name": "Scud Launcher",
+  "infobox_data": {
+    "Faction": "Russia",
+    "Role": "Siege",
+    "Armament": "Scud rocket",
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": "360",
+    "Armor type": "Medium",
+    "Speed": "4",
+    "Turn rate": "5",
+    "Sight radius": "6",
+    "Cost": "$1600",
+    "Estimated build time": "0:58",
+    "Build time multiplier(s)": "0.9 (multiple factory)",
+    "Built at": "Soviet War Factory",
+    "Requires": "Palace",
+    "Ground": "250-62.5",
+    "Ground modifiers": [
+      "120% vs. ((Very) Big) Defensive Structure",
+      "100% vs. (Big) Light Structure and Basic/Animal",
+      "90% vs. Flak and Light",
+      "80% vs. Plate/Cyborg and Drone",
+      "70% vs. Medium/Harvester and Heavy",
+      "60% vs. (Big) Heavy Structure"
+    ],
+    "Cooldown": "300 frames (20 in-game seconds)",
+    "Range": "20, minimum 7, radius 1.2",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+60% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can crush infantry",
+      "Cannot be depiloted",
+      "Takes 6 slots in transports",
+      "Projectiles can be shot downThe projectile has 220 hit points and flies at a speed of 26",
+      "The projectile has 220 hit points and flies at a speed of 26"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/0/00/V3icon.png/revision/latest",
+  "icon_filename": "V3icon.png"
+}

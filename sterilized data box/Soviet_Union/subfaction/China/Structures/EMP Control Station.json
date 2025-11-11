@@ -1,0 +1,51 @@
+{
+  "unit_name": "EMP Control Station",
+  "infobox_data": {
+    "Faction": "China",
+    "Role": "Support",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "1000",
+    "Armor type": "Light Structure",
+    "Sight radius": "6",
+    "Cost": "$1000",
+    "Estimated build time": "0:43",
+    "Build time multiplier(s)": [
+      "1.25 (all buildings)"
+    ],
+    "Built by": "Soviet Construction Yard",
+    "Requires": "Atomheart",
+    "Placement radius": "2",
+    "Power": "-150",
+    "Ability": "EM Pulse",
+    "Notes": [
+      "Limited to one for each player",
+      "Cannot be captured",
+      "Can be infiltrated to reset the support power's timer"
+    ],
+    "Select sound": "From theProton Collider(Red Alert 3)",
+    "Artist(s)": "4SG",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/2/23/Nempicon.png/revision/latest",
+  "icon_filename": "Nempicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Offensive PowerCost: $1000Recharge Time: 6:30Temporarily disables mechanical units in the target areaLasts 24 seconds for ground units and 12 seconds for naval unitsCooldown timer is visible to all playersLeft-click icon then left-click on target location"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "unit_name": "Warhawk",
+  "infobox_data": {
+    "Faction": "United States",
+    "Role": [
+      "Aerial Assault",
+      "Anti-ground"
+    ],
+    "Armament": [
+      "\"Nova\" laser cannon",
+      "\"Uranus\" missiles"
+    ],
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "330",
+    "Armor type": "medium (flying)",
+    "Speed": "34 (flying)",
+    "Turn rate": "8",
+    "Sight radius": "7",
+    "Cost": "$1200",
+    "Estimated build time": "0:43",
+    "Built at": "Allied War Factory",
+    "Requires": "Mercury Network Uplink",
+    "Ground": [
+      "16 (laser cannon)",
+      "75-30 * 4 (300-120 total) (missiles)"
+    ],
+    "Ground modifiers": [
+      "Laser cannon:",
+      "105% vs. Plate/Cyborg",
+      "100% vs. Drone, Basic/Animal and Flak",
+      "80% vs. Light",
+      "65% vs. Medium/Harvester",
+      "50% vs. Heavy",
+      "30% vs. (Big) Light Structure",
+      "25% vs. ((Very) Big) Defensive Structure and (Big) Heavy Structure",
+      "Missiles:",
+      "105% vs. Light and Drone",
+      "95% vs. Medium/Harvester",
+      "80% vs. Heavy",
+      "50% vs. Basic/Animal and Flak",
+      "30% vs. Light Structure and Defensive Structure",
+      "25% vs. Plate/Cyborg and Heavy Structure",
+      "Death explosion:",
+      "100% vs. all infantry armor types and Drone",
+      "85% vs. (Big) Light Structure and ((Very) Big Defensive Structure",
+      "70% vs. Light",
+      "55% vs. (Big) Heavy Structure",
+      "35% vs. Medium/Harvester and Heavy"
+    ],
+    "Cooldown": "10 frames (0.7 in-game seconds) (both weapons)",
+    "Range": [
+      "7 (laser cannon)",
+      "8, radius 0.75 (missiles)"
+    ],
+    "Ability": [
+      "Heals flying infantry units around it",
+      "Fires its missiles every 8 laser shots"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Can fire on the move",
+      "Causes 6-3 damage in a radius of 2 at where the Warhawk crashes when shot down"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/1/16/Warhicon.png/revision/latest",
+  "icon_filename": "Warhicon.png"
+}

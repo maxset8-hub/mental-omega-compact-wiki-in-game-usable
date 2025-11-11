@@ -1,0 +1,62 @@
+{
+  "unit_name": "Plasmerizer",
+  "infobox_data": {
+    "Faction": "Last Bastion",
+    "Role": "Ultimate defense",
+    "Armament": "Supreme plasma railgun",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "6000",
+    "Armor type": "Very Big Defensive Structure",
+    "Turn rate": "2",
+    "Sight radius": "10",
+    "Cost": "$3000",
+    "Estimated build time": "3:36",
+    "Build time multiplier(s)": [
+      "1.2 (all defenses)",
+      "1.67 (individual)",
+      "1.0 (multiple factory)"
+    ],
+    "Built by": "Foehn Construction Yard",
+    "Requires": "Nanofiber Loom Expansion",
+    "Placement radius": "2",
+    "Ground attack": "360-144",
+    "Ground attack modifiers": [
+      "130% vs. Light",
+      "110% vs. Medium/Harvester",
+      "100% vs. Basic/Animal, Flak and Drone",
+      "90% vs. Heavy",
+      "75% vs. Plate/Cyborg",
+      "20% vs. ((Very) Big) Defensive Structure",
+      "10% vs. (Big) Light Structure and (Big) Heavy Structure"
+    ],
+    "Cooldown": "315 frames (21 in-game seconds)",
+    "Attack range": "21, minimum 7, radius 5",
+    "Power": "-1000",
+    "Upgraded bonus": "+40% armor",
+    "Fully upgraded bonus": [
+      "+40% firepower",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Cannot bechronoliftedor repaired by Engineers",
+      "Limited to one for each player",
+      "Can gain experience",
+      "Must be locked on to the target and charge up before firing (seeWeapon stages)",
+      "Immune to Suppressor and Warpnode firepower inversion effects"
+    ],
+    "Select sound": "Modified from theGDI Construction Yard(Tiberium Wars)",
+    "Artist(s)": [
+      "Bu7loos (artwork)",
+      "Nooze (cameo)"
+    ],
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/3/34/Avalicon.png/revision/latest",
+  "icon_filename": "Avalicon.png"
+}

@@ -1,0 +1,64 @@
+{
+  "unit_name": "Inferno Tower",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": "Advanced defense",
+    "Armament": "\"Inferno\" pyrokinetic beam",
+    "Tier": "2",
+    "Tech level": "6",
+    "Hit points": "850",
+    "Armor type": "Defensive Structure",
+    "Sight radius": "8",
+    "Cost": [
+      "$1200",
+      "$1500 inInfantry Only"
+    ],
+    "Estimated build time": [
+      "0:50",
+      "1:05 inInfantry Only"
+    ],
+    "Built by": "Epsilon Construction Yard",
+    "Requires": "Radar Spire",
+    "Placement radius": "5",
+    "Ground attack": [
+      "170-42.5",
+      "250-62.5 (Psychic Flash)"
+    ],
+    "Ground attack modifiers": [
+      "200% vs. Basic/Animal and Drone",
+      "120% vs. Flak and Plate/Cyborg",
+      "100% vs. all vehicle armor types",
+      "50% vs. all structure armor types"
+    ],
+    "Cooldown": "80 frames (5.3 in-game seconds)",
+    "Attack range": [
+      "8, radius 0.75",
+      "9, radius 0.75 (Psychic Flash)"
+    ],
+    "Power": "-75",
+    "Allows": [
+      "Provided along withPandora Hub:",
+      "Psychic Flash"
+    ],
+    "Upgraded bonus": "+40% armor",
+    "Fully upgraded bonus": [
+      "+40% firepower",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Psychic Flashwill increase its range and firepower for 1:30 minutes",
+      "Can gain experience",
+      "Takes 50% more damage fromLightning Storm"
+    ],
+    "Select sound": "From theObelisk of Light(Tiberium Wars)",
+    "Artist(s)": "Nooze",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/8/86/Infticon.png/revision/latest",
+  "icon_filename": "Infticon.png"
+}

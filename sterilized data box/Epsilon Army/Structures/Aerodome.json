@@ -1,0 +1,75 @@
+{
+  "unit_name": "Epsilon Aerodome",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": "Aircraft production",
+    "Tier": "1",
+    "Tech level": "5",
+    "Hit points": "1100",
+    "Armor type": "Big Light Structure",
+    "Sight radius": "7",
+    "Cost": "$1000",
+    "Estimated build time": "0:43",
+    "Build time multiplier(s)": [
+      "1.25 (all buildings)"
+    ],
+    "Built by": "Epsilon Construction Yard",
+    "Requires": [
+      "Bio Reactor",
+      "Epsilon Ore Refinery"
+    ],
+    "Placement radius": "2",
+    "Power": "-100",
+    "Produces": [
+      "Dybbuk-Attacker",
+      "Dybbuk-Evolver",
+      "Dybbuk-Seizer"
+    ],
+    "Ability": [
+      "Can house up to 4 jets",
+      "Can be toggled as the primary jet production structure (if the player have multipleairfields,RunwaysandTech Airfieldsat the same time)"
+    ],
+    "Notes": "The more airfields the player have, the faster jets are produced",
+    "Select sound": "From theAir Support Tower(Kane's Wrath)",
+    "Artist(s)": "Nooze",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/d/d3/Aerdicon.png/revision/latest",
+  "icon_filename": "Aerdicon.png",
+  "article_tables": [
+    {
+      "title": "Standard",
+      "headers": [
+        "Unit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Fighter Jet. Strong vs. Armor.\nHas 6 ammunition"
+        ],
+        [
+          "",
+          "Advanced Bomber Jet. Strong vs. Infantry.\nRequires Cloning Vats\nHas 2 ammunition\nAbilities:\nMutates enemy infantry into Brutes"
+        ]
+      ]
+    },
+    {
+      "title": "Stolen Tech",
+      "headers": [
+        "Unit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Stolen Tech Mind Control Jet.\nRequires infiltration of Pandora Hub and Epsilon Construction Yard\nRequires upgraded Pandora Hub\nHas 3 ammunition\nAbilities:\nMind controls up to 3 enemy units (including aircraft)\nIncreases firepower of mind-controlled victims by 60% for 60 seconds"
+        ]
+      ]
+    }
+  ]
+}

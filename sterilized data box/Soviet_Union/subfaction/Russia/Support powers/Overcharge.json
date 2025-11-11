@@ -1,0 +1,13 @@
+{
+  "unit_name": "Overcharge",
+  "infobox_data": {
+    "Affiliation": "Russia",
+    "Cost": "$1000",
+    "Cooldown": "6:00",
+    "Called from": "Palace",
+    "Effect": "Increases the firepower of friendly units with Tesla weapons in a 5x5 radius by 50% for 300 frames (20 in-game seconds)",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/7/7e/Ovchicon.png/revision/latest",
+  "icon_filename": "Ovchicon.png"
+}

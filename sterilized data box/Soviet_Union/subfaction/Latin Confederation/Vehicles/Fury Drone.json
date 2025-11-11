@@ -1,0 +1,57 @@
+{
+  "unit_name": "Fury Drone",
+  "infobox_data": {
+    "Faction": "Latin Confederation",
+    "Role": "Ambush",
+    "Armament": "Explosive jump",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "180",
+    "Armor type": "Drone",
+    "Speed": "10",
+    "Turn rate": "40",
+    "Sight radius": "7",
+    "Cost": "$500",
+    "Estimated build time": "0:18",
+    "Built at": "Soviet War Factory",
+    "Requires": "Battle Lab",
+    "Ground": "300-75",
+    "Ground modifiers": [
+      "150% vs. Basic/Animal and Light",
+      "135% vs. Flak",
+      "125% vs. Plate/Cyborg and Medium/Harvester",
+      "110% vs. Heavy",
+      "100% vs. Drone, Defensive Structure andLightning Rods",
+      "75% vs.heroes",
+      "60% vs. Shipyards",
+      "50% vs.Tank Bunkersand (Very) Big Defensive Structure",
+      "30% vs. Light Structure,Naval ShipyardsandTech Concrete Fortresses",
+      "20% vs. Big Light Structure and Heavy Structure",
+      "15% vs. Big Heavy Structure"
+    ],
+    "Range": "10, radius 1.75",
+    "Ability": [
+      "Deploy to burrow on the ground and attack enemies with a kamikaze jump",
+      "Cloaked when deployed",
+      "Detects disguised enemies"
+    ],
+    "Notes": [
+      "Uncrushable when deployed",
+      "Immune to radiation and poison",
+      "Cannot be attacked byDesolators/EradicatorsandSyckles",
+      "Cannot be mind-controlled, hijacked and depiloted",
+      "Must be deployed to attack",
+      "Can enter infantry transports",
+      "Takes 2 slots in transports"
+    ],
+    "Artist(s)": "MadHQ",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/0/04/Fdrnicon.png/revision/latest",
+  "icon_filename": "Fdrnicon.png"
+}

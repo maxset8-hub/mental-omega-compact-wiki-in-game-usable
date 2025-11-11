@@ -1,0 +1,15 @@
+{
+  "unit_name": "Cryospear",
+  "infobox_data": {
+    "Affiliation": "Allied Nations",
+    "Cost": "$1000",
+    "Cooldown": "5:00",
+    "Called from": "Arsenal Depot",
+    "Requires": "Tech Center",
+    "Effect": "Immobilizes infantry and vehicles in a radius of 2 for 270 frames (18 in-game seconds)",
+    "Notes": "ReplacesCryoshot",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/3/3a/Crysicon.png/revision/latest",
+  "icon_filename": "Crysicon.png"
+}

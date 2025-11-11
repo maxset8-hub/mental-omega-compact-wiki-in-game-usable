@@ -1,0 +1,36 @@
+{
+  "unit_name": "Lightning Rod",
+  "infobox_data": {
+    "Faction": "European Alliance",
+    "Role": [
+      "Emergency power",
+      "Support"
+    ],
+    "Tier": "2",
+    "Hit points": "1400",
+    "Armor type": "Big Light Structure",
+    "Sight radius": "3",
+    "Cost": [
+      "$1000 (support power)",
+      "$1000(structure)"
+    ],
+    "Recharge time": "5:00",
+    "Called from": "Shield Command",
+    "Power": "+1000",
+    "Ability": [
+      "Increases the firepower ofThor Gunshipsin a radius of 10 around the Lightning Rod by 25%",
+      "The effect takes 100 frames (6.7 in-game seconds) to apply and lingers for 110 frames (7.3 in-game seconds)"
+    ],
+    "Notes": [
+      "Loses 1 hit point every frame (0.07 in-game seconds)",
+      "Cannot be captured and repaired",
+      "Can be used while in low power"
+    ],
+    "_section_Support Power Structure": true,
+    "_section_Properties": true,
+    "_section_Deployment": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/51/Lrodicon.png/revision/latest",
+  "icon_filename": "Lrodicon.png"
+}

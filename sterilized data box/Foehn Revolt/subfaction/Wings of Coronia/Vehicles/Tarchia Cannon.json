@@ -1,0 +1,70 @@
+{
+  "unit_name": "Tarchia Cannon",
+  "infobox_data": {
+    "Faction": "Wings of CoroniaPacific Front(campaign only)",
+    "Role": "All-terrain siege",
+    "Armament": [
+      "Plasma Howitzer Cannon",
+      "200mm Howitzer Cannon as prototype"
+    ],
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": "650",
+    "Armor type": "Medium",
+    "Speed": [
+      "≈ 2.5 (vehicle); 4 when boosted",
+      "3 as prototype"
+    ],
+    "Turn rate": "9",
+    "Sight radius": "6",
+    "Cost": "$1650",
+    "Estimated build time": "0:58",
+    "Build time multiplier(s)": "0.9 (multiple factory)",
+    "Built at": "Foehn War Factory",
+    "Requires": "Cloud Piercer Expansion",
+    "Ground": "110-44 * 3 (330-132 total)",
+    "Ground modifiers": [
+      "220% vs. Light",
+      "210% vs. Medium/Harvester",
+      "195% vs. Heavy",
+      "120% vs. Defensive Structure and Lightning Rods",
+      "90% vs. Big Defensive Structure",
+      "75% vs. Very Big Defensive Structure and Tech Concrete Fortresses",
+      "65% vs. Light Structure",
+      "60% vs. Drone",
+      "50% vs. Basic/Animal",
+      "45% vs. Flak, Big Light Structure and Heavy Structure",
+      "40% vs. Plate/Cyborg",
+      "35% vs. Big Heavy Structure"
+    ],
+    "Cooldown": "50 frames (3.3 in-game seconds), burst delay in between shots",
+    "Range": "18, minimum 5, radius 2",
+    "Ability": "Amphibious",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Cannot be depiloted",
+      "Receives a speed buff while inside aSpinblade's radius",
+      "Must be locked on to the target before firing (seeWeapon stages)",
+      "Takes 6 slots in transports",
+      "Explodes when destroyedThe explosion detonates a plasma cannon shot at the Tarchia Cannon's position",
+      "The explosion detonates a plasma cannon shot at the Tarchia Cannon's position"
+    ],
+    "Artist(s)": [
+      "Moder.U (voxel)",
+      "Nooze (cameo)"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/9/98/Tarcicon.png/revision/latest",
+  "icon_filename": "Tarcicon.png"
+}

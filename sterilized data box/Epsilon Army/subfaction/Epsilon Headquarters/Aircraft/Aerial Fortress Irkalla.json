@@ -1,0 +1,106 @@
+{
+  "unit_name": "Aerial Fortress Irkalla",
+  "infobox_data": {
+    "Faction": "Epsilon HeadquartersRussia(Chitzkalla, campaign only)",
+    "Role": "Territorial control",
+    "Armament": [
+      "6x Dissolver beams",
+      "3x \"Supernova\" cannons"
+    ],
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": [
+      "1750",
+      "3200 inBabelandAscension Challenge",
+      "4000 inGodsend,MeltdownandUnthinkable",
+      "4800 inFatal Impact(Heavy type only)",
+      "5600 inHamartia",
+      "8000 inInsomnia"
+    ],
+    "Armor type": "Medium Aircraft",
+    "Speed": [
+      "6 (flying)",
+      "14 inGodsend"
+    ],
+    "Turn rate": "3",
+    "Sight radius": [
+      "10",
+      "12 inGodsend"
+    ],
+    "Cost": "$3000",
+    "Estimated build time": "3:00",
+    "Build time multiplier(s)": "1.67 (all epic units)1.0 (multiple factory)",
+    "Built at": "Epsilon War Factory",
+    "Requires": "Geneplug",
+    "Ground": [
+      "15; 24 inGodsend(dissolver beams)",
+      "20-10 * 4 (80-40 total); 26-13 * 4 (104-52 total) inGodsend(supernova)"
+    ],
+    "Ground modifiers": [
+      "Dissolver beams:",
+      "170% vs. Basic/Animal",
+      "160% vs. Flak",
+      "150% vs. Plate/Cyborg",
+      "90% vs. Drone",
+      "50% vs. (Big) Light Structure",
+      "40% vs. ((Very) Big) Defensive Structure and (Big) Heavy Structure",
+      "30% vs. Light and Medium/Harvester",
+      "25% vs. Heavy",
+      "Supernova:",
+      "120% vs. Light",
+      "115% vs. Medium/Harvester",
+      "110% vs. Heavy",
+      "50% vs. Basic/Animal and Flak",
+      "45% vs. Plate",
+      "30% vs.Terror/Fury Drones",
+      "20% vs. Light Structure and Defensive Structure",
+      "15% vs. Big Light Structure and Heavy Structure",
+      "10% vs. Big Heavy Structure and (Very) Big Defensive Structure",
+      "5% vs.Tech Concrete Fortresses",
+      "Death explosion:",
+      "100% vs. all infantry armor types and Drone",
+      "85% vs. (Big) Light Structure",
+      "75% vs. ((Very) Big) Defensive Structure",
+      "70% vs. Light",
+      "50% vs. (Big) Heavy Structure",
+      "35% vs. Medium/Harvester and Heavy"
+    ],
+    "Air": "15; 24 inGodsend(dissolver beams)",
+    "Air modifiers": [
+      "150% vs.Rocketeers,Gyrocopters,CosmonautsandScout Ravens",
+      "125% vs.NorioandUragan",
+      "45% vs. Light Aircraft",
+      "40% vs. Medium Aircraft,Thor Gunshipsand Aerial Fortresses Irkalla",
+      "35% vs. Heavy Aircraft"
+    ],
+    "Cooldown": "1 frame (0.07 in-game seconds) (both weapons)",
+    "Range": [
+      "11 (both weapons, ground)",
+      "12 (dissolver beams, air)",
+      "1 (supernova radius)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Build speed is unaffected by multiple War Factories",
+      "Self-repair",
+      "Immune to confusion rays",
+      "Unaffected byBlasticade",
+      "Causes 350-175 damage on a radius of 2 at where the Aerial Fortress Irkalla crashes when shot down"
+    ],
+    "Artist(s)": "Mevitar",
+    "Voice actress": "Elspeth Eastman",
+    "_section_Epic Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/1/10/Irklicon.png/revision/latest",
+  "icon_filename": "Irklicon.png"
+}

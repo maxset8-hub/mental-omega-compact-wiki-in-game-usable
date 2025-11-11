@@ -1,0 +1,77 @@
+{
+  "unit_name": "Rhino Heavy Tank",
+  "infobox_data": {
+    "Faction": "Russia",
+    "Role": "Anti-armor",
+    "Armament": "120mm D-80T cannon",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "480",
+    "Armor type": "Medium",
+    "Speed": "5",
+    "Turn rate": [
+      "8 (unit)",
+      "9 (turret)"
+    ],
+    "Sight radius": "6",
+    "Cost": "$850",
+    "Estimated build time": "0:29",
+    "Built at": "Soviet War Factory",
+    "Ground": [
+      "95-47.5 (regular shell)",
+      "105-52.5 (tesla shell)"
+    ],
+    "Ground modifiers": [
+      "Main attack:",
+      "100% vs. Light",
+      "90% vs. Medium/Harvester",
+      "80% vs. Heavy",
+      "55% vs. Heavy Structure and Light Structure",
+      "30% vs. Drone and Defensive Structure",
+      "25% vs. Cyborg andFoehninfantry",
+      "20% vs. Basic/Animal, Flak, Plate andTech Concrete Fortresses",
+      "10% vs.Archelons",
+      "Tesla shell:",
+      "105% vs. Light",
+      "95% vs. Medium/Harvester",
+      "90% vs. Heavy",
+      "80% vs. Giant Squids and Dolphins",
+      "60% vs. Basic/Animal, Flak, Plate",
+      "55% vs. Heavy Structure and Light Structure",
+      "50% vs. Cyborg andFoehninfantry",
+      "30% vs. Drone and Defensive Structure",
+      "20% vs. Tech Concrete Fortesses"
+    ],
+    "Cooldown": "65 frames (4.3 in-game seconds)",
+    "Range": [
+      "6, radius 0.3 (regular shell)",
+      "6, radius 0.6 (tesla shell)"
+    ],
+    "Ability": [
+      "Fires a tesla-enhanced shot every 3 shotsHas 3 ammunition for regular shotsEach ammunition takes 70 frames (4.7 in-game seconds) (140 frames (9.3 in-game seconds) when empty) to reload",
+      "Has 3 ammunition for regular shotsEach ammunition takes 70 frames (4.7 in-game seconds) (140 frames (9.3 in-game seconds) when empty) to reload",
+      "Each ammunition takes 70 frames (4.7 in-game seconds) (140 frames (9.3 in-game seconds) when empty) to reload"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can fire while moving",
+      "Can crush infantry",
+      "Can enterTank Bunkers",
+      "Takes 3 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/6/66/Htnkicon.png/revision/latest",
+  "icon_filename": "Htnkicon.png"
+}

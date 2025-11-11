@@ -1,0 +1,74 @@
+{
+  "unit_name": "Radar Spire",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": [
+      "Tech access",
+      "Radar",
+      "Surveillance"
+    ],
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "1200",
+    "Armor type": "Light Structure",
+    "Sight radius": "10",
+    "Cost": "$1200",
+    "Estimated build time": "1:05",
+    "Build time multiplier(s)": [
+      "1.25 (all buildings)",
+      "1.25 (individual)"
+    ],
+    "Built by": "Epsilon Construction Yard",
+    "Requires": [
+      "Bio Reactor",
+      "Epsilon Ore Refinery"
+    ],
+    "Placement radius": "2",
+    "Power": "-150",
+    "Allows": [
+      "Inferno Tower",
+      "Mind Reader",
+      "Dunerider",
+      "Epsilon MCV",
+      "Driller",
+      "Invader",
+      "Giant Squid",
+      "Psychplug",
+      "Chemplug",
+      "Geneplug"
+    ],
+    "Ability": [
+      "Provides radar",
+      "Scout Raven",
+      "Vision"
+    ],
+    "Notes": "Can be infiltrated to reshroud the owner's view",
+    "Select sound": "From theNanotech Mainframe(Red Alert 3)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/c/cb/Psisicon.png/revision/latest",
+  "icon_filename": "Psisicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Scout Power Cost: FreeRecharge Time: 4:00 Deploys a controllable Scout Raven anywhere on the battlefield Scout Raven is temporarily cloaked after spawningLeft-click icon then left-click on target location (cannot be targeted on water)"
+        ],
+        [
+          "",
+          "Type: Intelligence Power Cost: Free Recharge Time: 5:30 Detects enemy activity around an area for 100 seconds Left-click icon then left-click on target location (cannot be targeted on water)"
+        ]
+      ]
+    }
+  ]
+}

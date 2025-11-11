@@ -1,0 +1,87 @@
+{
+  "unit_name": "Quetzal",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": "Siege",
+    "Armament": "Quetzal Eyes drone marking targets for an orbital strike",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": [
+      "510 (Quetzal)",
+      "180 (Eyes)"
+    ],
+    "Armor type": [
+      "Medium Aircraft (Quetzal)",
+      "Light Aircraft (Eyes)"
+    ],
+    "Speed": [
+      "18 (Quetzal, flying)",
+      "25 (Eyes, jet)"
+    ],
+    "Turn rate": "6",
+    "Sight radius": "10",
+    "Cost": [
+      "$2250 (Quetzal)",
+      "$50(Eyes)"
+    ],
+    "Estimated build time": "1:19",
+    "Build time multiplier(s)": "0.9 (multiple factory)",
+    "Built at": "Foehn War Factory",
+    "Requires": [
+      "Cyberkernel Expansion",
+      "Cloud Piercer Expansion",
+      "Nanofiber Loom Expansion"
+    ],
+    "Ground": [
+      "0(dummy)(Quetzal)",
+      "200-40 (orbital strikes)"
+    ],
+    "Ground modifiers": [
+      "Main attack:",
+      "120% vs. Basic/Animal and Light",
+      "105% vs. Flak",
+      "100% vs. Medium/Harvester and Drone",
+      "90% vs. Plate/Cyborg and Defensive Structure",
+      "80% vs. Heavy",
+      "70% vs. Light Structure and Heavy Structure",
+      "65% vs. Big Defensive Structure",
+      "50% vs. Big Light Structure, Big Heavy Structure and Very Big Defensive Structure",
+      "Death explosion:",
+      "100% vs. all infantry armor types and Drone",
+      "85% vs. (Big) Light Structure and ((Very) Big Defensive Structure",
+      "70% vs. Light",
+      "55% vs. (Big) Heavy Structure",
+      "35% vs. Medium/Harvester and Heavy"
+    ],
+    "Range": [
+      "12, minimum 0.5, radius 2 (Quetzal)",
+      "1 (Eyes)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Invisible on enemy radar",
+      "Gains 75% of the experience earned by the Eyes",
+      "The Eyes take 40 frames (2.7 seconds) to reload once it returns to the Quetzal",
+      "Destroyed Eyes are automatically replaced after 240 frames (16 in-game seconds)",
+      "Causes 30-15 damage in a radius of 2 around where the Quetzal crashes when shot down"
+    ],
+    "Artist(s)": [
+      "Bu7loos (voxel)",
+      "Nooze (cameo)"
+    ],
+    "Voice actor": "Ki \"ComradeCrimson\" McKenzie",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/0/01/Qutzicon.png/revision/latest",
+  "icon_filename": "Qutzicon.png"
+}

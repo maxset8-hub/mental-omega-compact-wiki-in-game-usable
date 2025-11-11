@@ -1,0 +1,193 @@
+{
+  "unit_name": "Foehn War Factory",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": "Vehicle production",
+    "Tier": "1",
+    "Tech level": "3",
+    "Hit points": "1200",
+    "Armor type": "Big Light Structure",
+    "Sight radius": "4",
+    "Cost": "$2000",
+    "Estimated build time": "1:30",
+    "Build time multiplier(s)": "1.25 (all structures)",
+    "Built by": "Foehn Construction Yard",
+    "Requires": [
+      "Windtrap",
+      "Foehn Ore Refinery"
+    ],
+    "Placement radius": "2",
+    "Power": "-100",
+    "Produces": [
+      "Foehn vehicles",
+      "Foehn aircraft"
+    ],
+    "Ability": "Can be toggled as the primary vehicle production structure (if the player have multiplewar factoriesat the same time)",
+    "Notes": [
+      "The more war factories the player have, the faster vehicles are produced",
+      "Can be infiltrated for veteran vehicle production"
+    ],
+    "Select sound": "From theSAM Turret(Tiberium Wars)",
+    "Artist(s)": "Nooze (cameo and building artwork)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/0/0c/Fwepicon.png/revision/latest",
+  "icon_filename": "Fwepicon.png",
+  "article_tables": [
+    {
+      "title": "Standard vehicles",
+      "headers": [
+        "Unit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Resource Vehicle.\nRequires  Foehn Ore Refinery\nAbilities:\nHarvests and unloads ore equivalent to 300 credits (450 for gems)\nRepairs vehicles\nReceives speed boost when nearby a Spinblade"
+        ],
+        [
+          "",
+          "Light Transport Vehicle. Strong vs. Infantry.\nAbilities:\nTransports infantry with 1 passenger slot\nInfantry can fire out of the Jackal\nAmphibious\nReceives speed boost when nearby a Spinblade"
+        ],
+        [
+          "",
+          "Unmanned Light Vehicle. Strong vs. Aircraft (no ground attack).\nAbilities:\nReceives firepower boost when nearby a deployed SODAR Array"
+        ],
+        [
+          "",
+          "Main Battle Walker. Strong vs. Armor.\nAbilities:\nDeals double damage when firing at close range"
+        ],
+        [
+          "Draco Light Tank",
+          "Main Battle Tank. Strong vs. Armor.\nAbilities:\nMay release its turret as a controllable flying Draco Autoturret when destroyed\nReceives speed boost when nearby a Spinblade"
+        ],
+        [
+          "",
+          "Main Battle Tank. Strong vs. Armor.\nAbilities:\nRepairs itself rapidly with nanites when damaged\nNanite repairs are more effective when stationary"
+        ],
+        [
+          "Foehn MCV",
+          "Construction Vehicle. Unarmed.\nRequires Cloud Piercer\nDeploys into an Foehn Construction Yard"
+        ],
+        [
+          "Sonic Detection and Ranging Array",
+          "Support Vehicle.\nRequires Cloud Piercer\nAbilities:\nDetects cloaked units\nDeploy to detect cloaked units and increase firepower of friendly units armed with Golden Rockets on a large radius\nAmphibious; can deploy on water"
+        ],
+        [
+          "",
+          "Support Vehicle.\nRequires Cyberkernel\nAbilities:\nDisable weapons of enemy vehicles and aircraft\nDisable structures\nBlocks the use of enemy support powers (except scout powers) around itself"
+        ],
+        [
+          "",
+          "Support Vehicle.\nRequires Cyberkernel\nAbilities:\nDisable weapons of enemy vehicles and aircraft\nDisable structures\nBlocks the use of enemy support powers (except scout powers) around itself\nAmphibious\nReceives speed boost when nearby a Spinblade"
+        ],
+        [
+          "",
+          "Support Vehicle.\nRequires Cyberkernel\nAbilities:\nConfusion\nDeploy to switch to illumination flares that weakens enemy armor"
+        ],
+        [
+          "",
+          "Unmanned Hit-and-Run Vehicle. Strong vs. Infantry, Armor.\nRequires Cloud Piercer\nAbilities:\nDetects disguised units\nDisables itself temporarily after attacking\nReceives speed boost when nearby a Spinblade"
+        ],
+        [
+          "",
+          "Unmanned Light Vehicle. Strong vs. Infantry, Armor.\nRequires Nanofiber Loom\nAbilities:\nMust deploy to attack\nCloaked when deployed\nAmphibious\nReceives firepower boost when nearby a deployed SODAR Array\nReceives speed boost when nearby a Spinblade"
+        ],
+        [
+          "",
+          "Unmanned Monster Walker. Strong vs. Ground Targets.\nRequires Cyberkernel upgraded with  Cyberkernel Expansion\nAbilities:\nReduces the speed of enemy units\nReceives a reactive shield that boosts speed when nearby a Megaarena Projector\nReactive shield instantly kills infantry (except heroes) on contact"
+        ],
+        [
+          "Shadray Sonic Tank",
+          "Medium Artillery. Strong vs. Infantry, Aircraft, Structures.\nRequires Cyberkernel upgraded with  Cyberkernel Expansion"
+        ],
+        [
+          "Mutually Assured Destruction Mechanized Area Nullifier",
+          "Epic Super-Heavy Suicide Vehicle. Strong vs. Ground Targets.\nRequires Cyberkernel upgraded with  Cyberkernel Expansion\nAbilities:\nDeploy to activate warhead; activation takes a long time\nDoes not explode violently when destroyed before activating warhead\nCan crush vehicles\nImmune to most hazards\nOnly one M.A.D.M.A.N. may be produced at a time."
+        ],
+        [
+          "",
+          "Hovercraft Artillery. Strong vs. Structures.\nRequires Cloud Piercer upgraded with  Cloud Piercer Expansion\nAbilities:\nAmphibious\nReceives speed boost when nearby a Spinblade"
+        ],
+        [
+          "",
+          "Support Vehicle.\nRequires Cloud Piercer upgraded with  Cloud Piercer Expansion\nDeploy to disable weapons of vehicles and aircraft\nAffects both friendly and enemy vehicles and aircraft\nAmphibious\nReceives speed boost when nearby a Spinblade\nOnly two Orcinus Waveshapers may be produced at a time."
+        ],
+        [
+          "",
+          "Monster Tank. Strong vs. Armor.\nRequires Nanofiber Loom upgraded with  Nanofiber Loom Expansion\nAbilities:\nRepairs itself rapidly with nanites when damaged\nNanite repairs are more effective when stationary\nCan crush vehicles\nNanocharge repairs itself and nearby friendly mechanical units"
+        ],
+        [
+          "",
+          "Heavy Transport Vehicle. Strong vs. Infantry, Structures.\nRequires Nanofiber Loom upgraded with  Nanofiber Loom Expansion\nAbilities:\nAmphibious\nComes with 3 Knightframes already onboard\nTransports infantry with 3 passenger slots\nImmune to all hazards"
+        ],
+        [
+          "",
+          "Epic Super-Heavy Vehicle. Strong vs. Infantry, Armor.\nRequires Nanofiber Loom upgraded with  Nanofiber Loom Expansion\nAbilities:\nDeploy to charge and fire Boid Blitz and M.A.D. Mine\nSupport power countdown restarts when undeploying\nImmune to most hazards\nOnly one Boidmachine may be produced at a time."
+        ]
+      ]
+    },
+    {
+      "title": "Standard aircraft",
+      "headers": [
+        "Unit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Medium Aircraft. Strong vs. Infantry, Aircraft.\nRequires Cloud Piercer\nAbilities:\nDeploy to drop portable stun grids"
+        ],
+        [
+          "",
+          "Medium Aircraft. Strong vs. Infantry, Aircraft.\nRequires Cloud Piercer"
+        ],
+        [
+          "",
+          "Unmanned Suicide Aircraft. Strong vs. Armor, Aircraft.\nRequires Cyberkernel upgraded with  Cyberkernel Expansion"
+        ],
+        [
+          "",
+          "Flying Monster Tank. Strong vs. Armor.\nRequires Cloud Piercer upgraded with  Cloud Piercer Expansion"
+        ],
+        [
+          "",
+          "Medium Aircraft. Strong vs. Aircraft (no ground attack).\nRequires Cloud Piercer upgraded with  Cloud Piercer Expansion\nAbilities:\nDeploy to generate a tornado that damages enemies around the Alanqa"
+        ],
+        [
+          "",
+          "Siege Aircraft. Strong vs. Structures.\nRequires Foehn technology expansion\nAbilities:\nCarries 1 Eyes drone to attack"
+        ]
+      ]
+    },
+    {
+      "title": "Stolen Tech",
+      "headers": [
+        "Unit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Stolen Tech Vehicle. Strong vs. Armor, Aircraft.\nRequires infiltration of Tech Center and Allied Construction Yard\nRequires Foehn technology expansion\nAbilities:\nDisguises as a tree when stationary\nReceives firepower boost when near a deployed SODAR Array\nDeploy to switch between auto attack or hold fire modes"
+        ],
+        [
+          "",
+          "Stolen Tech Vehicle. Strong vs. Armor, Structures.\nRequires infiltration of Palace/Battle Lab/Atomheart and Soviet Construction Yard\nRequires Foehn technology expansion\nAbilities:\nEMP disable heavy infantry and mechanical units temporarily"
+        ],
+        [
+          "",
+          "Stolen Tech Vehicle. Strong vs. Infantry.\nRequires the infiltration of Pandora Hub and Epsilon Construction Yard\nRequires Foehn technology expansion\nAbilities:\nDetects cloaked units\nCreates nanoclouds on killed enemy infantry\nNanoclouds heal friendly infantry\nCloaked\nAmphibious\nResistant to main battle tank shells\nImmune to all hazards\nDeploy to switch between auto attack or hold fire modes"
+        ],
+        [
+          "",
+          "Stolen Tech Vehicle. Strong vs. Armor, Structures.\nRequires the infiltration of Cloud Piercer and Foehn Construction Yard\nRequires Foehn technology expansion\nAbilities:\nDeploy to disable structures around itself temporarily"
+        ]
+      ]
+    }
+  ]
+}

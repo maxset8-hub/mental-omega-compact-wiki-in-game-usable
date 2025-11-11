@@ -1,0 +1,58 @@
+{
+  "unit_name": "Initiate",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": [
+      "Anti-infantry",
+      "Garrison"
+    ],
+    "Armament": "Psychic jab",
+    "Tier": "1",
+    "Tech level": "1",
+    "Hit points": "150",
+    "Armor type": "Flak",
+    "Speed": "6",
+    "Sight radius": "7",
+    "Cost": "$150",
+    "Estimated train time": "0:04",
+    "Train time multiplier(s)": "0.65 (all infantry)",
+    "Trained at": "Epsilon Barracks",
+    "Ground": "27; 38 when garrisoned",
+    "Ground modifiers": [
+      "Main attack:",
+      "120% vs Animal",
+      "100% vs. Drone",
+      "90% vs. Basic",
+      "80% vs. Flak and Plate/Cyborg",
+      "50% vs. Light",
+      "30% vs. Heavy",
+      "25% vs. (Big) Light Structure",
+      "20% vs. Medium/Harvester and ((Very) Big) Defensive Structure",
+      "10% vs. (Big) Heavy Structure",
+      "When garrisoned:",
+      "110% vs. Basic/Animal",
+      "100% vs. Drone",
+      "85% vs. Flak and Plate/Cyborg",
+      "40% vs. Light and (Big) Light Structure",
+      "20% vs. Medium/Harvester, Heavy and ((Very) Big) Defensive Structure",
+      "15% vs. (Big) Heavy Structure"
+    ],
+    "Cooldown": "18 frames (1.2 in-game seconds); 22 frames (1.5 in-game seconds) when garrisoned",
+    "Range": "5.5; 6 when garrisoned",
+    "Ability": "Garrison civilian structures",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "Notes": "Starting infantry for the Epsilon",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/1/11/Initicon.png/revision/latest",
+  "icon_filename": "Initicon.png"
+}

@@ -1,0 +1,14 @@
+{
+  "unit_name": "Golden Wind",
+  "infobox_data": {
+    "Affiliation": "Foehn Revolt",
+    "Cost": "$800",
+    "Cooldown": "5:00",
+    "Called from": "Blast Furnace",
+    "Requires": "Spinblade",
+    "Effect": "Friendly Foehn infantry and vehicles in the radius ofSpinbladeswill have their armor increased by 30% for 900 frames (1 in-game minute)",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/a/a0/Gwndicon.png/revision/latest",
+  "icon_filename": "Gwndicon.png"
+}

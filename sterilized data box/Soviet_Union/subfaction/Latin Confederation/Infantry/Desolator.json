@@ -1,0 +1,57 @@
+{
+  "unit_name": "Desolator",
+  "infobox_data": {
+    "Faction": "RussiaLatin Confederation",
+    "Role": [
+      "Anti-infantry",
+      "Area denial"
+    ],
+    "Armament": "Rad cannon",
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": "210",
+    "Armor type": "Plate",
+    "Speed": "5",
+    "Sight radius": "5",
+    "Cost": "$950",
+    "Estimated train time": "0:22",
+    "Train time multiplier(s)": "0.65",
+    "Trained at": "Soviet Barracks",
+    "Requires": [
+      "Palace",
+      "Battle Lab"
+    ],
+    "Ground": "150",
+    "Ground modifiers": [
+      "130% vs. Basic/Animal",
+      "120% vs. Flak",
+      "110% vs. Plate/Cyborg",
+      "80% vs. Riot Troopers",
+      "50% vs. Light",
+      "40% vs. Medium/Harvester",
+      "25% vs. Heavy"
+    ],
+    "Cooldown": "45 frames (3 in-game seconds)",
+    "Range": "7.5",
+    "Ability": "Deploy to irradiate a radius of 9.5 around the Desolator every 250 frames (16.7 in-game seconds)",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "Notes": [
+      "Cannot be attacked byAttack Dogs,Spooks, Desolators/EradicatorsandSyckles",
+      "Immune to radiation",
+      "Uncrushable by normal vehicles when deployed",
+      "Vulnerable to magnetic weapons"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/f/fe/Desoicon.png/revision/latest",
+  "icon_filename": "Desoicon.png"
+}

@@ -1,0 +1,52 @@
+{
+  "unit_name": "Black Eagle",
+  "infobox_data": {
+    "Faction": "Pacific Front",
+    "Role": "Precision strikes",
+    "Armament": "\"Iced Earth\" cryogenic missiles",
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "260",
+    "Armor type": "Light Aircraft",
+    "Speed": "26 (jet)",
+    "Turn rate": "5",
+    "Sight radius": "8",
+    "Cost": "$1300",
+    "Estimated build time": "0:47",
+    "Built at": "Air Force Command Headquarters",
+    "Requires": "Robot Ops Control Center(unconditionally)",
+    "Ground": "100 * 2 (200 total)",
+    "Ground modifiers": [
+      "130% vs. Medium and Naval Units",
+      "115% vs. Light and Heavy",
+      "105% vs. Basic/Animal",
+      "100% vs. Flak, Plate/Cyborg and Drone",
+      "90% vs. Harvester",
+      "50% vs.heroes",
+      "40% vs. (Big) Light Structure",
+      "30% vs. ((Very) Big) Defensive Structure",
+      "25% vs. (Big) Heavy Structure"
+    ],
+    "Cooldown": "10 frames (0.7 in-game seconds)",
+    "Range": "8, radius 0.4",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Has 1 ammunitionEach ammunition takes 18 in-game seconds to reload",
+      "Each ammunition takes 18 in-game seconds to reload"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/50/Beagicon.png/revision/latest",
+  "icon_filename": "Beagicon.png"
+}

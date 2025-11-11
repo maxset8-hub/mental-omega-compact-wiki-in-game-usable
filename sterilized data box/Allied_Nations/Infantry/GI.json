@@ -1,0 +1,66 @@
+{
+  "unit_name": "G.I.",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": [
+      "Anti-infantry",
+      "Garrison"
+    ],
+    "Armament": [
+      "Machine pistol",
+      "DSR-80 machine gun (deployed)"
+    ],
+    "Tier": "1",
+    "Tech level": "1",
+    "Hit points": "135",
+    "Armor type": "Flak",
+    "Speed": "6",
+    "Sight radius": "7",
+    "Cost": "$120",
+    "Estimated train time": "0:04",
+    "Train time multiplier(s)": "0.65 (all infantry)",
+    "Trained at": "Allied Barracks",
+    "Ground": [
+      "15; 25 when deployed; 30 when garrisoned"
+    ],
+    "Ground modifiers": [
+      "Main attack:",
+      "100% vs. Basic/Animal and Drone",
+      "80% vs. Flak",
+      "65% vs. Plate/Cyborg",
+      "20% vs. Light and (Big) Light Structure",
+      "15% vs. ((Very) Big) Defensive Structure",
+      "10% vs Medium/Harvester, Heavy and (Big) Heavy Structure",
+      "110% vs. Basic/Animal",
+      "100% vs. Drone",
+      "85% vs. Flak and Plate/Cyborg",
+      "35% vs. Light",
+      "30% vs. (Big) Light Structure",
+      "20% vs ((Very) Big) Defensive Structure",
+      "15% vs. Medium/Harvester, Heavy and (Big) Heavy Structure"
+    ],
+    "Cooldown": "20 frames (1.3 in-game seconds); 22 frames (1.47 in-game seconds) when garrisoned",
+    "Range": [
+      "5; 5.5 when deployed",
+      "6 when garrisoned"
+    ],
+    "Ability": [
+      "Deploy to increase damage by 53% and range by 0.5",
+      "Garrison civilian structures"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "Notes": "Starting infantry for the Allies",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/58/Giicon.png/revision/latest",
+  "icon_filename": "Giicon.png"
+}

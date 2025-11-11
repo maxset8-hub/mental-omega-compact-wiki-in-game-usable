@@ -1,0 +1,13 @@
+{
+  "unit_name": "Motor Ambush",
+  "infobox_data": {
+    "Affiliation": "Latin Confederation",
+    "Cost": "$2000",
+    "Cooldown": "5:30",
+    "Called from": "Battle Lab",
+    "Effect": "Spawns 3Mortar Quadson the target location after a delay of 20 frames (1.3 in-game seconds)",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/1/1e/Ambsicon.png/revision/latest",
+  "icon_filename": "Ambsicon.png"
+}

@@ -1,0 +1,34 @@
+{
+  "unit_name": "Risen Inferno (v3.3 – v3.3.4)Risen Railgun (v3.0)",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": "Timed defense",
+    "Tier": "3",
+    "Hit points": [
+      "950 (version 3.3.x)",
+      "600 (version 3.0)"
+    ],
+    "Cost": [
+      "$800 (version 3.3.x)",
+      "$1000 (version 3.0)"
+    ],
+    "Recharge time": "6:00",
+    "Called from": "Pandora Hub",
+    "Ability": [
+      "Spawns a Tier 2 defense tower at the target location that repairs friendly vehicles in a radius of 4 around it every 55 frames (3.7 in-game seconds) at a rate of 8 hit points every 2.25 frames over 8 frames (28.4 hit points over 0.53 in-game seconds)",
+      "The spawned tower loses 1 hit point every frame (0.07 in-game seconds)"
+    ],
+    "Notes": [
+      "Cannot be captured",
+      "Does not require power to operate",
+      "Does not keep the player in game ifShort Gameis enabled in skirmish and multiplayer",
+      "Cannot be repaired and is unaffected byForce Shield,InvulnerabilityandMaintenance"
+    ],
+    "_section_Support Power Structure": true,
+    "_section_Properties": true,
+    "_section_Deployment": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/1/15/Rinficon33.png/revision/latest",
+  "icon_filename": "Rinficon33.png"
+}

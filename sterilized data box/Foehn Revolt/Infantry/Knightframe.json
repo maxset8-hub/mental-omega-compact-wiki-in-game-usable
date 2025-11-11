@@ -1,0 +1,84 @@
+{
+  "unit_name": "Knightframe",
+  "infobox_data": {
+    "Faction": "Foehn RevoltChina(campaign only)",
+    "Role": [
+      "Anti-infantry",
+      "Anti-air",
+      "Garrison"
+    ],
+    "Armament": [
+      "Integrated heavy machine gun",
+      "QJZ-HMG (Heavy Trooper)"
+    ],
+    "Tier": "1",
+    "Tech level": "1",
+    "Hit points": "270",
+    "Armor type": "Plate",
+    "Speed": "6",
+    "Sight radius": "7",
+    "Cost": "$450",
+    "Estimated train time": "0:07",
+    "Train time multiplier(s)": "0.65 (all infantry)",
+    "Trained at": "Foehn Barracks",
+    "Requires": "None",
+    "Ground": "50-15",
+    "Ground modifiers": [
+      "120% vs. Basic/Animal",
+      "100% vs. Flak and Drone",
+      "85% vs. Plate/Cyborg",
+      "50% vs. Riot Troopers, Libra, Libra Clones",
+      "30% vs. Dolphins, Giant Squids",
+      "25% vs. Light and Medium/Harvester",
+      "20% vs. Heavy and (Big) Light Structure",
+      "15% vs. ((Very) Big) Defensive Structure and (Big) Heavy Structure",
+      "10% vs.Tech Concrete Fortresses"
+    ],
+    "Air": "50-15",
+    "Air modifiers": [
+      "100% vs. Scout Ravens",
+      "80% vs. Rocketeers, Gyrocopters, Neonwasps and Cosmonauts",
+      "70% vs. Jets",
+      "60% vs. Light Aircraft, Norio and Uragan",
+      "50% vs. Medium Aircraft, Aerial Fortresses Irkalla and Harbingers",
+      "45% vs. Heavy Aircraft, Cryocopters and Quetzals",
+      "40% vs. Diverbees"
+    ],
+    "Cooldown": "55 frames (3.7 in-game seconds)",
+    "Range": [
+      "6; 6 when garrisoned (ground)",
+      "9 (air)",
+      "0.7 (radius)"
+    ],
+    "Upgrades to": "Kingsframe",
+    "Ability": [
+      "Garrison civilian structures",
+      "Cannot attack air targets when garrisoned"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "Notes": [
+      "Starting infantry for the Foehn",
+      "Uncrushable by normal vehicles",
+      "Cannot be attacked byAttack DogsandSpooks",
+      "Vulnerable to EMP and magnetic weapons"
+    ],
+    "Artist(s)": [
+      "ImP_RuLz (SHP)",
+      "Nooze (cameo)"
+    ],
+    "Voice actor": "George \"Seòras\" Exley",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/2/24/Knigicon.png/revision/latest",
+  "icon_filename": "Knigicon.png"
+}

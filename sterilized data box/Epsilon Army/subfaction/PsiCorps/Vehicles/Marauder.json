@@ -1,0 +1,59 @@
+{
+  "unit_name": "Marauder",
+  "infobox_data": {
+    "Faction": "PsiCorpsEpsilon Headquarters(campaign only)",
+    "Role": "Anti-armor",
+    "Armament": "\"Widowmaker\" pyrokinetic beam",
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "240",
+    "Armor type": "Medium",
+    "Speed": "8",
+    "Turn rate": [
+      "10 (unit)",
+      "12 (turret)"
+    ],
+    "Sight radius": "6",
+    "Cost": "$1000",
+    "Estimated build time": "0:36",
+    "Built at": "Epsilon War Factory",
+    "Requires": "Pandora HuborPsychplug(unconditionally)",
+    "Ground": "125-31",
+    "Ground modifiers": [
+      "105% vs. Heavy",
+      "100% vs. Medium and Drone",
+      "95% vs. Light",
+      "90% vs. Basic/Animal",
+      "60% vs. Flak, Plate andEureka",
+      "55% vs.Tanya,Siegfried,Volkov,Chitzkoi,Morales,Krukov,FinandAlize",
+      "50% vs. Flak,Yunru,Libra,MalverandRahn",
+      "35% vs. Plate/Cyborg",
+      "15% vs. (Big) Light Structure, ((Very) Big) Defensive Structure and (Big) Heavy Structure"
+    ],
+    "Cooldown": "95 frames (6.3 in-game seconds)",
+    "Range": "8, radius 0.75",
+    "Ability": "Amphibious",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can enterTank Bunkers",
+      "Can fire while moving",
+      "Does not sink when disabled while in water",
+      "Takes 3 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "Voice actor": "Gabriel Wolf",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/c/c1/Maraicon.png/revision/latest",
+  "icon_filename": "Maraicon.png"
+}

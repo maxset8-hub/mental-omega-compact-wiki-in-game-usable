@@ -1,0 +1,62 @@
+{
+  "unit_name": "Terror Drone",
+  "infobox_data": {
+    "Faction": "Soviet UnionAllied Nations(campaign only)",
+    "Role": [
+      "Anti-armor",
+      "Anti-infantry"
+    ],
+    "Armament": "Cutting devices",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "140",
+    "Armor type": "Drone",
+    "Speed": "10",
+    "Turn rate": "40",
+    "Sight radius": "4",
+    "Cost": "$500",
+    "Estimated build time": "0:18",
+    "Built at": "Soviet War Factory",
+    "Ground": [
+      "Instant-kill (against most infantry)",
+      "50 (vehicle latch)",
+      "75 (claws)"
+    ],
+    "Ground modifiers": [
+      "Vehicle latch:100% vs. Light and Medium/Harvester80% vs. Heavy",
+      "100% vs. Light and Medium/Harvester",
+      "80% vs. Heavy",
+      "Instant-kill against most infantry",
+      "Claws (Scratches)120% vs. Landed jets,Siegfried,Roadrunner100% vs. Deployed units:",
+      "120% vs. Landed jets,Siegfried,Roadrunner",
+      "100% vs. Deployed units:Grumble,SODAR Array,Sweeper,Hazequad,Boidmachine,Fury Drone",
+      "100% vs.Volkov,Chitzkoi,Cyborg Vanguard",
+      "60% vs.Syckle",
+      "50% vs.Terror Drone,Fury Drone"
+    ],
+    "Cooldown": "60 frames (4 in-game seconds)",
+    "Range": [
+      "2.73 (latch)",
+      "1.73 (claws)"
+    ],
+    "Ability": [
+      "Detects disguised enemies (range 5)",
+      "Deploy to toggle between free fire and hold fire mode"
+    ],
+    "Notes": [
+      "Immune to radiation and poison",
+      "Cannot be attacked byDesolators/EradicatorsandSyckles",
+      "Cannot be mind-controlled, hijacked and depiloted",
+      "20% decreasedInvulnerabilityduration",
+      "Can enter infantry transports",
+      "Takes 2 slots in transports"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/8/83/Drncicon.png/revision/latest",
+  "icon_filename": "Drncicon.png"
+}

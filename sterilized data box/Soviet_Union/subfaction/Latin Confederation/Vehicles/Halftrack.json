@@ -1,0 +1,70 @@
+{
+  "unit_name": "Halftrack",
+  "infobox_data": {
+    "Faction": "Latin ConfederationChina",
+    "Role": [
+      "Anti-infantry",
+      "Anti-air",
+      "Transport"
+    ],
+    "Armament": [
+      "12.7mm DShK machine gun (ground)",
+      "4x 23mm flak cannons (air)"
+    ],
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "330",
+    "Armor type": "Light",
+    "Transport slots": "2",
+    "Speed": "7",
+    "Turn rate": [
+      "8 (unit)",
+      "14 (turret)"
+    ],
+    "Sight radius": "6",
+    "Cost": "$550",
+    "Estimated build time": "0:18",
+    "Built at": "Soviet War Factory",
+    "Ground": "42",
+    "Ground modifiers": [
+      "100% vs. Basic/Animal andTerror/Fury Drones",
+      "80% vs. Flak",
+      "65% vs. Plate/Cyborg",
+      "20% vs. Light and (Big) Light Structure",
+      "15% vs. ((Very) Big) Defensive Structure",
+      "10% vs. Medium/Harvester, Heavy and (Big) Heavy Structure"
+    ],
+    "Air": "15-7.5 * 2 (30-15 total)",
+    "Air modifiers": [
+      "100% vs. jets",
+      "80% vs. Light Aircraft, Medium Aircraft,Rocketeers,Norio,Gyrocopters,Cosmonauts,Aerial Fortresses Irkalla,Scout RavensandUragan",
+      "60% vs. Heavy Aircraft andBlack Widow"
+    ],
+    "Cooldown": "20 frames (1.3 in-game seconds) (both weapons)",
+    "Range": [
+      "6 (machine gun)",
+      "10, radius 0.6 (flak cannons)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can fire while moving",
+      "Can enterTank Bunkers",
+      "Level 1/low passenger survivability rate (50% rookie, 65% veteran, 80% elite)",
+      "Takes 3 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/8/8b/Htkicon.png/revision/latest",
+  "icon_filename": "Htkicon.png"
+}

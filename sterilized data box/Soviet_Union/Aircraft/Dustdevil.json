@@ -1,0 +1,38 @@
+{
+  "unit_name": "Dustdevil",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": "Support",
+    "Armament": "Smoke bomb run",
+    "Tier": "2",
+    "Tech level": "6",
+    "Hit points": "400",
+    "Armor type": "Light Aircraft",
+    "Speed": "26 (jet)",
+    "Turn rate": "3",
+    "Sight radius": "6",
+    "Cost": "$1400",
+    "Estimated build time": "0:50",
+    "Built at": "Airbase",
+    "Requires": "Field Bureau",
+    "Ground": "0(dummy)",
+    "Cooldown": "12 frames (0.8 in-game seconds)",
+    "Range": "9, radius 3.5",
+    "Ability": "Weapon halves enemy firepower for 150 frames (10 in-game seconds)",
+    "Notes": [
+      "Self-repair",
+      "Has 4 ammunitionEach ammunition takes 9 in-game seconds to reload",
+      "Each ammunition takes 9 in-game seconds to reload"
+    ],
+    "Artist(s)": "Moder.U",
+    "Voice actor": "Ki \"ComradeCrimson\" McKenzie",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/b/b6/Dusticon.png/revision/latest",
+  "icon_filename": "Dusticon.png"
+}

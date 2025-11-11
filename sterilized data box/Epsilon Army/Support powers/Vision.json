@@ -1,0 +1,13 @@
+{
+  "unit_name": "Vision",
+  "infobox_data": {
+    "Affiliation": "Epsilon Army",
+    "Cost": "Free",
+    "Cooldown": "5:30",
+    "Called from": "Radar Spire",
+    "Effect": "Reveals enemy activity and use of missile-based support powers in a radius of 14 for 1500 frames (100 in-game seconds)",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/e0/Visnicon.png/revision/latest",
+  "icon_filename": "Visnicon.png"
+}

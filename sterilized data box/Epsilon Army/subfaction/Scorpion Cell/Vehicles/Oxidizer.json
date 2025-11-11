@@ -1,0 +1,43 @@
+{
+  "unit_name": "Oxidizer",
+  "infobox_data": {
+    "Faction": "Scorpion Cell",
+    "Role": "Anti-air support",
+    "Armament": "2x oxidizers",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "300",
+    "Armor type": "Light",
+    "Speed": "7",
+    "Turn rate": "6",
+    "Sight radius": "7",
+    "Cost": "$1000",
+    "Estimated build time": "0:36",
+    "Build time multiplier(s)": "0.9 (multiple factory)",
+    "Built at": "Epsilon War Factory",
+    "Requires": "Chemplug",
+    "Air": "0(dummy)",
+    "Cooldown": "1 frame (0.07 in-game seconds)",
+    "Range": "13",
+    "Ability": [
+      "Amphibious",
+      "Weapon decreases the target's armor by 25% for 5 frames (0.3 in-game seconds); stackable"
+    ],
+    "Notes": [
+      "Can fire while moving",
+      "Can enterTank Bunkers",
+      "Cannot be depiloted",
+      "Takes 6 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "Voice actor": "De'Lante Capers(previously credited as \"Rhys_Dallows\")",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/50/Oxidicon.png/revision/latest",
+  "icon_filename": "Oxidicon.png"
+}

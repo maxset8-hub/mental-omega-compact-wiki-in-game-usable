@@ -1,0 +1,84 @@
+{
+  "unit_name": "Blizzard Tank",
+  "infobox_data": {
+    "Faction": "Pacific Front",
+    "Role": [
+      "Anti-infantry",
+      "Anti-air"
+    ],
+    "Armament": "Thermal Inversion cannon",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "530",
+    "Armor type": "Medium",
+    "Speed": "6",
+    "Turn rate": [
+      "6 (unit)",
+      "10 (turret)"
+    ],
+    "Sight radius": "6",
+    "Cost": "$1300",
+    "Estimated build time": "0:47",
+    "Build time multiplier(s)": "0.9 (multiple factory)",
+    "Built at": "Allied War Factory",
+    "Requires": [
+      "Robot Ops Control Center",
+      "Tech Center"
+    ],
+    "Ground": "16",
+    "Ground modifiers": [
+      "140% vs. Basic/Animal",
+      "130% vs. Flak",
+      "120% vs. Plate/Cyborg",
+      "75% vs. Drone",
+      "50% vs. Light",
+      "45% vs. Medium/Harvester",
+      "35% vs. Heavy",
+      "25% vs. Blizzard Tanks",
+      "10% vs. all structure armor types"
+    ],
+    "Air": "16",
+    "Air modifiers": [
+      "160% vs. Basic",
+      "150% vs. Flak",
+      "120% vs. Plate",
+      "110% vs. Light",
+      "100% vs. Medium",
+      "90% vs. Heavy",
+      "75% vs.Pteranodon",
+      "70% vs.Norio,Uragan",
+      "50% vs.Cryocopter"
+    ],
+    "Cooldown": [
+      "10 frames (0.67 in-game seconds)"
+    ],
+    "Range": [
+      "9, minimum 1, radius 0.7 (ground)",
+      "11 (air)"
+    ],
+    "Ability": "When weapon damages ground targets, and it leaves freezing clouds in a radius of 0.9 that reduces the speed of ground infantry and Soviet drones by 50% for 30 frames (2 in-game seconds)",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can crush infantry",
+      "Can fire on the move",
+      "Can enterTank Bunkers",
+      "Cannot be depiloted",
+      "Takes 6 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "Voice actor": "De'Lante Capers(previously credited as \"Rhys_Dallows\")",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/8/82/Blzzicon.png/revision/latest",
+  "icon_filename": "Blzzicon.png"
+}

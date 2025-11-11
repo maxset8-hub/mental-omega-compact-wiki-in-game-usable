@@ -1,0 +1,88 @@
+{
+  "unit_name": "Geneplug",
+  "infobox_data": {
+    "Faction": "Epsilon Headquarters",
+    "Parent building": "Pandora Hub",
+    "Role": [
+      "High tech access",
+      "Support powers"
+    ],
+    "Tier": "3",
+    "Tech level": "8",
+    "Cost": [
+      "$3000",
+      "$1000 inInfantry Only,Tech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Estimated build time": [
+      "2:13",
+      "0:43 inInfantry Only,Tech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Build time multiplier(s)": "1.25 (all buildings)",
+    "Built by": "Epsilon Construction Yard",
+    "Requires": [
+      "Radar Spire",
+      "Pandora Hub"
+    ],
+    "Power": [
+      "-200",
+      "-150 inInfantry Only,Tech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Allows": [
+      "Cloning Vats",
+      "Rage Inductor",
+      "Psychic Dominator",
+      "Chimera Core",
+      "Antares Battery",
+      "Genomines",
+      "Stalker",
+      "Rahn",
+      "Colossus",
+      "Hazequad",
+      "Scavenger",
+      "Wormqueen",
+      "Basilisk",
+      "Dybbuk-Seizer",
+      "Salamander",
+      "Aerial Fortress Irkalla",
+      "Nautilus Magnetic Sub",
+      "Resheph Ballistic Sub",
+      "Shadow Tank(unconditionally)"
+    ],
+    "Ability": [
+      "Shadow Ring",
+      "Kinetic Barrier",
+      "Geneburst",
+      "Ruiner(requiresSynthesis Vault)"
+    ],
+    "Artist(s)": "Orac",
+    "_section_Add-on": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/7/78/Gplugicon.png/revision/latest",
+  "icon_filename": "Gplugicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Defensive PowerCost: $800Recharge Time: 6:00Increases armor of friendly infantry by 50% for 48 secondsLeft-click icon then left-click on target location"
+        ],
+        [
+          "",
+          "Type: Offensive PowerCost: $1000Recharge Time: 7:00Launches mutation gas on a designated areaKilled infantry are mutated into BrutesStrong vs. InfantryLeft-click icon then left-click on target location"
+        ],
+        [
+          "",
+          "Type: Reinforcement PowerCost: $1100Recharge Time: 6:30Requires Synthesis VaultDeploys a Ruiner aircraft near a Synthesis VaultRuiner disables enemy infantry weaponsLeft-click icon then left-click on target location near a Synthesis Vault"
+        ]
+      ]
+    }
+  ]
+}

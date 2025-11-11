@@ -1,0 +1,76 @@
+{
+  "unit_name": "Catastrophe Tank",
+  "infobox_data": {
+    "Faction": "Latin Confederation",
+    "Role": [
+      "Anti-armor",
+      "Anti-air"
+    ],
+    "Armament": [
+      "135mm ramjet cannon (ground)",
+      "\"Mammoth Tusk\" missiles (air)"
+    ],
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "620",
+    "Armor type": "Heavy",
+    "Transport slots": "1",
+    "Speed": "4",
+    "Turn rate": "5",
+    "Sight radius": "6",
+    "Cost": "$1600",
+    "Estimated build time": "0:58",
+    "Built at": "Soviet War Factory",
+    "Requires": "Battle Lab",
+    "Ground": "150-75",
+    "Ground modifiers": [
+      "100% vs. Medium/Harvester, Heavy, (Big) Light Structure and ((Very) Big) Defensive Structure",
+      "70% vs. (Big) Heavy Structure",
+      "65% vs. Light",
+      "50% vs. Drone",
+      "25% vs.Foehninfantry",
+      "15% vs. all infantry armor types"
+    ],
+    "Air": "55-27.5",
+    "Air modifiers": [
+      "80% vs. Medium Aircraft",
+      "75% vs. Light Aircraft",
+      "70% vs. Heavy Aircraft",
+      "40% vs.Rocketeers,Norio,Gyrocopters,Cosmonauts,Scout RavensandUragan"
+    ],
+    "Cooldown": [
+      "80 frames (5.3 in-game seconds) (cannon)",
+      "25 frames (1.7 in-game seconds) (missile)"
+    ],
+    "Range": [
+      "7.5, minimum 1.5, radius 0.3 (cannon)",
+      "9.5, radius 0.5 (missile)"
+    ],
+    "Ability": "Transported infantry can fire from the Catastrophe Tank",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Can fire while moving",
+      "Can crush infantry",
+      "Uncrushable",
+      "Can enterTank Bunkers",
+      "Cannot be depiloted",
+      "Level 3/high passenger survivability rate (90% rookie, 95% veteran, 100% elite)",
+      "Takes 6 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "Voice actor": "K.M.",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/1/18/Cataicon.png/revision/latest",
+  "icon_filename": "Cataicon.png"
+}

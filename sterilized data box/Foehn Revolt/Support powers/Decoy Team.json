@@ -1,0 +1,16 @@
+{
+  "unit_name": "Decoy Team",
+  "infobox_data": {
+    "Affiliation": "Foehn Revolt",
+    "Cost": "$1200",
+    "Cooldown": "5:00",
+    "Called from": "Netrunner Protocol",
+    "Effect": [
+      "Deploys 5 DecoyKnightframesand 5 DecoyLancersat the target location",
+      "The Decoys have half hit points and deal no damage"
+    ],
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/7/7f/Dcoyicon.png/revision/latest",
+  "icon_filename": "Dcoyicon.png"
+}

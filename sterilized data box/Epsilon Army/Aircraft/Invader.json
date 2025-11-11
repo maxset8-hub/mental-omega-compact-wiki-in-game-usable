@@ -1,0 +1,78 @@
+{
+  "unit_name": "Invader",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": [
+      "Anti-infantry",
+      "Anti-air",
+      "Sabotage"
+    ],
+    "Armament": [
+      "Dissolver beam",
+      "Parasite pull"
+    ],
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "440",
+    "Armor type": "Light",
+    "Speed": "32 (flying)",
+    "Turn rate": "10",
+    "Sight radius": "6",
+    "Cost": "$1000",
+    "Estimated build time": "0:36",
+    "Built at": "Epsilon War Factory",
+    "Requires": "Radar Spire",
+    "Ground": "50",
+    "Ground modifiers": [
+      "Main attack:",
+      "175% vs. all infantry armor types",
+      "90% vs. Drone",
+      "30% vs. Light and Medium/Harvester",
+      "25% vs. Heavy and (Big) Heavy Structure",
+      "20% vs. ((Very) Big) Defensive Structure and (Big) Heavy Structure",
+      "Death explosion:",
+      "100% vs. all infantry armor types and Drone",
+      "85% vs. (Big) Light Structure and ((Very) Big Defensive Structure",
+      "70% vs. Light",
+      "55% vs. (Big) Heavy Structure",
+      "35% vs. Medium/Harvester and Heavy"
+    ],
+    "Air": "50",
+    "Air modifiers": [
+      "140% vs.Scout Ravens",
+      "130% vs.Rocketeers,GyrocoptersandCosmonauts",
+      "120% vs.NorioandUragan",
+      "45% vs. Light Aircraft",
+      "40% vs. Medium Aircraft andThor Gunships",
+      "35% vs. Heavy Aircraft"
+    ],
+    "Cooldown": "70 frames (4.7 in-game seconds)",
+    "Range": [
+      "6.5",
+      "7.5 (anti-air)"
+    ],
+    "Ability": [
+      "Parasite pull disables apower plantordefense, or steal $20 every 25 frames (1.7 in-game seconds) from anOre Refinery",
+      "Has a range of 1.3"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can fire while moving",
+      "Causes 15-7.5 damage in a radius of 2 at where the Invader crashes when shot down"
+    ],
+    "Artist(s)": "Bu7loos",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/8/87/Diskicon.png/revision/latest",
+  "icon_filename": "Diskicon.png"
+}

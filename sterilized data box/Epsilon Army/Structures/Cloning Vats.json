@@ -1,0 +1,53 @@
+{
+  "unit_name": "Cloning Vats",
+  "infobox_data": {
+    "Faction": "Epsilon ArmyPsiCorps(campaign only)",
+    "Role": [
+      "Infantry cloning",
+      "Economy support"
+    ],
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "1100",
+    "Armor type": "Heavy Structure",
+    "Sight radius": "5",
+    "Cost": "$3000",
+    "Estimated build time": "2:13",
+    "Build time multiplier(s)": "1.25 (all buildings)",
+    "Built by": "Epsilon Construction Yard",
+    "Requires": [
+      "Psychplug",
+      "Chemplug",
+      "Geneplug"
+    ],
+    "Placement radius": "2",
+    "Power": "-200",
+    "Allows": [
+      "Virus",
+      "Dybbuk-Evolver",
+      "Wonder Drugs",
+      "Scavenger",
+      "Wormqueen",
+      "Dybbuk-Seizer",
+      "Salamander"
+    ],
+    "Ability": [
+      "Creates a clone of every infantry trained (exceptheroes)",
+      "Generates $20 every 100 frames (6.7 in-game seconds) like aTech Oil Derrick"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Cannot be captured",
+      "Can be infiltrated to reveal how much money the owner has"
+    ],
+    "Select sound": "From theSpy's underwater selecting sound (Red Alert 3)",
+    "Artist(s)": "CannisRabidus",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/f/fe/Clonicon.png/revision/latest",
+  "icon_filename": "Clonicon.png"
+}

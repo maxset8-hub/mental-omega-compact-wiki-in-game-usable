@@ -1,0 +1,17 @@
+{
+  "unit_name": "Great Tempest",
+  "infobox_data": {
+    "Affiliation": "Foehn Revolt",
+    "Cooldown": "10:00 (15:00 inInfantry Only)",
+    "Called from": "Tempest Architect",
+    "Effect": [
+      "Creates a Great Tempest that causes10 damage per frame (for a total of 150 damage per second)to anything in a radius of 9",
+      "The Great Tempest has a delay of 200 frames (13.3 in-game seconds) before it starts"
+    ],
+    "Artist(s)": "Apollo",
+    "_section_Superweapon": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/51/Tmpticon.png/revision/latest",
+  "icon_filename": "Tmpticon.png"
+}

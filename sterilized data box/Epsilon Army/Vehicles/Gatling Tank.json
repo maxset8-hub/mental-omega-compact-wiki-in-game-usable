@@ -1,0 +1,71 @@
+{
+  "unit_name": "Gatling Tank",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": [
+      "Anti-air",
+      "Anti-infantry"
+    ],
+    "Armament": "2x Gatling cannons",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "300",
+    "Armor type": "Light",
+    "Speed": "7",
+    "Turn rate": [
+      "8 (vehicle)",
+      "14 (turret)"
+    ],
+    "Sight radius": "6",
+    "Cost": "$600",
+    "Estimated build time": "0:22",
+    "Built at": "Epsilon War Factory",
+    "Ground": "32 * 2 (62 total)",
+    "Ground modifiers": [
+      "105% vs. Basic/Animal",
+      "90% vs. Flak",
+      "80% vs. Drone and Plate/Cyborg",
+      "60% vs. Dolphin, Giant Squid",
+      "45% vs. Riot Trooper, Libra, Libra Clones",
+      "25% vs. Light",
+      "15% vs. Medium/Harvester, (Big) Light Structure and ((Very) Big) Defensive Structure",
+      "10% vs. Heavy and (Big) Heavy Structure"
+    ],
+    "Air": "25 * 2 (50 total)",
+    "Air modifiers": [
+      "75% vs.Rocketeers,Gyrocopters,Cosmonauts,Neonwasps",
+      "70% vs.Scout Ravens",
+      "50% vs. Light Aircraft,  Jets,NorioandUragan",
+      "45% vs. Medium Aircraft,Thor Gunships,PteranodonsandQuetzals",
+      "40% vs. Heavy Aircraft,Alanqa Skystations,Harbingers, andAerial Fortresses Irkalla",
+      "30% vs.Cryocopters,Hailjets,Ospreys,Hornet UAVs,Black Widows,Dybbuk-Interceptors,Diverbees, Quetzal drones,Leviathandrones andShrike drones"
+    ],
+    "Cooldown": "15/12/8 frames (1/0.8/0.5 in-game seconds)",
+    "Range": [
+      "6 (ground)",
+      "10 (air)"
+    ],
+    "Ability": "Fires 33%/100% faster the longer the Gatling Tank attacks (seeWeapon stages)",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "50% faster firing rate build-up time",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can fire while moving",
+      "Can enterTank Bunkers",
+      "Takes 3 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/9/92/Ytnkicon.png/revision/latest",
+  "icon_filename": "Ytnkicon.png"
+}

@@ -1,0 +1,97 @@
+{
+  "unit_name": "Allied Naval Shipyard",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Ship production",
+    "Tier": "1",
+    "Tech level": "4",
+    "Hit points": "2000",
+    "Armor type": "Big Heavy Structure",
+    "Sight radius": "10",
+    "Cost": "$1200",
+    "Estimated build time": "0:54",
+    "Build time multiplier(s)": "1.25",
+    "Built by": "Allied Construction Yard",
+    "Requires": [
+      "Power Plant",
+      "Allied Ore Refinery"
+    ],
+    "Placement radius": "20",
+    "Power": "-100",
+    "Produces": "Allied ships",
+    "Ability": [
+      "Repairs ships",
+      "Can be toggled as the primary ship production structure (if the player have multiplenaval shipyardsat the same time)",
+      "Sonar Pulse"
+    ],
+    "Notes": [
+      "Must be built on water",
+      "Cannot be captured",
+      "The more naval shipyards the player have, the faster ships are produced"
+    ],
+    "Select sound": "From theSeaport(Red Alert 3)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/9/9d/Ayaricon.png/revision/latest",
+  "icon_filename": "Ayaricon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Intelligence PowerRecharge Time: 6:00Temporarily reveals enemy submerged units in the target areaLeft-click icon then left-click on target location (must be targeted on water)"
+        ]
+      ]
+    },
+    {
+      "title": "Overview",
+      "headers": [
+        "Unit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Transport.\nAbilities:\nTransport units with 12 passenger slots\nAmphibious\nArmed with dual missile pods"
+        ],
+        [
+          "",
+          "Basic Ship. Strong vs. Armor, Submarines, Structures.\nCarries an Osprey to attack enemy submarines\nAbilities:\nDetects cloaked units"
+        ],
+        [
+          "",
+          "Unmanned Light Vehicle. Strong vs. Infantry.\nAbilities:\nDetects cloaked and disguised units\nAmphibious"
+        ],
+        [
+          "",
+          "Scout Creature. Strong vs. Structures.\nRequires Air Force Command Headquarters\nAbilities:\nCloaked when not attacking\nDetects cloaked units"
+        ],
+        [
+          "",
+          "Medium Ship. Strong vs. Aircraft (no ground attack).\nRequires Air Force Command Headquarters"
+        ],
+        [
+          "",
+          "Capital Ship. Strong vs. Structures.\nRequires Mercury Network Uplink/Shield Command/Robot Ops Control Center and Tech Center\nCarries four Hornet UAVs to attack"
+        ],
+        [
+          "",
+          "Capital Ship. Strong vs. Armor.\nRequires Mercury Network Uplink/Shield Command/Robot Ops Control Center and Tech Center"
+        ],
+        [
+          "",
+          "Advanced Ship. Strong vs. Ground and Naval Targets.\nRequires Experimental Warpshop\nAbilities:\nGradually erases enemy targets\nDeploy to repair damage received with Negation Shield\nDamages itself while Negation Shield is active"
+        ]
+      ]
+    }
+  ]
+}

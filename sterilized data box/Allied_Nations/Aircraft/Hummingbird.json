@@ -1,0 +1,39 @@
+{
+  "unit_name": "Hummingbird",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Support",
+    "Armament": "Timewarp",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "300",
+    "Armor type": "Light Aircraft",
+    "Speed": "36 (jet)",
+    "Turn rate": "6",
+    "Sight radius": "6",
+    "Cost": "$1400",
+    "Estimated build time": "0:50",
+    "Built at": "Air Force Command Headquarters",
+    "Requires": "Experimental Warpshop",
+    "Ground": "0(dummy)",
+    "Cooldown": "10 frames (0.7 in-game seconds)",
+    "Range": "8.5, radius 3.2",
+    "Ability": "Weapon reduces the firepower and speed of enemy units by 50% for 420 frames (28 in-game seconds)",
+    "Notes": [
+      "Self-repair",
+      "Invisible on enemy radar",
+      "Has 2 ammunitionEach ammunition takes 18 in-game seconds to reload",
+      "Each ammunition takes 18 in-game seconds to reload"
+    ],
+    "Artist(s)": "Moder.U",
+    "Voice actor": "George \"Seòras\" Exley",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/f/fe/Hbrdicon.png/revision/latest",
+  "icon_filename": "Hbrdicon.png"
+}

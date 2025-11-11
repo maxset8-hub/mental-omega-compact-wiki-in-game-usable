@@ -1,0 +1,94 @@
+{
+  "unit_name": "Technology Center",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "High tech access",
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": "1500",
+    "Armor type": "Light Structure",
+    "Sight radius": "6",
+    "Cost": "$3000",
+    "Estimated build time": "2:13",
+    "Build time multiplier(s)": "1.25",
+    "Built by": "Allied Construction Yard",
+    "Requires": [
+      "Air Force Command Headquarters",
+      "Mercury Network Uplink",
+      "Shield Command",
+      "Robot Ops Control Center"
+    ],
+    "Placement radius": "2",
+    "Power": "-300",
+    "Allows": [
+      "Spy",
+      "Barracuda",
+      "Cryocopter",
+      "Cryospear",
+      "Runway",
+      "Riot Trooper",
+      "Tanya",
+      "Athena Cannon",
+      "Abrams Tank",
+      "Aeroblaze",
+      "Ultra Dome",
+      "Sniper",
+      "Siegfried",
+      "Prism Tank",
+      "Charon Tank",
+      "Thor Gunship",
+      "Hyperion",
+      "Cryomines",
+      "Suppressor",
+      "Norio",
+      "Hailstorm",
+      "Blizzard Tank",
+      "Battle Tortoise",
+      "Experimental Warpshop",
+      "Ore Purifier",
+      "Chronosphere",
+      "Weather Controller",
+      "Grand Cannon",
+      "Gap Generator",
+      "Quickshifter",
+      "Chrono Prison",
+      "Future Tank Alpha",
+      "Lionheart",
+      "Enterprise Aircraft Carrier",
+      "Trident Battleship",
+      "Backwarp"
+    ],
+    "Ability": [
+      "Black Widow(requiresShield CommandorRobot Ops Control Center)",
+      "Black Widow Alpha(requiresMercury Network Uplink, replacing Black Widow when having other types of Allied tier 2 access buildings simultaneously)"
+    ],
+    "Notes": "Can be infiltrated to unlockstolen tech units",
+    "Select sound": "From theStrategy Center(Generals)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/c/cf/Techicon.png/revision/latest",
+  "icon_filename": "Techicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Utility PowerCost: $1200Recharge Time: 7:30Requires:  Shield Command /  Robot Ops Control CenterCall in a Black Widow support aircraftDisables enemy radarBoosts the armor of friendly aircraft by 100%Weakens the firepower of enemy defenses by 50%Left-click icon then left-click on target location"
+        ],
+        [
+          "",
+          "Type: Utility PowerCost: $1500Recharge Time: 7:30Requires:  Mercury Network UplinkCall in a Black Widow Alpha support aircraftDisables enemy radarBoosts the armor of friendly aircraft by 100%Weakens the firepower of enemy defenses by 50%Increased durability, radar jamming radius, and duration than the standard Black WidowLeft-click icon then left-click on target location"
+        ]
+      ]
+    }
+  ]
+}

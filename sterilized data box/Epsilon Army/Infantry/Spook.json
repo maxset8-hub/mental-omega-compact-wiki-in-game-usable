@@ -1,0 +1,48 @@
+{
+  "unit_name": "Spook",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": [
+      "Reconnaissance",
+      "Anti-infantry"
+    ],
+    "Armament": "Sharp claws",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "75",
+    "Armor type": "Animal",
+    "Speed": "9",
+    "Sight radius": "8",
+    "Cost": "$100",
+    "Estimated train time": "0:04",
+    "Train time multiplier(s)": "0.65 (all infantry)",
+    "Trained at": "Epsilon Barracks",
+    "Ground": "300",
+    "Ground modifiers": [
+      "200% vs. Basic/Animal",
+      "100% vs. Flak"
+    ],
+    "Cooldown": "30 frames (2 in-game seconds)",
+    "Range": "1.83",
+    "Ability": [
+      "Amphibious",
+      "Detects disguised enemies (range 7)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "Notes": "Cannot be mind-controlled and turned into aBrute/Duplicant",
+    "Artist(s)": "Nolt",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/f/fb/Spokicon.png/revision/latest",
+  "icon_filename": "Spokicon.png"
+}

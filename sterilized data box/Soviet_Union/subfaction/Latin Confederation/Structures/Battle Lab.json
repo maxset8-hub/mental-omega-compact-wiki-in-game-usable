@@ -1,0 +1,97 @@
+{
+  "unit_name": "Battle Lab",
+  "infobox_data": {
+    "Faction": "Latin Confederation",
+    "Role": "High tech access",
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": "1500",
+    "Armor type": "Light Structure",
+    "Sight radius": "6",
+    "Cost": [
+      "$5000",
+      "$3000 inInfantry Only",
+      "$2500 inTech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Estimated build time": [
+      "2:35",
+      "1:34 inInfantry Only",
+      "1:16 inUnholy AllianceandUltimate Alliance"
+    ],
+    "Build time multiplier(s)": [
+      "1.25 (all buildings)",
+      "0.7 (individual)"
+    ],
+    "Built by": "Soviet Construction Yard",
+    "Requires": "Radar Dish",
+    "Placement radius": "2",
+    "Power": [
+      "-300",
+      "-200 inInfantry Only,Tech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Allows": [
+      "Repair Crane",
+      "Industrial Plant",
+      "Iron Curtain Device",
+      "Tactical Nuke Silo",
+      "Smoke Turret",
+      "Hammer Defense",
+      "Desolator",
+      "Arsonist",
+      "Morales",
+      "Catastrophe Tank",
+      "Buratino",
+      "Fury Drone",
+      "Grumble",
+      "Apocalypse Tank",
+      "Syckle",
+      "Iron Dragon",
+      "Vulture",
+      "Kirov Airship",
+      "Dreadnought"
+    ],
+    "Ability": [
+      "Elite Reserves",
+      "Motor Ambush",
+      "Flame Tower",
+      "Smoke Bombs"
+    ],
+    "Notes": "Can be infiltrated to unlockstolen tech units",
+    "Select sound": "From theAmerican Command Center(Generals)",
+    "Artist(s)": "Godwin",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/7/7a/Nateicon.png/revision/latest",
+  "icon_filename": "Nateicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Utility PowerCost: $1500Recharge Time: 8:00All Tier 1 Soviet units, War Miners, Demolition Trucks/Bomb Buggies, and Mosquito Demoboats are trained/produced as elite for 90 secondsLeft-click to activate"
+        ],
+        [
+          "",
+          "Type: Reinforcement PowerCost: $2000Recharge Time: 5:30Deploys 3 Mortar Quads to the battlefieldLeft-click icon then left-click on target location (cannot be targeted on water)"
+        ],
+        [
+          "",
+          "Type: Defensive PowerCost: $500Recharge Time: 4:30Deploys a Flame Tower on the battlefieldCreates a small fire explosion upon deployment Strong vs. InfantryLeft-click icon then left-click on target location (cannot be targeted on water)"
+        ],
+        [
+          "",
+          "Type: Utility PowerCost: $1000Recharge Time: 6:30Call in smoke bombing runs from a Sandstorm bomberSmoke bombs weaken the firepower of enemy units by 50%, but cannot directly harm themLeft-click icon then left-click on target location"
+        ]
+      ]
+    }
+  ]
+}

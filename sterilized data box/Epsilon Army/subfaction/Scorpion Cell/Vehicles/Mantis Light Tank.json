@@ -1,0 +1,57 @@
+{
+  "unit_name": "Mantis Scrap Tank",
+  "infobox_data": {
+    "Faction": "Scorpion Cell",
+    "Role": "Anti-armor",
+    "Armament": "90mm cannon",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "310",
+    "Armor type": "Medium",
+    "Speed": "7",
+    "Turn rate": [
+      "9 (unit)",
+      "10 (turret)"
+    ],
+    "Sight radius": "6",
+    "Cost": "$600",
+    "Estimated build time": "0:22",
+    "Built at": "Epsilon War Factory",
+    "Ground": "65",
+    "Ground modifiers": [
+      "100% vs. Light",
+      "90% vs. Medium/Harvester",
+      "80% vs. Heavy, Dolphin, Giant Squid",
+      "55% vs. Heavy Structure and Light Structure",
+      "30% vs. Drone and Defensive Structure",
+      "25% vs. Cyborg andFoehninfantry",
+      "20% vs. all infantry armor types andTech Concrete Fortresses",
+      "10% vs.Archelons"
+    ],
+    "Cooldown": "55 frames (3.7 in-game seconds)",
+    "Range": "6, radius 0.3",
+    "Ability": "Repairs other friendly Mantis Tanks in a radius of 1.5 around the Mantis Tank over 35 frames (2.3 in-game seconds) when destroyed",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can fire while moving",
+      "Can crush infantry",
+      "Can enterTank Bunkers",
+      "Takes 3 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "Voice actor": "DietingNinja",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/a/ad/Manticon.png/revision/latest",
+  "icon_filename": "Manticon.png"
+}

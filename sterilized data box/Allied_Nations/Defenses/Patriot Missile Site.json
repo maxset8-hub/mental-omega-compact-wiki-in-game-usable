@@ -1,0 +1,39 @@
+{
+  "unit_name": "Patriot Missiles",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Anti-air defense",
+    "Armament": "Patriot missiles",
+    "Tier": "1",
+    "Tech level": "5",
+    "Hit points": "900",
+    "Armor type": "Defensive Structure",
+    "Turn rate": "10",
+    "Sight radius": "10",
+    "Cost": "$800",
+    "Estimated build time": "0:32",
+    "Build time multiplier(s)": "1.2",
+    "Built by": "Allied Construction Yard",
+    "Requires": "Allied Barracks",
+    "Placement radius": "7",
+    "Air attack": "46 * 2 (92 total)",
+    "Cooldown": "40 frames (2.7 in-game seconds)",
+    "Attack range": "12, radius 0.5",
+    "Power": "-50",
+    "Upgraded bonus": "+40% armor",
+    "Fully upgraded bonus": [
+      "+40% firepower",
+      "Self-repair"
+    ],
+    "Notes": "Can gain experience",
+    "Select sound": "From thePatriot Missile System(Command & Conquer: Generals)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/9/90/Samicon.png/revision/latest",
+  "icon_filename": "Samicon.png"
+}

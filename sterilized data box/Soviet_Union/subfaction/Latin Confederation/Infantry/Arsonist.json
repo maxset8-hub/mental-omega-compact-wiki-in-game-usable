@@ -1,0 +1,62 @@
+{
+  "unit_name": "Arsonist",
+  "infobox_data": {
+    "Faction": "Latin Confederation",
+    "Role": [
+      "Infiltration",
+      "Firestarter"
+    ],
+    "Armament": [
+      "Makeup kit",
+      "Napalm charges (against structures)"
+    ],
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "140",
+    "Armor type": "Flak",
+    "Speed": "6",
+    "Sight radius": "8",
+    "Cost": "$1000",
+    "Estimated train time": "0:22",
+    "Train time multiplier(s)": "0.65",
+    "Trained at": "Soviet Barracks",
+    "Requires": "Battle Lab",
+    "Ground": "0(dummy)",
+    "Ground modifiers": [
+      "Fires:",
+      "100% vs. Basic/Animal",
+      "80% vs. Flak",
+      "60% vs. Plate/Cyborg",
+      "50% vs. Crazy Ivans",
+      "25% vs. ((Very) Big) Defensive Structure",
+      "20% vs. Light and Drone",
+      "15% vs. (Big) Light Structure",
+      "10% vs. Medium/Harvester, Heavy and (Big) Heavy Structure",
+      "1% vs. Pyros and Arsonists"
+    ],
+    "Cooldown": "240 frames (16 in-game seconds)",
+    "Range": "1.5",
+    "Ability": [
+      "Can disguise as enemy infantryHas a cooldown of 100 frames (6.7 in-game seconds)",
+      "Has a cooldown of 100 frames (6.7 in-game seconds)",
+      "Napalm charges take 550 frames (36.7 in-game seconds) to detonate and starts fires which lingers for 500 frames (33.3 in-game seconds) and causes 20-10 damage every frame (0.07 in-game seconds) over a radius of 0.5The napalm charge will not detonate if the building it is planted to is sold",
+      "The napalm charge will not detonate if the building it is planted to is sold"
+    ],
+    "Notes": [
+      "Resistant to fire damage",
+      "Cannot be crushed by normal vehicles",
+      "Napalm charges can be detected and defused byEngineers",
+      "Unaffected by firepower buffs/debuffs"
+    ],
+    "Artist(s)": "Lao-Tze",
+    "Voice actor": "George \"Seòras\" Exley",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/b/bb/Arsoicon.png/revision/latest",
+  "icon_filename": "Arsoicon.png"
+}

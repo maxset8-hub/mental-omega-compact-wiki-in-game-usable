@@ -1,0 +1,100 @@
+{
+  "unit_name": "Tanya Adams",
+  "infobox_data": {
+    "Faction": "United States",
+    "Role": [
+      "Anti-infantry",
+      "Anti-armor",
+      "Anti-structure"
+    ],
+    "Armament": [
+      "Prototype laser rifle (against units)",
+      "C4 charges (against structures)"
+    ],
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": [
+      "200",
+      "400 inLow Rider,Hammer to Fall,Puppet Master,GridlockandInsomnia",
+      "300 inGood Old Times",
+      "500 inObstinateandParanoia"
+    ],
+    "Armor type": "Flak",
+    "Speed": "9",
+    "Sight radius": [
+      "9",
+      "10 inHammer to Fall,ObstinateandParanoia",
+      "8 inThe Mermaid"
+    ],
+    "Cost": "$1500",
+    "Estimated train time": "1:08",
+    "Train time multiplier(s)": [
+      "0.65 (all infantry)",
+      "2 (all heroes)",
+      "1.0 (multiple factory)"
+    ],
+    "Trained at": "Allied Barracks",
+    "Requires": [
+      "Mercury Network Uplink",
+      "Tech Center"
+    ],
+    "Ground": [
+      "120 (laser rifle)",
+      "3000 (C4)"
+    ],
+    "Ground modifiers": [
+      "Laser rifle:",
+      "160% vs. Basic/Animal and Flak",
+      "135% vs. Plate",
+      "50% vs. Drone andStun/Turmoil Grids",
+      "45% vs. Light",
+      "40% vs. Medium/Harvester",
+      "30% vs. deployedFury Drones,SweepersandSODAR Arrays",
+      "25% vs. Heavy and Land Mine",
+      "C4:",
+      "100% vs. all applicable target"
+    ],
+    "Cooldown": [
+      "5 frames (0.3 in-game seconds) (laser rifle)",
+      "75 frames (5 in-game seconds) (C4)"
+    ],
+    "Range": [
+      "9 (laser rifle)",
+      "1.83 (C4)"
+    ],
+    "Ability": [
+      "Amphibious",
+      "Detects cloaked/submerged enemies (range 9)",
+      "Clear garrisoned structures",
+      "The C4 takes 75 frames (5 in-game seconds) to detonate, causing 3000 damage to the target",
+      "Can destroybridgesby using the C4 on its repair hut"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Build time is unaffected by multiple Barracks",
+      "Self-healing",
+      "Uncrushable by normal vehicles",
+      "Cannot be mind-controlled and abducted",
+      "Immune to confusion rays",
+      "Cannot use C4 fromopentopped transports",
+      "More resistant to garrisoned weaponry"
+    ],
+    "Artist(s)": [
+      "Alvin Goh(cameo)",
+      "ImP_RuLz (SHP)"
+    ],
+    "_section_Hero": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/d/da/Tanyicon.png/revision/latest",
+  "icon_filename": "Tanyicon.png"
+}

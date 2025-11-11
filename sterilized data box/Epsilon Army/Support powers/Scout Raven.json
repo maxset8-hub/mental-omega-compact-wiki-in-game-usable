@@ -1,0 +1,25 @@
+{
+  "unit_name": "Scout Raven",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": "Scout",
+    "Tier": "2",
+    "Hit points": "40",
+    "Armor type": "Flak",
+    "Speed": "25 (flying)",
+    "Sight radius": "7",
+    "Cost": "Free",
+    "Recharge time": "4:00",
+    "Deployed by": "Radar Spire",
+    "Ability": "\"Attack\" a unit to follow it",
+    "Notes": "Gains invisibility and +700% armor buff for 180 frames (12 in-game seconds) upon spawning",
+    "Artist(s)": "Atomic_Noodles",
+    "_section_Support Power Unit": true,
+    "_section_Properties": true,
+    "_section_Deployment": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/e/eb/Mothicon.png/revision/latest",
+  "icon_filename": "Mothicon.png"
+}

@@ -1,0 +1,60 @@
+{
+  "unit_name": "Soviet Airbase",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": "Aircraft production",
+    "Tier": "1",
+    "Tech level": "5",
+    "Hit points": "1100",
+    "Armor type": "Light Structure",
+    "Sight radius": "7",
+    "Cost": "$1000",
+    "Estimated build time": "0:43",
+    "Build time multiplier(s)": "1.25",
+    "Built by": "Soviet Construction Yard",
+    "Requires": [
+      "Tesla Reactor",
+      "Soviet Ore Refinery"
+    ],
+    "Placement radius": "2",
+    "Power": "-100",
+    "Produces": [
+      "Foxtrot",
+      "Dustdevil",
+      "Gyrocopter"
+    ],
+    "Ability": [
+      "Can house up to 4 jets",
+      "Can be toggled as the primary jet production structure (if the player has multipleairfields,RunwaysandTech Airfieldsat the same time)"
+    ],
+    "Notes": "The more airfields the player have, the faster jets are produced",
+    "Select sound": "From theAirfield(Red Alert 3)",
+    "Artist(s)": "Nooze",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/7/71/Sairicon.png/revision/latest",
+  "icon_filename": "Sairicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Unit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Fighter Jet. Strong vs. Infantry, Armor.\nHas 2 ammunition\nAbilities:\nMissiles can hit additional random targets"
+        ],
+        [
+          "",
+          "Support Bomber Jet.\nRequires Field Bureau\nHas 4 ammunition\nAbilities:\nSmoke bombs weaken the firepower of enemy units by 50%, but cannot directly harm them"
+        ]
+      ]
+    }
+  ]
+}

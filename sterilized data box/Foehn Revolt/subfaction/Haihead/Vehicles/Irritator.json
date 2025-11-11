@@ -1,0 +1,55 @@
+{
+  "unit_name": "Irritator",
+  "infobox_data": {
+    "Faction": "Haihead",
+    "Role": [
+      "Unit disruption",
+      "Target marking"
+    ],
+    "Armament": [
+      "Confusion ray",
+      "Illumination flare (deployed)"
+    ],
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "270",
+    "Armor type": "Medium",
+    "Speed": "5",
+    "Turn rate": [
+      "5 (unit)",
+      "7 (turret)"
+    ],
+    "Sight radius": "7",
+    "Cost": "$1200",
+    "Estimated build time": "0:43",
+    "Built at": "Foehn War Factory",
+    "Requires": "CyberkernelorCyberkernel Expansion(unconditionally)",
+    "Ground": "0(dummy)(both weapons)",
+    "Cooldown": "200 frames (13.3 in-game seconds) (both weapons)",
+    "Range": [
+      "8, minimum 1, radius 1 (confusion ray)",
+      "14, minimum 4, radius 2.5 (illumination flare)"
+    ],
+    "Ability": [
+      "Confusion ray makes enemies cannot be controlled and attack their own allies for 210 frames (14 in-game seconds)",
+      "Deploy to fire illumination flares that reduces enemy armor by 25% for 360 frames (24 in-game seconds)"
+    ],
+    "Notes": [
+      "Immune to confusion rays",
+      "Takes 3 slots in transports"
+    ],
+    "Artist(s)": [
+      "Mevitar (voxel)",
+      "Nooze (cameo)"
+    ],
+    "Voice actor": "Biiiyonder",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/7/78/Irrticon.png/revision/latest",
+  "icon_filename": "Irrticon.png"
+}

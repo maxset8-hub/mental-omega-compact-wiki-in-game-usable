@@ -1,0 +1,92 @@
+{
+  "unit_name": "Soviet Naval Shipyard",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": "Ship production",
+    "Tier": "1",
+    "Tech level": "4",
+    "Hit points": "2000",
+    "Armor type": "Big Heavy Structure",
+    "Sight radius": "10",
+    "Cost": "$1200",
+    "Estimated build time": "0:54",
+    "Build time multiplier(s)": "1.25",
+    "Built by": "Soviet Construction Yard",
+    "Requires": [
+      "Tesla Reactor",
+      "Soviet Ore Refinery"
+    ],
+    "Placement radius": "20",
+    "Power": "-100",
+    "Produces": "Soviet ships",
+    "Ability": [
+      "Repairs ships",
+      "Can be toggled as the primary ship production structure (if the player have multiplenaval shipyardsat the same time)",
+      "Naval Mine"
+    ],
+    "Notes": [
+      "Cannot be captured",
+      "The more naval shipyards the player have, the faster ships are produced"
+    ],
+    "Select sound": "From theNaval Yard(Red Alert 3)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/0/00/Yardicon.png/revision/latest",
+  "icon_filename": "Yardicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Defensive PowerCost: $400Recharge Time: 3:30Deploys a Naval Mine near a Naval ShipyardNaval mines leave radiation on detonationStrong vs. Infantry, ArmorLeft-click icon then left-click on target location near a Naval Shipyard"
+        ]
+      ]
+    },
+    {
+      "title": "Overview",
+      "headers": [
+        "Unit",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Transport.\nAbilities:\nTransport ground units with 12 passenger slots\nAmphibious\nArmed with twin flak cannons"
+        ],
+        [
+          "",
+          "Basic Submarine. Strong vs. Armor.\nAbilities:\nDetects cloaked units\nSubmerged\nDeploy to switch between Type-O or Type-T torpedoes"
+        ],
+        [
+          "",
+          "Light Ship. Strong vs. Infantry, Aircraft.\nRequires Radar Dish"
+        ],
+        [
+          "",
+          "Medium Ship. Strong vs. Infantry, Armor.\nRequires Nuclear Converter\nAbilities:\nAmphibious"
+        ],
+        [
+          "",
+          "Suicide Ship. Strong vs. Ground Targets.\nRequires Palace/Battle Lab/Atomheart\nAbilities:\nExplodes when destroyed or deployed\nExplosion is weaker when destroyed"
+        ],
+        [
+          "",
+          "Capital Submarine. Strong vs. Structures.\nRequires  Palace\nProjectiles can be shot down\nAbilities:\nSubmerged\nDetects cloaked units"
+        ],
+        [
+          "",
+          "Capital Ship. Strong vs. Structures.\nRequires  Battle Lab or  Atomheart\nProjectiles can be shot down\nAbilities:\nDetects cloaked units"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "unit_name": "Neutralizer",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": "Long-range defense",
+    "Armament": "Plasma cutters",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "1650",
+    "Armor type": "Big Defensive Structure",
+    "Turn rate": "6",
+    "Sight radius": "10",
+    "Cost": "$1800",
+    "Estimated build time": "1:16",
+    "Build time multiplier(s)": [
+      "1.2 (all defenses)",
+      "0.95 (multiple Construction Yards)"
+    ],
+    "Built by": "Foehn Construction Yard",
+    "Requires": [
+      "Cyberkernel Expansion",
+      "Cloud Piercer Expansion",
+      "Nanofiber Loom Expansion"
+    ],
+    "Placement radius": "2",
+    "Ground attack": "12-3 * 2 (24-6 total)",
+    "Ground attack modifiers": [
+      "115% vs. Light navy",
+      "105% vs. Medium navy",
+      "90% vs. Light",
+      "85% vs. Heavy navy",
+      "80% vs. Medium/Harvester",
+      "70% vs. Heavy",
+      "65% vs. (Big) Light Structure",
+      "60% vs. (Big) Heavy Structure",
+      "45% vs. Defensive Structure and Lightning Rods",
+      "35% vs. (Very) Big Defensive Structure",
+      "30% vs. Basic/Animal, Flak and Drone",
+      "25% vs. Plate/Cyborg and Tech Concrete Fortresses"
+    ],
+    "Cooldown": "1 frame (0.07 in-game seconds)",
+    "Attack range": "14, minimum 3, radius 0.3",
+    "Power": "-150",
+    "Upgraded bonus": "+40% armor",
+    "Fully upgraded bonus": [
+      "+40% firepower",
+      "Self-repair"
+    ],
+    "Notes": "Can gain experience",
+    "Artist(s)": [
+      "Bu7loos (SHP)",
+      "Nooze (cameo)"
+    ],
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/c/c3/Fequicon.png/revision/latest",
+  "icon_filename": "Fequicon.png"
+}

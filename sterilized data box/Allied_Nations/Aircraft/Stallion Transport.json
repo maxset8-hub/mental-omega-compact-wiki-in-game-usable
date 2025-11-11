@@ -1,0 +1,33 @@
+{
+  "unit_name": "Stallion Transport",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Infantry transport",
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "330",
+    "Armor type": "Light Aircraft",
+    "Transport slots": "6",
+    "Speed": "40 (flying)",
+    "Turn rate": "6",
+    "Sight radius": "8",
+    "Cost": "$1000",
+    "Estimated build time": "0:36",
+    "Built at": "Allied War Factory",
+    "Requires": "Air Force Command Headquarters",
+    "Notes": [
+      "Invisible on enemy radar",
+      "Unaffected by firepower and speed buffs/debuffs",
+      "Level 2/medium passenger survivability rate (70% rookie, 80% veteran, 90% elite)",
+      "Surviving passengers will paradrop from the Stallion Transport when shot down"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/3/34/Shadicon.png/revision/latest",
+  "icon_filename": "Shadicon.png"
+}

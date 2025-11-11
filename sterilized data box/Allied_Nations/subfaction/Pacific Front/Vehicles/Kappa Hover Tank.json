@@ -1,0 +1,56 @@
+{
+  "unit_name": "Kappa Hover Tank",
+  "infobox_data": {
+    "Faction": "Pacific Front",
+    "Role": "Anti-armor",
+    "Armament": "105mm cannon",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "420",
+    "Armor type": "Medium",
+    "Speed": "10 (hover)",
+    "Turn rate": [
+      "12 (unit)",
+      "15 (turret)"
+    ],
+    "Sight radius": "6",
+    "Cost": "$750",
+    "Estimated build time": "0:25",
+    "Built at": "Allied War Factory",
+    "Ground": "60",
+    "Ground modifiers": [
+      "100% vs. Light",
+      "90% vs. Medium/Harvester",
+      "80% vs. Heavy",
+      "55% vs. Heavy Structure and Light Structure",
+      "30% vs. Drone and Defensive Structure",
+      "25% vs. Cyborg andFoehninfantry",
+      "20% vs. all infantry armor types andTech Concrete Fortresses",
+      "10% vs.Archelons"
+    ],
+    "Cooldown": "45 frames (3 in-game seconds)",
+    "Range": "6, radius 0.3",
+    "Ability": "Amphibious",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can fire while moving",
+      "Can crush infantry",
+      "Takes 3 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "Voice actor": "Garrick P.",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/4/4f/Predicon.png/revision/latest",
+  "icon_filename": "Predicon.png"
+}

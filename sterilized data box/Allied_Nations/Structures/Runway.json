@@ -1,0 +1,41 @@
+{
+  "unit_name": "Runway",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Aircraft housing",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "1000",
+    "Armor type": "Light Structure",
+    "Sight radius": "3",
+    "Cost": "$600",
+    "Estimated build time": "0:25",
+    "Build time multiplier(s)": "1.25",
+    "Built by": "Allied Construction Yard",
+    "Requires": [
+      "Air Force Command Headquarters",
+      "Tech Center"
+    ],
+    "Placement radius": "1",
+    "Power": "-10",
+    "Ability": [
+      "Can house up to 4 jets",
+      "Can be toggled as the primary jet production structure (if the player has multipleairfields, Runways andTech Airfieldsat the same time)"
+    ],
+    "Notes": [
+      "Cannot be captured",
+      "Can produce jets even if the airfield(s) are disabled",
+      "Cannot produce jets if the player has no airfield(s)",
+      "Does not expand the base building area"
+    ],
+    "Select sound": "From theAmerican Airfield(Generals)",
+    "Artist(s)": "Mig Eater",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/1/17/Hpadicon.png/revision/latest",
+  "icon_filename": "Hpadicon.png"
+}

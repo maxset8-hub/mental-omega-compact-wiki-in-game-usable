@@ -1,0 +1,33 @@
+{
+  "unit_name": "Fake Psychic Dominator",
+  "infobox_data": {
+    "Faction": "Scorpion Cell",
+    "Role": "Diversion",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "1350",
+    "Armor type": "Big Heavy Structure",
+    "Sight radius": "5",
+    "Cost": "$700",
+    "Estimated build time": "0:29",
+    "Build time multiplier(s)": "1.25 (all defenses)",
+    "Built by": "Epsilon Construction Yard",
+    "Requires": "Chemplug",
+    "Placement radius": "2",
+    "Cooldown": "10:00 (Fake Domination)",
+    "Power": "-10",
+    "Ability": "Fake Domination",
+    "Notes": [
+      "Limited to one for each player",
+      "Uncapturable",
+      "Can be infiltrated to reset the fake superweapon's timer"
+    ],
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/0/0a/Pxpticon.png/revision/latest",
+  "icon_filename": "Pxpticon.png"
+}

@@ -1,0 +1,95 @@
+{
+  "unit_name": "Buzzard",
+  "infobox_data": {
+    "Faction": "HaiheadWings of Coronia",
+    "Role": [
+      "Aerial Assault",
+      "Anti-infantry",
+      "Anti-air"
+    ],
+    "Armament": [
+      "2x integrated heavy machine guns",
+      "Stun traps"
+    ],
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "440",
+    "Armor type": "Medium Aircraft",
+    "Speed": "26 (flying)",
+    "Turn rate": "5",
+    "Sight radius": "7",
+    "Cost": "$1300",
+    "Estimated build time": "0:47",
+    "Built at": "Foehn War Factory",
+    "Requires": "Cloud Piercer",
+    "Ground": [
+      "38-22.8 * 2 (76-45.6 total) (integrated heavy machine guns)",
+      "1 (stun traps)"
+    ],
+    "Ground modifiers": [
+      "Main attack:",
+      "120% vs. Basic/Animal",
+      "105% vs. Flak",
+      "100% vs. Drone",
+      "85% vs. Plate/Cyborg",
+      "50% vs. Dolphins and Giant Squids",
+      "40% vs. heroes",
+      "30% vs. Light",
+      "25% vs. Medium/Harvester and Heavy",
+      "15% vs. Light Structure and Defensive Structure",
+      "10% vs. (Big) Light Structure, Big Defensive Structure and Heavy Structure",
+      "5% vs. Very Big Defensive Structure and Big Heavy Structure",
+      "Death explosion:",
+      "100% vs. all infantry armor types and Drone",
+      "85% vs. (Big) Light Structure and ((Very) Big Defensive Structure",
+      "70% vs. Light",
+      "55% vs. (Big) Heavy Structure",
+      "35% vs. Medium/Harvester and Heavy",
+      "Stun traps:200% vs.Engineersand espionage agents100% vs. other infantry armor types",
+      "200% vs.Engineersand espionage agents",
+      "100% vs. other infantry armor types"
+    ],
+    "Air": "38-22.8 * 2 (76-45.6 total)",
+    "Air modifiers": [
+      "90% vs. Scout Ravens60% vs. Rocketeers, Gyrocopters, Neonwasps and Cosmonauts50% vs. jets and Black Widows40% vs. Light Aircraft, Norio and Uragan35% vs. Harbingers30% vs. Medium Aircraft and Aerial Fortresses Irkalla25% vs. Heavy Aircraft, Cryocopters, Diverbees, Alanqa Skystations and Quetzals",
+      "90% vs. Scout Ravens",
+      "60% vs. Rocketeers, Gyrocopters, Neonwasps and Cosmonauts",
+      "50% vs. jets and Black Widows",
+      "40% vs. Light Aircraft, Norio and Uragan",
+      "35% vs. Harbingers",
+      "30% vs. Medium Aircraft and Aerial Fortresses Irkalla",
+      "25% vs. Heavy Aircraft, Cryocopters, Diverbees, Alanqa Skystations and Quetzals"
+    ],
+    "Cooldown": "20 frames (1.33 in-game seconds)",
+    "Range": [
+      "7, minimum 1, radius 0.7",
+      "8, minimum 1, radius 0.7 (anti-air)"
+    ],
+    "Ability": [
+      "Deploy to drop stun traps that lasts for 750 frames (50 in-game seconds)",
+      "The stun traps immobilize enemy infantry on them",
+      "Has a cooldown of 340 frames (22.7 in-game seconds)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Causes 6-3 damage in a radius of 2 around where the Buzzard crashes when shot down"
+    ],
+    "Artist(s)": [
+      "ONEX (voxel)",
+      "Nooze (cameo)"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/6/65/Buzzicon.png/revision/latest",
+  "icon_filename": "Buzzicon.png"
+}

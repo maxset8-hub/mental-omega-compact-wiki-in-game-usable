@@ -1,0 +1,366 @@
+{
+  "unit_name": "Tsurugi Powersuit",
+  "infobox_data": {
+    "Faction": "Pacific Front",
+    "Role": [
+      "Anti-air",
+      "Multipurpose combat support"
+    ],
+    "Armament": [
+      "\"Mist\" missiles",
+      "Adaptation System"
+    ],
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "300",
+    "Armor type": "Light",
+    "Transport slots": "1",
+    "Speed": "7 (walking)",
+    "Turn rate": [
+      "9 (unit)",
+      "16 (turret)"
+    ],
+    "Sight radius": "7",
+    "Cost": "$550",
+    "Estimated build time": "0:18",
+    "Built at": "Allied War Factory",
+    "Ground": "26-13 * 2 (52-26 total)",
+    "Ground modifiers": [
+      "80% vs. Drone",
+      "55% vs. Light",
+      "50% vs. Basic/Animal",
+      "45% vs. Flak",
+      "40% vs. Medium/Harvester and (Big) Light Structure",
+      "25% vs. Plate/Cyborg and Heavy",
+      "20% vs. ((Very) Big) Defensive Structure",
+      "10% vs. (Big) Heavy Structure"
+    ],
+    "Air": "26-13 * 2 (52-26 total)",
+    "Air modifiers": [
+      "80% vs. Light Aircraft",
+      "75% vs.Scout Ravens",
+      "60% vs.Rocketeers,Gyrocopters,Neonwasps,Cosmonauts, Medium Aircraft,Cryocopters,Aerial Fortresses Irkalla,Black Widows,HarbingersandQuetzals",
+      "55% vs.Thor Gunships",
+      "45% vs. Heavy Aircraft",
+      "40% vs.NorioandUragan"
+    ],
+    "Cooldown": "35 frames (2.3 in-game seconds)",
+    "Range": [
+      "6 (ground)",
+      "10 (air)",
+      "0.5 (radius)"
+    ],
+    "Ability": "IFV combos (seeConfigurations)",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can fire while moving (except certain modes)",
+      "Cannot depilot",
+      "Immune to ice clouds, radiation and poison",
+      "Cannot be attacked byDesolators/EradicatorsandSyckles",
+      "Can enterTank Bunkers",
+      "Level 2/medium passenger survivability rate (70% rookie, 80% veteran, 90% elite)",
+      "Takes 3 slots in transports"
+    ],
+    "Artist(s)": [
+      "Azri_Apoc (default voxel)",
+      "MadHQ (default voxel)",
+      "Mevitar (infantry custom turrets)"
+    ],
+    "Voice actor": "Gabriel Wolf",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/59/Tsuricon.png/revision/latest",
+  "icon_filename": "Tsuricon.png",
+  "article_tables": [
+    {
+      "title": "Configurations",
+      "headers": [
+        "Infantry",
+        "Armament",
+        "Picture"
+      ],
+      "rows": [
+        [
+          "None\nAttack Dog\nSpook\nM.A.D. Technician",
+          "Default \"Mist\" missiles",
+          ""
+        ],
+        [
+          "Engineer\nTechnician",
+          "Repair beam\nRepairs 50 hit points every 75 frames (5 in-game seconds)\nRange: 5",
+          ""
+        ],
+        [
+          "GI\nConscript\nSpy\nSaboteur\nInfiltrator\nHijacker\nTechnician(The Gardener only)",
+          "Machine gun – ineffective against vehicles\nGround attack: 30 * 2 (60 total)\nCooldown: 18 frames (1.2 in-game seconds)\nRange: 6.5",
+          ""
+        ],
+        [
+          "Crazy Ivan",
+          "Ivan Bomb launcher – attaches Ivan Bomb to target\nTakes 430 frames (28.7 in-game seconds) to detonate\nGround attack: 400-100\nCooldown: 100 frames (6.7 in-game seconds)\nRange: 5, radius 1.5",
+          ""
+        ],
+        [
+          "Navy SEAL\nChitzkoi\nBoris\nCyborg Vanguard\nRashidi",
+          "Submachine gun – ineffective against heavy vehicles\nGround attack: 36-5.4 * 2 (72-10.8 total)\nCooldown: 10 frames (0.7 in-game seconds)\nRange: 7.5, radius 0.7",
+          ""
+        ],
+        [
+          "Sniper\nReznov\nK.I. Scientist(top left one, The Gardener only)",
+          "Sniper rifle\nGround attack: 135\nCooldown: 120 frames (8 in-game seconds)\nRange: 11.5",
+          ""
+        ],
+        [
+          "Tesla Trooper\nShock Trooper",
+          "Dual Tesla Coils – temporarily disables vehicles\nGround attack: 30 * 2 (60 total)\nCooldown: 60 frames (4 in-game seconds)\nRange: 6.5",
+          ""
+        ],
+        [
+          "Pyro",
+          "Flamethrower\nGround attack: 40-6\nCooldown: 30 frames (2 in-game seconds)\nRange: 6, radius 1.5",
+          ""
+        ],
+        [
+          "Epsilon Adept\nEpsilon Elite",
+          "Psychic blasts\nGround attack: 250\nCooldown: 75 frames (5 in-game seconds)\nRange: 1.73, radius 3.3",
+          ""
+        ],
+        [
+          "Desolator\nEradicator\nKrukov",
+          "Rad cannon\nGround attack: 165\nCooldown: 30 frames (2 in-game seconds)\nRange: 8",
+          ""
+        ],
+        [
+          "Chrono Legionnaire",
+          "Temporal displacement device\nDamage: 10\nCooldown: 100 frames (6.7 in-game seconds)\nRange: 7.5",
+          ""
+        ],
+        [
+          "Riot Trooper",
+          "Flash grenades – clears garrisoned structures\nDamage: 100-25\nCooldown: 95 frames (6.3 in-game seconds)\nRange: 9.5, minimum 2, radius 1",
+          ""
+        ],
+        [
+          "Siege Cadre\nK.I. Scientist(bottom left one, The Gardener only)",
+          "Prism rifle\nGround attack: 45\nCooldown: 50 frames (3.3 in-game seconds)\nRange: 10.5",
+          ""
+        ],
+        [
+          "Dunerider",
+          "Toxic grenades\nDamage: 70-10.5\nCooldown: 50 frames (3.3 in-game seconds)\nRange: 9.5, minimum 1, radius 1",
+          ""
+        ],
+        [
+          "Clairvoyant",
+          "Stun beam – temporarily immobilizes target infantry\nLasts for 120 frames (8 in-game seconds)\nCooldown: 50 frames (3.3 in-game seconds)\nRange: 9.5",
+          ""
+        ],
+        [
+          "Tanya",
+          "Laser gun\nGround attack: 110\nCooldown: 8 frames (0.5 in-game seconds)\nRange: 9",
+          ""
+        ],
+        [
+          "Guardian GI",
+          "\"Seeker\" missiles – ineffective against infantry\nGround and air attack: 35-17.5 * 2 (70-35 total)\nCooldown: 32 frames (2.1 in-game seconds)\nRange: 7 ground, 11 air, radius 0.5",
+          ""
+        ],
+        [
+          "Bloatick",
+          "Toxic warhead – detonates on attack, releasing poison clouds\nGround attack: 300-75\nRange: 1.73, radius 3.3",
+          ""
+        ],
+        [
+          "Duplicant",
+          "Nanoid warhead – detonates on attack, turning infantry killed into Duplicants; does not heal Foehn infantry\nGround attack: 825\nRange: 1.73, radius 2.6",
+          ""
+        ],
+        [
+          "Virus",
+          "Virus sniper rifle\nTakes 160 frames (10.7 in-game seconds) to detonate\nGround attack: 200-60\nCooldown: 130 frames (8.7 in-game seconds)\nRange: 11.5, radius 1",
+          ""
+        ],
+        [
+          "Field Medic\nK.I. Scientist(bottom right one, The Gardener only)",
+          "Heal bullets\nHeals 50 hit points every 15 frames (1 in-game seconds)\nRange: 5",
+          ""
+        ],
+        [
+          "Archer",
+          "Long bow with AROs\nGround and air attack: 36-18 * 2 (72-36 total)\nCooldown: 50 frames (3.3 in-game seconds)\nRange: 7 ground, 11 air, radius 0.5",
+          ""
+        ],
+        [
+          "Initiate",
+          "Psychic jab\nGround attack: 32 * 2 (64 total)\nCooldown: 18 frames (1.2 in-game seconds)\nRange: 6.5",
+          ""
+        ],
+        [
+          "Suppressor",
+          "Negation Field\nLasts for 120 frames (8 in-game seconds)\nCooldown: 90 frames (6 in-game seconds)\nRange: 11, radius 0.7",
+          ""
+        ],
+        [
+          "Desperate Driver\nBomb Biker",
+          "Explosive warhead – detonates on attack; does not create radiation as in the vanilla Red Alert 2\nGround attack: 300-150\nRange: 1.73, radius 2.3",
+          ""
+        ],
+        [
+          "Mortar Quad",
+          "Mortar\nGround attack: 60-12\nCooldown: 65 frames (4.3 in-game seconds)\nRange: 11, minimum 2, radius 0.8",
+          ""
+        ],
+        [
+          "Flak Trooper",
+          "Flak cannon – can only attack air targets\nAir attack: 20-12 * 2 (40-24 total)\nCooldown: 20 frames (1.3 in-game seconds)\nRange: 7, radius 0.3",
+          ""
+        ],
+        [
+          "Brute\nK.I. Scientist(top right one, The Gardener only)",
+          "\"Jagdpanther\" cannon – more effective against infantry than regular tank cannons\nGround attack: 90-45\nCooldown: 70 frames (4.7 in-game seconds)\nRange: 7, radius 0.3",
+          ""
+        ],
+        [
+          "Stalker",
+          "Imploder – cannot target infantry\nGround attack: 100-50\nCooldown: 150 frames (10 in-game seconds)\nRange: 12.5, radius 1.2",
+          ""
+        ],
+        [
+          "Arsonist",
+          "Napalm charges – attaches napalm charges to buildings\nTakes 880 frames (58.7 in-game seconds) to detonate\nCooldown: 150 frames (10 in-game seconds)\nRange: 5",
+          ""
+        ],
+        [
+          "Morales",
+          "Incendiary sniper rifle – deals damage in a line; depilots Tier 1 and Tier 2 vehicles\nGround attack: 300\nCooldown: 120 frames (8 in-game seconds)\nRange: 15",
+          ""
+        ],
+        [
+          "Malver",
+          "Kinetic blade – effective against infantry and vehicles; cannot target buildings\nGround attack: 250\nCooldown: 15 frames (1 in-game second)\nRange: 7",
+          ""
+        ],
+        [
+          "Libra",
+          "Custom explosive darts – effective against all targets\nGround and air attack: 132 * 3 (396 total)\nCooldown: 80 frames (5.3 in-game seconds)\nRange: 10.5, radius 1",
+          ""
+        ],
+        [
+          "Libra Clones",
+          "Fake custom explosive darts – deals less damage than the real version\nGround and air attack: 16 * 3 (48 total)\nCooldown: 80 frames (5.3 in-game seconds)\nRange: 10.5, radius 1",
+          ""
+        ],
+        [
+          "Volkov",
+          "Chain lightning Tesla cannon – cannot target buildings\nGround attack: 60/50/40/30\nCooldown: 25 frames (1.7 in-game seconds)\nRange: 9, chain radius 4",
+          ""
+        ],
+        [
+          "Yunru",
+          "Immobilizer\nLasts for 360 frames (12 in-game seconds)\nCooldown: 90 frames (6 in-game seconds)\nRange: 13, minimum 3, radius 2.5",
+          ""
+        ],
+        [
+          "Rahn",
+          "\"Terranova\" beam\nGround attack: 250 target, 75 pass-through\nCooldown: 100 frames (6.7 in-game seconds)\nRange: 9.5",
+          ""
+        ],
+        [
+          "Knightframe",
+          "Dual VHMG – cannot attack air targets\nGround attack: 40-12 * 2 (80-36 total)\nCooldown: 50 frames (3.3 in-game seconds)\nRange: 6.5, radius 0.7",
+          ""
+        ],
+        [
+          "Kingsframe",
+          "Dual power cannon\nGround attack: 50-25 * 2 (100-50 total)\nCooldown: 80 frames (5.3 in-game seconds)\nRange: 7.5, radius 0.7",
+          ""
+        ],
+        [
+          "Lancer",
+          "Pressurizer lance\nGround attack: 75-22.5 main, 60-18 fragment\nCooldown: 40 frames (2.7 in-game seconds)\nRange: 4.5, radius 0.55, fragment range 2, fragment radius 0.5",
+          ""
+        ],
+        [
+          "Railguneer",
+          "Plasma railgun\nGround attack: 80-28\nCooldown: 100 frames (6.7 in-game seconds)\nRange: 7.5, minimum 1.5, radius 1",
+          ""
+        ],
+        [
+          "Huntress",
+          "Nanoid container gun – has an exceptionally long range\nGround attack: 230\nCooldown: 60 frames (4 in-game seconds)\nRange: 8.5, minimum 1",
+          ""
+        ],
+        [
+          "Deviatress",
+          "Confusion rifle – cannot attack air targets\nLasts for 105 frames (7 in-game seconds)\nCooldown: 90 frames (6 in-game seconds)\nRange: 10",
+          ""
+        ],
+        [
+          "Syncronin",
+          "Bond breaker\nLasts for 85 frames (5.7 in-game seconds)\nCooldown: 75 frames (5 in-game seconds)\nRange: 13",
+          ""
+        ],
+        [
+          "Syncronaut",
+          "Area bond breaker – ranged attack\nLasts for 240 frames (16 in-game seconds)\nCooldown: 80 frames (5.3 in-game seconds)\nRange: 10",
+          ""
+        ],
+        [
+          "Zorbtrotter",
+          "Personal windflow manipulator\nGround attack: 100\nCooldown: 55 frames\nRange: 8\nConstantly damages the target",
+          ""
+        ],
+        [
+          "Zorbfloater",
+          "Personal windflow manipulator\nCooldown: 100 frames\nRange: 8\nCan lift all tier 1 and 2 units and part of tier 3 units\nThe lifted units can be attacked by most anti-air weapons",
+          ""
+        ],
+        [
+          "Fin",
+          "Auto sniper rifle - with longer cooldown\nGround attack: 300\nCooldown: 10 frames\nRange: 8.5",
+          ""
+        ],
+        [
+          "Alize",
+          "Blast rifle\nGround attack: 500\nCooldown: 150\nRange: 8.5",
+          ""
+        ],
+        [
+          "Eureka",
+          "Plasma wave\nGround attack: 90\nCooldown: 320\nRange: 9.5, minimum 2.5 / 12.5（the farest attack range of the waves) / 1.5 (radius of each plasma explosion)\nOne unit in a single grid can be affected by multiple plasma explosions",
+          ""
+        ],
+        [
+          "Giantsbane",
+          "Golden Rocket launchers\nGround attack: 50*2\nAir attack: 50*2\nCooldown: 140\nRange: 9.5",
+          ""
+        ],
+        [
+          "Godsbane",
+          "Nanofiber threads\nGround attack: 45*4\nCooldown: 75\nRange: 10.5\nAttack twice, the thread for each launch will splits into two, and the second thread that splits out has a 65% probability of hitting the original target",
+          ""
+        ],
+        [
+          "Scourge",
+          "Custom EMP rods\nGround attack: 30*2\nCooldown: 25\nRange: 7.5, minimum 2 / 0.25 (offset range) / 0.8 (explosion radius)",
+          ""
+        ],
+        [
+          "Repulsor",
+          "AG charge\nGround attack: 180\nCooldown: 140\nTake 300 frames to detonate\nRange: 5\nToss AG charge at target vehicles",
+          ""
+        ]
+      ]
+    }
+  ]
+}

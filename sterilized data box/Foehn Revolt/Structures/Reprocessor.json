@@ -1,0 +1,64 @@
+{
+  "unit_name": "Reprocessor",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": "Economy support",
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": "1300",
+    "Armor type": "Heavy Structure",
+    "Sight radius": "5",
+    "Cost": "$3000",
+    "Estimated build time": "2:13",
+    "Build time multiplier(s)": "1.25 (all structures)",
+    "Built by": "Foehn Construction Yard",
+    "Requires": [
+      "Cyberkernel Expansion",
+      "Cloud Piercer Expansion",
+      "Nanofiber Loom Expansion"
+    ],
+    "Placement radius": "2",
+    "Power": "-200",
+    "Allows": [
+      "Ultimate Alliance:",
+      "Phantasm MLRS",
+      "Seitaad Ballista",
+      "Archelon",
+      "Ramwagon"
+    ],
+    "Ability": [
+      "Gives the owner money worth 20% the value of any enemy unit/structure they killed/destroyed (except by defenses)",
+      "Generates $20 every 100 frames (6.7 in-game seconds) like aTech Oil Derrick",
+      "Devourer"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Cannot be captured",
+      "Can be infiltrated to reveal how much money the owner has"
+    ],
+    "Select sound": "Modified from theShredder Turret(Tiberium Wars)",
+    "Artist(s)": "Nooze (cameo and building artwork)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/d/d3/Repricon.png/revision/latest",
+  "icon_filename": "Repricon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Offensive PowerCost: $1000Recharge Time: 6:30Launches a projectile of nanites in a designated areaKilled infantry turn into nanocloudsNanoclouds heal friendly Foehn infantryStrong vs. InfantryLeft-click icon then left-click on target location"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "unit_name": "Satellite Scan",
+  "infobox_data": {
+    "Affiliation": "Allied Nations",
+    "Cost": "Free",
+    "Cooldown": "4:00",
+    "Called from": "Air Force Command Headquarters",
+    "Effect": "Removes shroud in a radius of 12",
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/9/98/Ssaticon.png/revision/latest",
+  "icon_filename": "Ssaticon.png"
+}

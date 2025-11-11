@@ -1,0 +1,35 @@
+{
+  "unit_name": "Knightfall Beacon",
+  "infobox_data": {
+    "Faction": "Wings of Coronia",
+    "Role": "Rapid infantry deployment",
+    "Tier": "3",
+    "Hit points": "1200",
+    "Armor type": "Defensive Structure",
+    "Sight radius": "5",
+    "Cost": [
+      "$4000 (Knightfall)",
+      "$1400(Knightfall Beacon)"
+    ],
+    "Recharge time": "6:30",
+    "Deployed by": "Knightfall Protocol",
+    "Ability": [
+      "Summons 5 waves of 3 drop pods containingKnightframesand/orLancersevery 225 frames (15 in-game seconds) in a radius of 12 around the Knightfall Beacon",
+      "Each dropped unit is chosen at random",
+      "Knightfall will be stopped if the beacon is destroyed while active"
+    ],
+    "Notes": [
+      "Loses 1 hit point every frame (0.07 in-game seconds)",
+      "Cannot be captured and repaired",
+      "Can only be deployed in a radius of 20 aroundFoehn Barrackswith aKnightfall Protocoladd-on"
+    ],
+    "Artist(s)": "Nooze",
+    "_section_Support Power Structure": true,
+    "_section_Properties": true,
+    "_section_Deployment": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/d/dd/Kfalicon.png/revision/latest",
+  "icon_filename": "Kfalicon.png"
+}

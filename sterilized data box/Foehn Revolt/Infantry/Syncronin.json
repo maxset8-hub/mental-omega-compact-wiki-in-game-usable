@@ -1,0 +1,41 @@
+{
+  "unit_name": "Syncronin",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": "Structure debuffer",
+    "Armament": "Bond breaker",
+    "Tier": "2",
+    "Tech level": "8",
+    "Hit points": "220",
+    "Armor type": "Flak",
+    "Speed": "8",
+    "Sight radius": "9",
+    "Cost": "$950",
+    "Estimated train time": "0:22",
+    "Train time multiplier(s)": "0.65 (all infantry)",
+    "Trained at": "Foehn Barracks",
+    "Requires": [
+      "Netrunner Protocol",
+      "Cyberkernel"
+    ],
+    "Ground": "0(dummy)",
+    "Cooldown": "80 frames (5.3 in-game seconds)",
+    "Range": "11.5",
+    "Upgrades to": "Syncronaut",
+    "Ability": "Weapon reduces enemy structures' armor by 20% for 85 frames (5.7 in-game seconds); stackable",
+    "Notes": "Unaffected by firepower buffs/debuffs",
+    "Artist(s)": [
+      "Nolt (SHP)",
+      "Nooze (cameo)"
+    ],
+    "Voice actor": "Falloutman",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/8/8f/Sronicon.png/revision/latest",
+  "icon_filename": "Sronicon.png"
+}

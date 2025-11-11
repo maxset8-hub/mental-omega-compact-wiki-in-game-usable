@@ -1,0 +1,18 @@
+{
+  "unit_name": "Mercury Strike",
+  "infobox_data": {
+    "Affiliation": "United States",
+    "Cost": "$800",
+    "Cooldown": "6:00",
+    "Called from": "Mercury Network Uplink",
+    "Effect": [
+      "Fire a laser beam from the Mercury satellite that causes150-22.5damage in a radius of 4The Mercury Strike has an impact delay of 100 frames (6.7 in-game seconds)Effective against infantry and vehicles",
+      "The Mercury Strike has an impact delay of 100 frames (6.7 in-game seconds)",
+      "Effective against infantry and vehicles",
+      "Increases the firepower ofAthena Cannonsin a radius of 18 by 25% for 300 frames (20 in-game seconds) after the Mercury Strike impacts"
+    ],
+    "_section_Support Power": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/9/9a/Mercicon.png/revision/latest",
+  "icon_filename": "Mercicon.png"
+}

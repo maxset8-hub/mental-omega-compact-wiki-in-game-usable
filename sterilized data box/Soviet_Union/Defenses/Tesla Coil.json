@@ -1,0 +1,73 @@
+{
+  "unit_name": "Tesla Coil",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": "Advanced defense",
+    "Armament": "Tesla Electric Bolt",
+    "Tier": "2",
+    "Tech level": "6",
+    "Hit points": "850",
+    "Armor type": "Defensive Structure",
+    "Sight radius": "8",
+    "Cost": [
+      "$1200",
+      "$1500 inInfantry Only"
+    ],
+    "Estimated build time": [
+      "0:50",
+      "1:05 inInfantry Only"
+    ],
+    "Build time multiplier(s)": [
+      "1.2 (all defenses)",
+      "0.9 (multiple Construction Yards)"
+    ],
+    "Built by": "Soviet Construction Yard",
+    "Requires": "Radar Dish",
+    "Placement radius": "5",
+    "Ground attack": "200",
+    "Ground attack modifiers": [
+      "Main attack:",
+      "200% vs. Drone",
+      "120% vs. Basic/Animal",
+      "110% vs. Flak",
+      "100% vs. Plate/Cyborg, Medium/Harvester and Heavy",
+      "85% vs. Light",
+      "25% vs. all structure armor types",
+      "Elite tesla fragment:",
+      "200% vs. Drone",
+      "100% vs. Basic/Animal, Flak, Medium/Harvester and Heavy",
+      "85% vs. Light",
+      "80% vs. Plate/Cyborg",
+      "15% vs. all structure armor types"
+    ],
+    "Cooldown": "110 frames (7.3 in-game seconds)",
+    "Attack range": "8, radius 0.3",
+    "Power": "-75",
+    "Ability": [
+      "Can be charged byTesla orShock Troopers",
+      "1 Tesla/Shock Trooper increases the Tesla Coil's firepower by 50% and rate of fire by 100%, and adds an EMP effect to its attacks that disables units vulnerable to EMP for 6 frames (0.2 in-game seconds)",
+      "2 Tesla/Shock Troopers make the Tesla Coil remain online in low power",
+      "3 Tesla/Shock Troopers make the Tesla Coil use its charged attack in low power"
+    ],
+    "Upgraded bonus": "+40% armor",
+    "Fully upgraded bonus": [
+      "+40% firepower",
+      "Weapon arcs to 2 additional targets in a radius of 3 around the main target, causing 30 damage to each",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can gain experience",
+      "Affected byOvercharge",
+      "Takes 50% more damage fromLightning Storm"
+    ],
+    "Artist(s)": "Bu7loos",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/6/6f/Tslaicon.png/revision/latest",
+  "icon_filename": "Tslaicon.png"
+}

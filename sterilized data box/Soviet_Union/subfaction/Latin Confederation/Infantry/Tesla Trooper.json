@@ -1,0 +1,67 @@
+{
+  "unit_name": "Tesla Trooper",
+  "infobox_data": {
+    "Faction": "Latin ConfederationChinaRussia(campaign only)",
+    "Role": "Anti-armor",
+    "Armament": "Miniaturized Tesla coil Mk1",
+    "Tier": "2",
+    "Tech level": "5",
+    "Hit points": "270",
+    "Armor type": "Plate",
+    "Speed": "6",
+    "Sight radius": "7",
+    "Cost": "$450",
+    "Estimated train time": "0:07",
+    "Train time multiplier(s)": "0.65",
+    "Trained at": "Soviet Barracks",
+    "Requires": "Field Bureau",
+    "Ground": [
+      "65",
+      "30 (elite weapon shrapnels)"
+    ],
+    "Ground modifiers": [
+      "Main attack:",
+      "250% vs. Drone",
+      "100% vs. all vehicle armor types",
+      "80% vs. Basic/Animal and Flak",
+      "70% vs. Plate/Cyborg",
+      "50% vs. (Big) Light Structure and (Big) Heavy Structure",
+      "35% vs. ((Very) Big) Defensive Structure",
+      "Elite weapon shrapnels:",
+      "200% vs. Drone",
+      "100% vs.  Basic/Animal, Flak, Medium/Harvester and Heavy",
+      "85% vs. Light",
+      "80% vs. Plate/Cyborg",
+      "15% vs. all structure armor types"
+    ],
+    "Cooldown": "100 frames (6.7 in-game seconds)",
+    "Range": "5, radius 0.33, radius 0.3 (elite weapon shrapnels)",
+    "Ability": [
+      "Detects cloaked/submerged enemies (range 7)",
+      "Can charge aTesla Coilon a range of 2.31 Tesla Trooper increases the Tesla Coil's firepower by 50% and rate of fire by 83%, adds an EMP effect to its attacks that disables units vulnerable to EMP for 6 frames (0.2 in-game seconds)2 Tesla Troopers make the Tesla Coil remain online in low power3 Tesla Troopers make the Tesla Coil use its charged attack in low power",
+      "1 Tesla Trooper increases the Tesla Coil's firepower by 50% and rate of fire by 83%, adds an EMP effect to its attacks that disables units vulnerable to EMP for 6 frames (0.2 in-game seconds)",
+      "2 Tesla Troopers make the Tesla Coil remain online in low power",
+      "3 Tesla Troopers make the Tesla Coil use its charged attack in low power"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing",
+      "Attack prisms to at most 2 targets"
+    ],
+    "Notes": [
+      "Cannot be crushed by normal vehicles",
+      "Cannot be attacked byAttack DogsandSpooks",
+      "Affected byOvercharge",
+      "Vulnerable to magnetic weapons"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/1/18/Shkicon.png/revision/latest",
+  "icon_filename": "Shkicon.png"
+}

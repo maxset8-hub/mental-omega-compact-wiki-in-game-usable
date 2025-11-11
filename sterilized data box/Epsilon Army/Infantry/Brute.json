@@ -1,0 +1,53 @@
+{
+  "unit_name": "Brute",
+  "infobox_data": {
+    "Faction": "Epsilon Army",
+    "Role": "Close-range combat",
+    "Armament": "Bare fists",
+    "Tier": "1",
+    "Tech level": "5",
+    "Hit points": [
+      "365",
+      "600 inEarthrise"
+    ],
+    "Armor type": "Flak",
+    "Speed": "7",
+    "Sight radius": "5",
+    "Cost": "$500",
+    "Estimated train time": "0:11",
+    "Train time multiplier(s)": "0.65 (all infantry)",
+    "Trained at": "Epsilon Barracks",
+    "Requires": "Synthesis Vault",
+    "Ground": "85",
+    "Ground modifiers": [
+      "200% vs. Drone",
+      "100% vs. all vehicle armor types",
+      "75% vs. Basic/Animal and Flak",
+      "65% vs. Plate/Cyborg",
+      "35% vs.Riot Trooper",
+      "30% vs. (Big) Light Structure and ((Very) Big) Defensive Structure",
+      "20% vs. (Big) Heavy Structure"
+    ],
+    "Cooldown": "50 (3.3 in-game seconds)",
+    "Range": "1.5",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Self-healing",
+      "Uncrushable by normal vehicles",
+      "Cannot be attacked byAttack DogsandSpooks",
+      "Immune to amnesia rays",
+      "Cannot be mind-controlled"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/9/93/Bruticon.png/revision/latest",
+  "icon_filename": "Bruticon.png"
+}

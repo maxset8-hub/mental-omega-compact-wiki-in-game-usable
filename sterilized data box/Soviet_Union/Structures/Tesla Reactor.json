@@ -1,0 +1,34 @@
+{
+  "unit_name": "Tesla Reactor",
+  "infobox_data": {
+    "Faction": "Soviet Union",
+    "Role": "Power production",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "750",
+    "Armor type": "Light Structure",
+    "Sight radius": "4",
+    "Cost": "$600",
+    "Estimated build time": "0:25",
+    "Build time multiplier(s)": "1.25 (all structures)",
+    "Built by": "Soviet Construction Yard",
+    "Placement radius": "3",
+    "Power": "+150",
+    "Allows": [
+      "Provided along withSoviet Ore Refinery:",
+      "Soviet War Factory",
+      "Soviet Naval Shipyard",
+      "Radar Dish",
+      "Airbase"
+    ],
+    "Notes": "Can be infiltrated to shut down the owner's power for 1:30",
+    "Select sound": "From theNod's Power Plant(Tiberium Wars)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/6/69/Npwricon.png/revision/latest",
+  "icon_filename": "Npwricon.png"
+}

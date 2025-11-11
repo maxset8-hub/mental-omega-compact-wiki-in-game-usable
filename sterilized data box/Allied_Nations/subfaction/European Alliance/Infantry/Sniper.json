@@ -1,0 +1,49 @@
+{
+  "unit_name": "Sniper",
+  "infobox_data": {
+    "Faction": "European Alliance",
+    "Role": "Long-range anti-infantry",
+    "Armament": "AWP sniper rifle",
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": "145",
+    "Armor type": "Flak",
+    "Speed": "5",
+    "Sight radius": "8",
+    "Cost": "$650",
+    "Estimated train time": "0:14",
+    "Train time multiplier(s)": "0.65",
+    "Trained at": "Allied Barracks",
+    "Requires": [
+      "Shield Command",
+      "Tech Center"
+    ],
+    "Ground": "135",
+    "Ground modifiers": [
+      "220% vs. Basic/Animal",
+      "160% vs. Flak",
+      "110% vs. Plate/Cyborg",
+      "75% vs. Drone"
+    ],
+    "Cooldown": "180 frames (12 in-game seconds); 150 frames (10 in-game seconds) when deployed",
+    "Range": "11; 12 when deployed",
+    "Ability": "Deploy to increase rate of fire by 20% and range by 1",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-healing"
+    ],
+    "Notes": [
+      "Does not reveal position when attacking",
+      "Cannot fire fromopentopped transports"
+    ],
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/8/8c/Snipicon.png/revision/latest",
+  "icon_filename": "Snipicon.png"
+}

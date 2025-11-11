@@ -1,0 +1,62 @@
+{
+  "unit_name": "Blast Furnace",
+  "infobox_data": {
+    "Faction": "Foehn Revolt",
+    "Role": "Support superweapon",
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": "1150",
+    "Armor type": "Big Heavy Structure",
+    "Sight radius": "5",
+    "Cost": "$3000",
+    "Estimated build time": "2:13",
+    "Build time multiplier(s)": "1.25 (all structures)",
+    "Built by": "Foehn Construction Yard",
+    "Requires": [
+      "Cyberkernel Expansion",
+      "Cloud Piercer Expansion",
+      "Nanofiber Loom Expansion"
+    ],
+    "Placement radius": "2",
+    "Power": "-200",
+    "Ability": [
+      "Blasticade",
+      "Golden Wind(requiresSpinblade)"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Cannot be captured",
+      "Can be infiltrated to reset the superweapon's timer"
+    ],
+    "Artist(s)": [
+      "Nooze (SHP and cameo)",
+      "4SG (SHP)"
+    ],
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/b/b5/Blsticon.png/revision/latest",
+  "icon_filename": "Blsticon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Support SuperweaponCost: FreeRecharge Time: 4:00All Blast Trenches release steam, forming an impenetrable barrier that lasts 120 secondsAircraft and subterranean units are destroyed when passing throughCountdown is reset when base is on low power while operationalEpic units are unaffectedLeft-click icon to activate"
+        ],
+        [
+          "",
+          "Type: Defensive PowerCost: $800Recharge Time: 5:00Requires: SpinbladeAll owned Spinblades release steam that increases armor of ground and naval units by 30% around themLeft-click icon to activate"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "unit_name": "Cyclops Walker",
+  "infobox_data": {
+    "Faction": "Haihead",
+    "Role": "Anti-armor",
+    "Armament": "110mm cannon",
+    "Tier": "1",
+    "Tech level": "2",
+    "Hit points": "450",
+    "Armor type": "Medium",
+    "Speed": "6",
+    "Turn rate": [
+      "8 (unit)",
+      "10 (turret)"
+    ],
+    "Sight radius": "6",
+    "Cost": "$800",
+    "Estimated build time": "0:29",
+    "Built at": "Foehn War Factory",
+    "Ground": "25-12.5",
+    "Ground modifiers": [
+      "100% vs. Light",
+      "90% vs. Medium/Harvester",
+      "80% vs. Heavy, Dolphin, Giant Squid",
+      "55% vs. Heavy Structure and Light Structure",
+      "30% vs. Drone and Defensive Structure",
+      "25% vs. Cyborg andFoehninfantry",
+      "20% vs. all infantry armor types andTech Concrete Fortresses",
+      "10% vs.Archelons"
+    ],
+    "Cooldown": "18 frames (1.2 in-game seconds)",
+    "Range": "7, radius 0.3",
+    "Ability": [
+      "Receives a 100% firepower buff when attacking targets at a range of 3.5",
+      "The buff takes 25 frames (1.7 in-game seconds) to apply and lingers for 30 frames (2 in-game seconds)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Can fire while moving",
+      "Can crush infantry",
+      "Takes 3 slots in transports"
+    ],
+    "Artist(s)": [
+      "Holy_Master (voxel)",
+      "Nooze (cameo)"
+    ],
+    "Voice actor": "Falloutman",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/5/5b/Ccloicon.png/revision/latest",
+  "icon_filename": "Ccloicon.png"
+}

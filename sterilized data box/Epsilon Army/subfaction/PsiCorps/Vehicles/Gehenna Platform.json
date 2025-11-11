@@ -1,0 +1,73 @@
+{
+  "unit_name": "Gehenna Platform",
+  "infobox_data": {
+    "Faction": "PsiCorps",
+    "Role": "Anti-air",
+    "Armament": [
+      "Dybbuk-Interceptor",
+      "Miniature \"Antares\" pyrokinetic beam inEarthrise[note 1]"
+    ],
+    "Tier": "3",
+    "Tech level": "9",
+    "Hit points": [
+      "540 (Gehenna Platform)",
+      "250 (Dybbuk-Interceptor)"
+    ],
+    "Armor type": [
+      "Medium (Gehenna Platform)",
+      "Light Aircraft (Dybbuk-Interceptor)"
+    ],
+    "Speed": [
+      "4 (Gehenna Platform)",
+      "40 (jet) (Dybbuk-Interceptor)"
+    ],
+    "Turn rate": [
+      "4 (Gehenna Platform)",
+      "6 (Dybbuk-Interceptor)"
+    ],
+    "Sight radius": "6 (Gehenna Platform)",
+    "Cost": "$1500",
+    "Estimated build time": "0:54",
+    "Build time multiplier(s)": "0.9 (multiple factory)",
+    "Built at": "Epsilon War Factory",
+    "Requires": "Psychplug",
+    "Air": [
+      "0(dummy)(Gehenna Platform)",
+      "28-14 * 2 (56-28 total) (Dybbuk-Interceptor)"
+    ],
+    "Air modifiers": [
+      "100% vs. Light Aircraft",
+      "90% vs. Medium Aircraft,Thor GunshipsandAerial Fortresses Irkalla",
+      "80% vs. Heavy Aircraft",
+      "75% vs.Rocketeers,Gyrocopters,Cosmonauts,NeonwaspsandScout Ravens",
+      "50% vs.NorioandUragan"
+    ],
+    "Cooldown": "3 frames (0.2 in-game seconds) (Dybbuk-Interceptor)",
+    "Range": [
+      "18 (Gehenna Platform)",
+      "10, minimum 1, radius 0.3 (Dybbuk-Interceptor)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower (Dybbuk-Interceptor)",
+      "+25% speed",
+      "Self-repair"
+    ],
+    "Notes": [
+      "Gains 75% of the experience earned by the Dybbuk-Interceptor",
+      "The Dybbuk-Interceptor takes 240 frames (16 in-game seconds) to reload once it runs out of ammo",
+      "Destroyed Dybbuk-Interceptors are automatically replaced after 400 frames (26.7 in-game seconds)",
+      "Cannot be depiloted",
+      "Takes 6 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/4/4b/Gehnicon.png/revision/latest",
+  "icon_filename": "Gehnicon.png"
+}

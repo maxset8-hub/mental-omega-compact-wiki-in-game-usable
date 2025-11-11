@@ -1,0 +1,95 @@
+{
+  "unit_name": "Palace",
+  "infobox_data": {
+    "Faction": "Russia",
+    "Role": "High tech access",
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": "1500",
+    "Armor type": "Light Structure",
+    "Sight radius": "6",
+    "Cost": [
+      "$5000",
+      "$3000 inInfantry Only",
+      "$2500 inTech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Estimated build time": [
+      "2:35",
+      "1:34 inInfantry Only",
+      "1:16 inUnholy AllianceandUltimate Alliance"
+    ],
+    "Build time multiplier(s)": [
+      "1.25 (all buildings)",
+      "0.7 (individual)"
+    ],
+    "Built by": "Soviet Construction Yard",
+    "Requires": "Radar Dish",
+    "Placement radius": "2",
+    "Power": [
+      "-300",
+      "-200 inInfantry Only,Tech Share,Unholy AllianceandUltimate Alliance"
+    ],
+    "Allows": [
+      "Repair Crane",
+      "Industrial Plant",
+      "Iron Curtain Device",
+      "Tactical Nuke Silo",
+      "Hammer Defense",
+      "Desolator",
+      "Chitzkoi",
+      "Volkov",
+      "Tesla Cruiser",
+      "Scud Launcher",
+      "Stalin's Fist",
+      "Grumble",
+      "Apocalypse Tank",
+      "Syckle",
+      "Iron Dragon",
+      "Wolfhound",
+      "Kirov Airship",
+      "Akula Missile Sub"
+    ],
+    "Ability": [
+      "Elite Reserves",
+      "Overcharge",
+      "Tank Drop",
+      "Terror Drop"
+    ],
+    "Notes": "Can be infiltrated to unlockstolen tech units",
+    "Select sound": "From theAmerican Command Center(Generals)",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/b/bc/Ntchicon.png/revision/latest",
+  "icon_filename": "Ntchicon.png",
+  "article_tables": [
+    {
+      "title": "Overview",
+      "headers": [
+        "Support power",
+        "Description"
+      ],
+      "rows": [
+        [
+          "",
+          "Type: Utility PowerCost: $1500Recharge Time: 8:00All Tier 1 Soviet units, War Miners, Demolition Trucks, and Mosquito Demoboats are trained/produced as elite for 90 secondsLeft-click to activate"
+        ],
+        [
+          "",
+          "Type: Reinforcement PowerCost: $2400Recharge Time: 6:30Deploys 2 Tank Killers and 2 Hydra Cannons to the battlefieldTank Killers are strong vs. ArmorHydra Cannons are strong vs. InfantryLeft-click icon then left-click on target location (cannot be targeted on water)"
+        ],
+        [
+          "",
+          "Type: Reinforcement PowerCost: $1100Recharge Time: 5:00Rapidly deploys 2 Terror Drones to the battlefield.Left-click icon then left-click on target location (cannot be targeted on water)"
+        ],
+        [
+          "",
+          "Type: Offensive PowerCost: $800Recharge Time: 5:00Increases the firepower of friendly Tesla weapons by 50% for 24 secondsLeft-click icon then left-click on target location"
+        ]
+      ]
+    }
+  ]
+}

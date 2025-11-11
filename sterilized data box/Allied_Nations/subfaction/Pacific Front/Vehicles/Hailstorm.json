@@ -1,0 +1,85 @@
+{
+  "unit_name": "Hailstorm",
+  "infobox_data": {
+    "Faction": "Pacific Front",
+    "Role": "Siege",
+    "Armament": "Hailjet with \"Endless Hail\" cryogenic missiles",
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": [
+      "650 (Hailstorm)",
+      "200 (Hailjet)"
+    ],
+    "Armor type": [
+      "Medium (Hailstorm)",
+      "Light Aircraft (Hailjet)"
+    ],
+    "Speed": [
+      "4 (Hailstorm)",
+      "21 (jet) (Hailjet)"
+    ],
+    "Turn rate": [
+      "2 (Hailstorm)",
+      "9 (Hailjet)"
+    ],
+    "Sight radius": "6 (Hailstorm)",
+    "Cost": "$1700",
+    "Estimated build time": "1:01",
+    "Build time multiplier(s)": "0.9 (multiple factory)",
+    "Built at": "Allied War Factory",
+    "Requires": [
+      "Robot Ops Control Center",
+      "Tech Center"
+    ],
+    "Ground": [
+      "0(dummy)(Hailstorm)",
+      "30 * 2 (60 total) (Hailjet)"
+    ],
+    "Ground modifiers": [
+      "90% vs. Light Structure,Tech Concrete Bunkers,Battle Bunkersand Very Big Defensive Structure",
+      "85% vs. Big Defensive Structure and Heavy Structure",
+      "80% vs. Basic/Animal",
+      "70% vs. Flak and Very Big Defensive Structure",
+      "65% vs. Big Light Structure and Big Heavy Structure",
+      "55% vs. Drone",
+      "40% vs. Plate/Cyborg",
+      "45% vs.Tech Concrete Fortresses",
+      "35% vs. Light",
+      "30% vs. Medium/Harvester",
+      "25% vs. Heavy"
+    ],
+    "Cooldown": "1 frame (0.07 in-game seconds) (Hailjet)",
+    "Range": [
+      "20 (Hailstorm)",
+      "10 (Hailjet)"
+    ],
+    "Ability": "The Hailjet's hail cannon hits 6 cells around the point of impact",
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower (Hailjet)",
+      "+25% speed",
+      "Self-repair (Hailjet)"
+    ],
+    "Notes": [
+      "Self-repair",
+      "Can crush infantry",
+      "Uncrushable",
+      "Cannot be depiloted",
+      "Unaffected by firepower buffs/debuffs",
+      "Gains 75% of the experience earned by the Hailjet",
+      "The Hailjet has 2 ammunition and takes 300 frames (20 in-game seconds) to reload once it returns to the Hailstorm",
+      "Destroyed Hailjets are automatically replaced after 450 frames (30 in-game seconds)",
+      "Takes 6 slots in transports"
+    ],
+    "Artist(s)": "Azri_Apoc",
+    "Voice actor": "Colonel Magus",
+    "_section_Unit": true,
+    "_section_Properties": true,
+    "_section_Production": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/6/67/Hailicon.png/revision/latest",
+  "icon_filename": "Hailicon.png"
+}

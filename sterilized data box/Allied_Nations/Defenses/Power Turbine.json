@@ -1,0 +1,23 @@
+{
+  "unit_name": "Power Turbine",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Parent building": "Power Plant",
+    "Tier": "2",
+    "Tech level": "7",
+    "Cost": "$200",
+    "Estimated build time": "0:07",
+    "Build time multiplier(s)": [
+      "1.2x (all defenses)",
+      "1.5x (individual)"
+    ],
+    "Built by": "Allied Construction Yard",
+    "Requires": "Air Force Command HeadquartersArsenal Depot",
+    "Power": "+150",
+    "_section_Add-on": true,
+    "_section_Construction": true,
+    "_section_Function": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/d/df/Ptrbicon.png/revision/latest",
+  "icon_filename": "Ptrbicon.png"
+}

@@ -1,0 +1,40 @@
+{
+  "unit_name": "Gap Generator",
+  "infobox_data": {
+    "Faction": "Allied Nations",
+    "Role": "Base camouflage",
+    "Tier": "3",
+    "Tech level": "8",
+    "Hit points": "700",
+    "Armor type": "Defensive Structure",
+    "Sight radius": "5",
+    "Cost": "$1500",
+    "Estimated build time": "1:08",
+    "Build time multiplier(s)": [
+      "1.2 (all defenses)",
+      "1.1 (individual)",
+      "0.9 (multiple Construction Yards)"
+    ],
+    "Built by": "Allied Construction Yard",
+    "Requires": [
+      "Mercury Network Uplink",
+      "Shield Command",
+      "Robot Ops Control Center",
+      "Tech Center"
+    ],
+    "Placement radius": "2",
+    "Power": "-200",
+    "Ability": [
+      "Shrouds a radius of 8 around the Gap Generator",
+      "Has no effect on the AI"
+    ],
+    "Artist(s)": "MadHQ",
+    "_section_Structure": true,
+    "_section_Properties": true,
+    "_section_Construction": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/6/64/Gapicon.png/revision/latest",
+  "icon_filename": "Gapicon.png"
+}

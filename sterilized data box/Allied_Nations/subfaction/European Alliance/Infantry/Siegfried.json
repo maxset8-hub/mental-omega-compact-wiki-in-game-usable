@@ -1,0 +1,88 @@
+{
+  "unit_name": "Siegfried",
+  "infobox_data": {
+    "Faction": "Euro Alliance",
+    "Role": [
+      "Siege",
+      "Unit support"
+    ],
+    "Armament": [
+      "\"Zeitgeist\" cannon",
+      "Chrono freeze"
+    ],
+    "Tier": "3",
+    "Tech level": "10",
+    "Hit points": [
+      "430",
+      "700 inInsomniaandConvergence",
+      "800 inHamartia"
+    ],
+    "Armor type": "Plate",
+    "Speed": [
+      "6",
+      "5 in Skirmishes",
+      "7 inConvergence",
+      "8 inHamartia"
+    ],
+    "Sight radius": "10",
+    "Cost": "$1500",
+    "Estimated train time": "1:08",
+    "Train time multiplier(s)": [
+      "0.65 (all infantry)",
+      "2 (all heroes)",
+      "1.0 (multiple factory)"
+    ],
+    "Trained at": "Allied Barracks",
+    "Requires": [
+      "Shield Command",
+      "Tech Center"
+    ],
+    "Ground": "100-20",
+    "Ground modifiers": [
+      "100% vs. Light, Medium/Harvester and Drone",
+      "90% vs. Heavy",
+      "70% vs. ((Very) Big) Defensive Structure",
+      "30% vs. (Big) Light Structure and (Big) Heavy Structure",
+      "25% vs. Basic/Animal and Flak",
+      "20% vs. Plate/Cyborg"
+    ],
+    "Cooldown": [
+      "210 frames (14 in-game seconds)",
+      "120 frames (8 in-game seconds) inConvergenceandHamartia"
+    ],
+    "Range": "12, minimum 3, radius 2",
+    "Ability": [
+      "Weapon reduces units' speed by 50% for 60 frames (4 in-game seconds)",
+      "Deploy to use Chrono freeze which makes friendly units in a radius of 3.5 around Siegfried invulnerable but become disabled for 240 frames (16 in-game seconds)Has a cooldown of 360 frames (24 in-game seconds)",
+      "Has a cooldown of 360 frames (24 in-game seconds)",
+      "Detects cloaked/submerged enemies (range 9)"
+    ],
+    "Veteran bonus": "+40% armor",
+    "Elite bonus": [
+      "+40% firepower",
+      "+25% speed"
+    ],
+    "Notes": [
+      "Limited to one for each player",
+      "Build time is unaffected by multiple Barracks",
+      "Self-healing",
+      "Uncrushable",
+      "Cannot be attacked byChrono LegionnairesandCharon Tanks",
+      "Cannot be mind-controlled and abducted",
+      "Immune to confusion rays",
+      "Vulnerable to EMP and magnetic weapons",
+      "Cannot fire fromopentopped transports",
+      "Take 2 slots in transports"
+    ],
+    "Artist(s)": "ImP_RuLz",
+    "Voice actor": "SenatorJohnDean",
+    "_section_Hero": true,
+    "_section_Properties": true,
+    "_section_Training": true,
+    "_section_Combat": true,
+    "_section_Function": true,
+    "_section_Miscellaneous": true
+  },
+  "icon_url": "https://static.wikia.nocookie.net/moapyr/images/c/c0/Siegicon.png/revision/latest",
+  "icon_filename": "Siegicon.png"
+}
