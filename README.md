@@ -18,3 +18,6 @@ mental omega compact wiki overlay
 in-game picture, on top layout
 
 <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/2969920c-71c6-4163-9def-1ab45e723955" />
+
+
+collapse to very small rectangle <img width="193" height="24" alt="image" src="https://github.com/user-attachments/assets/05b347c8-8945-4312-a3fc-21fcf7135be5" />
